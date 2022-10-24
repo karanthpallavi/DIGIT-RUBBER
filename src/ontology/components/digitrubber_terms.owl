@@ -1726,7 +1726,7 @@ AnnotationAssertion(rdfs:label obo:DIGITRUBBER_000147 "building [allotrope]"@en)
 AnnotationAssertion(rdfs:label obo:DIGITRUBBER_000147 "gebäude"@de)
 SubClassOf(obo:DIGITRUBBER_000147 obo:BFO_0000040)
 
-# Class: obo:DIGITRUBBER_000148 (building [ncit])
+# Class: obo:DIGITRUBBER_000148 (gebäude)
 
 AnnotationAssertion(obo:IAO_0000115 obo:DIGITRUBBER_000148 "A structure that has a roof and walls and stands more or less permanently in one place."^^xsd:string)
 AnnotationAssertion(obo:IAO_0000119 obo:DIGITRUBBER_000148 "http://purl.obolibrary.org/obo/NCIT_C80231"^^xsd:string)
@@ -2852,7 +2852,7 @@ AnnotationAssertion(rdfs:label obo:DIGITRUBBER_000309 "Activator [dik]"@en)
 AnnotationAssertion(rdfs:label obo:DIGITRUBBER_000309 "Aktivator [dik]"@de)
 SubClassOf(obo:DIGITRUBBER_000309 obo:BFO_0000040)
 
-# Class: obo:DIGITRUBBER_000310 (Aktivator [ncit])
+# Class: obo:DIGITRUBBER_000310 (Activator [ncit])
 
 AnnotationAssertion(obo:IAO_0000115 obo:DIGITRUBBER_000310 "A class of substances that binds to, activates and increases the activity of a target."^^xsd:string)
 AnnotationAssertion(obo:IAO_0000119 obo:DIGITRUBBER_000310 "http://purl.obolibrary.org/obo/ncit.owl"^^xsd:string)
@@ -3300,7 +3300,7 @@ AnnotationAssertion(rdfs:label obo:DIGITRUBBER_000373 "Mastication [dik]"@en)
 AnnotationAssertion(rdfs:label obo:DIGITRUBBER_000373 "Mastikation [dik]"@de)
 SubClassOf(obo:DIGITRUBBER_000373 obo:BFO_0000015)
 
-# Class: obo:DIGITRUBBER_000374 (Mastication [ncit])
+# Class: obo:DIGITRUBBER_000374 (Mastikation [ncit])
 
 AnnotationAssertion(obo:IAO_0000115 obo:DIGITRUBBER_000374 "The process by which food is torn or crushed by the teeth."^^xsd:string)
 AnnotationAssertion(obo:IAO_0000119 obo:DIGITRUBBER_000374 "http://purl.obolibrary.org/obo/ncit.owl"^^xsd:string)
@@ -3309,7 +3309,7 @@ AnnotationAssertion(rdfs:label obo:DIGITRUBBER_000374 "Mastication [ncit]"@en)
 AnnotationAssertion(rdfs:label obo:DIGITRUBBER_000374 "Mastikation [ncit]"@de)
 SubClassOf(obo:DIGITRUBBER_000374 obo:BFO_0000015)
 
-# Class: obo:DIGITRUBBER_000375 (Mastikation [hp])
+# Class: obo:DIGITRUBBER_000375 (Mastication [hp])
 
 AnnotationAssertion(obo:IAO_0000115 obo:DIGITRUBBER_000375 "The process of biting and mashing food with the teeth prior to swallowing."^^xsd:string)
 AnnotationAssertion(obo:IAO_0000119 obo:DIGITRUBBER_000375 "http://purl.obolibrary.org/obo/hp.owl"^^xsd:string)
@@ -3604,7 +3604,7 @@ AnnotationAssertion(rdfs:label obo:DIGITRUBBER_000416 "Leistung [pato]"@de)
 AnnotationAssertion(rdfs:label obo:DIGITRUBBER_000416 "Power [pato]"@en)
 SubClassOf(obo:DIGITRUBBER_000416 obo:BFO_0000019)
 
-# Class: obo:DIGITRUBBER_000417 (Leistung [om])
+# Class: obo:DIGITRUBBER_000417 (Power [om])
 
 AnnotationAssertion(obo:IAO_0000115 obo:DIGITRUBBER_000417 "Power is the time rate at which work is done. It is a derived quantity in the International System of Units. Power is energy divided by time."^^xsd:string)
 AnnotationAssertion(obo:IAO_0000119 obo:DIGITRUBBER_000417 "http://www.ontology-of-units-of-measure.org/resource/om-2"^^xsd:string)
@@ -4528,7 +4528,7 @@ AnnotationAssertion(rdfs:label obo:DIGITRUBBER_000545 "Function [dik]"@en)
 AnnotationAssertion(rdfs:label obo:DIGITRUBBER_000545 "Funktion [dik]"@de)
 SubClassOf(obo:DIGITRUBBER_000545 obo:BFO_0000141)
 
-# Class: obo:DIGITRUBBER_000546 (Funktion [ncit])
+# Class: obo:DIGITRUBBER_000546 (Function [ncit])
 
 AnnotationAssertion(obo:IAO_0000115 obo:DIGITRUBBER_000546 "The normal action performed by a structure or device."^^xsd:string)
 AnnotationAssertion(obo:IAO_0000119 obo:DIGITRUBBER_000546 "http://purl.obolibrary.org/obo/ncit.owl"^^xsd:string)
