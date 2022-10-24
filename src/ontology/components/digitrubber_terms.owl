@@ -38,14 +38,13 @@ Prefix(CPATH_CONDITION_OCCURRENCE:=<https://w3id.org/cpont/condition_occurrence/
 
 
 Ontology(<http://purl.obolibrary.org/obo/DIGIT-RUBBER/components/digitrubber_terms.owl>
-<http://purl.obolibrary.org/obo/DIGIT-RUBBER/releases/2022-09-28/components/digitrubber_terms.owl>
+<http://purl.obolibrary.org/obo/DIGIT-RUBBER/releases/2022-10-24/components/digitrubber_terms.owl>
 Annotation(rdfs:comment "This component is derived from the 'src/templates/digitrubber_terms.tsv', which is edited manually by domain experts."^^xsd:string)
 
 Declaration(Class(obo:BFO_0000015))
 Declaration(Class(obo:BFO_0000019))
 Declaration(Class(obo:BFO_0000023))
 Declaration(Class(obo:BFO_0000040))
-Declaration(Class(obo:BFO_0000041))
 Declaration(Class(obo:BFO_0000141))
 Declaration(Class(obo:CHEBI_24431))
 Declaration(Class(obo:CHEBI_24433))
@@ -53,6 +52,7 @@ Declaration(Class(obo:CHEBI_28798))
 Declaration(Class(obo:CHEBI_33247))
 Declaration(Class(obo:CHEBI_33471))
 Declaration(Class(obo:CHEBI_35489))
+Declaration(Class(obo:CHEBI_38418))
 Declaration(Class(obo:CHEBI_51422))
 Declaration(Class(obo:CHEBI_51446))
 Declaration(Class(obo:CHEBI_59999))
@@ -214,12 +214,6 @@ Declaration(Class(obo:DIGITRUBBER_000150))
 Declaration(Class(obo:DIGITRUBBER_000151))
 Declaration(Class(obo:DIGITRUBBER_000152))
 Declaration(Class(obo:DIGITRUBBER_000153))
-Declaration(Class(obo:DIGITRUBBER_000154))
-Declaration(Class(obo:DIGITRUBBER_000155))
-Declaration(Class(obo:DIGITRUBBER_000156))
-Declaration(Class(obo:DIGITRUBBER_000157))
-Declaration(Class(obo:DIGITRUBBER_000158))
-Declaration(Class(obo:DIGITRUBBER_000159))
 Declaration(Class(obo:DIGITRUBBER_000160))
 Declaration(Class(obo:DIGITRUBBER_000161))
 Declaration(Class(obo:DIGITRUBBER_000162))
@@ -414,7 +408,6 @@ Declaration(Class(obo:DIGITRUBBER_000350))
 Declaration(Class(obo:DIGITRUBBER_000351))
 Declaration(Class(obo:DIGITRUBBER_000352))
 Declaration(Class(obo:DIGITRUBBER_000353))
-Declaration(Class(obo:DIGITRUBBER_000354))
 Declaration(Class(obo:DIGITRUBBER_000355))
 Declaration(Class(obo:DIGITRUBBER_000356))
 Declaration(Class(obo:DIGITRUBBER_000357))
@@ -582,7 +575,6 @@ Declaration(Class(obo:DIGITRUBBER_000518))
 Declaration(Class(obo:DIGITRUBBER_000519))
 Declaration(Class(obo:DIGITRUBBER_000520))
 Declaration(Class(obo:DIGITRUBBER_000521))
-Declaration(Class(obo:DIGITRUBBER_000522))
 Declaration(Class(obo:DIGITRUBBER_000523))
 Declaration(Class(obo:DIGITRUBBER_000524))
 Declaration(Class(obo:DIGITRUBBER_000525))
@@ -625,7 +617,6 @@ Declaration(Class(obo:DIGITRUBBER_000561))
 Declaration(Class(obo:DIGITRUBBER_000562))
 Declaration(Class(obo:DIGITRUBBER_000563))
 Declaration(Class(obo:DIGITRUBBER_000564))
-Declaration(Class(obo:DIGITRUBBER_000565))
 Declaration(Class(obo:DIGITRUBBER_000566))
 Declaration(Class(obo:DIGITRUBBER_000567))
 Declaration(Class(obo:DIGITRUBBER_000568))
@@ -701,7 +692,20 @@ Declaration(Class(obo:DIGITRUBBER_000637))
 Declaration(Class(obo:IAO_0000003))
 Declaration(Class(obo:IAO_0000030))
 Declaration(Class(obo:IAO_0000104))
-Declaration(Class(<https://www.tib.eu/tema>))
+Declaration(Class(obo:UO_0000000))
+Declaration(Class(obo:UO_0000046))
+Declaration(Class(obo:UO_0000051))
+Declaration(Class(obo:UO_0000058))
+Declaration(Class(obo:UO_0000105))
+Declaration(Class(obo:UO_0000182))
+Declaration(Class(obo:UO_0000186))
+Declaration(Class(obo:UO_0000190))
+Declaration(Class(obo:UO_0000205))
+Declaration(Class(obo:UO_0000256))
+Declaration(Class(obo:UO_01200023))
+Declaration(Class(obo:UO_1000008))
+Declaration(Class(obo:UO_1000027))
+Declaration(Class(obo:UO_1000084))
 Declaration(AnnotationProperty(obo:IAO_0000115))
 Declaration(AnnotationProperty(obo:IAO_0000118))
 Declaration(AnnotationProperty(obo:IAO_0000119))
@@ -751,8 +755,9 @@ SubClassOf(obo:DIGITRUBBER_000006 obo:IAO_0000104)
 
 # Class: obo:DIGITRUBBER_000007 (millimeter [imr])
 
+AnnotationAssertion(rdfs:label obo:DIGITRUBBER_000007 "millimeter [imr]"@de)
 AnnotationAssertion(rdfs:label obo:DIGITRUBBER_000007 "millimeter [imr]"@en)
-SubClassOf(obo:DIGITRUBBER_000007 obo:BFO_0000019)
+SubClassOf(obo:DIGITRUBBER_000007 obo:UO_1000008)
 
 # Class: obo:DIGITRUBBER_000008 (millimeter [nist])
 
@@ -761,8 +766,9 @@ AnnotationAssertion(obo:IAO_0000118 obo:DIGITRUBBER_000008 "mm MILLIMETER Millim
 AnnotationAssertion(obo:IAO_0000119 obo:DIGITRUBBER_000008 "https://ontobee.org/ontology/UO?iri=http://purl.obolibrary.org/obo/UO_0000016"^^xsd:string)
 AnnotationAssertion(obo:IAO_0000412 obo:DIGITRUBBER_000008 "http://purl.obolibrary.org/obo/uo.owl"^^xsd:string)
 AnnotationAssertion(rdfs:comment obo:DIGITRUBBER_000008 "Imported from ontocomons, also present in TIB terminological service"@en)
+AnnotationAssertion(rdfs:label obo:DIGITRUBBER_000008 "millimeter [nist]"@de)
 AnnotationAssertion(rdfs:label obo:DIGITRUBBER_000008 "millimeter [nist]"@en)
-SubClassOf(obo:DIGITRUBBER_000008 obo:BFO_0000019)
+SubClassOf(obo:DIGITRUBBER_000008 obo:UO_1000008)
 
 # Class: obo:DIGITRUBBER_000009 (surface of extrudate [imr])
 
@@ -1396,7 +1402,7 @@ AnnotationAssertion(rdfs:label obo:DIGITRUBBER_000104 "factor [proco]"@en)
 AnnotationAssertion(rdfs:label obo:DIGITRUBBER_000104 "faktor [proco]"@de)
 SubClassOf(obo:DIGITRUBBER_000104 obo:IAO_0000030)
 
-# Class: obo:DIGITRUBBER_000105 (factor [allotrope])
+# Class: obo:DIGITRUBBER_000105 (faktor [allotrope])
 
 AnnotationAssertion(obo:IAO_0000115 obo:DIGITRUBBER_000105 "A multiplicand in a mathematical product expression. [Allotrope]"^^xsd:string)
 AnnotationAssertion(obo:IAO_0000119 obo:DIGITRUBBER_000105 "http://purl.allotrope.org/ontologies/result#AFR_0000924>"^^xsd:string)
@@ -1768,58 +1774,6 @@ AnnotationAssertion(rdfs:label obo:DIGITRUBBER_000153 "direct cost"@en)
 AnnotationAssertion(rdfs:label obo:DIGITRUBBER_000153 "direkte kosten"@de)
 SubClassOf(obo:DIGITRUBBER_000153 obo:IAO_0000030)
 
-# Class: obo:DIGITRUBBER_000154 (einheit [hsh])
-
-AnnotationAssertion(obo:IAO_0000115 obo:DIGITRUBBER_000154 "A single system element (e.g., extruder 1, tool 1) within an entity sub-group in the system under investigation."^^xsd:string)
-AnnotationAssertion(rdfs:label obo:DIGITRUBBER_000154 "einheit [hsh]"@de)
-AnnotationAssertion(rdfs:label obo:DIGITRUBBER_000154 "unit [hsh]"@en)
-SubClassOf(obo:DIGITRUBBER_000154 obo:BFO_0000040)
-
-# Class: obo:DIGITRUBBER_000155 (einheit [ncti])
-
-AnnotationAssertion(obo:IAO_0000115 obo:DIGITRUBBER_000155 "A property representing the unit of measure in which a nutrient or food component is typically expressed, ex., gram (g), minigram (mg), microgram (mcg), joule, or kilojoule."^^xsd:string)
-AnnotationAssertion(obo:IAO_0000119 obo:DIGITRUBBER_000155 "http://purl.obolibrary.org/obo/NCIT_P355"^^xsd:string)
-AnnotationAssertion(obo:IAO_0000412 obo:DIGITRUBBER_000155 "http://purl.obolibrary.org/obo/ncit.owl"^^xsd:string)
-AnnotationAssertion(rdfs:label obo:DIGITRUBBER_000155 "einheit [ncti]"@de)
-AnnotationAssertion(rdfs:label obo:DIGITRUBBER_000155 "unit [ncti]"@en)
-SubClassOf(obo:DIGITRUBBER_000155 obo:BFO_0000040)
-
-# Class: obo:DIGITRUBBER_000156 (einheit [ncti])
-
-AnnotationAssertion(obo:IAO_0000115 obo:DIGITRUBBER_000156 "The property used in conjunction with a nutrient or food component, typically expressed in gram (g), milligram (mg), microgram (mcg), joule, or kilojoule."^^xsd:string)
-AnnotationAssertion(obo:IAO_0000119 obo:DIGITRUBBER_000156 "http://purl.obolibrary.org/obo/NCIT_C68553"^^xsd:string)
-AnnotationAssertion(obo:IAO_0000412 obo:DIGITRUBBER_000156 "http://purl.obolibrary.org/obo/ncit.owl"^^xsd:string)
-AnnotationAssertion(rdfs:label obo:DIGITRUBBER_000156 "einheit [ncti]"@de)
-AnnotationAssertion(rdfs:label obo:DIGITRUBBER_000156 "unit [ncti]"@en)
-SubClassOf(obo:DIGITRUBBER_000156 obo:BFO_0000040)
-
-# Class: obo:DIGITRUBBER_000157 (unit [ncti])
-
-AnnotationAssertion(obo:IAO_0000115 obo:DIGITRUBBER_000157 "A single undivided thing occurring in the composition of something else."^^xsd:string)
-AnnotationAssertion(obo:IAO_0000119 obo:DIGITRUBBER_000157 "http://purl.obolibrary.org/obo/NCIT_C44278"^^xsd:string)
-AnnotationAssertion(obo:IAO_0000412 obo:DIGITRUBBER_000157 "http://purl.obolibrary.org/obo/ncit.owl"^^xsd:string)
-AnnotationAssertion(rdfs:label obo:DIGITRUBBER_000157 "einheit [ncti]"@de)
-AnnotationAssertion(rdfs:label obo:DIGITRUBBER_000157 "unit [ncti]"@en)
-SubClassOf(obo:DIGITRUBBER_000157 obo:BFO_0000040)
-
-# Class: obo:DIGITRUBBER_000158 (unit [sd])
-
-AnnotationAssertion(obo:IAO_0000115 obo:DIGITRUBBER_000158 "Class designed to distinguish the different types of units that are available in variables from datasets or parameters"^^xsd:string)
-AnnotationAssertion(obo:IAO_0000119 obo:DIGITRUBBER_000158 "https://w3id.org/okn/o/sd#Unit"^^xsd:string)
-AnnotationAssertion(obo:IAO_0000412 obo:DIGITRUBBER_000158 "https://w3id.org/okn/o/sd"^^xsd:string)
-AnnotationAssertion(rdfs:label obo:DIGITRUBBER_000158 "einheit [sd]"@de)
-AnnotationAssertion(rdfs:label obo:DIGITRUBBER_000158 "unit [sd]"@en)
-SubClassOf(obo:DIGITRUBBER_000158 obo:BFO_0000040)
-
-# Class: obo:DIGITRUBBER_000159 (einheit [uo])
-
-AnnotationAssertion(obo:IAO_0000115 obo:DIGITRUBBER_000159 "A unit of measurement is a standardized quantity of a physical quality.\" [Wikipedia:Wikipedia]"^^xsd:string)
-AnnotationAssertion(obo:IAO_0000119 obo:DIGITRUBBER_000159 "http://purl.obolibrary.org/obo/UO_0000000"^^xsd:string)
-AnnotationAssertion(obo:IAO_0000412 obo:DIGITRUBBER_000159 "http://purl.obolibrary.org/obo/uo.owl"^^xsd:string)
-AnnotationAssertion(rdfs:label obo:DIGITRUBBER_000159 "einheit [uo]"@de)
-AnnotationAssertion(rdfs:label obo:DIGITRUBBER_000159 "unit [uo]"@en)
-SubClassOf(obo:DIGITRUBBER_000159 obo:BFO_0000040)
-
 # Class: obo:DIGITRUBBER_000160 (extruder [hsh])
 
 AnnotationAssertion(obo:IAO_0000115 obo:DIGITRUBBER_000160 "A machine that pushes unvulcanized rubber compounds through an extrusion die under pressure. Constitutes an entity sub-group of the machine entity."^^xsd:string)
@@ -1983,7 +1937,7 @@ AnnotationAssertion(rdfs:label obo:DIGITRUBBER_000182 "plasticizer [hsh]"@en)
 AnnotationAssertion(rdfs:label obo:DIGITRUBBER_000182 "weichmacher [hsh]"@de)
 SubClassOf(obo:DIGITRUBBER_000182 obo:BFO_0000040)
 
-# Class: obo:DIGITRUBBER_000183 (plasticizer [ncti])
+# Class: obo:DIGITRUBBER_000183 (weichmacher [ncti])
 
 AnnotationAssertion(obo:IAO_0000115 obo:DIGITRUBBER_000183 "A substance added to plastics or other materials to make or keep them soft or pliable."^^xsd:string)
 AnnotationAssertion(obo:IAO_0000119 obo:DIGITRUBBER_000183 "http://purl.obolibrary.org/obo/NCIT_C55826"^^xsd:string)
@@ -2623,7 +2577,7 @@ SubClassOf(obo:DIGITRUBBER_000271 obo:BFO_0000040)
 
 AnnotationAssertion(obo:IAO_0000115 obo:DIGITRUBBER_000272 "a substance consisting of molecules characterised by the sequence of one or more types of monomer unit. Such molecules must be distributed over a range of molecular weights. "^^xsd:string)
 AnnotationAssertion(rdfs:label obo:DIGITRUBBER_000272 "Polymer [ifnano]"@en)
-SubClassOf(obo:DIGITRUBBER_000272 obo:BFO_0000040)
+SubClassOf(obo:DIGITRUBBER_000272 obo:CHEBI_60004)
 
 # Class: obo:DIGITRUBBER_000273 (Polymer [chebi])
 
@@ -2631,7 +2585,7 @@ AnnotationAssertion(obo:IAO_0000115 obo:DIGITRUBBER_000273 "A polymer is a mixtu
 AnnotationAssertion(obo:IAO_0000119 obo:DIGITRUBBER_000273 "http://purl.obolibrary.org/obo/CHEBI_60027"^^xsd:string)
 AnnotationAssertion(rdfs:comment obo:DIGITRUBBER_000273 "http://purl.obolibrary.org/obo/chebi.owl"@en)
 AnnotationAssertion(rdfs:label obo:DIGITRUBBER_000273 "Polymer [chebi]"@en)
-SubClassOf(obo:DIGITRUBBER_000273 obo:BFO_0000040)
+SubClassOf(obo:DIGITRUBBER_000273 obo:CHEBI_60004)
 
 # Class: obo:DIGITRUBBER_000274 (Polymer [ncit])
 
@@ -2639,7 +2593,7 @@ AnnotationAssertion(obo:IAO_0000115 obo:DIGITRUBBER_000274 "A substance made up 
 AnnotationAssertion(obo:IAO_0000119 obo:DIGITRUBBER_000274 "http://purl.obolibrary.org/obo/NCIT_C48803"^^xsd:string)
 AnnotationAssertion(rdfs:comment obo:DIGITRUBBER_000274 "http://purl.obolibrary.org/obo/ncit.owl"@en)
 AnnotationAssertion(rdfs:label obo:DIGITRUBBER_000274 "Polymer [ncit]"@en)
-SubClassOf(obo:DIGITRUBBER_000274 obo:BFO_0000040)
+SubClassOf(obo:DIGITRUBBER_000274 obo:CHEBI_60004)
 
 # Class: obo:DIGITRUBBER_000275 (Polymer [proco])
 
@@ -2647,7 +2601,7 @@ AnnotationAssertion(obo:IAO_0000115 obo:DIGITRUBBER_000275 "A substance or mater
 AnnotationAssertion(obo:IAO_0000119 obo:DIGITRUBBER_000275 "http://purl.obolibrary.org/obo/PROCO_0000054"^^xsd:string)
 AnnotationAssertion(rdfs:comment obo:DIGITRUBBER_000275 "http://purl.obolibrary.org/obo/proco.owl"@en)
 AnnotationAssertion(rdfs:label obo:DIGITRUBBER_000275 "Polymer [proco]"@en)
-SubClassOf(obo:DIGITRUBBER_000275 obo:BFO_0000040)
+SubClassOf(obo:DIGITRUBBER_000275 obo:CHEBI_60004)
 
 # Class: obo:DIGITRUBBER_000276 (Composition [ifnano])
 
@@ -2833,7 +2787,7 @@ SubClassOf(obo:DIGITRUBBER_000299 obo:DIGITRUBBER_000297)
 AnnotationAssertion(obo:IAO_0000115 obo:DIGITRUBBER_000300 "An N carbon black with an average nitrogen surface area of 33 to 39 m²/g."^^xsd:string)
 AnnotationAssertion(rdfs:label obo:DIGITRUBBER_000300 "N600-Carbon Black [dik]"@en)
 AnnotationAssertion(rdfs:label obo:DIGITRUBBER_000300 "N600-Ruß [dik]"@de)
-SubClassOf(obo:DIGITRUBBER_000300 obo:BFO_0000041)
+SubClassOf(obo:DIGITRUBBER_000300 obo:BFO_0000040)
 
 # Class: obo:DIGITRUBBER_000301 (Corax N660 [dik])
 
@@ -2898,7 +2852,7 @@ AnnotationAssertion(rdfs:label obo:DIGITRUBBER_000309 "Activator [dik]"@en)
 AnnotationAssertion(rdfs:label obo:DIGITRUBBER_000309 "Aktivator [dik]"@de)
 SubClassOf(obo:DIGITRUBBER_000309 obo:BFO_0000040)
 
-# Class: obo:DIGITRUBBER_000310 (Activator [ncit])
+# Class: obo:DIGITRUBBER_000310 (Aktivator [ncit])
 
 AnnotationAssertion(obo:IAO_0000115 obo:DIGITRUBBER_000310 "A class of substances that binds to, activates and increases the activity of a target."^^xsd:string)
 AnnotationAssertion(obo:IAO_0000119 obo:DIGITRUBBER_000310 "http://purl.obolibrary.org/obo/ncit.owl"^^xsd:string)
@@ -2966,9 +2920,11 @@ SubClassOf(obo:DIGITRUBBER_000318 obo:DIGITRUBBER_000316)
 # Class: obo:DIGITRUBBER_000319 (Thiazol [dik])
 
 AnnotationAssertion(obo:IAO_0000115 obo:DIGITRUBBER_000319 "An azole in which the five-membered heterocyclic aromatic skeleton contains a N atom and one S atom."^^xsd:string)
+AnnotationAssertion(obo:IAO_0000119 obo:DIGITRUBBER_000319 "http://purl.obolibrary.org/obo/chebi.owl"^^xsd:string)
+AnnotationAssertion(obo:IAO_0000412 obo:DIGITRUBBER_000319 "http://purl.obolibrary.org/obo/CHEBI_43732"^^xsd:string)
 AnnotationAssertion(rdfs:label obo:DIGITRUBBER_000319 "Thiazol [dik]"@de)
 AnnotationAssertion(rdfs:label obo:DIGITRUBBER_000319 "Thiazole [dik]"@en)
-SubClassOf(obo:DIGITRUBBER_000319 <https://www.tib.eu/tema>)
+SubClassOf(obo:DIGITRUBBER_000319 obo:CHEBI_38418)
 
 # Class: obo:DIGITRUBBER_000320 (Di(benzothiazol-2-yl)disulfid [dik])
 
@@ -3150,7 +3106,7 @@ SubClassOf(obo:DIGITRUBBER_000345 obo:BFO_0000019)
 
 AnnotationAssertion(rdfs:label obo:DIGITRUBBER_000346 "Drehzahleinheit [dik]"@de)
 AnnotationAssertion(rdfs:label obo:DIGITRUBBER_000346 "Rotational Frequency Unit [dik]"@en)
-SubClassOf(obo:DIGITRUBBER_000346 obo:BFO_0000019)
+SubClassOf(obo:DIGITRUBBER_000346 obo:UO_0000105)
 
 # Class: obo:DIGITRUBBER_000347 (Rotational Frequency Unit [uo])
 
@@ -3159,13 +3115,13 @@ AnnotationAssertion(obo:IAO_0000119 obo:DIGITRUBBER_000347 "http://purl.obolibra
 AnnotationAssertion(obo:IAO_0000412 obo:DIGITRUBBER_000347 "http://purl.obolibrary.org/obo/UO_0000058"^^xsd:string)
 AnnotationAssertion(rdfs:label obo:DIGITRUBBER_000347 "Drehzahleinheit [ou]"@de)
 AnnotationAssertion(rdfs:label obo:DIGITRUBBER_000347 "Rotational Frequency Unit [uo]"@en)
-SubClassOf(obo:DIGITRUBBER_000347 obo:BFO_0000019)
+SubClassOf(obo:DIGITRUBBER_000347 obo:UO_0000105)
 
 # Class: obo:DIGITRUBBER_000348 (Frequency Unit [dik])
 
 AnnotationAssertion(rdfs:label obo:DIGITRUBBER_000348 "Frequency Unit [dik]"@en)
 AnnotationAssertion(rdfs:label obo:DIGITRUBBER_000348 "Frequenzeinheit [dik]"@de)
-SubClassOf(obo:DIGITRUBBER_000348 obo:BFO_0000019)
+SubClassOf(obo:DIGITRUBBER_000348 obo:UO_0000000)
 
 # Class: obo:DIGITRUBBER_000349 (Frequency Unit [uo])
 
@@ -3174,7 +3130,7 @@ AnnotationAssertion(obo:IAO_0000119 obo:DIGITRUBBER_000349 "http://purl.obolibra
 AnnotationAssertion(obo:IAO_0000412 obo:DIGITRUBBER_000349 "http://purl.obolibrary.org/obo/UO_0000105"^^xsd:string)
 AnnotationAssertion(rdfs:label obo:DIGITRUBBER_000349 "Frequency Unit [uo]"@en)
 AnnotationAssertion(rdfs:label obo:DIGITRUBBER_000349 "Frequenzeinheit [uo]"@de)
-SubClassOf(obo:DIGITRUBBER_000349 obo:BFO_0000019)
+SubClassOf(obo:DIGITRUBBER_000349 obo:UO_0000000)
 
 # Class: obo:DIGITRUBBER_000350 (Frequency Unit [ncit])
 
@@ -3183,14 +3139,14 @@ AnnotationAssertion(obo:IAO_0000119 obo:DIGITRUBBER_000350 "http://purl.obolibra
 AnnotationAssertion(obo:IAO_0000412 obo:DIGITRUBBER_000350 "http://purl.obolibrary.org/obo/NCIT_C67313"^^xsd:string)
 AnnotationAssertion(rdfs:label obo:DIGITRUBBER_000350 "Frequency Unit [ncit]"@en)
 AnnotationAssertion(rdfs:label obo:DIGITRUBBER_000350 "Frequenzeinheit [ncit]"@de)
-SubClassOf(obo:DIGITRUBBER_000350 obo:BFO_0000019)
+SubClassOf(obo:DIGITRUBBER_000350 obo:UO_0000000)
 
 # Class: obo:DIGITRUBBER_000351 (Turns per Second [dik])
 
 AnnotationAssertion(obo:IAO_0000115 obo:DIGITRUBBER_000351 "A rotational frequency unit which is equal to the number of completed turns in a period of time that equals to 1 second."^^xsd:string)
 AnnotationAssertion(rdfs:label obo:DIGITRUBBER_000351 "Turns per Second [dik]"@en)
 AnnotationAssertion(rdfs:label obo:DIGITRUBBER_000351 "Umdrehungen pro Sekunde [dik]"@de)
-SubClassOf(obo:DIGITRUBBER_000351 obo:BFO_0000019)
+SubClassOf(obo:DIGITRUBBER_000351 obo:UO_0000058)
 
 # Class: obo:DIGITRUBBER_000352 (Turns per Second [uo])
 
@@ -3199,7 +3155,7 @@ AnnotationAssertion(obo:IAO_0000119 obo:DIGITRUBBER_000352 "http://purl.obolibra
 AnnotationAssertion(obo:IAO_0000412 obo:DIGITRUBBER_000352 "http://purl.obolibrary.org/obo/uo.owl"^^xsd:string)
 AnnotationAssertion(rdfs:label obo:DIGITRUBBER_000352 "Turns per Second [uo]"@en)
 AnnotationAssertion(rdfs:label obo:DIGITRUBBER_000352 "Umdrehungen pro Sekunde [uo]"@de)
-SubClassOf(obo:DIGITRUBBER_000352 obo:BFO_0000019)
+SubClassOf(obo:DIGITRUBBER_000352 obo:UO_0000058)
 
 # Class: obo:DIGITRUBBER_000353 (Turns per Minute [dik])
 
@@ -3207,15 +3163,6 @@ AnnotationAssertion(obo:IAO_0000115 obo:DIGITRUBBER_000353 "A rotational frequen
 AnnotationAssertion(rdfs:label obo:DIGITRUBBER_000353 "Turns per Minute [dik]"@en)
 AnnotationAssertion(rdfs:label obo:DIGITRUBBER_000353 "Umdrehungen pro Minute [dik]"@de)
 SubClassOf(obo:DIGITRUBBER_000353 obo:BFO_0000019)
-
-# Class: obo:DIGITRUBBER_000354 (Umdrehungen pro Minute [uo])
-
-AnnotationAssertion(obo:IAO_0000115 obo:DIGITRUBBER_000354 "A rotational frequency unit which is equal to the number complete turn in a period of time that equals to 1 second.\" [NIST:NIST]"^^xsd:string)
-AnnotationAssertion(obo:IAO_0000119 obo:DIGITRUBBER_000354 "http://purl.obolibrary.org/obo/uo.owl"^^xsd:string)
-AnnotationAssertion(obo:IAO_0000412 obo:DIGITRUBBER_000354 "http://purl.obolibrary.org/obo/UO_0000092"^^xsd:string)
-AnnotationAssertion(rdfs:label obo:DIGITRUBBER_000354 "Turns per Minute [uo]"@en)
-AnnotationAssertion(rdfs:label obo:DIGITRUBBER_000354 "Umdrehungen pro Minute [uo]"@de)
-SubClassOf(obo:DIGITRUBBER_000354 obo:BFO_0000019)
 
 # Class: obo:DIGITRUBBER_000355 (Festwalzen-Drehzahl [dik])
 
@@ -3253,13 +3200,13 @@ AnnotationAssertion(rdfs:label obo:DIGITRUBBER_000359 "Temperatur [pato]"@de)
 AnnotationAssertion(rdfs:label obo:DIGITRUBBER_000359 "Temperature [pato]"@en)
 SubClassOf(obo:DIGITRUBBER_000359 obo:BFO_0000019)
 
-# Class: obo:DIGITRUBBER_000360 (Temperature [um])
+# Class: obo:DIGITRUBBER_000360 (Temperature [om])
 
 AnnotationAssertion(obo:IAO_0000115 obo:DIGITRUBBER_000360 "Temperature is the extent to which an object is hot."^^xsd:string)
 AnnotationAssertion(obo:IAO_0000119 obo:DIGITRUBBER_000360 "http://purl.obolibrary.org/obo/uo.owl"^^xsd:string)
 AnnotationAssertion(obo:IAO_0000412 obo:DIGITRUBBER_000360 "http://www.ontology-of-units-of-measure.org/resource/om-2/Temperature"^^xsd:string)
-AnnotationAssertion(rdfs:label obo:DIGITRUBBER_000360 "Temperatur [um]"@de)
-AnnotationAssertion(rdfs:label obo:DIGITRUBBER_000360 "Temperature [um]"@en)
+AnnotationAssertion(rdfs:label obo:DIGITRUBBER_000360 "Temperatur [om]"@de)
+AnnotationAssertion(rdfs:label obo:DIGITRUBBER_000360 "Temperature [om]"@en)
 SubClassOf(obo:DIGITRUBBER_000360 obo:BFO_0000019)
 
 # Class: obo:DIGITRUBBER_000361 (Temperatur [efo])
@@ -3275,7 +3222,7 @@ SubClassOf(obo:DIGITRUBBER_000361 obo:BFO_0000019)
 
 AnnotationAssertion(rdfs:label obo:DIGITRUBBER_000362 "Temperature Unit [dik]"@en)
 AnnotationAssertion(rdfs:label obo:DIGITRUBBER_000362 "Temperatureinheit [dik]"@de)
-SubClassOf(obo:DIGITRUBBER_000362 obo:BFO_0000019)
+SubClassOf(obo:DIGITRUBBER_000362 obo:UO_0000000)
 
 # Class: obo:DIGITRUBBER_000363 (Temperatureinheit [uo])
 
@@ -3284,7 +3231,7 @@ AnnotationAssertion(obo:IAO_0000119 obo:DIGITRUBBER_000363 "http://purl.obolibra
 AnnotationAssertion(obo:IAO_0000412 obo:DIGITRUBBER_000363 "http://purl.obolibrary.org/obo/UO_0000005"^^xsd:string)
 AnnotationAssertion(rdfs:label obo:DIGITRUBBER_000363 "Temperature Unit [uo]"@en)
 AnnotationAssertion(rdfs:label obo:DIGITRUBBER_000363 "Temperatureinheit [uo]"@de)
-SubClassOf(obo:DIGITRUBBER_000363 obo:BFO_0000019)
+SubClassOf(obo:DIGITRUBBER_000363 obo:UO_0000000)
 
 # Class: obo:DIGITRUBBER_000364 (Temperatureinheit [ncit])
 
@@ -3293,7 +3240,7 @@ AnnotationAssertion(obo:IAO_0000119 obo:DIGITRUBBER_000364 "http://purl.obolibra
 AnnotationAssertion(obo:IAO_0000412 obo:DIGITRUBBER_000364 "http://purl.obolibrary.org/obo/NCIT_C44276"^^xsd:string)
 AnnotationAssertion(rdfs:label obo:DIGITRUBBER_000364 "Temperature Unit [ncit]"@en)
 AnnotationAssertion(rdfs:label obo:DIGITRUBBER_000364 "Temperatureinheit [ncit]"@de)
-SubClassOf(obo:DIGITRUBBER_000364 obo:BFO_0000019)
+SubClassOf(obo:DIGITRUBBER_000364 obo:UO_0000000)
 
 # Class: obo:DIGITRUBBER_000365 (Temperatursteuergerät [dik])
 
@@ -3353,7 +3300,7 @@ AnnotationAssertion(rdfs:label obo:DIGITRUBBER_000373 "Mastication [dik]"@en)
 AnnotationAssertion(rdfs:label obo:DIGITRUBBER_000373 "Mastikation [dik]"@de)
 SubClassOf(obo:DIGITRUBBER_000373 obo:BFO_0000015)
 
-# Class: obo:DIGITRUBBER_000374 (Mastikation [ncit])
+# Class: obo:DIGITRUBBER_000374 (Mastication [ncit])
 
 AnnotationAssertion(obo:IAO_0000115 obo:DIGITRUBBER_000374 "The process by which food is torn or crushed by the teeth."^^xsd:string)
 AnnotationAssertion(obo:IAO_0000119 obo:DIGITRUBBER_000374 "http://purl.obolibrary.org/obo/ncit.owl"^^xsd:string)
@@ -3501,13 +3448,13 @@ AnnotationAssertion(rdfs:label obo:DIGITRUBBER_000395 "Drehmoment [dik]"@de)
 AnnotationAssertion(rdfs:label obo:DIGITRUBBER_000395 "Torque [dik]"@en)
 SubClassOf(obo:DIGITRUBBER_000395 obo:BFO_0000019)
 
-# Class: obo:DIGITRUBBER_000396 (Drehmoment [uo])
+# Class: obo:DIGITRUBBER_000396 (Drehmoment [om])
 
 AnnotationAssertion(obo:IAO_0000115 obo:DIGITRUBBER_000396 "Torque is the effectiveness of a force to produce rotation about an axis, measured by the product of the force and the perpendicular distance from the line of action of the force to the axis."^^xsd:string)
-AnnotationAssertion(obo:IAO_0000119 obo:DIGITRUBBER_000396 "http://purl.obolibrary.org/obo/uo.owl"^^xsd:string)
+AnnotationAssertion(obo:IAO_0000119 obo:DIGITRUBBER_000396 "http://www.ontology-of-units-of-measure.org/resource/om-2"^^xsd:string)
 AnnotationAssertion(obo:IAO_0000412 obo:DIGITRUBBER_000396 "http://www.ontology-of-units-of-measure.org/resource/om-2/Torque"^^xsd:string)
-AnnotationAssertion(rdfs:label obo:DIGITRUBBER_000396 "Drehmoment [uo]"@de)
-AnnotationAssertion(rdfs:label obo:DIGITRUBBER_000396 "Torque [uo]"@en)
+AnnotationAssertion(rdfs:label obo:DIGITRUBBER_000396 "Drehmoment [om]"@de)
+AnnotationAssertion(rdfs:label obo:DIGITRUBBER_000396 "Torque [om]"@en)
 SubClassOf(obo:DIGITRUBBER_000396 obo:BFO_0000019)
 
 # Class: obo:DIGITRUBBER_000397 (Torque Unit [dik])
@@ -3580,7 +3527,7 @@ SubClassOf(obo:DIGITRUBBER_000405 obo:BFO_0000019)
 
 AnnotationAssertion(rdfs:label obo:DIGITRUBBER_000406 "Length Unit [dik]"@en)
 AnnotationAssertion(rdfs:label obo:DIGITRUBBER_000406 "Längen Einheit [dik]"@de)
-SubClassOf(obo:DIGITRUBBER_000406 obo:BFO_0000019)
+SubClassOf(obo:DIGITRUBBER_000406 obo:UO_0000000)
 
 # Class: obo:DIGITRUBBER_000407 (Length Unit [uo])
 
@@ -3589,7 +3536,7 @@ AnnotationAssertion(obo:IAO_0000119 obo:DIGITRUBBER_000407 "http://purl.obolibra
 AnnotationAssertion(obo:IAO_0000412 obo:DIGITRUBBER_000407 "http://purl.obolibrary.org/obo/UO_0000001"^^xsd:string)
 AnnotationAssertion(rdfs:label obo:DIGITRUBBER_000407 "Length Unit [uo]"@en)
 AnnotationAssertion(rdfs:label obo:DIGITRUBBER_000407 "Längen Einheit [uo]"@de)
-SubClassOf(obo:DIGITRUBBER_000407 obo:BFO_0000019)
+SubClassOf(obo:DIGITRUBBER_000407 obo:UO_0000000)
 
 # Class: obo:DIGITRUBBER_000408 (Length Unit [ncit])
 
@@ -3598,31 +3545,31 @@ AnnotationAssertion(obo:IAO_0000119 obo:DIGITRUBBER_000408 "http://purl.obolibra
 AnnotationAssertion(obo:IAO_0000412 obo:DIGITRUBBER_000408 "http://purl.obolibrary.org/obo/NCIT_C42578"^^xsd:string)
 AnnotationAssertion(rdfs:label obo:DIGITRUBBER_000408 "Length Unit [ncit]"@en)
 AnnotationAssertion(rdfs:label obo:DIGITRUBBER_000408 "Längen Einheit [ncit]"@de)
-SubClassOf(obo:DIGITRUBBER_000408 obo:BFO_0000019)
+SubClassOf(obo:DIGITRUBBER_000408 obo:UO_0000000)
 
-# Class: obo:DIGITRUBBER_000409 (Millimeter [dik])
+# Class: obo:DIGITRUBBER_000409 (millimeter [dik])
 
-AnnotationAssertion(rdfs:label obo:DIGITRUBBER_000409 "Millimeter [dik]"@de)
-AnnotationAssertion(rdfs:label obo:DIGITRUBBER_000409 "Millimeter [dik]"@en)
-SubClassOf(obo:DIGITRUBBER_000409 obo:BFO_0000019)
+AnnotationAssertion(rdfs:label obo:DIGITRUBBER_000409 "millimeter [dik]"@de)
+AnnotationAssertion(rdfs:label obo:DIGITRUBBER_000409 "millimeter [dik]"@en)
+SubClassOf(obo:DIGITRUBBER_000409 obo:UO_1000008)
 
-# Class: obo:DIGITRUBBER_000410 (Millimeter [ncit])
+# Class: obo:DIGITRUBBER_000410 (millimeter [ncit])
 
 AnnotationAssertion(obo:IAO_0000115 obo:DIGITRUBBER_000410 "A metric unit of length equal to one thousandth of a meter (10E-3 meter) or approximately 0.03937 inch."^^xsd:string)
 AnnotationAssertion(obo:IAO_0000119 obo:DIGITRUBBER_000410 "http://purl.obolibrary.org/obo/ncit.owl"^^xsd:string)
 AnnotationAssertion(obo:IAO_0000412 obo:DIGITRUBBER_000410 "http://purl.obolibrary.org/obo/NCIT_C28251"^^xsd:string)
-AnnotationAssertion(rdfs:label obo:DIGITRUBBER_000410 "Millimeter [ncit]"@de)
-AnnotationAssertion(rdfs:label obo:DIGITRUBBER_000410 "Millimeter [ncit]"@en)
-SubClassOf(obo:DIGITRUBBER_000410 obo:BFO_0000019)
+AnnotationAssertion(rdfs:label obo:DIGITRUBBER_000410 "millimeter [ncit]"@de)
+AnnotationAssertion(rdfs:label obo:DIGITRUBBER_000410 "millimeter [ncit]"@en)
+SubClassOf(obo:DIGITRUBBER_000410 obo:UO_1000008)
 
-# Class: obo:DIGITRUBBER_000411 (Millimeter [uo])
+# Class: obo:DIGITRUBBER_000411 (millimeter [uo])
 
 AnnotationAssertion(obo:IAO_0000115 obo:DIGITRUBBER_000411 "A length unit which is equal to one thousandth of a meter or 10^[-3] m.\" [NIST:NIST]"^^xsd:string)
 AnnotationAssertion(obo:IAO_0000119 obo:DIGITRUBBER_000411 "http://purl.obolibrary.org/obo/uo.owl"^^xsd:string)
 AnnotationAssertion(obo:IAO_0000412 obo:DIGITRUBBER_000411 "http://purl.obolibrary.org/obo/UO_0000016"^^xsd:string)
-AnnotationAssertion(rdfs:label obo:DIGITRUBBER_000411 "Millimeter [uo]"@de)
-AnnotationAssertion(rdfs:label obo:DIGITRUBBER_000411 "Millimeter [uo]"@en)
-SubClassOf(obo:DIGITRUBBER_000411 obo:BFO_0000019)
+AnnotationAssertion(rdfs:label obo:DIGITRUBBER_000411 "millimeter [uo]"@de)
+AnnotationAssertion(rdfs:label obo:DIGITRUBBER_000411 "millimeter [uo]"@en)
+SubClassOf(obo:DIGITRUBBER_000411 obo:UO_1000008)
 
 # Class: obo:DIGITRUBBER_000412 (Stamp Distance [dik])
 
@@ -3657,7 +3604,7 @@ AnnotationAssertion(rdfs:label obo:DIGITRUBBER_000416 "Leistung [pato]"@de)
 AnnotationAssertion(rdfs:label obo:DIGITRUBBER_000416 "Power [pato]"@en)
 SubClassOf(obo:DIGITRUBBER_000416 obo:BFO_0000019)
 
-# Class: obo:DIGITRUBBER_000417 (Power [om])
+# Class: obo:DIGITRUBBER_000417 (Leistung [om])
 
 AnnotationAssertion(obo:IAO_0000115 obo:DIGITRUBBER_000417 "Power is the time rate at which work is done. It is a derived quantity in the International System of Units. Power is energy divided by time."^^xsd:string)
 AnnotationAssertion(obo:IAO_0000119 obo:DIGITRUBBER_000417 "http://www.ontology-of-units-of-measure.org/resource/om-2"^^xsd:string)
@@ -4323,7 +4270,7 @@ SubClassOf(obo:DIGITRUBBER_000509 obo:BFO_0000019)
 
 AnnotationAssertion(rdfs:label obo:DIGITRUBBER_000510 "Mass Density Unit [dik]"@en)
 AnnotationAssertion(rdfs:label obo:DIGITRUBBER_000510 "Massendichte Einheit [dik]"@de)
-SubClassOf(obo:DIGITRUBBER_000510 obo:BFO_0000019)
+SubClassOf(obo:DIGITRUBBER_000510 obo:UO_0000182)
 
 # Class: obo:DIGITRUBBER_000511 (Massendichte Einheit [uo])
 
@@ -4332,22 +4279,22 @@ AnnotationAssertion(obo:IAO_0000119 obo:DIGITRUBBER_000511 "http://purl.obolibra
 AnnotationAssertion(obo:IAO_0000412 obo:DIGITRUBBER_000511 "http://purl.obolibrary.org/obo/UO_0000052"^^xsd:string)
 AnnotationAssertion(rdfs:label obo:DIGITRUBBER_000511 "Mass Density Unit [uo]"@en)
 AnnotationAssertion(rdfs:label obo:DIGITRUBBER_000511 "Massendichte Einheit [uo]"@de)
-SubClassOf(obo:DIGITRUBBER_000511 obo:BFO_0000019)
+SubClassOf(obo:DIGITRUBBER_000511 obo:UO_0000182)
 
-# Class: obo:DIGITRUBBER_000512 ((Unit Of Mass Density) [ncit])
+# Class: obo:DIGITRUBBER_000512 (Unit Of Mass Density [ncit])
 
 AnnotationAssertion(obo:IAO_0000115 obo:DIGITRUBBER_000512 "An indication of the type of unit of measure being used to express a mass density."^^xsd:string)
 AnnotationAssertion(obo:IAO_0000119 obo:DIGITRUBBER_000512 "http://purl.obolibrary.org/obo/ncit.owl"^^xsd:string)
 AnnotationAssertion(obo:IAO_0000412 obo:DIGITRUBBER_000512 "http://purl.obolibrary.org/obo/NCIT_C42575"^^xsd:string)
-AnnotationAssertion(rdfs:label obo:DIGITRUBBER_000512 "(Unit Of Mass Density) [ncit]"@en)
 AnnotationAssertion(rdfs:label obo:DIGITRUBBER_000512 "Massendichte Einheit [ncit]"@de)
-SubClassOf(obo:DIGITRUBBER_000512 obo:BFO_0000019)
+AnnotationAssertion(rdfs:label obo:DIGITRUBBER_000512 "Unit Of Mass Density [ncit]"@en)
+SubClassOf(obo:DIGITRUBBER_000512 obo:UO_0000182)
 
 # Class: obo:DIGITRUBBER_000513 (Gram Per Cubic Centimeter [dik])
 
 AnnotationAssertion(rdfs:label obo:DIGITRUBBER_000513 "Gram Per Cubic Centimeter [dik]"@en)
 AnnotationAssertion(rdfs:label obo:DIGITRUBBER_000513 "Gramm pro Kubikzentimeter [dik]"@de)
-SubClassOf(obo:DIGITRUBBER_000513 obo:BFO_0000019)
+SubClassOf(obo:DIGITRUBBER_000513 obo:UO_1000084)
 
 # Class: obo:DIGITRUBBER_000514 (Gramm pro Kubikzentimeter [uo])
 
@@ -4356,7 +4303,7 @@ AnnotationAssertion(obo:IAO_0000119 obo:DIGITRUBBER_000514 "http://purl.obolibra
 AnnotationAssertion(obo:IAO_0000412 obo:DIGITRUBBER_000514 "http://purl.obolibrary.org/obo/UO_0000084"^^xsd:string)
 AnnotationAssertion(rdfs:label obo:DIGITRUBBER_000514 "Gram Per Cubic Centimeter [uo]"@en)
 AnnotationAssertion(rdfs:label obo:DIGITRUBBER_000514 "Gramm pro Kubikzentimeter [uo]"@de)
-SubClassOf(obo:DIGITRUBBER_000514 obo:BFO_0000019)
+SubClassOf(obo:DIGITRUBBER_000514 obo:UO_1000084)
 
 # Class: obo:DIGITRUBBER_000515 (Prüfung zur Viskositätsmessung [dik])
 
@@ -4407,16 +4354,7 @@ SubClassOf(obo:DIGITRUBBER_000520 obo:BFO_0000019)
 
 AnnotationAssertion(rdfs:label obo:DIGITRUBBER_000521 "Viscosity Unit [dik]"@en)
 AnnotationAssertion(rdfs:label obo:DIGITRUBBER_000521 "Viskositätseinheit [dik]"@de)
-SubClassOf(obo:DIGITRUBBER_000521 obo:BFO_0000019)
-
-# Class: obo:DIGITRUBBER_000522 (Viscosity Unit [uo])
-
-AnnotationAssertion(obo:IAO_0000115 obo:DIGITRUBBER_000522 "A unit which is a standard measure of the internal resistance of fluids to flow.\" [UOC:GVG]"^^xsd:string)
-AnnotationAssertion(obo:IAO_0000119 obo:DIGITRUBBER_000522 "http://purl.obolibrary.org/obo/uo.owl"^^xsd:string)
-AnnotationAssertion(obo:IAO_0000412 obo:DIGITRUBBER_000522 "http://purl.obolibrary.org/obo/UO_0000256"^^xsd:string)
-AnnotationAssertion(rdfs:label obo:DIGITRUBBER_000522 "Viscosity Unit [uo]"@en)
-AnnotationAssertion(rdfs:label obo:DIGITRUBBER_000522 "Viskositätseinheit [uo]"@de)
-SubClassOf(obo:DIGITRUBBER_000522 obo:BFO_0000019)
+SubClassOf(obo:DIGITRUBBER_000521 obo:UO_0000000)
 
 # Class: obo:DIGITRUBBER_000523 (Mooney Viskositätseinheit [dik])
 
@@ -4557,7 +4495,7 @@ AnnotationAssertion(obo:IAO_0000119 obo:DIGITRUBBER_000541 "http://purl.obolibra
 AnnotationAssertion(obo:IAO_0000412 obo:DIGITRUBBER_000541 "http://purl.obolibrary.org/obo/UO_0000027"^^xsd:string)
 AnnotationAssertion(rdfs:label obo:DIGITRUBBER_000541 "Degree Celsius [uo]"@en)
 AnnotationAssertion(rdfs:label obo:DIGITRUBBER_000541 "Grad Celsius [uo]"@de)
-SubClassOf(obo:DIGITRUBBER_000541 obo:BFO_0000019)
+SubClassOf(obo:DIGITRUBBER_000541 obo:UO_1000027)
 
 # Class: obo:DIGITRUBBER_000542 (Degree Celsius [om])
 
@@ -4732,16 +4670,7 @@ SubClassOf(obo:DIGITRUBBER_000563 obo:BFO_0000141)
 AnnotationAssertion(obo:IAO_0000115 obo:DIGITRUBBER_000564 "Kinematic viscosity is the quotient of the dynamic viscosity of the medium and its density."^^xsd:string)
 AnnotationAssertion(rdfs:label obo:DIGITRUBBER_000564 "Kinematic Viscosity [dik]"@en)
 AnnotationAssertion(rdfs:label obo:DIGITRUBBER_000564 "Kinematische Viskosität [dik]"@de)
-SubClassOf(obo:DIGITRUBBER_000564 obo:BFO_0000019)
-
-# Class: obo:DIGITRUBBER_000565 (Kinematische Viskosität [uo])
-
-AnnotationAssertion(obo:IAO_0000115 obo:DIGITRUBBER_000565 "The ratio of the dynamic viscosity (μ) over the density of the fluid (ρ), which is noted as (length)^2/time. https://en.wikipedia.org/wiki/Viscosity#Kinematic_viscosity"^^xsd:string)
-AnnotationAssertion(obo:IAO_0000119 obo:DIGITRUBBER_000565 "http://purl.obolibrary.org/obo/uo.owl"^^xsd:string)
-AnnotationAssertion(obo:IAO_0000412 obo:DIGITRUBBER_000565 "http://purl.obolibrary.org/obo/UO_01200023"^^xsd:string)
-AnnotationAssertion(rdfs:label obo:DIGITRUBBER_000565 "Kinematic Viscosity [uo]"@en)
-AnnotationAssertion(rdfs:label obo:DIGITRUBBER_000565 "Kinematische Viskosität [uo]"@de)
-SubClassOf(obo:DIGITRUBBER_000565 obo:BFO_0000019)
+SubClassOf(obo:DIGITRUBBER_000564 obo:UO_0000256)
 
 # Class: obo:DIGITRUBBER_000566 (Erstarrungspunkt [dik])
 
@@ -5041,7 +4970,7 @@ SubClassOf(obo:DIGITRUBBER_000608 obo:CHEBI_24431)
 
 AnnotationAssertion(rdfs:label obo:DIGITRUBBER_000609 "Percent [dik]"@en)
 AnnotationAssertion(rdfs:label obo:DIGITRUBBER_000609 "Prozent [dik]"@de)
-SubClassOf(obo:DIGITRUBBER_000609 obo:BFO_0000019)
+SubClassOf(obo:DIGITRUBBER_000609 obo:UO_0000190)
 
 # Class: obo:DIGITRUBBER_000610 (Percent [uo])
 
@@ -5050,7 +4979,7 @@ AnnotationAssertion(obo:IAO_0000119 obo:DIGITRUBBER_000610 "http://purl.obolibra
 AnnotationAssertion(obo:IAO_0000412 obo:DIGITRUBBER_000610 "http://purl.obolibrary.org/obo/UO_0000187"^^xsd:string)
 AnnotationAssertion(rdfs:label obo:DIGITRUBBER_000610 "Percent [uo]"@en)
 AnnotationAssertion(rdfs:label obo:DIGITRUBBER_000610 "Prozent [uo]"@de)
-SubClassOf(obo:DIGITRUBBER_000610 obo:BFO_0000019)
+SubClassOf(obo:DIGITRUBBER_000610 obo:UO_0000190)
 
 # Class: obo:DIGITRUBBER_000611 (Prozent [om])
 
@@ -5065,7 +4994,7 @@ SubClassOf(obo:DIGITRUBBER_000611 obo:BFO_0000019)
 
 AnnotationAssertion(rdfs:label obo:DIGITRUBBER_000612 "Ratio [dik]"@en)
 AnnotationAssertion(rdfs:label obo:DIGITRUBBER_000612 "Verhältnis [dik]"@de)
-SubClassOf(obo:DIGITRUBBER_000612 obo:BFO_0000019)
+SubClassOf(obo:DIGITRUBBER_000612 obo:UO_0000186)
 
 # Class: obo:DIGITRUBBER_000613 (Ratio [ncit])
 
@@ -5074,7 +5003,7 @@ AnnotationAssertion(obo:IAO_0000119 obo:DIGITRUBBER_000613 "http://purl.obolibra
 AnnotationAssertion(obo:IAO_0000412 obo:DIGITRUBBER_000613 "http://purl.obolibrary.org/obo/NCIT_C44256"^^xsd:string)
 AnnotationAssertion(rdfs:label obo:DIGITRUBBER_000613 "Ratio [ncit]"@en)
 AnnotationAssertion(rdfs:label obo:DIGITRUBBER_000613 "Verhältnis [ncit]"@de)
-SubClassOf(obo:DIGITRUBBER_000613 obo:BFO_0000019)
+SubClassOf(obo:DIGITRUBBER_000613 obo:UO_0000186)
 
 # Class: obo:DIGITRUBBER_000614 (Ratio [uo])
 
@@ -5083,7 +5012,7 @@ AnnotationAssertion(obo:IAO_0000119 obo:DIGITRUBBER_000614 "http://purl.obolibra
 AnnotationAssertion(obo:IAO_0000412 obo:DIGITRUBBER_000614 "http://purl.obolibrary.org/obo/UO_0010006"^^xsd:string)
 AnnotationAssertion(rdfs:label obo:DIGITRUBBER_000614 "Ratio [uo]"@en)
 AnnotationAssertion(rdfs:label obo:DIGITRUBBER_000614 "Verhältnis [uo]"@de)
-SubClassOf(obo:DIGITRUBBER_000614 obo:BFO_0000019)
+SubClassOf(obo:DIGITRUBBER_000614 obo:UO_0000190)
 
 # Class: obo:DIGITRUBBER_000615 (Ratio [uo])
 
@@ -5092,7 +5021,7 @@ AnnotationAssertion(obo:IAO_0000119 obo:DIGITRUBBER_000615 "http://purl.obolibra
 AnnotationAssertion(obo:IAO_0000412 obo:DIGITRUBBER_000615 "http://purl.obolibrary.org/obo/UO_0000190"^^xsd:string)
 AnnotationAssertion(rdfs:label obo:DIGITRUBBER_000615 "Ratio [uo]"@en)
 AnnotationAssertion(rdfs:label obo:DIGITRUBBER_000615 "Verhältnis [uo]"@de)
-SubClassOf(obo:DIGITRUBBER_000615 obo:BFO_0000019)
+SubClassOf(obo:DIGITRUBBER_000615 obo:UO_0000186)
 
 # Class: obo:DIGITRUBBER_000616 (Verhältnis [ms])
 
@@ -5122,22 +5051,22 @@ SubClassOf(obo:DIGITRUBBER_000618 obo:BFO_0000019)
 
 AnnotationAssertion(rdfs:label obo:DIGITRUBBER_000619 "Mass Percentage [dik]"@en)
 AnnotationAssertion(rdfs:label obo:DIGITRUBBER_000619 "Massenanteil [dik]"@de)
-SubClassOf(obo:DIGITRUBBER_000619 obo:BFO_0000019)
+SubClassOf(obo:DIGITRUBBER_000619 obo:UO_0000051)
 
-# Class: obo:DIGITRUBBER_000620 (Massenanteil [uo])
+# Class: obo:DIGITRUBBER_000620 (Mass Percentage [uo])
 
 AnnotationAssertion(obo:IAO_0000115 obo:DIGITRUBBER_000620 "A dimensionless concentration unit which denotes the mass of a substance in a mixture as a percentage of the mass of the entire mixture.\" [Wikipedia:Wikipedia]"^^xsd:string)
 AnnotationAssertion(obo:IAO_0000119 obo:DIGITRUBBER_000620 "http://purl.obolibrary.org/obo/uo.owl"^^xsd:string)
 AnnotationAssertion(obo:IAO_0000412 obo:DIGITRUBBER_000620 "http://purl.obolibrary.org/obo/UO_0000163"^^xsd:string)
 AnnotationAssertion(rdfs:label obo:DIGITRUBBER_000620 "Mass Percentage [uo]"@en)
 AnnotationAssertion(rdfs:label obo:DIGITRUBBER_000620 "Massenanteil [uo]"@de)
-SubClassOf(obo:DIGITRUBBER_000620 obo:BFO_0000019)
+SubClassOf(obo:DIGITRUBBER_000620 obo:UO_0000051)
 
 # Class: obo:DIGITRUBBER_000621 (Volume Percentage [dik])
 
 AnnotationAssertion(rdfs:label obo:DIGITRUBBER_000621 "Volume Percentage [dik]"@en)
 AnnotationAssertion(rdfs:label obo:DIGITRUBBER_000621 "Volumenprozent [dik]"@de)
-SubClassOf(obo:DIGITRUBBER_000621 obo:BFO_0000019)
+SubClassOf(obo:DIGITRUBBER_000621 obo:UO_0000205)
 
 # Class: obo:DIGITRUBBER_000622 (Volumenprozent [uo])
 
@@ -5146,7 +5075,7 @@ AnnotationAssertion(obo:IAO_0000119 obo:DIGITRUBBER_000622 "http://purl.obolibra
 AnnotationAssertion(obo:IAO_0000412 obo:DIGITRUBBER_000622 "http://purl.obolibrary.org/obo/UO_0000165"^^xsd:string)
 AnnotationAssertion(rdfs:label obo:DIGITRUBBER_000622 "Volume Percentage [uo]"@en)
 AnnotationAssertion(rdfs:label obo:DIGITRUBBER_000622 "Volumenprozent [uo]"@de)
-SubClassOf(obo:DIGITRUBBER_000622 obo:BFO_0000019)
+SubClassOf(obo:DIGITRUBBER_000622 obo:UO_0000205)
 
 # Class: obo:DIGITRUBBER_000623 (Konzentration von [dik])
 
@@ -5264,6 +5193,55 @@ AnnotationAssertion(obo:IAO_0000412 obo:DIGITRUBBER_000637 "http://purl.obolibra
 AnnotationAssertion(rdfs:label obo:DIGITRUBBER_000637 "Optical Quality [pato]"@en)
 AnnotationAssertion(rdfs:label obo:DIGITRUBBER_000637 "optische Qualität [dik]"@de)
 SubClassOf(obo:DIGITRUBBER_000637 obo:BFO_0000019)
+
+# Class: obo:UO_0000000 (unit [sd])
+
+AnnotationAssertion(obo:IAO_0000115 obo:UO_0000000 "A property representing the unit of measure in which a nutrient or food component is typically expressed, ex., gram (g), minigram (mg), microgram (mcg), joule, or kilojoule."^^xsd:string)
+AnnotationAssertion(obo:IAO_0000115 obo:UO_0000000 "A single system element (e.g., extruder 1, tool 1) within an entity sub-group in the system under investigation."^^xsd:string)
+AnnotationAssertion(obo:IAO_0000115 obo:UO_0000000 "A single undivided thing occurring in the composition of something else."^^xsd:string)
+AnnotationAssertion(obo:IAO_0000115 obo:UO_0000000 "A unit of measurement is a standardized quantity of a physical quality.\" [Wikipedia:Wikipedia]"^^xsd:string)
+AnnotationAssertion(obo:IAO_0000115 obo:UO_0000000 "Class designed to distinguish the different types of units that are available in variables from datasets or parameters"^^xsd:string)
+AnnotationAssertion(obo:IAO_0000115 obo:UO_0000000 "The property used in conjunction with a nutrient or food component, typically expressed in gram (g), milligram (mg), microgram (mcg), joule, or kilojoule."^^xsd:string)
+AnnotationAssertion(obo:IAO_0000119 obo:UO_0000000 "http://purl.obolibrary.org/obo/NCIT_C44278"^^xsd:string)
+AnnotationAssertion(obo:IAO_0000119 obo:UO_0000000 "http://purl.obolibrary.org/obo/NCIT_C68553"^^xsd:string)
+AnnotationAssertion(obo:IAO_0000119 obo:UO_0000000 "http://purl.obolibrary.org/obo/NCIT_P355"^^xsd:string)
+AnnotationAssertion(obo:IAO_0000119 obo:UO_0000000 "http://purl.obolibrary.org/obo/UO_0000000"^^xsd:string)
+AnnotationAssertion(obo:IAO_0000119 obo:UO_0000000 "https://w3id.org/okn/o/sd#Unit"^^xsd:string)
+AnnotationAssertion(obo:IAO_0000412 obo:UO_0000000 "http://purl.obolibrary.org/obo/ncit.owl"^^xsd:string)
+AnnotationAssertion(obo:IAO_0000412 obo:UO_0000000 "http://purl.obolibrary.org/obo/uo.owl"^^xsd:string)
+AnnotationAssertion(obo:IAO_0000412 obo:UO_0000000 "https://w3id.org/okn/o/sd"^^xsd:string)
+AnnotationAssertion(rdfs:label obo:UO_0000000 "einheit [hsh]"@de)
+AnnotationAssertion(rdfs:label obo:UO_0000000 "einheit [ncti]"@de)
+AnnotationAssertion(rdfs:label obo:UO_0000000 "einheit [sd]"@de)
+AnnotationAssertion(rdfs:label obo:UO_0000000 "einheit [uo]"@de)
+AnnotationAssertion(rdfs:label obo:UO_0000000 "unit [hsh]"@en)
+AnnotationAssertion(rdfs:label obo:UO_0000000 "unit [ncti]"@en)
+AnnotationAssertion(rdfs:label obo:UO_0000000 "unit [sd]"@en)
+AnnotationAssertion(rdfs:label obo:UO_0000000 "unit [uo]"@en)
+SubClassOf(obo:UO_0000000 obo:IAO_0000030)
+
+# Class: obo:UO_0000046 (prefix)
+
+AnnotationAssertion(rdfs:label obo:UO_0000046 "prefix"@en)
+SubClassOf(obo:UO_0000046 obo:IAO_0000030)
+
+# Class: obo:UO_0000256 (Viscosity Unit [uo])
+
+AnnotationAssertion(obo:IAO_0000115 obo:UO_0000256 "A unit which is a standard measure of the internal resistance of fluids to flow.\" [UOC:GVG]"^^xsd:string)
+AnnotationAssertion(obo:IAO_0000119 obo:UO_0000256 "http://purl.obolibrary.org/obo/uo.owl"^^xsd:string)
+AnnotationAssertion(obo:IAO_0000412 obo:UO_0000256 "http://purl.obolibrary.org/obo/UO_0000256"^^xsd:string)
+AnnotationAssertion(rdfs:label obo:UO_0000256 "Viscosity Unit [uo]"@en)
+AnnotationAssertion(rdfs:label obo:UO_0000256 "Viskositätseinheit [uo]"@de)
+SubClassOf(obo:UO_0000256 obo:UO_0000000)
+
+# Class: obo:UO_01200023 (Kinematic Viscosity [uo])
+
+AnnotationAssertion(obo:IAO_0000115 obo:UO_01200023 "The ratio of the dynamic viscosity (μ) over the density of the fluid (ρ), which is noted as (length)^2/time. https://en.wikipedia.org/wiki/Viscosity#Kinematic_viscosity"^^xsd:string)
+AnnotationAssertion(obo:IAO_0000119 obo:UO_01200023 "http://purl.obolibrary.org/obo/uo.owl"^^xsd:string)
+AnnotationAssertion(obo:IAO_0000412 obo:UO_01200023 "http://purl.obolibrary.org/obo/UO_01200023"^^xsd:string)
+AnnotationAssertion(rdfs:label obo:UO_01200023 "Kinematic Viscosity [uo]"@en)
+AnnotationAssertion(rdfs:label obo:UO_01200023 "Kinematische Viskosität [uo]"@de)
+SubClassOf(obo:UO_01200023 obo:UO_0000256)
 
 
 )
