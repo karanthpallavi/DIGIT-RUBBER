@@ -9,10 +9,11 @@ Prefix(dcterms:=<http://purl.org/dc/terms/>)
 
 
 Ontology(<http://purl.obolibrary.org/obo/DIGIT-RUBBER.owl>
+Import(<http://purl.obolibrary.org/obo/DIGIT-RUBBER/components/digitrubber_terms.owl>)
 Import(<http://purl.obolibrary.org/obo/DIGIT-RUBBER/imports/pato_import.owl>)
 Import(<http://purl.obolibrary.org/obo/DIGIT-RUBBER/imports/po_import.owl>)
 Import(<http://purl.obolibrary.org/obo/DIGIT-RUBBER/imports/ro_import.owl>)
-Import(<http://purl.obolibrary.org/obo/DIGIT-RUBBER/releases/2022-10-24/components/digitrubber_terms.owl>)
+Import(<http://www.semanticweb.org/luis/ontologies/2022/3/untitled-ontology-55>)
 Annotation(dcterms:description "None")
 Annotation(dcterms:license <https://creativecommons.org/licenses/unspecified>)
 Annotation(dcterms:title "DIGIT-RUBBER Ontology")
