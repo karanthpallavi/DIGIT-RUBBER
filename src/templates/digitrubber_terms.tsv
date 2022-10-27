@@ -603,6 +603,7 @@ obo:DIGITRUBBER_000601	Organodiyl Group [chebi]		http://purl.obolibrary.org/obo/
 obo:DIGITRUBBER_000602	Organic Divalent Group [dik]		http://purl.obolibrary.org/obo/CHEBI_33247						
 obo:DIGITRUBBER_000603	Organic Group [dik]	Organik-Gruppe [dik]	http://purl.obolibrary.org/obo/CHEBI_24433						
 obo:DIGITRUBBER_000604	Organic Group [chebi]	Organik-Gruppe [chebi]	http://purl.obolibrary.org/obo/CHEBI_24433	Any substituent group or skeleton containing carbon.	http://purl.obolibrary.org/obo/CHEBI_33247	http://purl.obolibrary.org/obo/chebi.owl			
+http://purl.obolibrary.org/obo/CHEBI_24431			http://purl.obolibrary.org/obo/BFO_0000040						
 obo:DIGITRUBBER_000605	Group [dik]	Gruppe [dik]	http://purl.obolibrary.org/obo/CHEBI_24431						
 obo:DIGITRUBBER_000606	Group [ncit]	Gruppe [ncit]	http://purl.obolibrary.org/obo/CHEBI_24431	Any number of entities (members) considered as a unit.	http://purl.obolibrary.org/obo/NCIT_C43359	http://purl.obolibrary.org/obo/ncit.owl			
 obo:DIGITRUBBER_000607	Group [chebi]	Gruppe [chebi]	http://purl.obolibrary.org/obo/CHEBI_24431	A defined linked collection of atoms or a single atom within a molecular entity.	http://purl.obolibrary.org/obo/CHEBI_24433	http://purl.obolibrary.org/obo/chebi.owl			
