@@ -4,7 +4,6 @@
 
 Description: DigitRubber Ontology
 
-More information can be found at http://obofoundry.org/ontology/digitrubber
 
 ## Versions
 
@@ -12,7 +11,8 @@ More information can be found at http://obofoundry.org/ontology/digitrubber
 
 The latest version of the ontology can always be found at:
 
-http://purl.obolibrary.org/obo/digitrubber.owl
+[DigitRubber](./digitrubber.owl)
+[DigitRubber-Full](./digitrubber-full.owl)
 
 (note this will not show up until the request has been approved by obofoundry.org)
 
