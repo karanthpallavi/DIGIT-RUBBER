@@ -13,7 +13,7 @@ nohup.out
 
 src/ontology/mirror
 src/ontology/mirror/*
-src/ontology/reports/*
+# src/ontology/reports/*
 src/ontology/digitrubber.owl
 src/ontology/digitrubber.obo
 src/ontology/digitrubber.json
