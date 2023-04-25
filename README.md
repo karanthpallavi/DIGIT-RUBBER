@@ -4,6 +4,7 @@
 
 Description: DigitRubber Ontology
 
+Document: [DigitRubber Documentation](https://tibhannover.github.io/DIGIT-RUBBER/)
 
 ## Versions
 
