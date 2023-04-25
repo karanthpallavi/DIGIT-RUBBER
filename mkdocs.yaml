@@ -1,4 +1,4 @@
-site_name: DIGIT-RUBBER Ontology
+site_name: DigitRubber Ontology
 theme:
   name: material
   features:
@@ -17,8 +17,8 @@ markdown_extensions:
   - pymdownx.mark
   - pymdownx.tilde
 
-site_url: https://cmungall.github.io/DIGIT-RUBBER/
-repo_url: https://github.com/cmungall/DIGIT-RUBBER/
+site_url: https://vyasakhilesh.github.io/digitrubber/
+repo_url: https://github.com/vyasakhilesh/digitrubber/
 
 nav:
   - Getting started: index.md
@@ -33,6 +33,7 @@ nav:
           - Imports management: odk-workflows/UpdateImports.md
           - Components management: odk-workflows/components.md
           - Managing the documentation: odk-workflows/ManageDocumentation.md
+          - Managing your automated testing: odk-workflows/ManageAutomatedTest.md
           - Continuous Integration: odk-workflows/ContinuousIntegration.md
           - Your ODK Repository Overview: odk-workflows/RepositoryFileStructure.md 
       - Contributing: contributing.md

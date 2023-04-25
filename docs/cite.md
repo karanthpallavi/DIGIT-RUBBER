@@ -1,1 +1,1 @@
-# How to cite DIGIT-RUBBER
+# How to cite DIGITRUBBER

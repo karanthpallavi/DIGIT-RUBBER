@@ -1,1 +1,1 @@
-# How to contribute to DIGIT-RUBBER
+# How to contribute to DIGITRUBBER

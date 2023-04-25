@@ -1,18 +1,18 @@
 Metadata files for the OBO Library
 
- * [DIGIT-RUBBER.yml](DIGIT-RUBBER.yml)
-     * Determines how your purl.obolibrary.org/obo/DIGIT-RUBBER/ redirects will be handled
+ * [digitrubber.yml](digitrubber.yml)
+     * Determines how your purl.obolibrary.org/obo/digitrubber/ redirects will be handled
      * Go here: https://github.com/OBOFoundry/purl.obolibrary.org/tree/master/config
      * Click [New File](https://github.com/OBOFoundry/purl.obolibrary.org/new/master/config)
-     * Paste in the contents of [DIGIT-RUBBER.yml](DIGIT-RUBBER.yml)
+     * Paste in the contents of [digitrubber.yml](digitrubber.yml)
      * Click "Commit new file"
      * IMPORTANT: remember to make a pull request
      * An OBO admin will merge your Pull Request *providing it meets the requirements of the OBO library*
- * [DIGIT-RUBBER.md](DIGIT-RUBBER.md)
+ * [digitrubber.md](digitrubber.md)
      * Determines how your metadata is shown on OBO Library, OLS and AberOWL
      * Go here: https://github.com/OBOFoundry/OBOFoundry.github.io/tree/master/ontology
      * Click [New File](https://github.com/OBOFoundry/OBOFoundry.github.io/new/master/ontology)
-     * Paste in the contents of [DIGIT-RUBBER.md](DIGIT-RUBBER.md)
+     * Paste in the contents of [digitrubber.md](digitrubber.md)
      * Click "Commit new file"
      * IMPORTANT: remember to make a pull request
      * An OBO admin will merge your Pull Request *providing it meets the requirements of the OBO library*

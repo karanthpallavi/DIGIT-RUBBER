@@ -1,23 +1,27 @@
 .DS_Store
+.ipynb_checkpoints
 semantic.cache
 bin/
+nohup.out
 
 *.tmp
 *.tmp.obo
 *.tmp.owl
 *.tmp.json
 
+.github/token.txt
+
 src/ontology/mirror
 src/ontology/mirror/*
 src/ontology/reports/*
-src/ontology/DIGIT-RUBBER.owl
-src/ontology/DIGIT-RUBBER.obo
-src/ontology/DIGIT-RUBBER.json
-src/ontology/DIGIT-RUBBER-base.*
-src/ontology/DIGIT-RUBBER-basic.*
-src/ontology/DIGIT-RUBBER-full.*
-src/ontology/DIGIT-RUBBER-simple.*
-src/ontology/DIGIT-RUBBER-simple-non-classified.*
+src/ontology/digitrubber.owl
+src/ontology/digitrubber.obo
+src/ontology/digitrubber.json
+src/ontology/digitrubber-base.*
+src/ontology/digitrubber-basic.*
+src/ontology/digitrubber-full.*
+src/ontology/digitrubber-simple.*
+src/ontology/digitrubber-simple-non-classified.*
 
 src/ontology/seed.txt
 src/ontology/dosdp-tools.log
@@ -25,11 +29,18 @@ src/ontology/ed_definitions_merged.owl
 src/ontology/ontologyterms.txt
 src/ontology/simple_seed.txt
 src/ontology/patterns
-src/ontology/merged-DIGIT-RUBBER-edit.owl
+src/ontology/merged-digitrubber-edit.owl
 
+error.csv
+template_analysis/excels/*.*
+template_analysis/csvs/*.*
+template_analysis/csvs_close_label/*.*
 src/ontology/target/
 src/ontology/tmp/*
 !src/ontology/tmp/README.md
+
+src/ontology/run.sh.conf
+src/ontology/run.sh.env
 
 src/ontology/imports/*_terms_combined.txt
 
@@ -37,3 +48,7 @@ src/patterns/data/**/*.ofn
 src/patterns/data/**/*.txt
 src/patterns/pattern_owl_seed.txt
 src/patterns/all_pattern_terms.txt
+
+notes.txt
+logs.txt
+private
