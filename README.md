@@ -2,7 +2,7 @@
 ![Build Status](https://github.com/cmungall/DIGIT-RUBBER/workflows/CI/badge.svg)
 # DIGIT-RUBBER Ontology
 
-Description: None
+Description: DigitRubber ontology
 
 More information can be found at http://obofoundry.org/ontology/DIGIT-RUBBER
 
