@@ -1,0 +1,1517 @@
+Level	Rule Name	Subject	Property	Value
+ERROR	duplicate_definition	Torque (mixer) [om]	IAO:0000115	Torque is the effectiveness of a force to produce rotation about an axis, measured by the product of the force and the perpendicular distance from the line of action of the force to the axis.@en
+ERROR	duplicate_definition	Drehmoment [om]	IAO:0000115	Torque is the effectiveness of a force to produce rotation about an axis, measured by the product of the force and the perpendicular distance from the line of action of the force to the axis.@en
+ERROR	duplicate_definition	mixing [ncti]	IAO:0000115	To bring or combine together or with something else; add as an additional element or part.@en
+ERROR	duplicate_definition	(Mix) [ncit]	IAO:0000115	To bring or combine together or with something else; add as an additional element or part.@en
+ERROR	duplicate_definition	concentration [ecso]	IAO:0000115	the strength of a solution; number of molecules of a substance in a given volume@en
+ERROR	duplicate_definition	Konzentration [ecso]	IAO:0000115	the strength of a solution; number of molecules of a substance in a given volume@en
+ERROR	duplicate_definition	standard deviation [Wikipedia]	IAO:0000115	The standard deviation is a measure of the amount of variation or dispersion of a set of values. [Wikipedia]@en
+ERROR	duplicate_definition	Standard deviation [allotrope]	IAO:0000115	The standard deviation is a measure of the amount of variation or dispersion of a set of values. [Wikipedia]@en
+ERROR	duplicate_definition	concentration [ncit]	IAO:0000115	The quantity of a substance per unit volume or weight; a measure of the amount of substance present in a unit amount of mixture, particularly, the amount of solute dissolved in a solvent. The amounts can be expressed as moles, masses, volumes, or parts.@en
+ERROR	duplicate_definition	Konzentration [ncit]	IAO:0000115	The quantity of a substance per unit volume or weight; a measure of the amount of substance present in a unit amount of mixture, particularly, the amount of solute dissolved in a solvent. The amounts can be expressed as moles, masses, volumes, or parts.@en
+ERROR	duplicate_definition	concentration [edam]	IAO:0000115	The concentration of a chemical compound.@en
+ERROR	duplicate_definition	Konzentration [edam]	IAO:0000115	The concentration of a chemical compound.@en
+ERROR	duplicate_definition	zinc [ifnano]	IAO:0000115	The chemical element zinc@en
+ERROR	duplicate_definition	zinc [bwmd]	IAO:0000115	The chemical element zinc@en
+ERROR	duplicate_definition	Extrusion	IAO:0000115	Extrusion is a process used to create objects of a fixed cross-sectional profile by pushing material through a die of the desired cross-section.@en
+ERROR	duplicate_definition	extrusion [ifnano]	IAO:0000115	Extrusion is a process used to create objects of a fixed cross-sectional profile by pushing material through a die of the desired cross-section.@en
+ERROR	duplicate_definition	concentration [chmo]	IAO:0000115	Experimental method output expressing the contribution of one constituent to the composition of a mixture.@en
+ERROR	duplicate_definition	Konzentration [chmo]	IAO:0000115	Experimental method output expressing the contribution of one constituent to the composition of a mixture.@en
+ERROR	duplicate_definition	data mining [edam]	IAO:0000115	An information set with a regular structure. Although it can be applied to any set of information the term was invented to refer to computerized data, and is used almost exclusively in computing.@en
+ERROR	duplicate_definition	database [ncti]	IAO:0000115	An information set with a regular structure. Although it can be applied to any set of information the term was invented to refer to computerized data, and is used almost exclusively in computing.@en
+ERROR	duplicate_definition	extrusion [rex]	IAO:0000115	A transformation in which an atom or group Y connected to two other atoms or groups X and Z is lost from a molecule, leading to a product in which X is bonded to Z, e.g. X-Y-Z --> X-Z + Y.@en
+ERROR	duplicate_definition	extrusion [rex]	IAO:0000115	A transformation in which an atom or group Y connected to two other atoms or groups X and Z is lost from a molecule, leading to a product in which X is bonded to Z, e.g. X-Y-Z --> X-Z + Y.@en
+ERROR	duplicate_definition	Extrudieren [rex]	IAO:0000115	A transformation in which an atom or group Y connected to two other atoms or groups X and Z is lost from a molecule, leading to a product in which X is bonded to Z, e.g. X-Y-Z --> X-Z + Y.@en
+ERROR	duplicate_definition	Polymer [proco]	IAO:0000115	A substance or material consisting of very large molecules, or macromolecules, composed of many repeating subunits.@en
+ERROR	duplicate_definition	Polymer [proco]	IAO:0000115	A substance or material consisting of very large molecules, or macromolecules, composed of many repeating subunits.@en
+ERROR	duplicate_definition	Polymer [ncit]	IAO:0000115	A substance made up of variable numbers of repeating structural units linked through covalent bonds.@en
+ERROR	duplicate_definition	Polymer [ncit]	IAO:0000115	A substance made up of variable numbers of repeating structural units linked through covalent bonds.@en
+ERROR	duplicate_definition	extrusion [chmo]	IAO:0000115	A process used to create objects of a fixed cross-sectional profile by forcing or drawing a material through a die.@en
+ERROR	duplicate_definition	extrusion [chmo]	IAO:0000115	A process used to create objects of a fixed cross-sectional profile by forcing or drawing a material through a die.@en
+ERROR	duplicate_definition	Extrudieren [chmo]	IAO:0000115	A process used to create objects of a fixed cross-sectional profile by forcing or drawing a material through a die.@en
+ERROR	duplicate_definition	standard deviation [ncit]	IAO:0000115	A measure of the range of values in a set of numbers. Standard deviation is a statistic used as a measure of the dispersion or variation in a distribution, equal to the square root of the arithmetic mean of the squares of the deviations from the arithmetic mean.@en
+ERROR	duplicate_definition	Standard deviation [ncit]	IAO:0000115	A measure of the range of values in a set of numbers. Standard deviation is a statistic used as a measure of the dispersion or variation in a distribution, equal to the square root of the arithmetic mean of the squares of the deviations from the arithmetic mean.@en
+ERROR	duplicate_definition	supervised learning [obi]	IAO:0000115	A machine learning process using a function that maps an input to an output based on example input-output pairs. It infers a function from labeled training data consisting of a set of training examples.@en
+ERROR	duplicate_definition	Supervised learning [obi]	IAO:0000115	A machine learning process using a function that maps an input to an output based on example input-output pairs. It infers a function from labeled training data consisting of a set of training examples.@en
+ERROR	duplicate_definition	unsupervised learning [obi]	IAO:0000115	"A machine learning process that infers a function describing the structure of \""unlabeled\"" data (i.e. data that has not been classified or categorized).@en"
+ERROR	duplicate_definition	Unsupervised learning [obi]	IAO:0000115	"A machine learning process that infers a function describing the structure of \""unlabeled\"" data (i.e. data that has not been classified or categorized).@en"
+ERROR	duplicate_definition	Data Mining	IAO:0000115	A Database is a System for describing, storing and retrieving large amounts of data.@en
+ERROR	duplicate_definition	Datenbank	IAO:0000115	A Database is a System for describing, storing and retrieving large amounts of data.@en
+ERROR	duplicate_definition	millimeter [nist]	IAO:0000115	"\""A length unit which is equal to one thousandth of a meter or 10^[-3] m.\"" [NIST:NIST]@en"
+ERROR	duplicate_definition	millimeter [uo]	IAO:0000115	"\""A length unit which is equal to one thousandth of a meter or 10^[-3] m.\"" [NIST:NIST]@en"
+ERROR	duplicate_label	Ratio [uo]	rdfs:label	Verhältnis [uo]@de
+ERROR	duplicate_label	Ratio [uo]	rdfs:label	Verhältnis [uo]@de
+ERROR	duplicate_label	einheit [ncti]	rdfs:label	unit [ncti]@en
+ERROR	duplicate_label	unit [ncti]	rdfs:label	unit [ncti]@en
+ERROR	duplicate_label	einheit [ncti]	rdfs:label	unit [ncti]@en
+ERROR	duplicate_label	Stearic Acid [dik]	rdfs:label	Stearinsäure [dik]@de
+ERROR	duplicate_label	Stearic Acid [ncit]	rdfs:label	Stearinsäure [dik]@de
+ERROR	duplicate_label	Ratio [uo]	rdfs:label	Ratio [uo]@en
+ERROR	duplicate_label	Ratio [uo]	rdfs:label	Ratio [uo]@en
+ERROR	duplicate_label	Polymer [proco]	rdfs:label	Polymer [proco]@en
+ERROR	duplicate_label	Polymer [proco]	rdfs:label	Polymer [proco]@en
+ERROR	duplicate_label	Polymer [ncit]	rdfs:label	Polymer [ncit]@en
+ERROR	duplicate_label	Polymer [ncit]	rdfs:label	Polymer [ncit]@en
+ERROR	duplicate_label	Polymer [chebi]	rdfs:label	Polymer [chebi]@en
+ERROR	duplicate_label	Polymer [chebi]	rdfs:label	Polymer [chebi]@en
+ERROR	duplicate_label	Optical Quality [dik]	rdfs:label	optische Qualität [dik]@de
+ERROR	duplicate_label	Optical Quality [pato]	rdfs:label	optische Qualität [dik]@de
+ERROR	duplicate_label	building [bwmd]	rdfs:label	gebäude@de
+ERROR	duplicate_label	building [allotrope]	rdfs:label	gebäude@de
+ERROR	duplicate_label	building [ncit]	rdfs:label	gebäude@de
+ERROR	duplicate_label	gebäude	rdfs:label	gebäude@de
+ERROR	duplicate_label	extrusion [rex]	rdfs:label	extrusion [rex]@en
+ERROR	duplicate_label	extrusion [rex]	rdfs:label	extrusion [rex]@en
+ERROR	duplicate_label	extrusion [chmo]	rdfs:label	extrusion [chmo]@en
+ERROR	duplicate_label	extrusion [chmo]	rdfs:label	extrusion [chmo]@en
+ERROR	duplicate_label	einheit [ncti]	rdfs:label	einheit [ncti]@de
+ERROR	duplicate_label	unit [ncti]	rdfs:label	einheit [ncti]@de
+ERROR	duplicate_label	einheit [ncti]	rdfs:label	einheit [ncti]@de
+ERROR	duplicate_label	count [allotrope]	rdfs:label	count [allotrope]@en
+ERROR	duplicate_label	count [allotrope]	rdfs:label	count [allotrope]@en
+ERROR	multiple_definitions	Agglomerat [dik]	IAO:0000115	Group of interlocked aggregates that are easily separated by normal rubber processing@en
+ERROR	multiple_definitions	Agglomerat [dik]	IAO:0000115	Verbund von zusammenhängenden Aggregaten, die bei normaler Kautschukverarbeitung leicht getrennt werden können@de
+ERROR	multiple_definitions	Aggregate [dik]	IAO:0000115	Rigid group of coalesced particles which is the smallest entity that can be dispersed by normal rubber processing@en
+ERROR	multiple_definitions	Aggregate [dik]	IAO:0000115	Starre Gruppe von koaleszierten Partikeln, welche die kleinste Einheit ist, die bei normaler Kautschukverarbeitung dispergiert werden kann@de
+ERROR	multiple_definitions	Particle [dik]	IAO:0000115	Kleinste erkennbare sphärische oder beinahe sphärische Einheit, die als solche einzeln existieren kann@de
+ERROR	multiple_definitions	Particle [dik]	IAO:0000115	Smallest discernible spherical or nearly spherical unit which can exist separately@en
+ERROR	multiple_definitions	Polymer [dik]	IAO:0000115	Substanz, aufgebaut aus Molekülen, die gekennzeichnet sind durch eine Vielzahl von einer oder mehreren Arten von Atomen oder Atom-Gruppierungen (konstitutive Einheiten), die wiederholt aneinandergereiht sind, in einer Menge, so dass ein gewünschtes Eigenschaftsbild erlangt wird, das sich durch die Addition oder die Entfernung einer oder mehrerer konstitutioneller Einheiten nicht wesentlich ändert@de
+ERROR	multiple_definitions	Polymer [dik]	IAO:0000115	substance composed of molecules characterized by the multiple repetition of one or more species of atoms or groups of atoms (constitutional units) linked to each other in amounts sufficient to provide a set of properties that do not vary markedly with the addition or removal of one or a few of the constitutional units@en
+ERROR	multiple_definitions	Rohkautschuk [dik]	IAO:0000115	Natur- oder synthetischer Kautschuk, gewöhnlich in Ballen- oder Paketform, welcher das Ausgangsmaterial für die Herstellung von Gummiprodukten darstellt@de
+ERROR	multiple_definitions	Rohkautschuk [dik]	IAO:0000115	natural or synthetic rubber, usually in bales or packages, forming the starting material for the manufacture of rubber products@en
+ERROR	multiple_definitions	Synthesekautschuk [dik]	IAO:0000115	Kautschuk, der durch nicht biologische Polymerisation eines oder mehrerer Monomere hergestellt wird@de
+ERROR	multiple_definitions	Synthesekautschuk [dik]	IAO:0000115	rubber produced by non-biologically polymerizing one or more monomers@en
+ERROR	multiple_definitions	M-Gruppe Kautschuk [dik]	IAO:0000115	Kautschuk mit einer gesättigten Kohlenstoffkette vom Polymethylen-Typ@de
+ERROR	multiple_definitions	M-Gruppe Kautschuk [dik]	IAO:0000115	Rubber with a saturated carbon chain of the polymethylene type@en
+ERROR	multiple_definitions	Ethylen-Propylen-Dien-‎Kautschuk ‎[dik]	IAO:0000115	Terpolymer aus Ethylen, Propylen und einem Dien mit dem restlichen ungesättigten Anteil des polymerisierten Diens in der Seitenkette@de
+ERROR	multiple_definitions	Ethylen-Propylen-Dien-‎Kautschuk ‎[dik]	IAO:0000115	Terpolymer of ethylene, propylene and a diene with the remaining unsaturated portion of the polymerized diene in the side chain@en
+ERROR	multiple_definitions	Dienkautschuk [dik]	IAO:0000115	Kautschuktyp, der eine ungesättigte Kohlenstoffhauptkette hat, die zumeist auf Butadien oder substituiertem Butadien basiert@de
+ERROR	multiple_definitions	Dienkautschuk [dik]	IAO:0000115	type of rubber having an unsaturated carbon main chain derived mostly from butadiene or a substituted butadiene@en
+ERROR	multiple_definitions	Keltan 5470C [dik]	IAO:0000115	Handelsname für ein spezifischen EPDM-Kautschuk@de
+ERROR	multiple_definitions	Keltan 5470C [dik]	IAO:0000115	Trade name for a specific EPDM rubber@en
+ERROR	multiple_definitions	Füllstoff [dik]	IAO:0000115	fester Mischungsbestandteil in Teilchenform, welcher aus technischen oder wirtschaftlichen Gründen zu einem relativ großen Anteil zu Kautschuk oder Kautschuklatex zugegeben werden kann@de
+ERROR	multiple_definitions	Füllstoff [dik]	IAO:0000115	solid compounding ingredient, in particulate form, which may be added in relatively large proportions to a rubber or rubber latex for technical or economic purposes@en
+ERROR	multiple_definitions	Carbon Black [dik]	IAO:0000115	Mischungsbestandteil, der im Wesentlichen aus mehr als 95 % elementaren Kohlenstoffs in der Form beinahe sphärischer Partikel mit maximalen Durchmessern kleiner als 1 μm besteht, im Allgemeinen zu Aggregaten koalesziert@de
+ERROR	multiple_definitions	Carbon Black [dik]	IAO:0000115	compounding ingredient consisting essentially of more than 95 % elemental carbon in the form of nearspherical particles with major diameters less than 1 μm, generally coalesced into aggregates@en
+ERROR	multiple_definitions	N-Carbon Black [dik]	IAO:0000115	"Der Buchstabe \""N\"" wird verwendet, um eine normale Vulkanisationsgeschwindigkeit anzugeben, die typisch ist für Furnace Blacks, die nicht speziell modifiziert wurden, um die Vulkanisierungsgeschwindigkeit zu ändern@de"
+ERROR	multiple_definitions	N-Carbon Black [dik]	IAO:0000115	The letter “N” is used to indicate a normal curing rate typical of furnace blacks that have received no special modification to alter their influence on the rate of cure of rubber.@en
+ERROR	multiple_definitions	S-Carbon Black [dik]	IAO:0000115	"Der Buchstabe \""S\"" wird für Channel Blacks oder für Furnace Blacks verwendet, die so modifiziert wurden, dass sie die Vulkanisationsgeschwindigkeit verringern.@de"
+ERROR	multiple_definitions	S-Carbon Black [dik]	IAO:0000115	The letter “S” is used for channel blacks or for furnace blacks that have been modified to effectively reduce the curing rate of rubber.@en
+ERROR	multiple_definitions	N600-Ruß [dik]	IAO:0000115	An N carbon black with an average nitrogen surface area of 33 to 39 m²/g.@en
+ERROR	multiple_definitions	N600-Ruß [dik]	IAO:0000115	Ein N-Ruß mit einer durchschnittlichen Stickstoff-Oberfläche von 33 bis 39 m²/g.@de
+ERROR	multiple_definitions	Corax N660 [dik]	IAO:0000115	Handelsname für ein spezifischen N600-Ruß@de
+ERROR	multiple_definitions	Corax N660 [dik]	IAO:0000115	Trade name for a specific N600-carbon black@en
+ERROR	multiple_definitions	Weichmacher ‎[dik]	IAO:0000115	Mischungsbestandteil, welcher in geringen Mengen verwendet wird, um die Viskosität einer unvulkanisierten Kautschukmischung oder die Härte eines Vulkanisats zu verringern@de
+ERROR	multiple_definitions	Weichmacher ‎[dik]	IAO:0000115	compounding ingredient used in small proportions to reduce the viscosity of an unvulcanized rubber mix or the hardness of a vulcanizate@en
+ERROR	multiple_definitions	Paraffinic Oil [dik]	IAO:0000115	Prozessöl aus Kohlenwasserstoffen, das größtenteils oder vollständig aus Alkanen besteht@de
+ERROR	multiple_definitions	Paraffinic Oil [dik]	IAO:0000115	hydrocarbon process oil, most or all of which is composed of alkanes@en
+ERROR	multiple_definitions	‎P460 [dik]	IAO:0000115	Handelsname für ein spezifisches Paraffinöl@de
+ERROR	multiple_definitions	‎P460 [dik]	IAO:0000115	Trade name for a specific paraffinic oil@en
+ERROR	multiple_definitions	Process Oil [dik]	IAO:0000115	hydrocarbon oil derived from petroleum or other sources and used as an extender or processing aid@en
+ERROR	multiple_definitions	Process Oil [dik]	IAO:0000115	Öl auf Basis von Kohlenwasserstoffen, welches aus Erdöl oder anderen Quellen stammt und als Extender oder Verarbeitungshilfsmittel eingesetzt wird@de
+ERROR	multiple_definitions	Processing Aid [dik]	IAO:0000115	Mischungsbestandteil, der die Verarbeitbarkeit einer Kautschukmischung verbessert@de
+ERROR	multiple_definitions	Processing Aid [dik]	IAO:0000115	compounding ingredient which improves the processability of a rubber compound or mix@en
+ERROR	multiple_definitions	Alterungsschutzmittel [dik]	IAO:0000115	Mischungsbestandteil zur Verzögerung einer alterungsbedingten Verschlechterung@de
+ERROR	multiple_definitions	Alterungsschutzmittel [dik]	IAO:0000115	compounding ingredient used to retard deterioration by ageing@en
+ERROR	multiple_definitions	Antilux 500‎ [dik]	IAO:0000115	Handelsname für ein spezifisches Alterungsschutzmittel@de
+ERROR	multiple_definitions	Antilux 500‎ [dik]	IAO:0000115	Trade name for a specific antidegradant@en
+ERROR	multiple_definitions	Activator [dik]	IAO:0000115	compounding ingredient used in small proportions to increase the effectiveness of an accelerator@en
+ERROR	multiple_definitions	Activator [dik]	IAO:0000115	in kleinen Mengen eingesetzter Mischungsbestandteil zur Erhöhung der Effektivität eines Beschleunigers@de
+ERROR	multiple_definitions	Zinkoxid Rotsiegel [dik]	IAO:0000115	Handelsname für ein spezifisches Zinkoxid@de
+ERROR	multiple_definitions	Zinkoxid Rotsiegel [dik]	IAO:0000115	Trade name for a specific zinc oxide@en
+ERROR	multiple_definitions	PALMERA B 1802-CG [dik]	IAO:0000115	Handelsname für eine spezifische Stearinsäure@de
+ERROR	multiple_definitions	PALMERA B 1802-CG [dik]	IAO:0000115	Trade name for a specific stearic acid@en
+ERROR	multiple_definitions	Beschleuniger [dik]	IAO:0000115	compounding ingredient used in small amounts with a vulcanizing agent to increase the speed of vulcanization and/or enhance the physical properties of the vulcanizate@en
+ERROR	multiple_definitions	Beschleuniger [dik]	IAO:0000115	in kleinen Mengen mit einem Vulkanisationsmittel eingesetzter Mischungsbestandteil zur Beschleunigung der Vulkanisationsgeschwindigkeit und/oder Verbesserung der physikalischen Eigenschaften des Vulkanisates@de
+ERROR	multiple_definitions	Primärbeschleuniger [dik]	IAO:0000115	in einem Vulkanisationssystem verwendeter Hauptbeschleuniger@de
+ERROR	multiple_definitions	Primärbeschleuniger [dik]	IAO:0000115	principal accelerator used in a vulcanizing system@en
+ERROR	multiple_definitions	Zweitbeschleuniger [dik]	IAO:0000115	Beschleuniger, der in niedrigen Konzentrationen zusammen mit dem Erstbeschleuniger eingesetzt wird, um Vernetzungsgeschwindigkeit und Vulkanisateigenschaften zu optimieren@de
+ERROR	multiple_definitions	Zweitbeschleuniger [dik]	IAO:0000115	accelerator used in low concentrations with the primary accelerator to optimize cure rate and vulcanizate properties@en
+ERROR	multiple_definitions	Vulkacit MBTS [dik]	IAO:0000115	Handelsname für ein spezifisches Di(benzothiazol-2-yl)disulfid@de
+ERROR	multiple_definitions	Vulkacit MBTS [dik]	IAO:0000115	Trade name for a specific di(benzothiazol-2-yl)disulfide@en
+ERROR	multiple_definitions	Luvomaxx TbzTD [dik]	IAO:0000115	Handelsname für ein spezifisches Tetrabenzylthiuramdisulfid@de
+ERROR	multiple_definitions	Luvomaxx TbzTD [dik]	IAO:0000115	Trade name for a specific tetrabenzylthiuramdisulfide@en
+ERROR	multiple_definitions	Rhenogran ‎ZBDC 80‎ [dik]	IAO:0000115	Handelsname für ein spezifisches Zink-Dibenzyldithiocarbamat@de
+ERROR	multiple_definitions	Rhenogran ‎ZBDC 80‎ [dik]	IAO:0000115	Trade name for a specific zinc dibenzyldithiocarbamate@en
+ERROR	multiple_definitions	Vulkanisationsmittel [dik]	IAO:0000115	Mischungsbestandteil, der die Vernetzung des Kautschuks bewirkt@de
+ERROR	multiple_definitions	Vulkanisationsmittel [dik]	IAO:0000115	compounding ingredient that produces crosslinking in rubber@en
+ERROR	multiple_definitions	Vulcanizing System [dik]	IAO:0000115	Kombination aus Vulkanisationsmittel und, falls erforderlich, Beschleunigern, Aktivatoren, Verzögerern, etc., die verwendet wird, um die gewünschte Vulkanisationscharakteristik und Vulkanisateigenschaften herzustellen@de
+ERROR	multiple_definitions	Vulcanizing System [dik]	IAO:0000115	combination of vulcanizing agent and, as required, accelerators, activators, retarders, etc., used to produce the desired vulcanization characteristics and vulcanizate properties@en
+ERROR	multiple_definitions	Vernetzungsgeschwindigkeit [dik]	IAO:0000115	Geschwindigkeit, mit der eine Kautschukmischung nach Einsetzen der initialen Vulkanisation weitervernetzt@de
+ERROR	multiple_definitions	Vernetzungsgeschwindigkeit [dik]	IAO:0000115	rate at which a rubber compound vulcanizes after having reached the point of incipient vulcanization@en
+ERROR	multiple_definitions	Retarder [dik]	IAO:0000115	Mischungsbestandteil, eingesetzt zur Verringerung der Tendenz einer Kautschukmischung, vorzeitig zu vulkanisieren@de
+ERROR	multiple_definitions	Retarder [dik]	IAO:0000115	compounding ingredient used to reduce the tendency of a rubber compound to vulcanize prematurely@en
+ERROR	multiple_definitions	PHR [dik]	IAO:0000115	Masse an Mischungsbestandteilen, die zu 100 Masseeinheiten Kautschuk hinzugefügt werden@de
+ERROR	multiple_definitions	PHR [dik]	IAO:0000115	mass of compounding ingredient added to one hundred mass units of elastomer@en
+ERROR	multiple_definitions	Rezeptur [dik]	IAO:0000115	Liste der Mischungsbestandteile und ihrer Mengenverhältnisse, die bei der Herstellung einer Mischung verwendet werden@de
+ERROR	multiple_definitions	Rezeptur [dik]	IAO:0000115	list of compounding ingredients and their proportions, used in the preparation of a compound@en
+ERROR	multiple_definitions	Compounding Ingredient [dik]	IAO:0000115	Substanz, die zu einem Kautschuk oder einem Latex gegeben wird, um eine Mischung herzustellen@de
+ERROR	multiple_definitions	Compounding Ingredient [dik]	IAO:0000115	substance added to a rubber or rubber latex to form a mix@en
+ERROR	multiple_definitions	Mischung [dik]	IAO:0000115	gründliche Mischung von Kautschuken oder anderen polymerbildenden Materialien mit allen Bestandteilen, die für das fertige Produkt notwendig sind@de
+ERROR	multiple_definitions	Mischung [dik]	IAO:0000115	intimate mixture of a rubber or rubbers or other polymer-forming materials with all the ingredients necessary for the finished product@en
+ERROR	multiple_definitions	Walzwerk [dik]	IAO:0000115	Maschine mit zwei gegensätzlich drehenden Walzen, häufig erwärmbar oder kühlbar, welche gewöhnlich mit verschiedenen Umfangsgeschwindigkeiten betrieben werden, und mit einstellbarem Walzenspalt zum Mastizieren, Mischen, Verschneiden, Vorwärmen oder zum Auswalzen@de
+ERROR	multiple_definitions	Walzwerk [dik]	IAO:0000115	machine with two counter-rotating rolls, frequently heated or cooled, usually driven at different speeds, and having an adjustable nip for mastication, mixing, blending, warm-up or sheeting@en
+ERROR	multiple_definitions	Walze [dik]	IAO:0000115	Zylinder, der ein rotierendes Hauptelement eines Kalanders oder eines Walzwerks bildet@de
+ERROR	multiple_definitions	Walze [dik]	IAO:0000115	cylinder forming a major, rotating member of a calender or mill@en
+ERROR	multiple_definitions	NIP [dik]	IAO:0000115	Abstand zwischen den Walzenoberflächen einer Walze oder eines Kalanders, gemessen zwischen den Mittelpunkten@de
+ERROR	multiple_definitions	NIP [dik]	IAO:0000115	radial clearance between the roll surfaces of a mill or calender on a line of centres@en
+ERROR	multiple_definitions	Sheeting [dik]	IAO:0000115	Process of converting a rubber or rubber mix, rubber dough or coagulated latex into a form in which the thickness is small in proportion to the length@en
+ERROR	multiple_definitions	Sheeting [dik]	IAO:0000115	Prozess der Überführung von Kautschuk oder einer Kautschukmischung, Gummilösung oder koaguliertem Latex in eine Form, bei der die Dicke klein gegenüber der Länge ist@de
+ERROR	multiple_definitions	Dispersion [dik]	IAO:0000115	Distribution of one or more ingredients into a rubber, a rubber blend or a continuum material, by the application of shearing forces, in order to confer optimum and uniform properties@en
+ERROR	multiple_definitions	Dispersion [dik]	IAO:0000115	Verteilen eines oder mehrerer Bestandteile in Kautschuk, Kautschukblends oder einer kontinuierlichen Phase durch Anwendung von Scherkräften, um optimale und homogene Eigenschaften zu erhalten@de
+ERROR	multiple_definitions	Mastication [dik]	IAO:0000115	Prozess der irreversiblen Reduzierung der Molmasse des Kautschuks, entweder im rohen oder im gemischten Zustand, durch das Einbringen mechanischer Arbeit (Scherung) und durch atmosphärischen Sauerstoff, manchmal unter Zuhilfenahme von Abbaumitteln und Wärme@de
+ERROR	multiple_definitions	Mastication [dik]	IAO:0000115	the molecular mass of a rubber, in either the raw or the mixed state, by the action of mechanical work (shear) and atmospheric oxygen, sometimes assisted by peptizers and heat@en
+ERROR	multiple_definitions	Verarbeitbarkeit [dik]	IAO:0000115	relative Einfachheit, mit welcher Rohkautschuk oder Kautschukmischungen in einer Maschine zur Kautschukverarbeitung gehandhabt werden kann@de
+ERROR	multiple_definitions	Verarbeitbarkeit [dik]	IAO:0000115	relative ease with which raw or compounded rubbers can be handled in rubber-processing machinery@en
+ERROR	multiple_definitions	Mischer [dik]	IAO:0000115	A device for mixing/blending materials or signals.@en
+ERROR	multiple_definitions	Mischer [dik]	IAO:0000115	Ein Gerät zum Mischen/Vermischen von Materialien oder Signalen.@de
+ERROR	multiple_definitions	Mechanical Mixer [dik]	IAO:0000115	A mixer device designed for mechanically mixing/blending materials.@en
+ERROR	multiple_definitions	Mechanical Mixer [dik]	IAO:0000115	Eine Mischvorrichtung, die zum mechanischen Mischen von Materialien bestimmt ist.@de
+ERROR	multiple_definitions	Internal Mixer [dik]	IAO:0000115	Maschine mit Temperaturregelung, welche einen oder mehrere Rotoren in einer geschlossenen Kammer beinhaltet und zum Mastizieren und/oder zur Einarbeitung und Dispersion von Mischungsbestandteilen in den Kautschuk genutzt wird@de
+ERROR	multiple_definitions	Internal Mixer [dik]	IAO:0000115	machine with temperature controls containing one or more rotors operating in a closed cavity used to masticate and/or to incorporate and disperse compounding ingredients into the rubber@en
+ERROR	multiple_definitions	Batch [dik]	IAO:0000115	Product of one mixing operation@en
+ERROR	multiple_definitions	Batch [dik]	IAO:0000115	Produkt eines Mischungsvorganges@de
+ERROR	multiple_definitions	Extruder [dik]	IAO:0000115	Maschine, die mit Hilfe einer Schnecke oder einer hydraulischen Presse kontinuierlich ein Material formt, indem dieses durch eine oder mehrere Schablonen gepresst wird@de
+ERROR	multiple_definitions	Extruder [dik]	IAO:0000115	machine which, through the use of a screw or a hydraulic ram, continuously shapes a material by forcing it through a die or dies@en
+ERROR	multiple_definitions	Screw [dik]	IAO:0000115	rotating member with one or more helical grooves, used to propel rubber along the barrel of an extruder@en
+ERROR	multiple_definitions	Screw [dik]	IAO:0000115	rotierendes Glied mit einer oder mehreren helixförmigen Rillen, das verwendet wird, um einen Kautschuk innerhalb eines Extruderrohrs voranzutreiben@de
+ERROR	multiple_definitions	Schablone [dik]	IAO:0000115	Teil eines Extruders, durch den das Material gedrückt wird und um ein Profil des Extrudats zu formen@de
+ERROR	multiple_definitions	Schablone [dik]	IAO:0000115	that part of an extruder through which material is forced, forming a profile of the extrudate@en
+ERROR	multiple_definitions	Extrudate [dik]	IAO:0000115	Produkt eines Extrusionsprozesses@de
+ERROR	multiple_definitions	Extrudate [dik]	IAO:0000115	product of an extrusion process@en
+ERROR	multiple_definitions	Extruder Head [dik]	IAO:0000115	Teil eines Extruders, welcher die Schablone mit Halterung enthält@de
+ERROR	multiple_definitions	Extruder Head [dik]	IAO:0000115	that part of an extruder which houses the die and die holder@en
+ERROR	multiple_definitions	Extrusion [dik]	IAO:0000115	continuous shaping of a material by passage through a die@en
+ERROR	multiple_definitions	Extrusion [dik]	IAO:0000115	kontinuierliches Formen eines Materials, indem dieses durch eine Schablone gepresst wird@de
+ERROR	multiple_definitions	Die Swell [dik]	IAO:0000115	Unterschied zwischen den Dimensionen des Profilquerschnittes eines Extrudats und den korrespondierenden Dimensionen des Auslaufkanals, welcher üblicherweise als prozentuelle Zunahme der Fläche des Querschnittes ausgedrückt wird@de
+ERROR	multiple_definitions	Die Swell [dik]	IAO:0000115	difference between the dimensions of the cross-section of an extrudate and the corresponding dimensions of the die orifice, usually quantified as the percentage increase in the crosssectional area@en
+ERROR	multiple_definitions	Vernetzungsdichte [dik]	IAO:0000115	Anzahl von Vernetzungen in einem Vulkanisat je Volumen- oder Masseneinheit@de
+ERROR	multiple_definitions	Vernetzungsdichte [dik]	IAO:0000115	number of crosslinks per unit volume or unit mass of vulcanizate@en
+ERROR	multiple_definitions	Vulcanizate [dik]	IAO:0000115	Produkt der Vulkanisation einer Kautschukmischung@de
+ERROR	multiple_definitions	Vulcanizate [dik]	IAO:0000115	product of the vulcanization of a rubber compound@en
+ERROR	multiple_definitions	Crosslink [dik]	IAO:0000115	chemical bond or atom(s) joining two rubber chains or two parts of the same rubber chain as a result of vulcanization@en
+ERROR	multiple_definitions	Crosslink [dik]	IAO:0000115	chemische Bindung oder Atom(e), die zwei Kautschukketten oder zwei Teile derselben Kette verbinden als Ergebnis der Vulkanisation@de
+ERROR	multiple_definitions	Vernetzen [dik]	IAO:0000115	〈Aktion〉 Erzeugung von Vernetzungen zwischen oder innerhalb von Kautschukketten unter Ausbildung eines Netzwerks@de
+ERROR	multiple_definitions	Vernetzen [dik]	IAO:0000115	〈act of〉 insertion of crosslinks between or within rubber chains to give a network structure@en
+ERROR	multiple_definitions	State of Cure [dik]	IAO:0000115	Zustand eines Vulkanisats während des Vulkanisationsverlaufs, gemessen an dessen Struktur oder dessen Eigenschaften@de
+ERROR	multiple_definitions	State of Cure [dik]	IAO:0000115	condition of a vulcanizate during the course of vulcanization, measured in terms of its structure or properties@en
+ERROR	multiple_definitions	Vulcanization [dik]	IAO:0000115	Verfahren, üblicherweise auf Hitze basierend, bei dem Kautschuk durch eine Veränderung seiner chemischen Struktur (zum Beispiel Vernetzung) in einen Zustand überführt wird, in dem die elastischen Eigenschaften erzeugt, wiederhergestellt oder verbessert oder über einen größeren Tempe-raturbereich erweitert werden@de
+ERROR	multiple_definitions	Vulcanization [dik]	IAO:0000115	process, usually involving heat, in which rubber, through a change in its chemical structure (for example, crosslinking), is converted to a condition in which the elastic properties are conferred or re-established or improved or extended over a greater range of temperatures@en
+ERROR	multiple_definitions	Autoklav [dik]	IAO:0000115	Druckkessel, der zur Vulkanisation von Kautschuk in Dampf oder Gas genutzt wird@de
+ERROR	multiple_definitions	Autoklav [dik]	IAO:0000115	pressurized vessel used for vulcanizing rubber in a vapour or gas@en
+ERROR	multiple_definitions	Plateau Cure [dik]	IAO:0000115	Art der Vulkanisation, bei der das Modul des Vulkanisats ein Maximum erreicht und dann über einen längeren Zeiraum bei der entsprechenden Vulkanisationstemperatur nahezu konstant bleibt@de
+ERROR	multiple_definitions	Plateau Cure [dik]	IAO:0000115	type of vulcanization during which the modulus of the vulcanizate proceeds to a maximum and then remains essentially constant for a substantial period at the vulcanization temperature@en
+ERROR	multiple_definitions	Vulkanisationsoptimum [dik]	IAO:0000115	Vulkanisationsbedingungen, die notwendig sind, um einen akzeptablen Kompromiss zwischen verschiedenen gewünschten Vulkanisateigenschaften zu erzielen bzw. den optimalen Wert für eine bestimmte Eigenschaft zu erhalten@de
+ERROR	multiple_definitions	Vulkanisationsoptimum [dik]	IAO:0000115	condition of vulcanization required to achieve an acceptable compromise among a number of desired vulcanizate properties or the optimum value of a selected property@en
+ERROR	multiple_definitions	Übervulkanisation [dik]	IAO:0000115	Vulkanisationszustand jenseits des Vulkanisationsoptimums@de
+ERROR	multiple_definitions	Übervulkanisation [dik]	IAO:0000115	state of vulcanization beyond the optimum cure@en
+ERROR	multiple_definitions	Undercure [dik]	IAO:0000115	Zustand der Vulkanisation unterhalb des Vulkanisationsoptimums@de
+ERROR	multiple_definitions	Undercure [dik]	IAO:0000115	state of vulcanization less than the optimum cure@en
+ERROR	multiple_definitions	Sample [dik]	IAO:0000115	ein oder mehrere Teile, entnommen aus einem Los, um Informationen über dieses Los zu liefern und möglicherweise als Entscheidungsbasis über das Los oder seinen Herstellprozess zu dienen@de
+ERROR	multiple_definitions	Sample [dik]	IAO:0000115	one or more items taken from a lot and intended to provide information on the lot and possibly to serve as a basis for a decision on the lot or on the process which had produced it@en
+ERROR	multiple_definitions	Test Piece [dik]	IAO:0000115	Körper eines Materials von geeigneter Form und Dimension, fertig vorbereitet zur Verwendung in einer Prüfung@de
+ERROR	multiple_definitions	Test Piece [dik]	IAO:0000115	piece of material of appropriate shape and size, prepared so that it is ready for use in a test@en
+ERROR	multiple_definitions	Gummiabfall [dik]	IAO:0000115	raw, compounded, vulcanized or partially vulcanized rubber in the form of end-of-life rubber products or factory scrap@en
+ERROR	multiple_definitions	Gummiabfall [dik]	IAO:0000115	unverarbeiteter, gemischter, vulkanisierter oder teilvulkanisierter Kautschuk in Form von Altgummierzeugnissen oder Fabrikabfall@de
+ERROR	multiple_definitions	Factory Scrap [dik]	IAO:0000115	raw, compounded, vulcanized or partially vulcanized rubber rejected or generated as waste during product manufacture and found unsuitable for further use unless recycled@en
+ERROR	multiple_definitions	Factory Scrap [dik]	IAO:0000115	roher, gemischter, vulkanisierter oder teilweise vulkanisierter Kautschuk, der bei der Produktion ver-worfen oder als Abfall deklariert und für die weitere Verwendung, außer zum Recyceln, als ungeeignet befunden wird@de
+ERROR	multiple_definitions	Massendichte [dik]	IAO:0000115	Masse pro Volumeneinheit eines Materials inklusive eventueller Hohlräume@de
+ERROR	multiple_definitions	Massendichte [dik]	IAO:0000115	mass per unit volume of a material, including any voids present@en
+ERROR	multiple_definitions	Mooney Viskosität [dik]	IAO:0000115	Maß für die Viskosität eines Rohkautschuks oder einer Kautschukmischung, bestimmt mit einem Mooney-Scherscheibenviskosimeter@de
+ERROR	multiple_definitions	Mooney Viskosität [dik]	IAO:0000115	measure of the viscosity of a raw rubber or rubber compound, determined using a Mooney shearing-disc viscometer@en
+ERROR	multiple_definitions	Mooney Viscosity Unit [dik]	IAO:0000115	A viscosity unit which is a standard measure of the Mooney viscosity.@en
+ERROR	multiple_definitions	Mooney Viscosity Unit [dik]	IAO:0000115	Eine Viskositätseinheit, die ein Standardmaß für die Mooney-Viskosität ist.@de
+ERROR	multiple_definitions	Iodine Adsorption Number [dik]	IAO:0000115	Menge in Gramm an adsorbiertem Iod pro Kilogramm Ruß unter definierten Bedingungen@de
+ERROR	multiple_definitions	Iodine Adsorption Number [dik]	IAO:0000115	Number of grams of iodine adsorbed per kilogram of carbon black under specified conditions@en
+ERROR	multiple_definitions	Oil Absorption Number [dik]	IAO:0000115	Die Ölabsorptionszahl eines Rußes steht im Zusammenhang mit den Verarbeitungs- und Vulkanisationseigenschaften von Kautschukmischungen die den Ruß enthalten@de
+ERROR	multiple_definitions	Oil Absorption Number [dik]	IAO:0000115	The oil absorption number of a carbon black is related to the processing and vulcanizate properties of rubber compounds containing the carbon black@en
+ERROR	multiple_definitions	Kinematic Viscosity [dik]	IAO:0000115	Als kinematische Viskosität bezeichnet man den Quotienten aus der dynamischen Viskosität des Mediums und seiner Dichte@de
+ERROR	multiple_definitions	Kinematic Viscosity [dik]	IAO:0000115	Kinematic viscosity is the quotient of the dynamic viscosity of the medium and its density.@en
+ERROR	multiple_definitions	Complex Shear Modulus [dik]	IAO:0000115	Verhältnis von Schubspannung zu Scherdehnung, wobei jede durch eine komplexe Zahl dargestellt werden kann@de
+ERROR	multiple_definitions	Complex Shear Modulus [dik]	IAO:0000115	ratio of the shear stress to the shear strain, where each can be represented by a complex number@en
+ERROR	multiple_definitions	Complex Young’s Modulus [dik]	IAO:0000115	Verhältnis von Normalspannung zur Belastung, wobei jede durch eine komplexe Zahl dargestellt werden kann@de
+ERROR	multiple_definitions	Complex Young’s Modulus [dik]	IAO:0000115	ratio of the normal stress to the normal strain, where each can be represented by a complex number@en
+ERROR	multiple_definitions	Elastizitätsmodul [dik]	IAO:0000115	die Komponente einer aufgebrachten Schubspannung, welche in Phase mit der Scherdeformation ist, geteilt durch die Dehnung@de
+ERROR	multiple_definitions	Elastizitätsmodul [dik]	IAO:0000115	that component of an applied shear stress which is in phase with the shear strain, divided by the strain@en
+ERROR	multiple_definitions	Youngscher Elastizitätsmodul [dik]	IAO:0000115	die Komponente einer angewandten Normalspannung, welche in Phase mit der Normaldehnung ist, geteilt durch die Dehnung@de
+ERROR	multiple_definitions	Youngscher Elastizitätsmodul [dik]	IAO:0000115	that component of an applied normal stress which is in phase with the normal strain, divided by the strain@en
+ERROR	multiple_definitions	Loss Shear Modulus [dik]	IAO:0000115	der Anteil einer aufgebrachten Schubspannung, welche 90° phasenverschoben gegenüber der Scherdeformation ist, geteilt durch die Dehnung@de
+ERROR	multiple_definitions	Loss Shear Modulus [dik]	IAO:0000115	that component of an applied shear stress which is in quadrature (90° out of phase) with the shear strain, divided by the strain@en
+ERROR	multiple_definitions	Young’sches Verlustmodul [dik]	IAO:0000115	der Anteil einer aufgebrachten Normalspannung, welcher 90° phasenverschoben gegenüber der Normaldehnung ist, geteilt durch die Dehnung@de
+ERROR	multiple_definitions	Young’sches Verlustmodul [dik]	IAO:0000115	that component of an applied normal stress which is in quadrature (90° out of phase) with the normal strain, divided by the strain@en
+ERROR	multiple_definitions	Modulus [dik]	IAO:0000115	Maß für die Steifigkeit unter definierten Bedingungen bei Verformung@de
+ERROR	multiple_definitions	Modulus [dik]	IAO:0000115	measure of stiffness under specified conditions of deformation@en
+ERROR	multiple_definitions	Tangens delta [dik]	IAO:0000115	Verhältnis des Verlustmoduls zum Speichermodul@de
+ERROR	multiple_definitions	Tangens delta [dik]	IAO:0000115	ratio of the viscous modulus to the elastic modulus@en
+ERROR	multiple_definitions	oszillierendes Scheibenrheometer [dik]	IAO:0000115	Rheometertyp, bei welchem die auf die Kautschukmischung einwirkenden Kräfte durch eine in der Testprobe eingebettete schwingende Scheibe erzeugt werden, wobei sich die Probe unter Druck in einem abgedichteten Probenaufnehmer befindet@de
+ERROR	multiple_definitions	oszillierendes Scheibenrheometer [dik]	IAO:0000115	type of curemeter in which the force applied to the rubber compound is produced by an oscillating disc embedded in a test sample which is contained under pressure in a sealed cavity@en
+ERROR	multiple_definitions	Rotorless Curemeter [dik]	IAO:0000115	Typ eines Rheometers, bei welchem die Kraft, die auf die Kautschukmischung einwirkt, durch die Oszillation einer von zwei Platten erzeugt wird, die die Kammer bilden, in welcher die Testprobe eingeschlossen ist@de
+ERROR	multiple_definitions	Rotorless Curemeter [dik]	IAO:0000115	type of curemeter in which the force applied to the rubber compound is produced by the oscillation of one of the two dies forming the cavity in which the test sample is enclosed@en
+ERROR	multiple_definitions	Vulkameter [dik]	IAO:0000115	Gerät zur Messung des Fortschritts der Vulkanisation in einer Probe bei der Vulkanisationsstemperatur@de
+ERROR	multiple_definitions	Vulkameter [dik]	IAO:0000115	device that measures the progress of vulcanization in a test sample at the vulcanizing temperature@en
+ERROR	multiple_definitions	Plattenpresse [dik]	IAO:0000115	Presse, die zwei oder mehrere übereinanderliegende beheizte Platten besitzt, zwischen denen die Formteile gepresst werden@de
+ERROR	multiple_definitions	Plattenpresse [dik]	IAO:0000115	press having two or more super-imposed heated platens between which moulds are pressed@en
+ERROR	multiple_definitions	Platen [dik]	IAO:0000115	flache Metallplatte (oder Schale), die Hitze und Druck auf ein oder mehrere Formteile überträgt, die sich in einer Presse befinden@de
+ERROR	multiple_definitions	Platen [dik]	IAO:0000115	flat metal plate (or chest) which applies heat and pressure to one or more mould(s) in a press@en
+ERROR	multiple_labels	millimeter [imr]	rdfs:label	millimeter [imr]@de
+ERROR	multiple_labels	millimeter [imr]	rdfs:label	millimeter [imr]@en
+ERROR	multiple_labels	millimeter [nist]	rdfs:label	millimeter [nist]@de
+ERROR	multiple_labels	millimeter [nist]	rdfs:label	millimeter [nist]@en
+ERROR	multiple_labels	agent [ita]	rdfs:label	Agent@de
+ERROR	multiple_labels	agent [ita]	rdfs:label	agent [ita]@en
+ERROR	multiple_labels	approximation [ita]	rdfs:label	Approximationsmethode@de
+ERROR	multiple_labels	approximation [ita]	rdfs:label	approximation [ita]@en
+ERROR	multiple_labels	Funktionsapproximationsmethode	rdfs:label	Funktionsapproximationsmethode@de
+ERROR	multiple_labels	Funktionsapproximationsmethode	rdfs:label	function approximation [ita]@en
+ERROR	multiple_labels	reinforcement learning [ita]	rdfs:label	bestärkendes Lernen@de
+ERROR	multiple_labels	reinforcement learning [ita]	rdfs:label	reinforcement learning [ita]@en
+ERROR	multiple_labels	library [ita]	rdfs:label	Bibliothek@de
+ERROR	multiple_labels	library [ita]	rdfs:label	library [ita]@en
+ERROR	multiple_labels	cluster analysis [ita]	rdfs:label	Clusteranalyse@de
+ERROR	multiple_labels	cluster analysis [ita]	rdfs:label	cluster analysis [ita]@en
+ERROR	multiple_labels	Data Mining	rdfs:label	Data Mining@de
+ERROR	multiple_labels	Data Mining	rdfs:label	data mining [ita]@en
+ERROR	multiple_labels	Datenbank	rdfs:label	Datenbank@de
+ERROR	multiple_labels	Datenbank	rdfs:label	database [ita]@en
+ERROR	multiple_labels	Deep Learning	rdfs:label	Deep Learning@de
+ERROR	multiple_labels	Deep Learning	rdfs:label	deep learning [ita]@en
+ERROR	multiple_labels	input layer [ita]	rdfs:label	Eingangsvektor@de
+ERROR	multiple_labels	input layer [ita]	rdfs:label	input layer [ita]@en
+ERROR	multiple_labels	Elastomere	rdfs:label	Elastomere@de
+ERROR	multiple_labels	Elastomere	rdfs:label	elastomers [ita]@en
+ERROR	multiple_labels	output layer [ita]	rdfs:label	Ergebnisvektor@de
+ERROR	multiple_labels	output layer [ita]	rdfs:label	output layer [ita]@en
+ERROR	multiple_labels	Extrusion	rdfs:label	Extrusion@de
+ERROR	multiple_labels	Extrusion	rdfs:label	extrusion [ita]@en
+ERROR	multiple_labels	hidden layer [ita]	rdfs:label	Hidden-Layer@de
+ERROR	multiple_labels	hidden layer [ita]	rdfs:label	hidden layer [ita]@en
+ERROR	multiple_labels	Industrie 4.0 [ita]	rdfs:label	Industrie 4.0@de
+ERROR	multiple_labels	Industrie 4.0 [ita]	rdfs:label	Industrie 4.0 [ita]@en
+ERROR	multiple_labels	Kautschuk	rdfs:label	Kautschuk@de
+ERROR	multiple_labels	Kautschuk	rdfs:label	rubber [ita]@en
+ERROR	multiple_labels	Künstliche Intelligenz (KI)	rdfs:label	Artificial Intelligence (AI) [ita]@en
+ERROR	multiple_labels	Künstliche Intelligenz (KI)	rdfs:label	Künstliche Intelligenz (KI)@de
+ERROR	multiple_labels	machine learning [ita]	rdfs:label	machine learning [ita]@en
+ERROR	multiple_labels	machine learning [ita]	rdfs:label	maschinelles Lernen@de
+ERROR	multiple_labels	Mikrocontroller	rdfs:label	Mikrocontroller@de
+ERROR	multiple_labels	Mikrocontroller	rdfs:label	microcontroller [ita]@en
+ERROR	multiple_labels	Mischen	rdfs:label	Mischen@de
+ERROR	multiple_labels	Mischen	rdfs:label	mixing [ita]@en
+ERROR	multiple_labels	Mustererkennung	rdfs:label	Mustererkennung@de
+ERROR	multiple_labels	Mustererkennung	rdfs:label	pattern recognition [ita]@en
+ERROR	multiple_labels	neuronales Netz	rdfs:label	neural network [ita]@en
+ERROR	multiple_labels	neuronales Netz	rdfs:label	neuronales Netz@de
+ERROR	multiple_labels	online characterisation [ita]	rdfs:label	Online-Charakterisierung@de
+ERROR	multiple_labels	online characterisation [ita]	rdfs:label	online characterisation [ita]@en
+ERROR	multiple_labels	online optimization [ita]	rdfs:label	Online-Optimierung@de
+ERROR	multiple_labels	online optimization [ita]	rdfs:label	online optimization [ita]@en
+ERROR	multiple_labels	Optimierungsmethoden	rdfs:label	Optimierungsmethoden@de
+ERROR	multiple_labels	Optimierungsmethoden	rdfs:label	optimization [ita]@en
+ERROR	multiple_labels	Production-in-the-loop	rdfs:label	Production-in-the-Loop [ita]@en
+ERROR	multiple_labels	Production-in-the-loop	rdfs:label	Production-in-the-loop@de
+ERROR	multiple_labels	regression analysis [ita]	rdfs:label	Regressionsanalyse@de
+ERROR	multiple_labels	regression analysis [ita]	rdfs:label	regression analysis [ita]@en
+ERROR	multiple_labels	Simulationsumgebung	rdfs:label	Simulationsumgebung@de
+ERROR	multiple_labels	Simulationsumgebung	rdfs:label	simulation environment [ita]@en
+ERROR	multiple_labels	test dataset [ita]	rdfs:label	Test-Dataset@de
+ERROR	multiple_labels	test dataset [ita]	rdfs:label	test dataset [ita]@en
+ERROR	multiple_labels	Train-Dataset	rdfs:label	Train-Dataset@de
+ERROR	multiple_labels	Train-Dataset	rdfs:label	train dataset [ita]@en
+ERROR	multiple_labels	überwachtes Lernen	rdfs:label	supervised learning [ita]@en
+ERROR	multiple_labels	überwachtes Lernen	rdfs:label	überwachtes Lernen@de
+ERROR	multiple_labels	unüberwachtes Lernen	rdfs:label	unsupervised learning [ita]@en
+ERROR	multiple_labels	unüberwachtes Lernen	rdfs:label	unüberwachtes Lernen@de
+ERROR	multiple_labels	Validation-Dataset	rdfs:label	Validation-Dataset@de
+ERROR	multiple_labels	Validation-Dataset	rdfs:label	validation dataset [ita]@en
+ERROR	multiple_labels	Validierung	rdfs:label	Validierung@de
+ERROR	multiple_labels	Validierung	rdfs:label	validation [ita]@en
+ERROR	multiple_labels	rolling [ita]	rdfs:label	Walzen@de
+ERROR	multiple_labels	rolling [ita]	rdfs:label	rolling [ita]@en
+ERROR	multiple_labels	Zweischneckenextruder	rdfs:label	Zweischneckenextruder@de
+ERROR	multiple_labels	Zweischneckenextruder	rdfs:label	twin screw extruder [ita]@en
+ERROR	multiple_labels	Mischungstemperatur	rdfs:label	Mischungstemperatur@de
+ERROR	multiple_labels	Mischungstemperatur	rdfs:label	Mixing temperature [ita]@en
+ERROR	multiple_labels	Stamp pressure [ita]	rdfs:label	Stamp pressure [ita]@en
+ERROR	multiple_labels	Stamp pressure [ita]	rdfs:label	Stemepeldruck@de
+ERROR	multiple_labels	rotation speed (Mixer) [ita]	rdfs:label	Drehzahl (Mischer)@de
+ERROR	multiple_labels	rotation speed (Mixer) [ita]	rdfs:label	rotation speed (Mixer) [ita]@en
+ERROR	multiple_labels	Mixing time [ita]	rdfs:label	Mischzeit@de
+ERROR	multiple_labels	Mixing time [ita]	rdfs:label	Mixing time [ita]@en
+ERROR	multiple_labels	Torque (mixer) [ita]	rdfs:label	Drehmoment (Mischer)@de
+ERROR	multiple_labels	Torque (mixer) [ita]	rdfs:label	Torque (mixer) [ita]@en
+ERROR	multiple_labels	Screw speed [ita]	rdfs:label	Schneckendrezahl@de
+ERROR	multiple_labels	Screw speed [ita]	rdfs:label	Screw speed [ita]@en
+ERROR	multiple_labels	Schneckendrehmoment	rdfs:label	Schneckendrehmoment@de
+ERROR	multiple_labels	Schneckendrehmoment	rdfs:label	Screw torque [ita]@en
+ERROR	multiple_labels	Tempering screw [ita]	rdfs:label	Temperierung Schnecke@de
+ERROR	multiple_labels	Tempering screw [ita]	rdfs:label	Tempering screw [ita]@en
+ERROR	multiple_labels	Tempering Feed roller [ita]	rdfs:label	Temperierung Speisewalze@de
+ERROR	multiple_labels	Tempering Feed roller [ita]	rdfs:label	Tempering Feed roller [ita]@en
+ERROR	multiple_labels	Tempering cylinder [ita]	rdfs:label	Temperierung Zylinder@de
+ERROR	multiple_labels	Tempering cylinder [ita]	rdfs:label	Tempering cylinder [ita]@en
+ERROR	multiple_labels	Zylinderdruck	rdfs:label	Cylinder pressure [ita]@en
+ERROR	multiple_labels	Zylinderdruck	rdfs:label	Zylinderdruck@de
+ERROR	multiple_labels	Temperiung Werkzeug	rdfs:label	Tempering Tool [ita]@en
+ERROR	multiple_labels	Temperiung Werkzeug	rdfs:label	Temperiung Werkzeug@de
+ERROR	multiple_labels	Tool pressure [ita]	rdfs:label	Tool pressure [ita]@en
+ERROR	multiple_labels	Tool pressure [ita]	rdfs:label	Werkzeugdruck@de
+ERROR	multiple_labels	Oberflächennahe Massentemperatur im Werkzeug	rdfs:label	Near-surface mass temperature in the tool [ita]@en
+ERROR	multiple_labels	Oberflächennahe Massentemperatur im Werkzeug	rdfs:label	Oberflächennahe Massentemperatur im Werkzeug@de
+ERROR	multiple_labels	Radiales Temperaturprofil der Mischung im Schneckenkanal	rdfs:label	Radial temperature profile of the mixture in the screw channel [ita]@en
+ERROR	multiple_labels	Radiales Temperaturprofil der Mischung im Schneckenkanal	rdfs:label	Radiales Temperaturprofil der Mischung im Schneckenkanal@de
+ERROR	multiple_labels	Outlet surface [ita]	rdfs:label	Austrittsfläche@de
+ERROR	multiple_labels	Outlet surface [ita]	rdfs:label	Outlet surface [ita]@en
+ERROR	multiple_labels	Durchsatz	rdfs:label	Durchsatz@de
+ERROR	multiple_labels	Durchsatz	rdfs:label	Throughput [ita]@en
+ERROR	multiple_labels	factor [hsh]	rdfs:label	factor [hsh]@en
+ERROR	multiple_labels	factor [hsh]	rdfs:label	faktor [hsh]@de
+ERROR	multiple_labels	faktor [ncti]	rdfs:label	factor [ncti]@en
+ERROR	multiple_labels	faktor [ncti]	rdfs:label	faktor [ncti]@de
+ERROR	multiple_labels	faktor [proco]	rdfs:label	factor [proco]@en
+ERROR	multiple_labels	faktor [proco]	rdfs:label	faktor [proco]@de
+ERROR	multiple_labels	factor [allotrope]	rdfs:label	factor [allotrope]@en
+ERROR	multiple_labels	factor [allotrope]	rdfs:label	faktor [allotrope]@de
+ERROR	multiple_labels	kosten [hsh]	rdfs:label	cost [hsh]@en
+ERROR	multiple_labels	kosten [hsh]	rdfs:label	kosten [hsh]@de
+ERROR	multiple_labels	cost [ncti]	rdfs:label	cost [ncti]@en
+ERROR	multiple_labels	cost [ncti]	rdfs:label	kosten [ncti]@de
+ERROR	multiple_labels	kostengruppe [hsh]	rdfs:label	cost group [hsh]@en
+ERROR	multiple_labels	kostengruppe [hsh]	rdfs:label	kostengruppe [hsh]@de
+ERROR	multiple_labels	personalkosten [hsh]	rdfs:label	human ressource cost [hsh]@en
+ERROR	multiple_labels	personalkosten [hsh]	rdfs:label	personalkosten [hsh]@de
+ERROR	multiple_labels	wartungskosten [hsh]	rdfs:label	maintenance cost [hsh]@en
+ERROR	multiple_labels	wartungskosten [hsh]	rdfs:label	wartungskosten [hsh]@de
+ERROR	multiple_labels	energiekosten [hsh]	rdfs:label	energiekosten [hsh]@de
+ERROR	multiple_labels	energiekosten [hsh]	rdfs:label	energy cost [hsh]@en
+ERROR	multiple_labels	material cost [hsh]	rdfs:label	material cost [hsh]@en
+ERROR	multiple_labels	material cost [hsh]	rdfs:label	materialkosten [hsh]@de
+ERROR	multiple_labels	lagerhaltungskosten [hsh]	rdfs:label	lagerhaltungskosten [hsh]@de
+ERROR	multiple_labels	lagerhaltungskosten [hsh]	rdfs:label	storage cost [hsh]@en
+ERROR	multiple_labels	produktionskosten [hsh]	rdfs:label	production cost [hsh]@en
+ERROR	multiple_labels	produktionskosten [hsh]	rdfs:label	produktionskosten [hsh]@de
+ERROR	multiple_labels	investment cost [hsh]	rdfs:label	investitionskosten [hsh]@de
+ERROR	multiple_labels	investment cost [hsh]	rdfs:label	investment cost [hsh]@en
+ERROR	multiple_labels	waste management cost [hsh]	rdfs:label	abfallmanagementkosten [hsh]@de
+ERROR	multiple_labels	waste management cost [hsh]	rdfs:label	waste management cost [hsh]@en
+ERROR	multiple_labels	umsatz [hsh]	rdfs:label	turnover [hsh]@en
+ERROR	multiple_labels	umsatz [hsh]	rdfs:label	umsatz [hsh]@de
+ERROR	multiple_labels	machine [hsh]	rdfs:label	machine [hsh]@en
+ERROR	multiple_labels	machine [hsh]	rdfs:label	maschine [hsh]@de
+ERROR	multiple_labels	zustand [hsh]	rdfs:label	condition [hsh]@en
+ERROR	multiple_labels	zustand [hsh]	rdfs:label	zustand [hsh]@de
+ERROR	multiple_labels	zustand [ncti]	rdfs:label	condition [ncti]@en
+ERROR	multiple_labels	zustand [ncti]	rdfs:label	zustand [ncti]@de
+ERROR	multiple_labels	condition [shacl]	rdfs:label	condition [shacl]@en
+ERROR	multiple_labels	condition [shacl]	rdfs:label	zustand [shacl]@de
+ERROR	multiple_labels	condition [ssn]	rdfs:label	condition [ssn]@en
+ERROR	multiple_labels	condition [ssn]	rdfs:label	zustand [ssn]@de
+ERROR	multiple_labels	rohmaterial [hsh]	rdfs:label	raw material [hsh]@en
+ERROR	multiple_labels	rohmaterial [hsh]	rdfs:label	rohmaterial [hsh]@de
+ERROR	multiple_labels	halbfabrikat [hsh]	rdfs:label	halbfabrikat [hsh]@de
+ERROR	multiple_labels	halbfabrikat [hsh]	rdfs:label	semi-finished product [hsh]@en
+ERROR	multiple_labels	finished product [hsh]	rdfs:label	endprodukt [hsh]@de
+ERROR	multiple_labels	finished product [hsh]	rdfs:label	finished product [hsh]@en
+ERROR	multiple_labels	ersatzteil [hsh]	rdfs:label	ersatzteil [hsh]@de
+ERROR	multiple_labels	ersatzteil [hsh]	rdfs:label	spare parts [hsh]@en
+ERROR	multiple_labels	wear parts [hsh]	rdfs:label	verschleißteil [hsh]@de
+ERROR	multiple_labels	wear parts [hsh]	rdfs:label	wear parts [hsh]@en
+ERROR	multiple_labels	packaging [hsh]	rdfs:label	packaging [hsh]@en
+ERROR	multiple_labels	packaging [hsh]	rdfs:label	verpackung [hsh]@de
+ERROR	multiple_labels	operator [hsh]	rdfs:label	operator [hsh]@de
+ERROR	multiple_labels	operator [hsh]	rdfs:label	operator [hsh]@en
+ERROR	multiple_labels	operator [ncti]	rdfs:label	operator [ncti]@de
+ERROR	multiple_labels	operator [ncti]	rdfs:label	operator [ncti]@en
+ERROR	multiple_labels	supervisor [hsh]	rdfs:label	supervisor [hsh]@de
+ERROR	multiple_labels	supervisor [hsh]	rdfs:label	supervisor [hsh]@en
+ERROR	multiple_labels	supervisor [ncti]	rdfs:label	supervisor [ncti]@de
+ERROR	multiple_labels	supervisor [ncti]	rdfs:label	supervisor [ncti]@en
+ERROR	multiple_labels	supervisor [m4i]	rdfs:label	supervisor  [m4i]@de
+ERROR	multiple_labels	supervisor [m4i]	rdfs:label	supervisor [m4i]@en
+ERROR	multiple_labels	operational assistant [hsh]	rdfs:label	hilfskraft [hsh]@de
+ERROR	multiple_labels	operational assistant [hsh]	rdfs:label	operational assistant [hsh]@en
+ERROR	multiple_labels	lagerist [hsh]	rdfs:label	lagerist [hsh]@de
+ERROR	multiple_labels	lagerist [hsh]	rdfs:label	warehouse clerk [hsh]@en
+ERROR	multiple_labels	qualitätsprüfer [hsh]	rdfs:label	quality inspector [hsh]@en
+ERROR	multiple_labels	qualitätsprüfer [hsh]	rdfs:label	qualitätsprüfer [hsh]@de
+ERROR	multiple_labels	fördermittel [hsh]	rdfs:label	conveyor vehicle [hsh]@en
+ERROR	multiple_labels	fördermittel [hsh]	rdfs:label	fördermittel [hsh]@de
+ERROR	multiple_labels	mean time to failure [hsh]	rdfs:label	mean time to failure [hsh]@en
+ERROR	multiple_labels	mean time to failure [hsh]	rdfs:label	mittlere zeit bis zum ausfall [hsh]@de
+ERROR	multiple_labels	mean time to repair [hsh]	rdfs:label	mean time to repair [hsh]@en
+ERROR	multiple_labels	mean time to repair [hsh]	rdfs:label	mittlere reperaturdauer [hsh]@de
+ERROR	multiple_labels	wartungsintevall [hsh]	rdfs:label	maintenance interval [hsh]@en
+ERROR	multiple_labels	wartungsintevall [hsh]	rdfs:label	wartungsintevall [hsh]@de
+ERROR	multiple_labels	wartungsintevall	rdfs:label	maintenance interval [iirds]@en
+ERROR	multiple_labels	wartungsintevall	rdfs:label	wartungsintevall@de
+ERROR	multiple_labels	wartungsdauer [hsh]	rdfs:label	maintenance duration [hsh]@en
+ERROR	multiple_labels	wartungsdauer [hsh]	rdfs:label	wartungsdauer [hsh]@de
+ERROR	multiple_labels	energy consumption [hsh]	rdfs:label	energy consumption [hsh]@en
+ERROR	multiple_labels	energy consumption [hsh]	rdfs:label	stromverbrauch [hsh]@de
+ERROR	multiple_labels	stückkosten [hsh]	rdfs:label	stückkosten [hsh]@de
+ERROR	multiple_labels	stückkosten [hsh]	rdfs:label	unit cost [hsh]@en
+ERROR	multiple_labels	building [hsh]	rdfs:label	building [hsh]@en
+ERROR	multiple_labels	building [hsh]	rdfs:label	gebäude [hsh]@de
+ERROR	multiple_labels	building [bwmd]	rdfs:label	building [bwmd]@en
+ERROR	multiple_labels	building [bwmd]	rdfs:label	gebäude@de
+ERROR	multiple_labels	building [allotrope]	rdfs:label	building [allotrope]@en
+ERROR	multiple_labels	building [allotrope]	rdfs:label	gebäude@de
+ERROR	multiple_labels	building [ncit]	rdfs:label	building [ncit]@en
+ERROR	multiple_labels	building [ncit]	rdfs:label	gebäude@de
+ERROR	multiple_labels	gebäude	rdfs:label	building [envo]@en
+ERROR	multiple_labels	gebäude	rdfs:label	gebäude@de
+ERROR	multiple_labels	throughput [hsh]	rdfs:label	durchsatz [hsh]@de
+ERROR	multiple_labels	throughput [hsh]	rdfs:label	throughput [hsh]@en
+ERROR	multiple_labels	indirect cost [hsh]	rdfs:label	indirect cost [hsh]@en
+ERROR	multiple_labels	indirect cost [hsh]	rdfs:label	indirekte kosten [hsh]@de
+ERROR	multiple_labels	direkte kosten [hsh]	rdfs:label	direct cost [hsh]@en
+ERROR	multiple_labels	direkte kosten [hsh]	rdfs:label	direkte kosten [hsh]@de
+ERROR	multiple_labels	direct cost	rdfs:label	direct cost@en
+ERROR	multiple_labels	direct cost	rdfs:label	direkte kosten@de
+ERROR	multiple_labels	einheit [hsh]	rdfs:label	einheit [hsh]@de
+ERROR	multiple_labels	einheit [hsh]	rdfs:label	unit [hsh]@en
+ERROR	multiple_labels	einheit [ncti]	rdfs:label	einheit [ncti]@de
+ERROR	multiple_labels	einheit [ncti]	rdfs:label	unit [ncti]@en
+ERROR	multiple_labels	unit [ncti]	rdfs:label	einheit [ncti]@de
+ERROR	multiple_labels	unit [ncti]	rdfs:label	unit [ncti]@en
+ERROR	multiple_labels	einheit [ncti]	rdfs:label	einheit [ncti]@de
+ERROR	multiple_labels	einheit [ncti]	rdfs:label	unit [ncti]@en
+ERROR	multiple_labels	einheit [sd]	rdfs:label	einheit [sd]@de
+ERROR	multiple_labels	einheit [sd]	rdfs:label	unit [sd]@en
+ERROR	multiple_labels	unit [uo]	rdfs:label	einheit [uo]@de
+ERROR	multiple_labels	unit [uo]	rdfs:label	unit [uo]@en
+ERROR	multiple_labels	extruder [hsh]	rdfs:label	extruder [hsh]@de
+ERROR	multiple_labels	extruder [hsh]	rdfs:label	extruder [hsh]@en
+ERROR	multiple_labels	knetmaschine [hsh]	rdfs:label	banbury mixer [hsh]@en
+ERROR	multiple_labels	knetmaschine [hsh]	rdfs:label	knetmaschine [hsh]@de
+ERROR	multiple_labels	tire building machine [hsh]	rdfs:label	reifenproduktionsmaschine [hsh]@de
+ERROR	multiple_labels	tire building machine [hsh]	rdfs:label	tire building machine [hsh]@en
+ERROR	multiple_labels	cutter [hsh]	rdfs:label	cutter [hsh]@en
+ERROR	multiple_labels	cutter [hsh]	rdfs:label	schneidemaschine [hsh]@de
+ERROR	multiple_labels	calandar [hsh]	rdfs:label	calandar [hsh]@en
+ERROR	multiple_labels	calandar [hsh]	rdfs:label	kalandar [hsh]@de
+ERROR	multiple_labels	storage robot [hsh]	rdfs:label	lagerroboter [hsh]@de
+ERROR	multiple_labels	storage robot [hsh]	rdfs:label	storage robot [hsh]@en
+ERROR	multiple_labels	gantry crane [hsh]	rdfs:label	gantry crane [hsh]@en
+ERROR	multiple_labels	gantry crane [hsh]	rdfs:label	portalkran [hsh]@de
+ERROR	multiple_labels	uniformity grading machine [hsh]	rdfs:label	gleichförmigkeitsmessautomat [hsh]@de
+ERROR	multiple_labels	uniformity grading machine [hsh]	rdfs:label	uniformity grading machine [hsh]@en
+ERROR	multiple_labels	forklift [hsh]	rdfs:label	forklift [hsh]@en
+ERROR	multiple_labels	forklift [hsh]	rdfs:label	gabelstapler [hsh]@de
+ERROR	multiple_labels	fördertechnik [hsh]	rdfs:label	conveyor [hsh]@en
+ERROR	multiple_labels	fördertechnik [hsh]	rdfs:label	fördertechnik [hsh]@de
+ERROR	multiple_labels	lift truck [hsh]	rdfs:label	hubwagen [hsh]@de
+ERROR	multiple_labels	lift truck [hsh]	rdfs:label	lift truck [hsh]@en
+ERROR	multiple_labels	wekzeuge [hsh]	rdfs:label	tools [hsh]@en
+ERROR	multiple_labels	wekzeuge [hsh]	rdfs:label	wekzeuge [hsh]@de
+ERROR	multiple_labels	small parts [hsh]	rdfs:label	kleinteile [hsh]@de
+ERROR	multiple_labels	small parts [hsh]	rdfs:label	small parts [hsh]@en
+ERROR	multiple_labels	ganze komponenten [hsh]	rdfs:label	ganze komponenten [hsh]@de
+ERROR	multiple_labels	ganze komponenten [hsh]	rdfs:label	whole components [hsh]@en
+ERROR	multiple_labels	lighting [hsh]	rdfs:label	beleuchtung [hsh]@de
+ERROR	multiple_labels	lighting [hsh]	rdfs:label	lighting [hsh]@en
+ERROR	multiple_labels	klimatisierung [hsh]	rdfs:label	air conditioning [hsh]@en
+ERROR	multiple_labels	klimatisierung [hsh]	rdfs:label	klimatisierung [hsh]@de
+ERROR	multiple_labels	office equipment [hsh]	rdfs:label	büroausstattung [hsh]@de
+ERROR	multiple_labels	office equipment [hsh]	rdfs:label	office equipment [hsh]@en
+ERROR	multiple_labels	narural rubber [hsh]	rdfs:label	narural rubber [hsh]@en
+ERROR	multiple_labels	narural rubber [hsh]	rdfs:label	naturkautschuk [hsh]@de
+ERROR	multiple_labels	naturkautschuk [ncti]	rdfs:label	narural rubber [ncti]@en
+ERROR	multiple_labels	naturkautschuk [ncti]	rdfs:label	naturkautschuk [ncti]@de
+ERROR	multiple_labels	synthetic rubber [hsh]	rdfs:label	synthetic rubber [hsh]@en
+ERROR	multiple_labels	synthetic rubber [hsh]	rdfs:label	synthetikkautschuk [hsh]@de
+ERROR	multiple_labels	filling material [hsh]	rdfs:label	filling material [hsh]@en
+ERROR	multiple_labels	filling material [hsh]	rdfs:label	füllstoffe [hsh]@de
+ERROR	multiple_labels	reinforcing materials [hsh]	rdfs:label	reinforcing materials [hsh]@en
+ERROR	multiple_labels	reinforcing materials [hsh]	rdfs:label	verstärkungsmaterialien [hsh]@de
+ERROR	multiple_labels	plasticizer [hsh]	rdfs:label	plasticizer [hsh]@en
+ERROR	multiple_labels	plasticizer [hsh]	rdfs:label	weichmacher [hsh]@de
+ERROR	multiple_labels	plasticizer [ncti]	rdfs:label	plasticizer [ncti]@en
+ERROR	multiple_labels	plasticizer [ncti]	rdfs:label	weichmacher [ncti]@de
+ERROR	multiple_labels	plasticizer [chebi]	rdfs:label	plasticizer [chebi]@en
+ERROR	multiple_labels	plasticizer [chebi]	rdfs:label	weichmacher [chebi]@de
+ERROR	multiple_labels	vulcanization chemicals [hsh]	rdfs:label	vulcanization chemicals [hsh]@en
+ERROR	multiple_labels	vulcanization chemicals [hsh]	rdfs:label	vulkanisationschemikalien [hsh]@de
+ERROR	multiple_labels	sonstige additive [hsh]	rdfs:label	other additives [hsh]@en
+ERROR	multiple_labels	sonstige additive [hsh]	rdfs:label	sonstige additive [hsh]@de
+ERROR	multiple_labels	Agglomerat [dik]	rdfs:label	Agglomerat [dik]@de
+ERROR	multiple_labels	Agglomerat [dik]	rdfs:label	Agglomerate [dik]@en
+ERROR	multiple_labels	Aggregate [dik]	rdfs:label	Aggregat [dik]@de
+ERROR	multiple_labels	Aggregate [dik]	rdfs:label	Aggregate [dik]@en
+ERROR	multiple_labels	Particle [dik]	rdfs:label	Particle [dik]@en
+ERROR	multiple_labels	Particle [dik]	rdfs:label	Partikel [dik]@de
+ERROR	multiple_labels	Partikel [ncit]	rdfs:label	Particle [ncit]@en
+ERROR	multiple_labels	Partikel [ncit]	rdfs:label	Partikel [ncit]@de
+ERROR	multiple_labels	Polymer [dik]	rdfs:label	Polymer [dik]@de
+ERROR	multiple_labels	Polymer [dik]	rdfs:label	Polymer [dik]@en
+ERROR	multiple_labels	Polymer [chebi]	rdfs:label	Polymer [chebi]@de
+ERROR	multiple_labels	Polymer [chebi]	rdfs:label	Polymer [chebi]@en
+ERROR	multiple_labels	Polymer [ncit]	rdfs:label	Polymer [ncit]@de
+ERROR	multiple_labels	Polymer [ncit]	rdfs:label	Polymer [ncit]@en
+ERROR	multiple_labels	Polymer [proco]	rdfs:label	Polymer [proco]@de
+ERROR	multiple_labels	Polymer [proco]	rdfs:label	Polymer [proco]@en
+ERROR	multiple_labels	Rohkautschuk [dik]	rdfs:label	Raw Rubber [dik]@en
+ERROR	multiple_labels	Rohkautschuk [dik]	rdfs:label	Rohkautschuk [dik]@de
+ERROR	multiple_labels	Synthesekautschuk [dik]	rdfs:label	Synthesekautschuk [dik]@de
+ERROR	multiple_labels	Synthesekautschuk [dik]	rdfs:label	Synthetic Rubber [dik]@en
+ERROR	multiple_labels	M-Gruppe Kautschuk [dik]	rdfs:label	M-Gruppe Kautschuk [dik]@de
+ERROR	multiple_labels	M-Gruppe Kautschuk [dik]	rdfs:label	M-group Rubber [dik]@en
+ERROR	multiple_labels	Ethylen-Propylen-Dien-‎Kautschuk ‎[dik]	rdfs:label	Ethylen-Propylen-Dien-‎Kautschuk ‎[dik]@de
+ERROR	multiple_labels	Ethylen-Propylen-Dien-‎Kautschuk ‎[dik]	rdfs:label	Ethylene Propylene Diene Rubber [dik]@en
+ERROR	multiple_labels	Dienkautschuk [dik]	rdfs:label	Diene Rubber [dik]@en
+ERROR	multiple_labels	Dienkautschuk [dik]	rdfs:label	Dienkautschuk [dik]@de
+ERROR	multiple_labels	Keltan 5470C [dik]	rdfs:label	Keltan 5470C [dik]@de
+ERROR	multiple_labels	Keltan 5470C [dik]	rdfs:label	Keltan 5470C [dik]@en
+ERROR	multiple_labels	Füllstoff [dik]	rdfs:label	Filler [dik]@en
+ERROR	multiple_labels	Füllstoff [dik]	rdfs:label	Füllstoff [dik]@de
+ERROR	multiple_labels	Carbon Black [dik]	rdfs:label	Carbon Black [dik]@en
+ERROR	multiple_labels	Carbon Black [dik]	rdfs:label	Ruß [dik]@de
+ERROR	multiple_labels	Carbon Black [chebi]	rdfs:label	Carbon Black [chebi]@en
+ERROR	multiple_labels	Carbon Black [chebi]	rdfs:label	Ruß [chebi]@de
+ERROR	multiple_labels	N-Carbon Black [dik]	rdfs:label	N-Carbon Black [dik]@en
+ERROR	multiple_labels	N-Carbon Black [dik]	rdfs:label	N-Ruß [dik]@de
+ERROR	multiple_labels	S-Carbon Black [dik]	rdfs:label	S-Carbon Black [dik]@en
+ERROR	multiple_labels	S-Carbon Black [dik]	rdfs:label	S-Ruß [dik]@de
+ERROR	multiple_labels	N600-Ruß [dik]	rdfs:label	N600-Carbon Black [dik]@en
+ERROR	multiple_labels	N600-Ruß [dik]	rdfs:label	N600-Ruß [dik]@de
+ERROR	multiple_labels	Corax N660 [dik]	rdfs:label	Corax N660 [dik]@de
+ERROR	multiple_labels	Corax N660 [dik]	rdfs:label	Corax N660 [dik]@en
+ERROR	multiple_labels	Weichmacher ‎[dik]	rdfs:label	Softener [dik]@en
+ERROR	multiple_labels	Weichmacher ‎[dik]	rdfs:label	Weichmacher ‎[dik]@de
+ERROR	multiple_labels	Paraffinic Oil [dik]	rdfs:label	Paraffinic Oil [dik]@en
+ERROR	multiple_labels	Paraffinic Oil [dik]	rdfs:label	Paraffinöl [dik]@de
+ERROR	multiple_labels	‎P460 [dik]	rdfs:label	‎P460 [dik]@de
+ERROR	multiple_labels	‎P460 [dik]	rdfs:label	‎P460 [dik]@en
+ERROR	multiple_labels	Process Oil [dik]	rdfs:label	Process Oil [dik]@en
+ERROR	multiple_labels	Process Oil [dik]	rdfs:label	‎Prozessöl‎ [dik]@de
+ERROR	multiple_labels	Processing Aid [dik]	rdfs:label	Processing Aid [dik]@en
+ERROR	multiple_labels	Processing Aid [dik]	rdfs:label	Verarbeitungshilfsmittel [dik]@de
+ERROR	multiple_labels	Alterungsschutzmittel [dik]	rdfs:label	Alterungsschutzmittel [dik]@de
+ERROR	multiple_labels	Alterungsschutzmittel [dik]	rdfs:label	Antidegradant [dik]@en
+ERROR	multiple_labels	Antilux 500‎ [dik]	rdfs:label	Antilux 500‎ [dik]@de
+ERROR	multiple_labels	Antilux 500‎ [dik]	rdfs:label	Antilux 500‎ [dik]@en
+ERROR	multiple_labels	Activator [dik]	rdfs:label	Activator [dik]@en
+ERROR	multiple_labels	Activator [dik]	rdfs:label	Aktivator [dik]@de
+ERROR	multiple_labels	Aktivator [ncit]	rdfs:label	Activator [ncit]@en
+ERROR	multiple_labels	Aktivator [ncit]	rdfs:label	Aktivator [ncit]@de
+ERROR	multiple_labels	Zinkoxid [dik]	rdfs:label	Zinc Oxide [dik]@en
+ERROR	multiple_labels	Zinkoxid [dik]	rdfs:label	Zinkoxid [dik]@de
+ERROR	multiple_labels	Zinkoxid Rotsiegel [dik]	rdfs:label	Zinkoxid Rotsiegel [dik]@de
+ERROR	multiple_labels	Zinkoxid Rotsiegel [dik]	rdfs:label	Zinkoxid Rotsiegel [dik]@en
+ERROR	multiple_labels	Stearic Acid [dik]	rdfs:label	Stearic Acid [dik]@en
+ERROR	multiple_labels	Stearic Acid [dik]	rdfs:label	Stearinsäure [dik]@de
+ERROR	multiple_labels	Stearic Acid [ncit]	rdfs:label	Stearic Acid [ncit]@en
+ERROR	multiple_labels	Stearic Acid [ncit]	rdfs:label	Stearinsäure [dik]@de
+ERROR	multiple_labels	PALMERA B 1802-CG [dik]	rdfs:label	PALMERA B 1802-CG [dik]@de
+ERROR	multiple_labels	PALMERA B 1802-CG [dik]	rdfs:label	PALMERA B 1802-CG [dik]@en
+ERROR	multiple_labels	Beschleuniger [dik]	rdfs:label	Accelerator [dik]@en
+ERROR	multiple_labels	Beschleuniger [dik]	rdfs:label	Beschleuniger [dik]@de
+ERROR	multiple_labels	Primärbeschleuniger [dik]	rdfs:label	Primary Accelerator [dik]@en
+ERROR	multiple_labels	Primärbeschleuniger [dik]	rdfs:label	Primärbeschleuniger [dik]@de
+ERROR	multiple_labels	Zweitbeschleuniger [dik]	rdfs:label	Secondary Accelerator [dik]@en
+ERROR	multiple_labels	Zweitbeschleuniger [dik]	rdfs:label	Zweitbeschleuniger [dik]@de
+ERROR	multiple_labels	Thiazole [dik]	rdfs:label	Thiazol [dik]@de
+ERROR	multiple_labels	Thiazole [dik]	rdfs:label	Thiazole [dik]@en
+ERROR	multiple_labels	di(benzothiazol-2-yl)disulfide [dik]	rdfs:label	Di(benzothiazol-2-yl)disulfid [dik]@de
+ERROR	multiple_labels	di(benzothiazol-2-yl)disulfide [dik]	rdfs:label	di(benzothiazol-2-yl)disulfide [dik]@en
+ERROR	multiple_labels	Di(benzothiazol-2-yl)disulfid [chebi]	rdfs:label	Di(benzothiazol-2-yl)disulfid [chebi]@de
+ERROR	multiple_labels	Di(benzothiazol-2-yl)disulfid [chebi]	rdfs:label	di(benzothiazol-2-yl)disulfide [chebi]@en
+ERROR	multiple_labels	Vulkacit MBTS [dik]	rdfs:label	Vulkacit MBTS [dik]@de
+ERROR	multiple_labels	Vulkacit MBTS [dik]	rdfs:label	Vulkacit MBTS [dik]@en
+ERROR	multiple_labels	Thiuram [dik]	rdfs:label	Thiuram [dik]@de
+ERROR	multiple_labels	Thiuram [dik]	rdfs:label	Thiuram [dik]@en
+ERROR	multiple_labels	Tetrabenzylthiuramdisulfid [dik]	rdfs:label	Tetrabenzylthiuramdisulfid [dik]@de
+ERROR	multiple_labels	Tetrabenzylthiuramdisulfid [dik]	rdfs:label	Tetrabenzylthiuramdisulfide [dik]@en
+ERROR	multiple_labels	Luvomaxx TbzTD [dik]	rdfs:label	Luvomaxx TbzTD [dik]@de
+ERROR	multiple_labels	Luvomaxx TbzTD [dik]	rdfs:label	Luvomaxx TbzTD [dik]@en
+ERROR	multiple_labels	Dithiocarbamat [dik]	rdfs:label	Dithiocarbamat [dik]@de
+ERROR	multiple_labels	Dithiocarbamat [dik]	rdfs:label	dithiocarbamate [dik]@en
+ERROR	multiple_labels	dithiocarbamate [chebi]	rdfs:label	Dithiocarbamat [chebi]@de
+ERROR	multiple_labels	dithiocarbamate [chebi]	rdfs:label	dithiocarbamate [chebi]@en
+ERROR	multiple_labels	Zinc Dibenzyldithiocarbamate [dik]	rdfs:label	Zinc Dibenzyldithiocarbamate [dik]@en
+ERROR	multiple_labels	Zinc Dibenzyldithiocarbamate [dik]	rdfs:label	Zink-Dibenzyldithiocarbamat [dik]@de
+ERROR	multiple_labels	Rhenogran ‎ZBDC 80‎ [dik]	rdfs:label	Rhenogran ‎ZBDC 80‎ [dik]@de
+ERROR	multiple_labels	Rhenogran ‎ZBDC 80‎ [dik]	rdfs:label	Rhenogran ‎ZBDC 80‎ [dik]@en
+ERROR	multiple_labels	Vulkanisationsmittel [dik]	rdfs:label	Vulcanizing Agent [dik]@en
+ERROR	multiple_labels	Vulkanisationsmittel [dik]	rdfs:label	Vulkanisationsmittel [dik]@de
+ERROR	multiple_labels	Vulcanizing System [dik]	rdfs:label	Vulcanizing System [dik]@en
+ERROR	multiple_labels	Vulcanizing System [dik]	rdfs:label	Vulkanisationssystem [dik]@de
+ERROR	multiple_labels	Vernetzungsgeschwindigkeit [dik]	rdfs:label	Cure Rate [dik]@en
+ERROR	multiple_labels	Vernetzungsgeschwindigkeit [dik]	rdfs:label	Vernetzungsgeschwindigkeit [dik]@de
+ERROR	multiple_labels	Retarder [dik]	rdfs:label	Retarder [dik]@en
+ERROR	multiple_labels	Retarder [dik]	rdfs:label	Verzögerer [dik]@de
+ERROR	multiple_labels	Schwefel [dik]	rdfs:label	Schwefel [dik]@de
+ERROR	multiple_labels	Schwefel [dik]	rdfs:label	Sulfur [dik]@en
+ERROR	multiple_labels	PHR [dik]	rdfs:label	PHR [dik]@de
+ERROR	multiple_labels	PHR [dik]	rdfs:label	PHR [dik]@en
+ERROR	multiple_labels	Rezeptur [dik]	rdfs:label	Formulation [dik]@en
+ERROR	multiple_labels	Rezeptur [dik]	rdfs:label	Rezeptur [dik]@de
+ERROR	multiple_labels	Compounding Ingredient [dik]	rdfs:label	Compounding Ingredient [dik]@en
+ERROR	multiple_labels	Compounding Ingredient [dik]	rdfs:label	Mischungsbestandteil‎ [dik]@de
+ERROR	multiple_labels	Mischung [dik]	rdfs:label	Compound [dik]@en
+ERROR	multiple_labels	Mischung [dik]	rdfs:label	Mischung [dik]@de
+ERROR	multiple_labels	Safety Data Sheet [dik]	rdfs:label	Safety Data Sheet [dik]@en
+ERROR	multiple_labels	Safety Data Sheet [dik]	rdfs:label	Sicherheitsdatenblatt [dik]@de
+ERROR	multiple_labels	Product Data Sheet [dik]	rdfs:label	Product Data Sheet [dik]@en
+ERROR	multiple_labels	Product Data Sheet [dik]	rdfs:label	Produktdatenblatt [dik]@de
+ERROR	multiple_labels	Walzwerk [dik]	rdfs:label	Mill [dik]@en
+ERROR	multiple_labels	Walzwerk [dik]	rdfs:label	Walzwerk [dik]@de
+ERROR	multiple_labels	Walze [dik]	rdfs:label	Roll [dik]@en
+ERROR	multiple_labels	Walze [dik]	rdfs:label	Walze [dik]@de
+ERROR	multiple_labels	Festwalze [dik]	rdfs:label	Festwalze [dik]@de
+ERROR	multiple_labels	Festwalze [dik]	rdfs:label	Fixed Roll [dik]@en
+ERROR	multiple_labels	Stellwalze [dik]	rdfs:label	Setting Roll [dik]@en
+ERROR	multiple_labels	Stellwalze [dik]	rdfs:label	Stellwalze [dik]@de
+ERROR	multiple_labels	Rotational Frequency [dik]	rdfs:label	Drehzahl [dik]@de
+ERROR	multiple_labels	Rotational Frequency [dik]	rdfs:label	Rotational Frequency [dik]@en
+ERROR	multiple_labels	Drehzahleinheit [dik]	rdfs:label	Drehzahleinheit [dik]@de
+ERROR	multiple_labels	Drehzahleinheit [dik]	rdfs:label	Rotational Frequency Unit [dik]@en
+ERROR	multiple_labels	Rotational Frequency Unit [uo]	rdfs:label	Drehzahleinheit [ou]@de
+ERROR	multiple_labels	Rotational Frequency Unit [uo]	rdfs:label	Rotational Frequency Unit [uo]@en
+ERROR	multiple_labels	Frequenzeinheit [dik]	rdfs:label	Frequency Unit [dik]@en
+ERROR	multiple_labels	Frequenzeinheit [dik]	rdfs:label	Frequenzeinheit [dik]@de
+ERROR	multiple_labels	Frequenzeinheit [uo]	rdfs:label	Frequency Unit [uo]@en
+ERROR	multiple_labels	Frequenzeinheit [uo]	rdfs:label	Frequenzeinheit [uo]@de
+ERROR	multiple_labels	Frequenzeinheit [ncit]	rdfs:label	Frequency Unit [ncit]@en
+ERROR	multiple_labels	Frequenzeinheit [ncit]	rdfs:label	Frequenzeinheit [ncit]@de
+ERROR	multiple_labels	Turns per Second [dik]	rdfs:label	Turns per Second [dik]@en
+ERROR	multiple_labels	Turns per Second [dik]	rdfs:label	Umdrehungen pro Sekunde [dik]@de
+ERROR	multiple_labels	Turns per Second [uo]	rdfs:label	Turns per Second [uo]@en
+ERROR	multiple_labels	Turns per Second [uo]	rdfs:label	Umdrehungen pro Sekunde [uo]@de
+ERROR	multiple_labels	Umdrehungen pro Minute [dik]	rdfs:label	Turns per Minute [dik]@en
+ERROR	multiple_labels	Umdrehungen pro Minute [dik]	rdfs:label	Umdrehungen pro Minute [dik]@de
+ERROR	multiple_labels	Fixed Roll Speed [dik]	rdfs:label	Festwalzen-Drehzahl [dik]@de
+ERROR	multiple_labels	Fixed Roll Speed [dik]	rdfs:label	Fixed Roll Speed [dik]@en
+ERROR	multiple_labels	Setting Roll Speed [dik]	rdfs:label	Setting Roll Speed [dik]@en
+ERROR	multiple_labels	Setting Roll Speed [dik]	rdfs:label	Stellwalzen-Drehzahl [dik]@de
+ERROR	multiple_labels	Temperatur [dik]	rdfs:label	Temperatur [dik]@de
+ERROR	multiple_labels	Temperatur [dik]	rdfs:label	Temperature [dik]@en
+ERROR	multiple_labels	Temperature [ncit]	rdfs:label	Temperatur [ncit]@de
+ERROR	multiple_labels	Temperature [ncit]	rdfs:label	Temperature [ncit]@en
+ERROR	multiple_labels	Temperature [pato]	rdfs:label	Temperatur [pato]@de
+ERROR	multiple_labels	Temperature [pato]	rdfs:label	Temperature [pato]@en
+ERROR	multiple_labels	Temperature [om]	rdfs:label	Temperatur [om]@de
+ERROR	multiple_labels	Temperature [om]	rdfs:label	Temperature [om]@en
+ERROR	multiple_labels	Temperatur [efo]	rdfs:label	Temperatur [efo]@de
+ERROR	multiple_labels	Temperatur [efo]	rdfs:label	Temperature [efo]@en
+ERROR	multiple_labels	Temperature Unit [dik]	rdfs:label	Temperature Unit [dik]@en
+ERROR	multiple_labels	Temperature Unit [dik]	rdfs:label	Temperatureinheit [dik]@de
+ERROR	multiple_labels	Temperatureinheit [uo]	rdfs:label	Temperature Unit [uo]@en
+ERROR	multiple_labels	Temperatureinheit [uo]	rdfs:label	Temperatureinheit [uo]@de
+ERROR	multiple_labels	Temperature Unit [ncit]	rdfs:label	Temperature Unit [ncit]@en
+ERROR	multiple_labels	Temperature Unit [ncit]	rdfs:label	Temperatureinheit [ncit]@de
+ERROR	multiple_labels	Temperatursteuergerät [dik]	rdfs:label	Temperature Control Unit [dik]@en
+ERROR	multiple_labels	Temperatursteuergerät [dik]	rdfs:label	Temperatursteuergerät [dik]@de
+ERROR	multiple_labels	Festwalzen-Temperatursteuergerät [dik]	rdfs:label	Festwalzen-Temperatursteuergerät [dik]@de
+ERROR	multiple_labels	Festwalzen-Temperatursteuergerät [dik]	rdfs:label	Fixed Roll Temperature Control Unit [dik]@en
+ERROR	multiple_labels	Setting Roll Temperature Control Unit [dik]	rdfs:label	Setting Roll Temperature Control Unit [dik]@en
+ERROR	multiple_labels	Setting Roll Temperature Control Unit [dik]	rdfs:label	Stellwalzen-Temperatursteuergerät [dik]@de
+ERROR	multiple_labels	Festwalzen-Temperatur [dik]	rdfs:label	Festwalzen-Temperatur [dik]@de
+ERROR	multiple_labels	Festwalzen-Temperatur [dik]	rdfs:label	Fixed Roll Temperature [dik]@en
+ERROR	multiple_labels	Stellwalzen-Temperatur [dik]	rdfs:label	Setting Roll Temperature [dik]@en
+ERROR	multiple_labels	Stellwalzen-Temperatur [dik]	rdfs:label	Stellwalzen-Temperatur [dik]@de
+ERROR	multiple_labels	NIP [dik]	rdfs:label	NIP [dik]@en
+ERROR	multiple_labels	NIP [dik]	rdfs:label	Walzenspalt [dik]@de
+ERROR	multiple_labels	Sheeting [dik]	rdfs:label	Auswalzen [dik]@de
+ERROR	multiple_labels	Sheeting [dik]	rdfs:label	Sheeting [dik]@en
+ERROR	multiple_labels	Dispersion [dik]	rdfs:label	Dispergierung [dik]@de
+ERROR	multiple_labels	Dispersion [dik]	rdfs:label	Dispersion [dik]@en
+ERROR	multiple_labels	Mastication [dik]	rdfs:label	Mastication [dik]@en
+ERROR	multiple_labels	Mastication [dik]	rdfs:label	Mastikation [dik]@de
+ERROR	multiple_labels	Mastication [ncit]	rdfs:label	Mastication [ncit]@en
+ERROR	multiple_labels	Mastication [ncit]	rdfs:label	Mastikation [ncit]@de
+ERROR	multiple_labels	Mastication [hp]	rdfs:label	Mastication [hp]@en
+ERROR	multiple_labels	Mastication [hp]	rdfs:label	Mastikation [hp]@de
+ERROR	multiple_labels	Verarbeitbarkeit [dik]	rdfs:label	Processability [dik]@en
+ERROR	multiple_labels	Verarbeitbarkeit [dik]	rdfs:label	Verarbeitbarkeit [dik]@de
+ERROR	multiple_labels	Mischer [dik]	rdfs:label	Mischer [dik]@de
+ERROR	multiple_labels	Mischer [dik]	rdfs:label	Mixer Device [dik]@en
+ERROR	multiple_labels	Mixer Device [ncit]	rdfs:label	Mischer [ncit]@de
+ERROR	multiple_labels	Mixer Device [ncit]	rdfs:label	Mixer Device [ncit]@en
+ERROR	multiple_labels	Mechanical Mixer [dik]	rdfs:label	Mechanical Mixer [dik]@en
+ERROR	multiple_labels	Mechanical Mixer [dik]	rdfs:label	Mechanischer Mischer [dik]@de
+ERROR	multiple_labels	Mechanical Mixer [ncit]	rdfs:label	Mechanical Mixer [ncit]@en
+ERROR	multiple_labels	Mechanical Mixer [ncit]	rdfs:label	Mechanischer Mischer [ncit]@de
+ERROR	multiple_labels	Internal Mixer [dik]	rdfs:label	Innenmischer [dik]@de
+ERROR	multiple_labels	Internal Mixer [dik]	rdfs:label	Internal Mixer [dik]@en
+ERROR	multiple_labels	Rotor [dik]	rdfs:label	Rotor [dik]@de
+ERROR	multiple_labels	Rotor [dik]	rdfs:label	Rotor [dik]@en
+ERROR	multiple_labels	Mixing Chamber [dik]	rdfs:label	Mischkammer [dik]@de
+ERROR	multiple_labels	Mixing Chamber [dik]	rdfs:label	Mixing Chamber [dik]@en
+ERROR	multiple_labels	Klappsattel [dik]	rdfs:label	Drop Door [dik]@en
+ERROR	multiple_labels	Klappsattel [dik]	rdfs:label	Klappsattel [dik]@de
+ERROR	multiple_labels	Stamp [dik]	rdfs:label	Stamp [dik]@en
+ERROR	multiple_labels	Stamp [dik]	rdfs:label	Stempel [dik]@de
+ERROR	multiple_labels	Rotor-Drehzahl [dik]	rdfs:label	Rotor Speed [dik]@en
+ERROR	multiple_labels	Rotor-Drehzahl [dik]	rdfs:label	Rotor-Drehzahl [dik]@de
+ERROR	multiple_labels	Rotor-Temperatursteuergerät [dik]	rdfs:label	Rotor Temperature Control Unit [dik]@en
+ERROR	multiple_labels	Rotor-Temperatursteuergerät [dik]	rdfs:label	Rotor-Temperatursteuergerät [dik]@de
+ERROR	multiple_labels	Rotor-Temperatur [dik]	rdfs:label	Rotor Temperature [dik]@en
+ERROR	multiple_labels	Rotor-Temperatur [dik]	rdfs:label	Rotor-Temperatur [dik]@de
+ERROR	multiple_labels	Mischkammer-Temperatursteuergerät [dik]	rdfs:label	Mischkammer-Temperatursteuergerät [dik]@de
+ERROR	multiple_labels	Mischkammer-Temperatursteuergerät [dik]	rdfs:label	Mixing Chamber Temperature Control Unit [dik]@en
+ERROR	multiple_labels	Mischkammer-Temperatur [dik]	rdfs:label	Mischkammer-Temperatur [dik]@de
+ERROR	multiple_labels	Mischkammer-Temperatur [dik]	rdfs:label	Mixing Chamber Temperature [dik]@en
+ERROR	multiple_labels	Drop Door Temperature Control Unit [dik]	rdfs:label	Drop Door Temperature Control Unit [dik]@en
+ERROR	multiple_labels	Drop Door Temperature Control Unit [dik]	rdfs:label	Klappsattel-Temperatursteuergerät [dik]@de
+ERROR	multiple_labels	Klappsattel-Temperatur [dik]	rdfs:label	Drop Door Temperature [dik]@en
+ERROR	multiple_labels	Klappsattel-Temperatur [dik]	rdfs:label	Klappsattel-Temperatur [dik]@de
+ERROR	multiple_labels	Stamp Temperature Control Unit [dik]	rdfs:label	Stamp Temperature Control Unit [dik]@en
+ERROR	multiple_labels	Stamp Temperature Control Unit [dik]	rdfs:label	Stempel-Temperatursteuergerät [dik]@de
+ERROR	multiple_labels	Stamp Temperature [dik]	rdfs:label	Stamp Temperature [dik]@en
+ERROR	multiple_labels	Stamp Temperature [dik]	rdfs:label	Stempel-Temperatur [dik]@de
+ERROR	multiple_labels	Drehmoment [dik]	rdfs:label	Drehmoment [dik]@de
+ERROR	multiple_labels	Drehmoment [dik]	rdfs:label	Torque [dik]@en
+ERROR	multiple_labels	Drehmoment [om]	rdfs:label	Drehmoment [om]@de
+ERROR	multiple_labels	Drehmoment [om]	rdfs:label	Torque [om]@en
+ERROR	multiple_labels	Torque Unit [dik]	rdfs:label	Drehmoment Einheit [dik]@de
+ERROR	multiple_labels	Torque Unit [dik]	rdfs:label	Torque Unit [dik]@en
+ERROR	multiple_labels	Newtonmeter [dik]	rdfs:label	Newtonmeter [dik]@de
+ERROR	multiple_labels	Newtonmeter [dik]	rdfs:label	Newtonmeter [dik]@en
+ERROR	multiple_labels	Rotor Torque [dik]	rdfs:label	Rotor Torque [dik]@en
+ERROR	multiple_labels	Rotor Torque [dik]	rdfs:label	Rotor-Drehmoment [dik]@de
+ERROR	multiple_labels	Massetemperatur [dik]	rdfs:label	Mass Temperature [dik]@en
+ERROR	multiple_labels	Massetemperatur [dik]	rdfs:label	Massetemperatur [dik]@de
+ERROR	multiple_labels	Länge [dik]	rdfs:label	Length [dik]@en
+ERROR	multiple_labels	Länge [dik]	rdfs:label	Länge [dik]@de
+ERROR	multiple_labels	Length [ncit]	rdfs:label	Length [ncit]@en
+ERROR	multiple_labels	Length [ncit]	rdfs:label	Länge [ncit]@de
+ERROR	multiple_labels	Länge [pato]	rdfs:label	Length [pato]@en
+ERROR	multiple_labels	Länge [pato]	rdfs:label	Länge [pato]@de
+ERROR	multiple_labels	Länge [om]	rdfs:label	Length [om]@en
+ERROR	multiple_labels	Länge [om]	rdfs:label	Länge [om]@de
+ERROR	multiple_labels	Length [ms]	rdfs:label	Length [ms]@en
+ERROR	multiple_labels	Length [ms]	rdfs:label	Länge [ms]@de
+ERROR	multiple_labels	Length Unit [dik]	rdfs:label	Length Unit [dik]@en
+ERROR	multiple_labels	Length Unit [dik]	rdfs:label	Längen Einheit [dik]@de
+ERROR	multiple_labels	Längen Einheit [uo]	rdfs:label	Length Unit [uo]@en
+ERROR	multiple_labels	Längen Einheit [uo]	rdfs:label	Längen Einheit [uo]@de
+ERROR	multiple_labels	Längen Einheit [ncit]	rdfs:label	Length Unit [ncit]@en
+ERROR	multiple_labels	Längen Einheit [ncit]	rdfs:label	Längen Einheit [ncit]@de
+ERROR	multiple_labels	millimeter [dik]	rdfs:label	millimeter [dik]@de
+ERROR	multiple_labels	millimeter [dik]	rdfs:label	millimeter [dik]@en
+ERROR	multiple_labels	millimeter [ncit]	rdfs:label	millimeter [ncit]@de
+ERROR	multiple_labels	millimeter [ncit]	rdfs:label	millimeter [ncit]@en
+ERROR	multiple_labels	millimeter [uo]	rdfs:label	millimeter [uo]@de
+ERROR	multiple_labels	millimeter [uo]	rdfs:label	millimeter [uo]@en
+ERROR	multiple_labels	Stamp Distance [dik]	rdfs:label	Stamp Distance [dik]@en
+ERROR	multiple_labels	Stamp Distance [dik]	rdfs:label	Stempelweg [dik]@de
+ERROR	multiple_labels	Addition Sequence [dik]	rdfs:label	Addition Sequence [dik]@en
+ERROR	multiple_labels	Addition Sequence [dik]	rdfs:label	Zugabereihenfolge [dik]@de
+ERROR	multiple_labels	Zugabezeitpunkt [dik]	rdfs:label	Time of Addition [dik]@en
+ERROR	multiple_labels	Zugabezeitpunkt [dik]	rdfs:label	Zugabezeitpunkt [dik]@de
+ERROR	multiple_labels	Power [dik]	rdfs:label	Leistung [dik]@de
+ERROR	multiple_labels	Power [dik]	rdfs:label	Power [dik]@en
+ERROR	multiple_labels	Leistung [pato]	rdfs:label	Leistung [pato]@de
+ERROR	multiple_labels	Leistung [pato]	rdfs:label	Power [pato]@en
+ERROR	multiple_labels	Power [om]	rdfs:label	Leistung [om]@de
+ERROR	multiple_labels	Power [om]	rdfs:label	Power [om]@en
+ERROR	multiple_labels	Elektrische Leistung [dik]	rdfs:label	Electrical Power [dik]@en
+ERROR	multiple_labels	Elektrische Leistung [dik]	rdfs:label	Elektrische Leistung [dik]@de
+ERROR	multiple_labels	Mixing Time [dik]	rdfs:label	Mischzeit [dik]@de
+ERROR	multiple_labels	Mixing Time [dik]	rdfs:label	Mixing Time [dik]@en
+ERROR	multiple_labels	Füllgrad [dik]	rdfs:label	Filling Ratio [dik]@en
+ERROR	multiple_labels	Füllgrad [dik]	rdfs:label	Füllgrad [dik]@de
+ERROR	multiple_labels	Number of Mixing Stages [dik]	rdfs:label	Mischstufenanzahl [dik]@de
+ERROR	multiple_labels	Number of Mixing Stages [dik]	rdfs:label	Number of Mixing Stages [dik]@en
+ERROR	multiple_labels	Batch [dik]	rdfs:label	Batch [dik]@en
+ERROR	multiple_labels	Batch [dik]	rdfs:label	Charge [dik]@de
+ERROR	multiple_labels	Charge [ncit]	rdfs:label	Batch [ncit]@en
+ERROR	multiple_labels	Charge [ncit]	rdfs:label	Charge [ncit]@de
+ERROR	multiple_labels	Extruder [dik]	rdfs:label	Extruder [dik]@de
+ERROR	multiple_labels	Extruder [dik]	rdfs:label	Extruder [dik]@en
+ERROR	multiple_labels	Einschneckenextruder [dik]	rdfs:label	Einschneckenextruder [dik]@de
+ERROR	multiple_labels	Einschneckenextruder [dik]	rdfs:label	Single Screw Extruder [dik]@en
+ERROR	multiple_labels	Pin Extruder [dik]	rdfs:label	Pin Extruder [dik]@en
+ERROR	multiple_labels	Pin Extruder [dik]	rdfs:label	Stiftextruder [dik]@de
+ERROR	multiple_labels	Pin [dik]	rdfs:label	Pin [dik]@en
+ERROR	multiple_labels	Pin [dik]	rdfs:label	Stift [dik]@de
+ERROR	multiple_labels	Screw [dik]	rdfs:label	Schnecke [dik]@de
+ERROR	multiple_labels	Screw [dik]	rdfs:label	Screw [dik]@en
+ERROR	multiple_labels	Schablone [dik]	rdfs:label	Die [dik]@en
+ERROR	multiple_labels	Schablone [dik]	rdfs:label	Schablone [dik]@de
+ERROR	multiple_labels	Extrudate [dik]	rdfs:label	Extrudat [dik]@de
+ERROR	multiple_labels	Extrudate [dik]	rdfs:label	Extrudate [dik]@en
+ERROR	multiple_labels	Extruder Head [dik]	rdfs:label	Extruder Head [dik]@en
+ERROR	multiple_labels	Extruder Head [dik]	rdfs:label	Extruderkopf [dik]@de
+ERROR	multiple_labels	Extrusion [dik]	rdfs:label	Extrudieren [dik]@de
+ERROR	multiple_labels	Extrusion [dik]	rdfs:label	Extrusion [dik]@en
+ERROR	multiple_labels	Extrudieren [rex]	rdfs:label	Extrudieren [rex]@de
+ERROR	multiple_labels	Extrudieren [rex]	rdfs:label	Extrusion [rex]@en
+ERROR	multiple_labels	Extrudieren [chmo]	rdfs:label	Extrudieren [chmo]@de
+ERROR	multiple_labels	Extrudieren [chmo]	rdfs:label	Extrusion [chmo]@en
+ERROR	multiple_labels	Die Swell [dik]	rdfs:label	Die Swell [dik]@en
+ERROR	multiple_labels	Die Swell [dik]	rdfs:label	Spritzquellung [dik]@de
+ERROR	multiple_labels	Abzugsgeschwindigkeit [dik]	rdfs:label	Abzugsgeschwindigkeit [dik]@de
+ERROR	multiple_labels	Abzugsgeschwindigkeit [dik]	rdfs:label	Haul-off Speed [dik]@en
+ERROR	multiple_labels	Förderband [dik]	rdfs:label	Conveyor Belt [dik]@en
+ERROR	multiple_labels	Förderband [dik]	rdfs:label	Förderband [dik]@de
+ERROR	multiple_labels	Massedurchsatz [dik]	rdfs:label	Mass Throughput [dik]@en
+ERROR	multiple_labels	Massedurchsatz [dik]	rdfs:label	Massedurchsatz [dik]@de
+ERROR	multiple_labels	Pressure Variation [dik]	rdfs:label	Druckschwankung [dik]@de
+ERROR	multiple_labels	Pressure Variation [dik]	rdfs:label	Pressure Variation [dik]@en
+ERROR	multiple_labels	Geometry Variation [dik]	rdfs:label	Geometrieschwankung [dik]@de
+ERROR	multiple_labels	Geometry Variation [dik]	rdfs:label	Geometry Variation [dik]@en
+ERROR	multiple_labels	Surface [dik]	rdfs:label	Oberfläche [dik]@de
+ERROR	multiple_labels	Surface [dik]	rdfs:label	Surface [dik]@en
+ERROR	multiple_labels	Oberfläche [ncit]	rdfs:label	Oberfläche [ncit]@de
+ERROR	multiple_labels	Oberfläche [ncit]	rdfs:label	Surface [ncit]@en
+ERROR	multiple_labels	Surface Defect [dik]	rdfs:label	Oberflächenfehler [dik]@de
+ERROR	multiple_labels	Surface Defect [dik]	rdfs:label	Surface Defect [dik]@en
+ERROR	multiple_labels	Oberflächentemperatur [dik]	rdfs:label	Oberflächentemperatur [dik]@de
+ERROR	multiple_labels	Oberflächentemperatur [dik]	rdfs:label	Surface Temperature [dik]@en
+ERROR	multiple_labels	Schneckendrehzahl [dik]	rdfs:label	Schneckendrehzahl [dik]@de
+ERROR	multiple_labels	Schneckendrehzahl [dik]	rdfs:label	Screw Speed [dik]@en
+ERROR	multiple_labels	Druck [dik]	rdfs:label	Druck [dik]@de
+ERROR	multiple_labels	Druck [dik]	rdfs:label	Pressure [dik]@en
+ERROR	multiple_labels	Pressure [pato]	rdfs:label	Druck [pato]@de
+ERROR	multiple_labels	Pressure [pato]	rdfs:label	Pressure [pato]@en
+ERROR	multiple_labels	Druck [om]	rdfs:label	Druck [om]@de
+ERROR	multiple_labels	Druck [om]	rdfs:label	Pressure [om]@en
+ERROR	multiple_labels	Die Geometry [dik]	rdfs:label	Die Geometry [dik]@en
+ERROR	multiple_labels	Die Geometry [dik]	rdfs:label	Schablonengeometrie [dik]@de
+ERROR	multiple_labels	Extrudatquerschnitt [dik]	rdfs:label	Extrudate Cross Section [dik]@en
+ERROR	multiple_labels	Extrudatquerschnitt [dik]	rdfs:label	Extrudatquerschnitt [dik]@de
+ERROR	multiple_labels	Sensor [dik]	rdfs:label	Sensor [dik]@de
+ERROR	multiple_labels	Sensor [dik]	rdfs:label	Sensor [dik]@en
+ERROR	multiple_labels	Sensor [sosa]	rdfs:label	Sensor [sosa]@de
+ERROR	multiple_labels	Sensor [sosa]	rdfs:label	Sensor [sosa]@en
+ERROR	multiple_labels	Sensor [chmo]	rdfs:label	Sensor [chmo]@de
+ERROR	multiple_labels	Sensor [chmo]	rdfs:label	Sensor [chmo]@en
+ERROR	multiple_labels	Temperature Measuring Sword [dik]	rdfs:label	Temperature Measuring Sword [dik]@en
+ERROR	multiple_labels	Temperature Measuring Sword [dik]	rdfs:label	Temperaturmessschwert [dik]@de
+ERROR	multiple_labels	Pressure Sensor [dik]	rdfs:label	Drucksensor [dik]@de
+ERROR	multiple_labels	Pressure Sensor [dik]	rdfs:label	Pressure Sensor [dik]@en
+ERROR	multiple_labels	Temperatursensor [dik]	rdfs:label	Temperature Sensor [dik]@en
+ERROR	multiple_labels	Temperatursensor [dik]	rdfs:label	Temperatursensor [dik]@de
+ERROR	multiple_labels	Gearbox [dik]	rdfs:label	Gearbox [dik]@en
+ERROR	multiple_labels	Gearbox [dik]	rdfs:label	Getriebe [dik]@de
+ERROR	multiple_labels	Motor [dik]	rdfs:label	Engine [dik]@en
+ERROR	multiple_labels	Motor [dik]	rdfs:label	Motor [dik]@de
+ERROR	multiple_labels	Motor [envo]	rdfs:label	Engine [envo]@en
+ERROR	multiple_labels	Motor [envo]	rdfs:label	Motor [envo]@de
+ERROR	multiple_labels	Speisewalze [dik]	rdfs:label	Feeding Roll [dik]@en
+ERROR	multiple_labels	Speisewalze [dik]	rdfs:label	Speisewalze [dik]@de
+ERROR	multiple_labels	Pin Zone [dik]	rdfs:label	Pin Zone [dik]@en
+ERROR	multiple_labels	Pin Zone [dik]	rdfs:label	Stiftzone [dik]@de
+ERROR	multiple_labels	Einzugszone [dik]	rdfs:label	Einzugszone [dik]@de
+ERROR	multiple_labels	Einzugszone [dik]	rdfs:label	Feeding Zone [dik]@en
+ERROR	multiple_labels	Werkzeugzone [dik]	rdfs:label	Molding Zone [dik]@en
+ERROR	multiple_labels	Werkzeugzone [dik]	rdfs:label	Werkzeugzone [dik]@de
+ERROR	multiple_labels	Speisewalzen-Temperatursteuergerät [dik]	rdfs:label	Feeding Roll Temperature Control Unit [dik]@en
+ERROR	multiple_labels	Speisewalzen-Temperatursteuergerät [dik]	rdfs:label	Speisewalzen-Temperatursteuergerät [dik]@de
+ERROR	multiple_labels	Speisewalzen-Temperatur [dik]	rdfs:label	Feeding Roll Temperature [dik]@en
+ERROR	multiple_labels	Speisewalzen-Temperatur [dik]	rdfs:label	Speisewalzen-Temperatur [dik]@de
+ERROR	multiple_labels	Screw Temperature Control Unit [dik]	rdfs:label	Schnecken-Temperatursteuergerät [dik]@de
+ERROR	multiple_labels	Screw Temperature Control Unit [dik]	rdfs:label	Screw Temperature Control Unit [dik]@en
+ERROR	multiple_labels	Schnecken-Temperatur [dik]	rdfs:label	Schnecken-Temperatur [dik]@de
+ERROR	multiple_labels	Schnecken-Temperatur [dik]	rdfs:label	Screw Temperature [dik]@en
+ERROR	multiple_labels	Einzugszonen-Temperatursteuergerät [dik]	rdfs:label	Einzugszonen-Temperatursteuergerät [dik]@de
+ERROR	multiple_labels	Einzugszonen-Temperatursteuergerät [dik]	rdfs:label	Feeding Zone Temperature Control Unit [dik]@en
+ERROR	multiple_labels	Einzugszonen-Temperatur [dik]	rdfs:label	Einzugszonen-Temperatur [dik]@de
+ERROR	multiple_labels	Einzugszonen-Temperatur [dik]	rdfs:label	Feeding Zone Temperature [dik]@en
+ERROR	multiple_labels	Pin Zone Temperature Control Unit [dik]	rdfs:label	Pin Zone Temperature Control Unit [dik]@en
+ERROR	multiple_labels	Pin Zone Temperature Control Unit [dik]	rdfs:label	Stiftzonen-Temperatursteuergerät [dik]@de
+ERROR	multiple_labels	Stiftzonen-Temperatur [dik]	rdfs:label	Pin Zone Temperature [dik]@en
+ERROR	multiple_labels	Stiftzonen-Temperatur [dik]	rdfs:label	Stiftzonen-Temperatur [dik]@de
+ERROR	multiple_labels	Werkzeugzonen-Temperatursteuergerät [dik]	rdfs:label	Molding Zone Temperature Control Unit [dik]@en
+ERROR	multiple_labels	Werkzeugzonen-Temperatursteuergerät [dik]	rdfs:label	Werkzeugzonen-Temperatursteuergerät [dik]@de
+ERROR	multiple_labels	Molding Zone Temperature [dik]	rdfs:label	Molding Zone Temperature [dik]@en
+ERROR	multiple_labels	Molding Zone Temperature [dik]	rdfs:label	Werkzeugzonen-Temperatur [dik]@de
+ERROR	multiple_labels	Vulkanisationszeit [dik]	rdfs:label	Vulcanization Time [dik]@en
+ERROR	multiple_labels	Vulkanisationszeit [dik]	rdfs:label	Vulkanisationszeit [dik]@de
+ERROR	multiple_labels	Vernetzungsdichte [dik]	rdfs:label	Crosslink Density [dik]@en
+ERROR	multiple_labels	Vernetzungsdichte [dik]	rdfs:label	Vernetzungsdichte [dik]@de
+ERROR	multiple_labels	Vulcanizate [dik]	rdfs:label	Vulcanizate [dik]@en
+ERROR	multiple_labels	Vulcanizate [dik]	rdfs:label	Vulkanisat [dik]@de
+ERROR	multiple_labels	Crosslink [dik]	rdfs:label	Crosslink [dik]@en
+ERROR	multiple_labels	Crosslink [dik]	rdfs:label	Vernetzung [dik]@de
+ERROR	multiple_labels	Crosslink [ncit]	rdfs:label	Crosslink [ncit]@en
+ERROR	multiple_labels	Crosslink [ncit]	rdfs:label	Vernetzung [ncit]@de
+ERROR	multiple_labels	Vernetzen [dik]	rdfs:label	Crosslinking [dik]@en
+ERROR	multiple_labels	Vernetzen [dik]	rdfs:label	Vernetzen [dik]@de
+ERROR	multiple_labels	State of Cure [dik]	rdfs:label	State of Cure [dik]@en
+ERROR	multiple_labels	State of Cure [dik]	rdfs:label	Vernetzungsgrad [dik]@de
+ERROR	multiple_labels	Vulcanization [dik]	rdfs:label	Vulcanization [dik]@en
+ERROR	multiple_labels	Vulcanization [dik]	rdfs:label	Vulkanisation [dik]@de
+ERROR	multiple_labels	Autoklav [dik]	rdfs:label	Autoclave [dik]@en
+ERROR	multiple_labels	Autoklav [dik]	rdfs:label	Autoklav [dik]@de
+ERROR	multiple_labels	Autoklav [obi]	rdfs:label	Autoclave[obi]@en
+ERROR	multiple_labels	Autoklav [obi]	rdfs:label	Autoklav [obi]@de
+ERROR	multiple_labels	Autoclave [chmo]	rdfs:label	Autoclave [chmo]@en
+ERROR	multiple_labels	Autoclave [chmo]	rdfs:label	Autoklav [chmo]@de
+ERROR	multiple_labels	Plateau Cure [dik]	rdfs:label	Plateau Cure [dik]@en
+ERROR	multiple_labels	Plateau Cure [dik]	rdfs:label	Vulkanisationsplateau [dik]@de
+ERROR	multiple_labels	Vulkanisationsoptimum [dik]	rdfs:label	Optimum Cure [dik]@en
+ERROR	multiple_labels	Vulkanisationsoptimum [dik]	rdfs:label	Vulkanisationsoptimum [dik]@de
+ERROR	multiple_labels	Übervulkanisation [dik]	rdfs:label	Overcure [dik]@en
+ERROR	multiple_labels	Übervulkanisation [dik]	rdfs:label	Übervulkanisation [dik]@de
+ERROR	multiple_labels	Undercure [dik]	rdfs:label	Undercure [dik]@en
+ERROR	multiple_labels	Undercure [dik]	rdfs:label	Untervulkanisation [dik]@de
+ERROR	multiple_labels	Sample [dik]	rdfs:label	Probe [dik]@de
+ERROR	multiple_labels	Sample [dik]	rdfs:label	Sample [dik]@en
+ERROR	multiple_labels	Sample [sosa]	rdfs:label	Probe [sosa]@de
+ERROR	multiple_labels	Sample [sosa]	rdfs:label	Sample [sosa]@en
+ERROR	multiple_labels	Probe [nmrcv]	rdfs:label	Probe [nmrcv]@de
+ERROR	multiple_labels	Probe [nmrcv]	rdfs:label	Sample [nmrcv]@en
+ERROR	multiple_labels	Test Piece [dik]	rdfs:label	Prüfkörper [dik]@de
+ERROR	multiple_labels	Test Piece [dik]	rdfs:label	Test Piece [dik]@en
+ERROR	multiple_labels	Gummiabfall [dik]	rdfs:label	Gummiabfall [dik]@de
+ERROR	multiple_labels	Gummiabfall [dik]	rdfs:label	Scrap Rubber [dik]@en
+ERROR	multiple_labels	Factory Scrap [dik]	rdfs:label	Factory Scrap [dik]@en
+ERROR	multiple_labels	Factory Scrap [dik]	rdfs:label	Produktionsabfall [dik]@de
+ERROR	multiple_labels	Physical Object Quality [dik]	rdfs:label	Physical Object Quality [dik]@en
+ERROR	multiple_labels	Physical Object Quality [dik]	rdfs:label	Qualität des physischen Objekts [dik]@de
+ERROR	multiple_labels	Physical Object Quality [pato]	rdfs:label	Physical Object Quality [pato]@en
+ERROR	multiple_labels	Physical Object Quality [pato]	rdfs:label	Qualität des physischen Objekts [pato]@de
+ERROR	multiple_labels	physikalische Qualität [dik]	rdfs:label	Physical Quality [dik]@en
+ERROR	multiple_labels	physikalische Qualität [dik]	rdfs:label	physikalische Qualität [dik]@de
+ERROR	multiple_labels	Physical Quality [pato]	rdfs:label	Physical Quality [pato]@en
+ERROR	multiple_labels	Physical Quality [pato]	rdfs:label	physikalische Qualität [pato]@de
+ERROR	multiple_labels	Label der Messeinheit [dik]	rdfs:label	Label der Messeinheit [dik]@de
+ERROR	multiple_labels	Label der Messeinheit [dik]	rdfs:label	Measurement Unit Label [dik]@en
+ERROR	multiple_labels	Label der Messeinheit [pato]	rdfs:label	Label der Messeinheit [pato]@de
+ERROR	multiple_labels	Label der Messeinheit [pato]	rdfs:label	Measurement Unit Label [pato]@en
+ERROR	multiple_labels	Datum Label [dik]	rdfs:label	Bezugspunkt-Label [dik]@de
+ERROR	multiple_labels	Datum Label [dik]	rdfs:label	Datum Label [dik]@en
+ERROR	multiple_labels	Bezugspunkt-Label [iao]	rdfs:label	Bezugspunkt-Label [iao]@de
+ERROR	multiple_labels	Bezugspunkt-Label [iao]	rdfs:label	Datum Label [iao]@en
+ERROR	multiple_labels	Assay [dik]	rdfs:label	Assay [dik]@en
+ERROR	multiple_labels	Assay [dik]	rdfs:label	Prüfung [dik]@de
+ERROR	multiple_labels	Assay [ncit]	rdfs:label	Assay [ncit]@en
+ERROR	multiple_labels	Assay [ncit]	rdfs:label	Prüfung [ncit]@de
+ERROR	multiple_labels	Prüfung [obi]	rdfs:label	Assay [obi]@en
+ERROR	multiple_labels	Prüfung [obi]	rdfs:label	Prüfung [obi]@de
+ERROR	multiple_labels	Density Measurement Assay [dik]	rdfs:label	Density Measurement Assay [dik]@en
+ERROR	multiple_labels	Density Measurement Assay [dik]	rdfs:label	Prüfung zur Dichtemessung [dik]@de
+ERROR	multiple_labels	Massendichte [dik]	rdfs:label	Mass Density [dik]@en
+ERROR	multiple_labels	Massendichte [dik]	rdfs:label	Massendichte [dik]@de
+ERROR	multiple_labels	Massendichte [ncit]	rdfs:label	Mass Density [ncit]@en
+ERROR	multiple_labels	Massendichte [ncit]	rdfs:label	Massendichte [ncit]@de
+ERROR	multiple_labels	Mass Density [pato]	rdfs:label	Mass Density [pato]@en
+ERROR	multiple_labels	Mass Density [pato]	rdfs:label	Massendichte [pato]@de
+ERROR	multiple_labels	Mass Density Unit [dik]	rdfs:label	Mass Density Unit [dik]@en
+ERROR	multiple_labels	Mass Density Unit [dik]	rdfs:label	Massendichte Einheit [dik]@de
+ERROR	multiple_labels	Massendichte Einheit [uo]	rdfs:label	Mass Density Unit [uo]@en
+ERROR	multiple_labels	Massendichte Einheit [uo]	rdfs:label	Massendichte Einheit [uo]@de
+ERROR	multiple_labels	Unit Of Mass Density [ncit]	rdfs:label	Massendichte Einheit [ncit]@de
+ERROR	multiple_labels	Unit Of Mass Density [ncit]	rdfs:label	Unit Of Mass Density [ncit]@en
+ERROR	multiple_labels	Gramm pro Kubikzentimeter [dik]	rdfs:label	Gram Per Cubic Centimeter [dik]@en
+ERROR	multiple_labels	Gramm pro Kubikzentimeter [dik]	rdfs:label	Gramm pro Kubikzentimeter [dik]@de
+ERROR	multiple_labels	Gram Per Cubic Centimeter [uo]	rdfs:label	Gram Per Cubic Centimeter [uo]@en
+ERROR	multiple_labels	Gram Per Cubic Centimeter [uo]	rdfs:label	Gramm pro Kubikzentimeter [uo]@de
+ERROR	multiple_labels	Viscosity Measurement Assay [dik]	rdfs:label	Prüfung zur Viskositätsmessung [dik]@de
+ERROR	multiple_labels	Viscosity Measurement Assay [dik]	rdfs:label	Viscosity Measurement Assay [dik]@en
+ERROR	multiple_labels	Prüfung zur Mooney-Viskositätsmessung [dik]	rdfs:label	Mooney Viscosity Measurement Assay [dik]@en
+ERROR	multiple_labels	Prüfung zur Mooney-Viskositätsmessung [dik]	rdfs:label	Prüfung zur Mooney-Viskositätsmessung [dik]@de
+ERROR	multiple_labels	Viscosity [dik]	rdfs:label	Viscosity [dik]@en
+ERROR	multiple_labels	Viscosity [dik]	rdfs:label	Viskosität [dik]@de
+ERROR	multiple_labels	Viscosity [ncit]	rdfs:label	Viscosity [ncit]@en
+ERROR	multiple_labels	Viscosity [ncit]	rdfs:label	Viskosität [ncit]@de
+ERROR	multiple_labels	Viskosität [pato]	rdfs:label	Viscosity [pato]@en
+ERROR	multiple_labels	Viskosität [pato]	rdfs:label	Viskosität [pato]@de
+ERROR	multiple_labels	Mooney Viskosität [dik]	rdfs:label	Mooney Viscosity [dik]@en
+ERROR	multiple_labels	Mooney Viskosität [dik]	rdfs:label	Mooney Viskosität [dik]@de
+ERROR	multiple_labels	Viskositätseinheit [dik]	rdfs:label	Viscosity Unit [dik]@en
+ERROR	multiple_labels	Viskositätseinheit [dik]	rdfs:label	Viskositätseinheit [dik]@de
+ERROR	multiple_labels	Viskositätseinheit [uo]	rdfs:label	Viscosity Unit [uo]@en
+ERROR	multiple_labels	Viskositätseinheit [uo]	rdfs:label	Viskositätseinheit [uo]@de
+ERROR	multiple_labels	Mooney Viscosity Unit [dik]	rdfs:label	Mooney Viscosity Unit [dik]@en
+ERROR	multiple_labels	Mooney Viscosity Unit [dik]	rdfs:label	Mooney Viskositätseinheit [dik]@de
+ERROR	multiple_labels	Mooney Unit [dik]	rdfs:label	Mooney Einheit [dik]@de
+ERROR	multiple_labels	Mooney Unit [dik]	rdfs:label	Mooney Unit [dik]@en
+ERROR	multiple_labels	Qualität eines Stoffes [dik]	rdfs:label	Quality of a Substance [dik]@en
+ERROR	multiple_labels	Qualität eines Stoffes [dik]	rdfs:label	Qualität eines Stoffes [dik]@de
+ERROR	multiple_labels	Qualität eines Stoffes [pato]	rdfs:label	Quality of a Substance [pato]@en
+ERROR	multiple_labels	Qualität eines Stoffes [pato]	rdfs:label	Qualität eines Stoffes [pato]@de
+ERROR	multiple_labels	Quality of a Liquid [dik]	rdfs:label	Quality of a Liquid [dik]@en
+ERROR	multiple_labels	Quality of a Liquid [dik]	rdfs:label	Qualität einer Flüssigkeit [dik]@de
+ERROR	multiple_labels	Qualität einer Flüssigkeit [pato]	rdfs:label	Quality of a Liquid [pato]@en
+ERROR	multiple_labels	Qualität einer Flüssigkeit [pato]	rdfs:label	Qualität einer Flüssigkeit [pato]@de
+ERROR	multiple_labels	Protocol [dik]	rdfs:label	Protocol [dik]@en
+ERROR	multiple_labels	Protocol [dik]	rdfs:label	Protokoll [dik]@de
+ERROR	multiple_labels	Protokoll [ncit]	rdfs:label	Protocol [ncit]@en
+ERROR	multiple_labels	Protokoll [ncit]	rdfs:label	Protokoll [ncit]@de
+ERROR	multiple_labels	Protokoll [obi]	rdfs:label	Protocol [obi]@en
+ERROR	multiple_labels	Protokoll [obi]	rdfs:label	Protokoll [obi]@de
+ERROR	multiple_labels	Protokoll [edam]	rdfs:label	Protocol [edam]@en
+ERROR	multiple_labels	Protokoll [edam]	rdfs:label	Protokoll [edam]@de
+ERROR	multiple_labels	Measurement Protocol [dik]	rdfs:label	Measurement Protocol [dik]@en
+ERROR	multiple_labels	Measurement Protocol [dik]	rdfs:label	Messprotokoll [dik]@de
+ERROR	multiple_labels	Material Processing Protocol [dik]	rdfs:label	Material Processing Protocol [dik]@en
+ERROR	multiple_labels	Material Processing Protocol [dik]	rdfs:label	Materialverarbeitungsprotokoll [dik]@de
+ERROR	multiple_labels	Herstellungsvorschrift [dik]	rdfs:label	Herstellungsvorschrift [dik]@de
+ERROR	multiple_labels	Herstellungsvorschrift [dik]	rdfs:label	Manufacturing Specification [dik]@en
+ERROR	multiple_labels	Protokoll zur Dichtemessung [dik]	rdfs:label	Density Measurement Protocol [dik]@en
+ERROR	multiple_labels	Protokoll zur Dichtemessung [dik]	rdfs:label	Protokoll zur Dichtemessung [dik]@de
+ERROR	multiple_labels	Viscosity Measurement Protocol [dik]	rdfs:label	Protokoll zur Viskositätsmessung [dik]@de
+ERROR	multiple_labels	Viscosity Measurement Protocol [dik]	rdfs:label	Viscosity Measurement Protocol [dik]@en
+ERROR	multiple_labels	Mooney Viscosity Measurement Protocol [dik]	rdfs:label	Mooney Viscosity Measurement Protocol [dik]@en
+ERROR	multiple_labels	Mooney Viscosity Measurement Protocol [dik]	rdfs:label	Protokoll zur Mooney-Viskositätsmessung [dik]@de
+ERROR	multiple_labels	Grad Celsius [dik]	rdfs:label	Degree Celsius [dik]@en
+ERROR	multiple_labels	Grad Celsius [dik]	rdfs:label	Grad Celsius [dik]@de
+ERROR	multiple_labels	Grad Celsius [ncit]	rdfs:label	Degree Celsius [ncit]@en
+ERROR	multiple_labels	Grad Celsius [ncit]	rdfs:label	Grad Celsius [ncit]@de
+ERROR	multiple_labels	Degree Celsius [uo]	rdfs:label	Degree Celsius [uo]@en
+ERROR	multiple_labels	Degree Celsius [uo]	rdfs:label	Grad Celsius [uo]@de
+ERROR	multiple_labels	Degree Celsius [om]	rdfs:label	Degree Celsius [om]@en
+ERROR	multiple_labels	Degree Celsius [om]	rdfs:label	Grad Celsius [om]@de
+ERROR	multiple_labels	Material Processing [dik]	rdfs:label	Material Processing [dik]@en
+ERROR	multiple_labels	Material Processing [dik]	rdfs:label	Materialverarbeitung [dik]@de
+ERROR	multiple_labels	Materialverarbeitung [obi]	rdfs:label	Material Processing [obi]@en
+ERROR	multiple_labels	Materialverarbeitung [obi]	rdfs:label	Materialverarbeitung [obi]@de
+ERROR	multiple_labels	Funktion [dik]	rdfs:label	Function [dik]@en
+ERROR	multiple_labels	Funktion [dik]	rdfs:label	Funktion [dik]@de
+ERROR	multiple_labels	Function [ncit]	rdfs:label	Function [ncit]@en
+ERROR	multiple_labels	Function [ncit]	rdfs:label	Funktion [ncit]@de
+ERROR	multiple_labels	Funktion [mi]	rdfs:label	Function [mi]@en
+ERROR	multiple_labels	Funktion [mi]	rdfs:label	Funktion [mi]@de
+ERROR	multiple_labels	Gerät [dik]	rdfs:label	Device [dik]@en
+ERROR	multiple_labels	Gerät [dik]	rdfs:label	Gerät [dik]@de
+ERROR	multiple_labels	Gerät [ncit]	rdfs:label	Device [ncit]@en
+ERROR	multiple_labels	Gerät [ncit]	rdfs:label	Gerät [ncit]@de
+ERROR	multiple_labels	Gerät [obi]	rdfs:label	Device [obi]@en
+ERROR	multiple_labels	Gerät [obi]	rdfs:label	Gerät [obi]@de
+ERROR	multiple_labels	Measurement Device [dik]	rdfs:label	Measurement Device [dik]@en
+ERROR	multiple_labels	Measurement Device [dik]	rdfs:label	Messgerät [dik]@de
+ERROR	multiple_labels	Measurement Device [ncit]	rdfs:label	Measurement Device [ncit]@en
+ERROR	multiple_labels	Measurement Device [ncit]	rdfs:label	Messgerät [ncit]@de
+ERROR	multiple_labels	Measurement Device [obi]	rdfs:label	Measurement Device [obi]@en
+ERROR	multiple_labels	Measurement Device [obi]	rdfs:label	Messgerät [obi]@de
+ERROR	multiple_labels	verarbeitetes Material [dik]	rdfs:label	Processed Material [dik]@en
+ERROR	multiple_labels	verarbeitetes Material [dik]	rdfs:label	verarbeitetes Material [dik]@de
+ERROR	multiple_labels	Processed Material [obi]	rdfs:label	Processed Material [obi]@en
+ERROR	multiple_labels	Processed Material [obi]	rdfs:label	verarbeitetes Material [obi]@de
+ERROR	multiple_labels	Mixing [dik]	rdfs:label	Mischen [dik]@de
+ERROR	multiple_labels	Mixing [dik]	rdfs:label	Mixing [dik]@en
+ERROR	multiple_labels	Mischen [chmo]	rdfs:label	Mischen [chmo]@de
+ERROR	multiple_labels	Mischen [chmo]	rdfs:label	Mixing [chmo]@en
+ERROR	multiple_labels	(Mix) [ncit]	rdfs:label	(Mix) [ncit]@en
+ERROR	multiple_labels	(Mix) [ncit]	rdfs:label	Mischen [ncit]@de
+ERROR	multiple_labels	Iodine Adsorption Number [dik]	rdfs:label	Iodine Adsorption Number [dik]@en
+ERROR	multiple_labels	Iodine Adsorption Number [dik]	rdfs:label	Jodadsorptionszahl [dik]@de
+ERROR	multiple_labels	Specific Surface [dik]	rdfs:label	Specific Surface [dik]@en
+ERROR	multiple_labels	Specific Surface [dik]	rdfs:label	Spezifische Oberfläche [dik]@de
+ERROR	multiple_labels	Massenbezogene spezifische Oberfläche [dik]	rdfs:label	Mass Specific Surface [dik]@en
+ERROR	multiple_labels	Massenbezogene spezifische Oberfläche [dik]	rdfs:label	Massenbezogene spezifische Oberfläche [dik]@de
+ERROR	multiple_labels	Volume Specific Surface [dik]	rdfs:label	Volume Specific Surface [dik]@en
+ERROR	multiple_labels	Volume Specific Surface [dik]	rdfs:label	Volumenbezogene spezifische Oberfläche [dik]@de
+ERROR	multiple_labels	Oil Absorption Number [dik]	rdfs:label	Oil Absorption Number [dik]@en
+ERROR	multiple_labels	Oil Absorption Number [dik]	rdfs:label	Ölabsorptionszahl [dik]@de
+ERROR	multiple_labels	Kinematic Viscosity [dik]	rdfs:label	Kinematic Viscosity [dik]@en
+ERROR	multiple_labels	Kinematic Viscosity [dik]	rdfs:label	Kinematische Viskosität [dik]@de
+ERROR	multiple_labels	Kinematische Viskosität [uo]	rdfs:label	Kinematic Viscosity [uo]@en
+ERROR	multiple_labels	Kinematische Viskosität [uo]	rdfs:label	Kinematische Viskosität [uo]@de
+ERROR	multiple_labels	Erstarrungspunkt [dik]	rdfs:label	Erstarrungspunkt [dik]@de
+ERROR	multiple_labels	Erstarrungspunkt [dik]	rdfs:label	Setting Point [dik]@en
+ERROR	multiple_labels	Molecular Weight [dik]	rdfs:label	Molecular Weight [dik]@en
+ERROR	multiple_labels	Molecular Weight [dik]	rdfs:label	Molekulargewicht [dik]@de
+ERROR	multiple_labels	Molekulargewicht [mi]	rdfs:label	Molecular Weight [mi]@en
+ERROR	multiple_labels	Molekulargewicht [mi]	rdfs:label	Molekulargewicht [mi]@de
+ERROR	multiple_labels	Acid Value [dik]	rdfs:label	Acid Value [dik]@en
+ERROR	multiple_labels	Acid Value [dik]	rdfs:label	Säurezahl‎ [dik]@de
+ERROR	multiple_labels	Melting Range [dik]	rdfs:label	Melting Range [dik]@en
+ERROR	multiple_labels	Melting Range [dik]	rdfs:label	Schmelzbereich‎ [dik]@de
+ERROR	multiple_labels	Oil Content [dik]	rdfs:label	Oil Content [dik]@en
+ERROR	multiple_labels	Oil Content [dik]	rdfs:label	Öl-Gehalt‎ [dik]@de
+ERROR	multiple_labels	Complex Shear Modulus [dik]	rdfs:label	Complex Shear Modulus [dik]@en
+ERROR	multiple_labels	Complex Shear Modulus [dik]	rdfs:label	komplexer Schubmodul [dik]@de
+ERROR	multiple_labels	Complex Young’s Modulus [dik]	rdfs:label	Complex Young’s Modulus [dik]@en
+ERROR	multiple_labels	Complex Young’s Modulus [dik]	rdfs:label	komplexer Young’s Modul [dik]@de
+ERROR	multiple_labels	Elastizitätsmodul [dik]	rdfs:label	Elastic Shear Modulus [dik]@en
+ERROR	multiple_labels	Elastizitätsmodul [dik]	rdfs:label	Elastizitätsmodul [dik]@de
+ERROR	multiple_labels	Youngscher Elastizitätsmodul [dik]	rdfs:label	Elastic Young’s Modulus [dik]@en
+ERROR	multiple_labels	Youngscher Elastizitätsmodul [dik]	rdfs:label	Youngscher Elastizitätsmodul [dik]@de
+ERROR	multiple_labels	Loss Shear Modulus [dik]	rdfs:label	Loss Shear Modulus [dik]@en
+ERROR	multiple_labels	Loss Shear Modulus [dik]	rdfs:label	Verlustmodul [dik]@de
+ERROR	multiple_labels	Young’sches Verlustmodul [dik]	rdfs:label	Loss Young’s Modulus [dik]@en
+ERROR	multiple_labels	Young’sches Verlustmodul [dik]	rdfs:label	Young’sches Verlustmodul [dik]@de
+ERROR	multiple_labels	Modulus [dik]	rdfs:label	Modul [dik]@de
+ERROR	multiple_labels	Modulus [dik]	rdfs:label	Modulus [dik]@en
+ERROR	multiple_labels	Tangens delta [dik]	rdfs:label	Tan Delta [dik]@en
+ERROR	multiple_labels	Tangens delta [dik]	rdfs:label	Tangens delta [dik]@de
+ERROR	multiple_labels	Viscometer [dik]	rdfs:label	Viscometer [dik]@en
+ERROR	multiple_labels	Viscometer [dik]	rdfs:label	Viskosimeter [dik]@de
+ERROR	multiple_labels	Mooney-Scherscheibenviskosimeter [dik]	rdfs:label	Mooney Shearing-Disc Viscometer [dik]@en
+ERROR	multiple_labels	Mooney-Scherscheibenviskosimeter [dik]	rdfs:label	Mooney-Scherscheibenviskosimeter [dik]@de
+ERROR	multiple_labels	Rheometer [dik]	rdfs:label	Curemeter [dik]@en
+ERROR	multiple_labels	Rheometer [dik]	rdfs:label	Rheometer [dik]@de
+ERROR	multiple_labels	oszillierendes Scheibenrheometer [dik]	rdfs:label	Oscillating-Disc Curemeter [dik]@en
+ERROR	multiple_labels	oszillierendes Scheibenrheometer [dik]	rdfs:label	oszillierendes Scheibenrheometer [dik]@de
+ERROR	multiple_labels	Rotorless Curemeter [dik]	rdfs:label	Rotorless Curemeter [dik]@en
+ERROR	multiple_labels	Rotorless Curemeter [dik]	rdfs:label	rotorloser Rheometer [dik]@de
+ERROR	multiple_labels	Vulkameter [dik]	rdfs:label	Vulcameter [dik]@en
+ERROR	multiple_labels	Vulkameter [dik]	rdfs:label	Vulkameter [dik]@de
+ERROR	multiple_labels	Plattenpresse [dik]	rdfs:label	Platen Press [dik]@en
+ERROR	multiple_labels	Plattenpresse [dik]	rdfs:label	Plattenpresse [dik]@de
+ERROR	multiple_labels	Platen [dik]	rdfs:label	Platen [dik]@en
+ERROR	multiple_labels	Platen [dik]	rdfs:label	Platte [dik]@de
+ERROR	multiple_labels	Ethylidene Norbornene [dik]	rdfs:label	Ethylidene Norbornene [dik]@en
+ERROR	multiple_labels	Ethylidene Norbornene [dik]	rdfs:label	Ethylidennorbornen [dik]@de
+ERROR	multiple_labels	Prüfung zur Konzentrationsmessung [dik]	rdfs:label	Concentration Measurement Assay [dik]@en
+ERROR	multiple_labels	Prüfung zur Konzentrationsmessung [dik]	rdfs:label	Prüfung zur Konzentrationsmessung [dik]@de
+ERROR	multiple_labels	Ethylene Concentration Measurement Assay [dik]	rdfs:label	Ethylene Concentration Measurement Assay [dik]@en
+ERROR	multiple_labels	Ethylene Concentration Measurement Assay [dik]	rdfs:label	Prüfung zur Ethylen-Konzentrationsmessung [dik]@de
+ERROR	multiple_labels	Ethylidene Norbornene Concentration Measurement Assay [dik]	rdfs:label	Ethylidene Norbornene Concentration Measurement Assay [dik]@en
+ERROR	multiple_labels	Ethylidene Norbornene Concentration Measurement Assay [dik]	rdfs:label	Prüfung zur Ethylidennorbornen-Konzentrationsmessung [dik]@de
+ERROR	multiple_labels	Prüfung zur Molekulargewichtsverteilung [dik]	rdfs:label	Molecular Weight Distribution Measurement Assay [dik]@en
+ERROR	multiple_labels	Prüfung zur Molekulargewichtsverteilung [dik]	rdfs:label	Prüfung zur Molekulargewichtsverteilung [dik]@de
+ERROR	multiple_labels	Concentration Measurement Protocol [dik]	rdfs:label	Concentration Measurement Protocol [dik]@en
+ERROR	multiple_labels	Concentration Measurement Protocol [dik]	rdfs:label	Protokoll zur Konzentrationsmessung [dik]@de
+ERROR	multiple_labels	Protokoll zur Ethylen-Konzentrationsmessung [dik]	rdfs:label	Ethylene Concentration Measurement Protocol [dik]@en
+ERROR	multiple_labels	Protokoll zur Ethylen-Konzentrationsmessung [dik]	rdfs:label	Protokoll zur Ethylen-Konzentrationsmessung [dik]@de
+ERROR	multiple_labels	Ethylidene Norbornene Concentration Measurement Protocol [dik]	rdfs:label	Ethylidene Norbornene Concentration Measurement Protocol [dik]@en
+ERROR	multiple_labels	Ethylidene Norbornene Concentration Measurement Protocol [dik]	rdfs:label	Protokoll zur Ethylidennorbornen-Konzentrationsmessung [dik]@de
+ERROR	multiple_labels	Protokoll zur Molekulargewichtsverteilung [dik]	rdfs:label	Molecular Weight Distribution Measurement Protocol [dik]@en
+ERROR	multiple_labels	Protokoll zur Molekulargewichtsverteilung [dik]	rdfs:label	Protokoll zur Molekulargewichtsverteilung [dik]@de
+ERROR	multiple_labels	Organik-Gruppe [dik]	rdfs:label	Organic Group [dik]@en
+ERROR	multiple_labels	Organik-Gruppe [dik]	rdfs:label	Organik-Gruppe [dik]@de
+ERROR	multiple_labels	Organic Group [chebi]	rdfs:label	Organic Group [chebi]@en
+ERROR	multiple_labels	Organic Group [chebi]	rdfs:label	Organik-Gruppe [chebi]@de
+ERROR	multiple_labels	Gruppe [dik]	rdfs:label	Group [dik]@en
+ERROR	multiple_labels	Gruppe [dik]	rdfs:label	Gruppe [dik]@de
+ERROR	multiple_labels	Group [ncit]	rdfs:label	Group [ncit]@en
+ERROR	multiple_labels	Group [ncit]	rdfs:label	Gruppe [ncit]@de
+ERROR	multiple_labels	Group [chebi]	rdfs:label	Group [chebi]@en
+ERROR	multiple_labels	Group [chebi]	rdfs:label	Gruppe [chebi]@de
+ERROR	multiple_labels	Group [shacl]	rdfs:label	Group [shacl]@en
+ERROR	multiple_labels	Group [shacl]	rdfs:label	Gruppe [shacl]@de
+ERROR	multiple_labels	Prozent [dik]	rdfs:label	Percent [dik]@en
+ERROR	multiple_labels	Prozent [dik]	rdfs:label	Prozent [dik]@de
+ERROR	multiple_labels	Prozent [uo]	rdfs:label	Percent [uo]@en
+ERROR	multiple_labels	Prozent [uo]	rdfs:label	Prozent [uo]@de
+ERROR	multiple_labels	Percent [om]	rdfs:label	Percent [om]@en
+ERROR	multiple_labels	Percent [om]	rdfs:label	Prozent [om]@de
+ERROR	multiple_labels	Ratio [dik]	rdfs:label	Ratio [dik]@en
+ERROR	multiple_labels	Ratio [dik]	rdfs:label	Verhältnis [dik]@de
+ERROR	multiple_labels	Verhältnis [ncit]	rdfs:label	Ratio [ncit]@en
+ERROR	multiple_labels	Verhältnis [ncit]	rdfs:label	Verhältnis [ncit]@de
+ERROR	multiple_labels	Ratio [uo]	rdfs:label	Ratio [uo]@en
+ERROR	multiple_labels	Ratio [uo]	rdfs:label	Verhältnis [uo]@de
+ERROR	multiple_labels	Ratio [uo]	rdfs:label	Ratio [uo]@en
+ERROR	multiple_labels	Ratio [uo]	rdfs:label	Verhältnis [uo]@de
+ERROR	multiple_labels	Verhältnis [ms]	rdfs:label	Ratio [ms]@en
+ERROR	multiple_labels	Verhältnis [ms]	rdfs:label	Verhältnis [ms]@de
+ERROR	multiple_labels	dimensionslose Einheit [dik]	rdfs:label	Dimensionless Unit [dik]@en
+ERROR	multiple_labels	dimensionslose Einheit [dik]	rdfs:label	dimensionslose Einheit [dik]@de
+ERROR	multiple_labels	dimensionslose Einheit [ms]	rdfs:label	Dimensionless Unit [ms]@en
+ERROR	multiple_labels	dimensionslose Einheit [ms]	rdfs:label	dimensionslose Einheit [ms]@de
+ERROR	multiple_labels	Mass Percentage [dik]	rdfs:label	Mass Percentage [dik]@en
+ERROR	multiple_labels	Mass Percentage [dik]	rdfs:label	Massenanteil [dik]@de
+ERROR	multiple_labels	Massenanteil [uo]	rdfs:label	Mass Percentage [uo]@en
+ERROR	multiple_labels	Massenanteil [uo]	rdfs:label	Massenanteil [uo]@de
+ERROR	multiple_labels	Volume Percentage [dik]	rdfs:label	Volume Percentage [dik]@en
+ERROR	multiple_labels	Volume Percentage [dik]	rdfs:label	Volumenprozent [dik]@de
+ERROR	multiple_labels	Volume Percentage [uo]	rdfs:label	Volume Percentage [uo]@en
+ERROR	multiple_labels	Volume Percentage [uo]	rdfs:label	Volumenprozent [uo]@de
+ERROR	multiple_labels	Concentration of [dik]	rdfs:label	Concentration of [dik]@en
+ERROR	multiple_labels	Concentration of [dik]	rdfs:label	Konzentration von [dik]@de
+ERROR	multiple_labels	Concrentration [pato]	rdfs:label	Concrentration [pato]@en
+ERROR	multiple_labels	Concrentration [pato]	rdfs:label	Konzentration [pato]@de
+ERROR	multiple_labels	Konzentration [edam]	rdfs:label	Concrentration [edam]@en
+ERROR	multiple_labels	Konzentration [edam]	rdfs:label	Konzentration [edam]@de
+ERROR	multiple_labels	Konzentration [chmo]	rdfs:label	Concrentration [chmo]@en
+ERROR	multiple_labels	Konzentration [chmo]	rdfs:label	Konzentration [chmo]@de
+ERROR	multiple_labels	Konzentration [ncit]	rdfs:label	Concrentration [ncit]@en
+ERROR	multiple_labels	Konzentration [ncit]	rdfs:label	Konzentration [ncit]@de
+ERROR	multiple_labels	Konzentration [ecso]	rdfs:label	Concrentration [ecso]@en
+ERROR	multiple_labels	Konzentration [ecso]	rdfs:label	Konzentration [ecso]@de
+ERROR	multiple_labels	molekulare Qualität [dik]	rdfs:label	Molecular Quality [dik]@en
+ERROR	multiple_labels	molekulare Qualität [dik]	rdfs:label	molekulare Qualität [dik]@de
+ERROR	multiple_labels	Molecular Quality [pato]	rdfs:label	Molecular Quality [pato]@en
+ERROR	multiple_labels	Molecular Quality [pato]	rdfs:label	molekulare Qualität [pato]@de
+ERROR	multiple_labels	Ethylen-Konzentration [dik]	rdfs:label	Ethylen-Konzentration [dik]@de
+ERROR	multiple_labels	Ethylen-Konzentration [dik]	rdfs:label	Ethylene Concentration [dik]@en
+ERROR	multiple_labels	Ethylidennorbornen-Konzentration [dik]	rdfs:label	Ethylidene Norbornene Concentration [dik]@en
+ERROR	multiple_labels	Ethylidennorbornen-Konzentration [dik]	rdfs:label	Ethylidennorbornen-Konzentration [dik]@de
+ERROR	multiple_labels	Ethylidengruppe [dik]	rdfs:label	Ethylidene Group [dik]@en
+ERROR	multiple_labels	Ethylidengruppe [dik]	rdfs:label	Ethylidengruppe [dik]@de
+ERROR	multiple_labels	Qualität eines Festkörpers [dik]	rdfs:label	Quality of a Solid [dik]@en
+ERROR	multiple_labels	Qualität eines Festkörpers [dik]	rdfs:label	Qualität eines Festkörpers [dik]@de
+ERROR	multiple_labels	Qualität eines Festkörpers [pato]	rdfs:label	Quality of a Solid [pato]@en
+ERROR	multiple_labels	Qualität eines Festkörpers [pato]	rdfs:label	Qualität eines Festkörpers [pato]@de
+ERROR	multiple_labels	Optical Quality [dik]	rdfs:label	Optical Quality [dik]@en
+ERROR	multiple_labels	Optical Quality [dik]	rdfs:label	optische Qualität [dik]@de
+ERROR	multiple_labels	Optical Quality [pato]	rdfs:label	Optical Quality [pato]@en
+ERROR	multiple_labels	Optical Quality [pato]	rdfs:label	optische Qualität [dik]@de
+WARN	duplicate_exact_synonym	millimeter [imr]	oboInOwl:hasExactSynonym	mm
+WARN	duplicate_exact_synonym	millimeter [nist]	oboInOwl:hasExactSynonym	mm
+WARN	duplicate_exact_synonym	millimeter [dik]	oboInOwl:hasExactSynonym	mm
+WARN	missing_definition	root node	IAO:0000115	
+WARN	missing_definition	description	IAO:0000115	
+WARN	missing_definition	license	IAO:0000115	
+WARN	missing_definition	title	IAO:0000115	
+WARN	missing_definition	geometry [imr]	IAO:0000115	
+WARN	missing_definition	millimeter [imr]	IAO:0000115	
+WARN	missing_definition	shape [imr]	IAO:0000115	
+WARN	missing_definition	distance between sensor and extrudate [imr]	IAO:0000115	
+WARN	missing_definition	8-bit number [ifnano]	IAO:0000115	
+WARN	missing_definition	16-bit number [ifnano]	IAO:0000115	
+WARN	missing_definition	count [ifnano]	IAO:0000115	
+WARN	missing_definition	Zinkoxid [dik]	IAO:0000115	
+WARN	missing_definition	Stearic Acid [dik]	IAO:0000115	
+WARN	missing_definition	di(benzothiazol-2-yl)disulfide [dik]	IAO:0000115	
+WARN	missing_definition	Thiuram [dik]	IAO:0000115	
+WARN	missing_definition	Tetrabenzylthiuramdisulfid [dik]	IAO:0000115	
+WARN	missing_definition	Dithiocarbamat [dik]	IAO:0000115	
+WARN	missing_definition	Zinc Dibenzyldithiocarbamate [dik]	IAO:0000115	
+WARN	missing_definition	Schwefel [dik]	IAO:0000115	
+WARN	missing_definition	Safety Data Sheet [dik]	IAO:0000115	
+WARN	missing_definition	Product Data Sheet [dik]	IAO:0000115	
+WARN	missing_definition	Festwalze [dik]	IAO:0000115	
+WARN	missing_definition	Stellwalze [dik]	IAO:0000115	
+WARN	missing_definition	Drehzahleinheit [dik]	IAO:0000115	
+WARN	missing_definition	Frequenzeinheit [dik]	IAO:0000115	
+WARN	missing_definition	Fixed Roll Speed [dik]	IAO:0000115	
+WARN	missing_definition	Setting Roll Speed [dik]	IAO:0000115	
+WARN	missing_definition	Temperatur [dik]	IAO:0000115	
+WARN	missing_definition	Temperature Unit [dik]	IAO:0000115	
+WARN	missing_definition	Temperatursteuergerät [dik]	IAO:0000115	
+WARN	missing_definition	Festwalzen-Temperatursteuergerät [dik]	IAO:0000115	
+WARN	missing_definition	Setting Roll Temperature Control Unit [dik]	IAO:0000115	
+WARN	missing_definition	Festwalzen-Temperatur [dik]	IAO:0000115	
+WARN	missing_definition	Stellwalzen-Temperatur [dik]	IAO:0000115	
+WARN	missing_definition	Rotor [dik]	IAO:0000115	
+WARN	missing_definition	Mixing Chamber [dik]	IAO:0000115	
+WARN	missing_definition	Klappsattel [dik]	IAO:0000115	
+WARN	missing_definition	Stamp [dik]	IAO:0000115	
+WARN	missing_definition	Rotor-Drehzahl [dik]	IAO:0000115	
+WARN	missing_definition	Rotor-Temperatursteuergerät [dik]	IAO:0000115	
+WARN	missing_definition	Rotor-Temperatur [dik]	IAO:0000115	
+WARN	missing_definition	Mischkammer-Temperatursteuergerät [dik]	IAO:0000115	
+WARN	missing_definition	Mischkammer-Temperatur [dik]	IAO:0000115	
+WARN	missing_definition	Drop Door Temperature Control Unit [dik]	IAO:0000115	
+WARN	missing_definition	Klappsattel-Temperatur [dik]	IAO:0000115	
+WARN	missing_definition	Stamp Temperature Control Unit [dik]	IAO:0000115	
+WARN	missing_definition	Stamp Temperature [dik]	IAO:0000115	
+WARN	missing_definition	Drehmoment [dik]	IAO:0000115	
+WARN	missing_definition	Torque Unit [dik]	IAO:0000115	
+WARN	missing_definition	Newtonmeter [dik]	IAO:0000115	
+WARN	missing_definition	Rotor Torque [dik]	IAO:0000115	
+WARN	missing_definition	Massetemperatur [dik]	IAO:0000115	
+WARN	missing_definition	Länge [dik]	IAO:0000115	
+WARN	missing_definition	Length Unit [dik]	IAO:0000115	
+WARN	missing_definition	millimeter [dik]	IAO:0000115	
+WARN	missing_definition	Stamp Distance [dik]	IAO:0000115	
+WARN	missing_definition	Addition Sequence [dik]	IAO:0000115	
+WARN	missing_definition	Zugabezeitpunkt [dik]	IAO:0000115	
+WARN	missing_definition	Power [dik]	IAO:0000115	
+WARN	missing_definition	Elektrische Leistung [dik]	IAO:0000115	
+WARN	missing_definition	Mixing Time [dik]	IAO:0000115	
+WARN	missing_definition	Number of Mixing Stages [dik]	IAO:0000115	
+WARN	missing_definition	Einschneckenextruder [dik]	IAO:0000115	
+WARN	missing_definition	Pin Extruder [dik]	IAO:0000115	
+WARN	missing_definition	Pin [dik]	IAO:0000115	
+WARN	missing_definition	Abzugsgeschwindigkeit [dik]	IAO:0000115	
+WARN	missing_definition	Förderband [dik]	IAO:0000115	
+WARN	missing_definition	Massedurchsatz [dik]	IAO:0000115	
+WARN	missing_definition	Pressure Variation [dik]	IAO:0000115	
+WARN	missing_definition	Geometry Variation [dik]	IAO:0000115	
+WARN	missing_definition	Surface [dik]	IAO:0000115	
+WARN	missing_definition	Surface Defect [dik]	IAO:0000115	
+WARN	missing_definition	Oberflächentemperatur [dik]	IAO:0000115	
+WARN	missing_definition	Schneckendrehzahl [dik]	IAO:0000115	
+WARN	missing_definition	Druck [dik]	IAO:0000115	
+WARN	missing_definition	Die Geometry [dik]	IAO:0000115	
+WARN	missing_definition	Extrudatquerschnitt [dik]	IAO:0000115	
+WARN	missing_definition	Sensor [dik]	IAO:0000115	
+WARN	missing_definition	Temperature Measuring Sword [dik]	IAO:0000115	
+WARN	missing_definition	Pressure Sensor [dik]	IAO:0000115	
+WARN	missing_definition	Temperatursensor [dik]	IAO:0000115	
+WARN	missing_definition	Gearbox [dik]	IAO:0000115	
+WARN	missing_definition	Motor [dik]	IAO:0000115	
+WARN	missing_definition	Motor [envo]	IAO:0000115	
+WARN	missing_definition	Speisewalze [dik]	IAO:0000115	
+WARN	missing_definition	Pin Zone [dik]	IAO:0000115	
+WARN	missing_definition	Einzugszone [dik]	IAO:0000115	
+WARN	missing_definition	Werkzeugzone [dik]	IAO:0000115	
+WARN	missing_definition	Speisewalzen-Temperatursteuergerät [dik]	IAO:0000115	
+WARN	missing_definition	Speisewalzen-Temperatur [dik]	IAO:0000115	
+WARN	missing_definition	Screw Temperature Control Unit [dik]	IAO:0000115	
+WARN	missing_definition	Schnecken-Temperatur [dik]	IAO:0000115	
+WARN	missing_definition	Einzugszonen-Temperatursteuergerät [dik]	IAO:0000115	
+WARN	missing_definition	Einzugszonen-Temperatur [dik]	IAO:0000115	
+WARN	missing_definition	Pin Zone Temperature Control Unit [dik]	IAO:0000115	
+WARN	missing_definition	Stiftzonen-Temperatur [dik]	IAO:0000115	
+WARN	missing_definition	Werkzeugzonen-Temperatursteuergerät [dik]	IAO:0000115	
+WARN	missing_definition	Molding Zone Temperature [dik]	IAO:0000115	
+WARN	missing_definition	Vulkanisationszeit [dik]	IAO:0000115	
+WARN	missing_definition	Physical Object Quality [dik]	IAO:0000115	
+WARN	missing_definition	physikalische Qualität [dik]	IAO:0000115	
+WARN	missing_definition	Label der Messeinheit [dik]	IAO:0000115	
+WARN	missing_definition	Datum Label [dik]	IAO:0000115	
+WARN	missing_definition	Assay [dik]	IAO:0000115	
+WARN	missing_definition	Mass Density Unit [dik]	IAO:0000115	
+WARN	missing_definition	Gramm pro Kubikzentimeter [dik]	IAO:0000115	
+WARN	missing_definition	Viscosity [dik]	IAO:0000115	
+WARN	missing_definition	Viskositätseinheit [dik]	IAO:0000115	
+WARN	missing_definition	Mooney Unit [dik]	IAO:0000115	
+WARN	missing_definition	Qualität eines Stoffes [dik]	IAO:0000115	
+WARN	missing_definition	Quality of a Liquid [dik]	IAO:0000115	
+WARN	missing_definition	Protocol [dik]	IAO:0000115	
+WARN	missing_definition	Herstellungsvorschrift [dik]	IAO:0000115	
+WARN	missing_definition	Grad Celsius [dik]	IAO:0000115	
+WARN	missing_definition	Material Processing [dik]	IAO:0000115	
+WARN	missing_definition	Funktion [dik]	IAO:0000115	
+WARN	missing_definition	Gerät [dik]	IAO:0000115	
+WARN	missing_definition	Measurement Device [dik]	IAO:0000115	
+WARN	missing_definition	verarbeitetes Material [dik]	IAO:0000115	
+WARN	missing_definition	Mixing [dik]	IAO:0000115	
+WARN	missing_definition	Specific Surface [dik]	IAO:0000115	
+WARN	missing_definition	Massenbezogene spezifische Oberfläche [dik]	IAO:0000115	
+WARN	missing_definition	Volume Specific Surface [dik]	IAO:0000115	
+WARN	missing_definition	Erstarrungspunkt [dik]	IAO:0000115	
+WARN	missing_definition	Molecular Weight [dik]	IAO:0000115	
+WARN	missing_definition	Acid Value [dik]	IAO:0000115	
+WARN	missing_definition	Melting Range [dik]	IAO:0000115	
+WARN	missing_definition	Oil Content [dik]	IAO:0000115	
+WARN	missing_definition	Viscometer [dik]	IAO:0000115	
+WARN	missing_definition	Mooney-Scherscheibenviskosimeter [dik]	IAO:0000115	
+WARN	missing_definition	Rheometer [dik]	IAO:0000115	
+WARN	missing_definition	Ethylidene Norbornene [dik]	IAO:0000115	
+WARN	missing_definition	Ethylene Group [dik]	IAO:0000115	
+WARN	missing_definition	Hydrocarbylene Group [dik]	IAO:0000115	
+WARN	missing_definition	Organodiyl Group [dik]	IAO:0000115	
+WARN	missing_definition	Organic Divalent Group [dik]	IAO:0000115	
+WARN	missing_definition	Organik-Gruppe [dik]	IAO:0000115	
+WARN	missing_definition	Gruppe [dik]	IAO:0000115	
+WARN	missing_definition	Prozent [dik]	IAO:0000115	
+WARN	missing_definition	Ratio [dik]	IAO:0000115	
+WARN	missing_definition	dimensionslose Einheit [dik]	IAO:0000115	
+WARN	missing_definition	Mass Percentage [dik]	IAO:0000115	
+WARN	missing_definition	Volume Percentage [dik]	IAO:0000115	
+WARN	missing_definition	Concentration of [dik]	IAO:0000115	
+WARN	missing_definition	molekulare Qualität [dik]	IAO:0000115	
+WARN	missing_definition	Ethylidengruppe [dik]	IAO:0000115	
+WARN	missing_definition	Qualität eines Festkörpers [dik]	IAO:0000115	
+WARN	missing_definition	Optical Quality [dik]	IAO:0000115	
+INFO	lowercase_definition	extrudate [imr]	IAO:0000115	"definded rigid Object based as result of an 
+extrusion process@en"
+INFO	lowercase_definition	triangulation [imr]	IAO:0000115	"geometrical method to determine distances 
+between to points@en"
+INFO	lowercase_definition	millimeter [nist]	IAO:0000115	"\""A length unit which is equal to one thousandth of a meter or 10^[-3] m.\"" [NIST:NIST]@en"
+INFO	lowercase_definition	surface of extrudate [imr]	IAO:0000115	uppermost layer of the extrudate@en
+INFO	lowercase_definition	line in the surface of extrudate [imr]	IAO:0000115	cutout of a single line of the extrudate surface@en
+INFO	lowercase_definition	stitching process [imr]	IAO:0000115	"use of different algorithms to determine the 
+exact allignment respectively the characteristik shared edges@en"
+INFO	lowercase_definition	stitching method [imr]	IAO:0000115	"alligning of single measurements to form a 
+connected/combined measurement@en"
+INFO	lowercase_definition	extrudate norm [imr]	IAO:0000115	"ideal dimensions and shape of the
+extrudate defined by the manufacturer@en"
+INFO	lowercase_definition	standard deviation [imr]	IAO:0000115	"a quantity expressing by how much the
+members of a group differ from the mean
+ value for the group@en"
+INFO	lowercase_definition	interior orientation [jade]	IAO:0000115	"\""The interior (intrinsic) orientation of a camera comprises all instrumental and mathematical elements which completely describe the imaging model within the camera. By taking proper account of the interior orientation, the real camera conforms to the pinhole camera model. It is a requirement of the model that there exists a reproducible image coordinate system so that geometric image values, such as measured image coordinates, can be transformed into the physical-mathematical imaging model.\"" (Luhmann et al. 2020: 162). A standard model of describing the interior orientation was proposed by D.C. Brown (1971)@en"
+INFO	lowercase_definition	camera coordinate system [jade]	IAO:0000115	"\""The camera coordinate system has its origin at the perspective centre of the image. It is further defined by reference features fixed in the camera (fiducial marks, réseau, sensor system). It can therefore be reconstructed from the image and related to an image measuring device\"" (Luhmann et al. 2020: 278)@en"
+INFO	lowercase_definition	exterior orientation [jade]	IAO:0000115	"\""The exterior orientation consists of six parameters which describe the spatial position and orientation of the camera coordinate system with respect to the global object coordinate system\"" (Luhmann et al. 2020: 277)@en"
+INFO	lowercase_definition	camera calibration [jade]	IAO:0000115	"\""The photogrammetric determination of the parameters of interior orientation is usually referred to as calibration. This is based on the idea that once a mechanically stable camera is calibrated, it may be moved from one image taking location to another whilst retaining its calibration.\"" (Luhmann, Robson et al. 2020: 170)@en"
+INFO	lowercase_definition	bundle adjustment [jade]	IAO:0000115	"\""Bundle adjustment [...] is a method for the simultaneous numerical fit of an unlimited number of spatially distributed images (bundles of rays). It makes use of photogrammetric observations (measured image points), survey observations and an object coordinate system. Using tie points, single images are merged into a global model in which the object surface can be reconstructed in three dimensions.\"" (Luhmann et al. 2020: 349f.)@en"
+INFO	lowercase_definition	validation [obi]	IAO:0000115	a planned process with objective to check that the accuracy or the quality of a claim or prediction satisfies some criteria and which is assessed by comparing with independent results@en
+INFO	lowercase_definition	unit [uo]	IAO:0000115	"\""A unit of measurement is a standardized quantity of a physical quality.\"" [Wikipedia:Wikipedia]@en"
+INFO	lowercase_definition	concentration [ecso]	IAO:0000115	the strength of a solution; number of molecules of a substance in a given volume@en
+INFO	lowercase_definition	count [ms]	IAO:0000115	a count is a data item denoted by an integer and represented the number of instances or occurences of an entity@en
+INFO	lowercase_definition	Polymer [ifnano]	IAO:0000115	"a substance consisting of molecules characterised by the sequence of one or more
+types of monomer unit. Such molecules must be distributed over a range of molecular weights.@en"
+INFO	lowercase_definition	Polymer [dik]	IAO:0000115	substance composed of molecules characterized by the multiple repetition of one or more species of atoms or groups of atoms (constitutional units) linked to each other in amounts sufficient to provide a set of properties that do not vary markedly with the addition or removal of one or a few of the constitutional units@en
+INFO	lowercase_definition	Rohkautschuk [dik]	IAO:0000115	natural or synthetic rubber, usually in bales or packages, forming the starting material for the manufacture of rubber products@en
+INFO	lowercase_definition	Synthesekautschuk [dik]	IAO:0000115	rubber produced by non-biologically polymerizing one or more monomers@en
+INFO	lowercase_definition	Dienkautschuk [dik]	IAO:0000115	type of rubber having an unsaturated carbon main chain derived mostly from butadiene or a substituted butadiene@en
+INFO	lowercase_definition	Füllstoff [dik]	IAO:0000115	fester Mischungsbestandteil in Teilchenform, welcher aus technischen oder wirtschaftlichen Gründen zu einem relativ großen Anteil zu Kautschuk oder Kautschuklatex zugegeben werden kann@de
+INFO	lowercase_definition	Füllstoff [dik]	IAO:0000115	solid compounding ingredient, in particulate form, which may be added in relatively large proportions to a rubber or rubber latex for technical or economic purposes@en
+INFO	lowercase_definition	Carbon Black [dik]	IAO:0000115	compounding ingredient consisting essentially of more than 95 % elemental carbon in the form of nearspherical particles with major diameters less than 1 μm, generally coalesced into aggregates@en
+INFO	lowercase_definition	Weichmacher ‎[dik]	IAO:0000115	compounding ingredient used in small proportions to reduce the viscosity of an unvulcanized rubber mix or the hardness of a vulcanizate@en
+INFO	lowercase_definition	Paraffinic Oil [dik]	IAO:0000115	hydrocarbon process oil, most or all of which is composed of alkanes@en
+INFO	lowercase_definition	Process Oil [dik]	IAO:0000115	hydrocarbon oil derived from petroleum or other sources and used as an extender or processing aid@en
+INFO	lowercase_definition	Process Oil [dik]	IAO:0000115	Öl auf Basis von Kohlenwasserstoffen, welches aus Erdöl oder anderen Quellen stammt und als Extender oder Verarbeitungshilfsmittel eingesetzt wird@de
+INFO	lowercase_definition	Processing Aid [dik]	IAO:0000115	compounding ingredient which improves the processability of a rubber compound or mix@en
+INFO	lowercase_definition	Alterungsschutzmittel [dik]	IAO:0000115	compounding ingredient used to retard deterioration by ageing@en
+INFO	lowercase_definition	Activator [dik]	IAO:0000115	compounding ingredient used in small proportions to increase the effectiveness of an accelerator@en
+INFO	lowercase_definition	Activator [dik]	IAO:0000115	in kleinen Mengen eingesetzter Mischungsbestandteil zur Erhöhung der Effektivität eines Beschleunigers@de
+INFO	lowercase_definition	Beschleuniger [dik]	IAO:0000115	compounding ingredient used in small amounts with a vulcanizing agent to increase the speed of vulcanization and/or enhance the physical properties of the vulcanizate@en
+INFO	lowercase_definition	Beschleuniger [dik]	IAO:0000115	in kleinen Mengen mit einem Vulkanisationsmittel eingesetzter Mischungsbestandteil zur Beschleunigung der Vulkanisationsgeschwindigkeit und/oder Verbesserung der physikalischen Eigenschaften des Vulkanisates@de
+INFO	lowercase_definition	Primärbeschleuniger [dik]	IAO:0000115	in einem Vulkanisationssystem verwendeter Hauptbeschleuniger@de
+INFO	lowercase_definition	Primärbeschleuniger [dik]	IAO:0000115	principal accelerator used in a vulcanizing system@en
+INFO	lowercase_definition	Zweitbeschleuniger [dik]	IAO:0000115	accelerator used in low concentrations with the primary accelerator to optimize cure rate and vulcanizate properties@en
+INFO	lowercase_definition	Vulkanisationsmittel [dik]	IAO:0000115	compounding ingredient that produces crosslinking in rubber@en
+INFO	lowercase_definition	Vulcanizing System [dik]	IAO:0000115	combination of vulcanizing agent and, as required, accelerators, activators, retarders, etc., used to produce the desired vulcanization characteristics and vulcanizate properties@en
+INFO	lowercase_definition	Vernetzungsgeschwindigkeit [dik]	IAO:0000115	rate at which a rubber compound vulcanizes after having reached the point of incipient vulcanization@en
+INFO	lowercase_definition	Retarder [dik]	IAO:0000115	compounding ingredient used to reduce the tendency of a rubber compound to vulcanize prematurely@en
+INFO	lowercase_definition	PHR [dik]	IAO:0000115	mass of compounding ingredient added to one hundred mass units of elastomer@en
+INFO	lowercase_definition	Rezeptur [dik]	IAO:0000115	list of compounding ingredients and their proportions, used in the preparation of a compound@en
+INFO	lowercase_definition	Compounding Ingredient [dik]	IAO:0000115	substance added to a rubber or rubber latex to form a mix@en
+INFO	lowercase_definition	Mischung [dik]	IAO:0000115	gründliche Mischung von Kautschuken oder anderen polymerbildenden Materialien mit allen Bestandteilen, die für das fertige Produkt notwendig sind@de
+INFO	lowercase_definition	Mischung [dik]	IAO:0000115	intimate mixture of a rubber or rubbers or other polymer-forming materials with all the ingredients necessary for the finished product@en
+INFO	lowercase_definition	Walzwerk [dik]	IAO:0000115	machine with two counter-rotating rolls, frequently heated or cooled, usually driven at different speeds, and having an adjustable nip for mastication, mixing, blending, warm-up or sheeting@en
+INFO	lowercase_definition	Walze [dik]	IAO:0000115	cylinder forming a major, rotating member of a calender or mill@en
+INFO	lowercase_definition	Rotational Frequency Unit [uo]	IAO:0000115	"\""A unit which is a standard measure of the number of rotations in a given time.\"" [NIST:NIST]@en"
+INFO	lowercase_definition	Frequenzeinheit [uo]	IAO:0000115	"\""A unit which is a standard measure of the number of repetitive actions in a particular time.\"" [NIST:NIST]@en"
+INFO	lowercase_definition	Turns per Second [uo]	IAO:0000115	"\""A rotational frequency unit which is equal to the number complete turn in a period of time that equals to 1 second.\"" [NIST:NIST]@en"
+INFO	lowercase_definition	Temperatureinheit [uo]	IAO:0000115	"\""A unit which is a standard measure of the average kinetic energy of the particles in a sample of matter.\"" [Wikipedia:Wikipedia]@en"
+INFO	lowercase_definition	NIP [dik]	IAO:0000115	radial clearance between the roll surfaces of a mill or calender on a line of centres@en
+INFO	lowercase_definition	Mastication [dik]	IAO:0000115	the molecular mass of a rubber, in either the raw or the mixed state, by the action of mechanical work (shear) and atmospheric oxygen, sometimes assisted by peptizers and heat@en
+INFO	lowercase_definition	Verarbeitbarkeit [dik]	IAO:0000115	relative Einfachheit, mit welcher Rohkautschuk oder Kautschukmischungen in einer Maschine zur Kautschukverarbeitung gehandhabt werden kann@de
+INFO	lowercase_definition	Verarbeitbarkeit [dik]	IAO:0000115	relative ease with which raw or compounded rubbers can be handled in rubber-processing machinery@en
+INFO	lowercase_definition	Internal Mixer [dik]	IAO:0000115	machine with temperature controls containing one or more rotors operating in a closed cavity used to masticate and/or to incorporate and disperse compounding ingredients into the rubber@en
+INFO	lowercase_definition	Längen Einheit [uo]	IAO:0000115	"\""A unit which is a standard measure of the distance between two points.\"" [Wikipedia:Wikipedia]@en"
+INFO	lowercase_definition	millimeter [uo]	IAO:0000115	"\""A length unit which is equal to one thousandth of a meter or 10^[-3] m.\"" [NIST:NIST]@en"
+INFO	lowercase_definition	Extruder [dik]	IAO:0000115	machine which, through the use of a screw or a hydraulic ram, continuously shapes a material by forcing it through a die or dies@en
+INFO	lowercase_definition	Screw [dik]	IAO:0000115	rotating member with one or more helical grooves, used to propel rubber along the barrel of an extruder@en
+INFO	lowercase_definition	Screw [dik]	IAO:0000115	rotierendes Glied mit einer oder mehreren helixförmigen Rillen, das verwendet wird, um einen Kautschuk innerhalb eines Extruderrohrs voranzutreiben@de
+INFO	lowercase_definition	Schablone [dik]	IAO:0000115	that part of an extruder through which material is forced, forming a profile of the extrudate@en
+INFO	lowercase_definition	Extrudate [dik]	IAO:0000115	product of an extrusion process@en
+INFO	lowercase_definition	Extruder Head [dik]	IAO:0000115	that part of an extruder which houses the die and die holder@en
+INFO	lowercase_definition	Extrusion [dik]	IAO:0000115	continuous shaping of a material by passage through a die@en
+INFO	lowercase_definition	Extrusion [dik]	IAO:0000115	kontinuierliches Formen eines Materials, indem dieses durch eine Schablone gepresst wird@de
+INFO	lowercase_definition	Die Swell [dik]	IAO:0000115	difference between the dimensions of the cross-section of an extrudate and the corresponding dimensions of the die orifice, usually quantified as the percentage increase in the crosssectional area@en
+INFO	lowercase_definition	Vernetzungsdichte [dik]	IAO:0000115	number of crosslinks per unit volume or unit mass of vulcanizate@en
+INFO	lowercase_definition	Vulcanizate [dik]	IAO:0000115	product of the vulcanization of a rubber compound@en
+INFO	lowercase_definition	Crosslink [dik]	IAO:0000115	chemical bond or atom(s) joining two rubber chains or two parts of the same rubber chain as a result of vulcanization@en
+INFO	lowercase_definition	Crosslink [dik]	IAO:0000115	chemische Bindung oder Atom(e), die zwei Kautschukketten oder zwei Teile derselben Kette verbinden als Ergebnis der Vulkanisation@de
+INFO	lowercase_definition	Vernetzen [dik]	IAO:0000115	〈Aktion〉 Erzeugung von Vernetzungen zwischen oder innerhalb von Kautschukketten unter Ausbildung eines Netzwerks@de
+INFO	lowercase_definition	Vernetzen [dik]	IAO:0000115	〈act of〉 insertion of crosslinks between or within rubber chains to give a network structure@en
+INFO	lowercase_definition	State of Cure [dik]	IAO:0000115	condition of a vulcanizate during the course of vulcanization, measured in terms of its structure or properties@en
+INFO	lowercase_definition	Vulcanization [dik]	IAO:0000115	process, usually involving heat, in which rubber, through a change in its chemical structure (for example, crosslinking), is converted to a condition in which the elastic properties are conferred or re-established or improved or extended over a greater range of temperatures@en
+INFO	lowercase_definition	Autoklav [dik]	IAO:0000115	pressurized vessel used for vulcanizing rubber in a vapour or gas@en
+INFO	lowercase_definition	Plateau Cure [dik]	IAO:0000115	type of vulcanization during which the modulus of the vulcanizate proceeds to a maximum and then remains essentially constant for a substantial period at the vulcanization temperature@en
+INFO	lowercase_definition	Vulkanisationsoptimum [dik]	IAO:0000115	condition of vulcanization required to achieve an acceptable compromise among a number of desired vulcanizate properties or the optimum value of a selected property@en
+INFO	lowercase_definition	Übervulkanisation [dik]	IAO:0000115	state of vulcanization beyond the optimum cure@en
+INFO	lowercase_definition	Undercure [dik]	IAO:0000115	state of vulcanization less than the optimum cure@en
+INFO	lowercase_definition	Sample [dik]	IAO:0000115	ein oder mehrere Teile, entnommen aus einem Los, um Informationen über dieses Los zu liefern und möglicherweise als Entscheidungsbasis über das Los oder seinen Herstellprozess zu dienen@de
+INFO	lowercase_definition	Sample [dik]	IAO:0000115	one or more items taken from a lot and intended to provide information on the lot and possibly to serve as a basis for a decision on the lot or on the process which had produced it@en
+INFO	lowercase_definition	Probe [nmrcv]	IAO:0000115	tempdef: A sample is a role that is played by an object of interest in an investigation used to obtain generalizable information about the sample source. defprov: Daniel Schober@en
+INFO	lowercase_definition	Test Piece [dik]	IAO:0000115	piece of material of appropriate shape and size, prepared so that it is ready for use in a test@en
+INFO	lowercase_definition	Gummiabfall [dik]	IAO:0000115	raw, compounded, vulcanized or partially vulcanized rubber in the form of end-of-life rubber products or factory scrap@en
+INFO	lowercase_definition	Gummiabfall [dik]	IAO:0000115	unverarbeiteter, gemischter, vulkanisierter oder teilvulkanisierter Kautschuk in Form von Altgummierzeugnissen oder Fabrikabfall@de
+INFO	lowercase_definition	Factory Scrap [dik]	IAO:0000115	raw, compounded, vulcanized or partially vulcanized rubber rejected or generated as waste during product manufacture and found unsuitable for further use unless recycled@en
+INFO	lowercase_definition	Factory Scrap [dik]	IAO:0000115	roher, gemischter, vulkanisierter oder teilweise vulkanisierter Kautschuk, der bei der Produktion ver-worfen oder als Abfall deklariert und für die weitere Verwendung, außer zum Recyceln, als ungeeignet befunden wird@de
+INFO	lowercase_definition	Massendichte [dik]	IAO:0000115	mass per unit volume of a material, including any voids present@en
+INFO	lowercase_definition	Massendichte Einheit [uo]	IAO:0000115	"\""A density unit which is a standard measure of the mass of a substance in a given volume.\"" [UOC:GVG]@en"
+INFO	lowercase_definition	Gram Per Cubic Centimeter [uo]	IAO:0000115	"\""A mass unit density which is equal to mass of an object in grams divided by the volume in cubic centimeters.\"" [UOC:GVG]@en"
+INFO	lowercase_definition	Mooney Viskosität [dik]	IAO:0000115	measure of the viscosity of a raw rubber or rubber compound, determined using a Mooney shearing-disc viscometer@en
+INFO	lowercase_definition	Viskositätseinheit [uo]	IAO:0000115	"\""A unit which is a standard measure of the internal resistance of fluids to flow.\"" [UOC:GVG]@en"
+INFO	lowercase_definition	Degree Celsius [uo]	IAO:0000115	"\""A temperature unit which is equal to one kelvin degree. However, they have their zeros at different points. The centigrade scale has its zero at 273.15 K.\"" [NIST:NIST]@en"
+INFO	lowercase_definition	Complex Shear Modulus [dik]	IAO:0000115	ratio of the shear stress to the shear strain, where each can be represented by a complex number@en
+INFO	lowercase_definition	Complex Young’s Modulus [dik]	IAO:0000115	ratio of the normal stress to the normal strain, where each can be represented by a complex number@en
+INFO	lowercase_definition	Elastizitätsmodul [dik]	IAO:0000115	die Komponente einer aufgebrachten Schubspannung, welche in Phase mit der Scherdeformation ist, geteilt durch die Dehnung@de
+INFO	lowercase_definition	Elastizitätsmodul [dik]	IAO:0000115	that component of an applied shear stress which is in phase with the shear strain, divided by the strain@en
+INFO	lowercase_definition	Youngscher Elastizitätsmodul [dik]	IAO:0000115	die Komponente einer angewandten Normalspannung, welche in Phase mit der Normaldehnung ist, geteilt durch die Dehnung@de
+INFO	lowercase_definition	Youngscher Elastizitätsmodul [dik]	IAO:0000115	that component of an applied normal stress which is in phase with the normal strain, divided by the strain@en
+INFO	lowercase_definition	Loss Shear Modulus [dik]	IAO:0000115	der Anteil einer aufgebrachten Schubspannung, welche 90° phasenverschoben gegenüber der Scherdeformation ist, geteilt durch die Dehnung@de
+INFO	lowercase_definition	Loss Shear Modulus [dik]	IAO:0000115	that component of an applied shear stress which is in quadrature (90° out of phase) with the shear strain, divided by the strain@en
+INFO	lowercase_definition	Young’sches Verlustmodul [dik]	IAO:0000115	der Anteil einer aufgebrachten Normalspannung, welcher 90° phasenverschoben gegenüber der Normaldehnung ist, geteilt durch die Dehnung@de
+INFO	lowercase_definition	Young’sches Verlustmodul [dik]	IAO:0000115	that component of an applied normal stress which is in quadrature (90° out of phase) with the normal strain, divided by the strain@en
+INFO	lowercase_definition	Modulus [dik]	IAO:0000115	measure of stiffness under specified conditions of deformation@en
+INFO	lowercase_definition	Tangens delta [dik]	IAO:0000115	ratio of the viscous modulus to the elastic modulus@en
+INFO	lowercase_definition	oszillierendes Scheibenrheometer [dik]	IAO:0000115	type of curemeter in which the force applied to the rubber compound is produced by an oscillating disc embedded in a test sample which is contained under pressure in a sealed cavity@en
+INFO	lowercase_definition	Rotorless Curemeter [dik]	IAO:0000115	type of curemeter in which the force applied to the rubber compound is produced by the oscillation of one of the two dies forming the cavity in which the test sample is enclosed@en
+INFO	lowercase_definition	Vulkameter [dik]	IAO:0000115	device that measures the progress of vulcanization in a test sample at the vulcanizing temperature@en
+INFO	lowercase_definition	Plattenpresse [dik]	IAO:0000115	press having two or more super-imposed heated platens between which moulds are pressed@en
+INFO	lowercase_definition	Platen [dik]	IAO:0000115	flache Metallplatte (oder Schale), die Hitze und Druck auf ein oder mehrere Formteile überträgt, die sich in einer Presse befinden@de
+INFO	lowercase_definition	Platen [dik]	IAO:0000115	flat metal plate (or chest) which applies heat and pressure to one or more mould(s) in a press@en
+INFO	lowercase_definition	Prozent [uo]	IAO:0000115	"\""A dimensionless ratio unit which denotes numbers as fractions of 100.\"" [Wikipedia:Wikipedia]@en"
+INFO	lowercase_definition	Ratio [uo]	IAO:0000115	"\""A dimensionless ratio unit which, given a pair of quantities a and b, for which b is a multiple of a, denotes b by giving the multiplier (coefficient) c for a to result in b.\"" [UOB:LKSR]@en"
+INFO	lowercase_definition	Ratio [uo]	IAO:0000115	"\""A dimensionless unit which denotes an amount or magnitude of one quantity relative to another.\"" [Wikipedia:Wikipedia]@en"
+INFO	lowercase_definition	dimensionslose Einheit [ms]	IAO:0000115	"\""A unit which is a standard measure of physical quantity consisting of only a numerical number without any units.\"" [Wikipedia:Wikipedia]@en"
+INFO	lowercase_definition	Massenanteil [uo]	IAO:0000115	"\""A dimensionless concentration unit which denotes the mass of a substance in a mixture as a percentage of the mass of the entire mixture.\"" [Wikipedia:Wikipedia]@en"
+INFO	lowercase_definition	Volume Percentage [uo]	IAO:0000115	"\""A dimensionless concentration unit which denotes the volume of the solute in mL per 100 mL of the resulting solution.\"" [UOC:GVG]@en"
+INFO	lowercase_definition	Konzentration [ecso]	IAO:0000115	the strength of a solution; number of molecules of a substance in a given volume@en
+INFO	missing_superclass	root node	rdfs:subClassOf	
