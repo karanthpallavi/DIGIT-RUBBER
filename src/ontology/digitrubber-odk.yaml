@@ -37,8 +37,8 @@ import_group:
     - IAO:0000115
   products:
     - id: bfo
-#      module_type: slme
-#      module_type_slme: STAR
+      module_type: slme
+      module_type_slme: TOP
       is_large: true
     - id: chebi
       module_type: custom

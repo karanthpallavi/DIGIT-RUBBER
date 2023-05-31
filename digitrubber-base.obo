@@ -1,6 +1,6 @@
 format-version: 1.2
 data-version: digitrubber/releases/2023-05-31/digitrubber-base.owl
-date: 31:05:2023 13:59
+date: 31:05:2023 14:58
 ontology: digitrubber/digitrubber-base
 property_value: http://purl.org/dc/elements/1.1/type IAO:8000001
 property_value: http://purl.org/dc/terms/description "DigitRubber Ontology" xsd:string

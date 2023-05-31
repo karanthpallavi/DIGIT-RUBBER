@@ -18,7 +18,7 @@
         <terms:description>DigitRubber Ontology</terms:description>
         <terms:license rdf:resource="https://creativecommons.org/licenses/unspecified"/>
         <terms:title>DigitRubber Ontology</terms:title>
-        <oboInOwl:date>31:05:2023 13:59</oboInOwl:date>
+        <oboInOwl:date>31:05:2023 14:58</oboInOwl:date>
         <owl:versionInfo>2023-05-31</owl:versionInfo>
     </owl:Ontology>
     

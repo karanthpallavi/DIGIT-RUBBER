@@ -2,3 +2,4 @@
 sh run.sh make update_repo
 sh run.sh make refresh-bfo
 sh run.sh make IMP=True prepare_release
+sh run.sh make robot_reports
