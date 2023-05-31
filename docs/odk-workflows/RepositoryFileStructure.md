@@ -16,7 +16,7 @@ These are the current imports in DIGITRUBBER
 
 | Import | URL | Type |
 | ------ | --- | ---- |
-| bfo | http://purl.obolibrary.org/obo/bfo.owl | slme |
+| bfo | http://purl.obolibrary.org/obo/bfo.owl | None |
 | chebi | http://purl.obolibrary.org/obo/chebi.owl | custom |
 | iao | http://purl.obolibrary.org/obo/iao.owl | slme |
 | obi | http://purl.obolibrary.org/obo/obi.owl | slme |

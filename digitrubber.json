@@ -13,12 +13,12 @@
         "val" : "DigitRubber Ontology"
       }, {
         "pred" : "http://www.geneontology.org/formats/oboInOwl#date",
-        "val" : "25:04:2023 08:42"
+        "val" : "31:05:2023 13:58"
       }, {
         "pred" : "http://www.w3.org/2002/07/owl#versionInfo",
-        "val" : "2023-04-25"
+        "val" : "2023-05-31"
       } ],
-      "version" : "http://purl.obolibrary.org/obo/digitrubber/releases/2023-04-25/digitrubber.json"
+      "version" : "http://purl.obolibrary.org/obo/digitrubber/releases/2023-05-31/digitrubber.json"
     },
     "nodes" : [ {
       "id" : "http://purl.obolibrary.org/obo/IAO_0000002",
@@ -8893,35 +8893,6 @@
         }, {
           "pred" : "http://www.w3.org/2000/01/rdf-schema#isDefinedBy",
           "val" : "http://purl.obolibrary.org/obo/bfo.owl"
-        } ]
-      }
-    }, {
-      "id" : "http://purl.obolibrary.org/obo/BFO_0000179",
-      "lbl" : "BFO OWL specification label",
-      "type" : "PROPERTY",
-      "meta" : {
-        "definition" : {
-          "val" : "Relates an entity in the ontology to the name of the variable that is used to represent it in the code that generates the BFO OWL file from the lispy specification."
-        },
-        "basicPropertyValues" : [ {
-          "pred" : "http://purl.obolibrary.org/obo/IAO_0000232",
-          "val" : "Really of interest to developers only"
-        } ]
-      }
-    }, {
-      "id" : "http://purl.obolibrary.org/obo/BFO_0000180",
-      "lbl" : "BFO CLIF specification label",
-      "type" : "PROPERTY",
-      "meta" : {
-        "definition" : {
-          "val" : "Relates an entity in the ontology to the term that is used to represent it in the the CLIF specification of BFO2"
-        },
-        "basicPropertyValues" : [ {
-          "pred" : "http://purl.obolibrary.org/obo/IAO_0000119",
-          "val" : "Person:Alan Ruttenberg"
-        }, {
-          "pred" : "http://purl.obolibrary.org/obo/IAO_0000232",
-          "val" : "Really of interest to developers only"
         } ]
       }
     }, {

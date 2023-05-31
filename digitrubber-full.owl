@@ -25,12 +25,12 @@
      xmlns:oboInOwl="http://www.geneontology.org/formats/oboInOwl#"
      xmlns:digitrubber="https://www.tib.eu/digitrubber#">
     <owl:Ontology rdf:about="http://purl.obolibrary.org/obo/digitrubber/digitrubber-full.owl">
-        <owl:versionIRI rdf:resource="http://purl.obolibrary.org/obo/digitrubber/releases/2023-04-25/digitrubber-full.owl"/>
+        <owl:versionIRI rdf:resource="http://purl.obolibrary.org/obo/digitrubber/releases/2023-05-31/digitrubber-full.owl"/>
         <terms:description>DigitRubber Ontology</terms:description>
         <terms:license rdf:resource="https://creativecommons.org/licenses/unspecified"/>
         <terms:title>DigitRubber Ontology</terms:title>
-        <oboInOwl:date>25:04:2023 08:42</oboInOwl:date>
-        <owl:versionInfo>2023-04-25</owl:versionInfo>
+        <oboInOwl:date>31:05:2023 13:58</oboInOwl:date>
+        <owl:versionInfo>2023-05-31</owl:versionInfo>
     </owl:Ontology>
     
 
@@ -54,22 +54,13 @@
 
     <!-- http://purl.obolibrary.org/obo/BFO_0000179 -->
 
-    <owl:AnnotationProperty rdf:about="http://purl.obolibrary.org/obo/BFO_0000179">
-        <obo:IAO_0000115 xml:lang="en">Relates an entity in the ontology to the name of the variable that is used to represent it in the code that generates the BFO OWL file from the lispy specification.</obo:IAO_0000115>
-        <obo:IAO_0000232 xml:lang="en">Really of interest to developers only</obo:IAO_0000232>
-        <rdfs:label xml:lang="en">BFO OWL specification label</rdfs:label>
-    </owl:AnnotationProperty>
+    <owl:AnnotationProperty rdf:about="http://purl.obolibrary.org/obo/BFO_0000179"/>
     
 
 
     <!-- http://purl.obolibrary.org/obo/BFO_0000180 -->
 
-    <owl:AnnotationProperty rdf:about="http://purl.obolibrary.org/obo/BFO_0000180">
-        <obo:IAO_0000115 xml:lang="en">Relates an entity in the ontology to the term that is used to represent it in the the CLIF specification of BFO2</obo:IAO_0000115>
-        <obo:IAO_0000119>Person:Alan Ruttenberg</obo:IAO_0000119>
-        <obo:IAO_0000232 xml:lang="en">Really of interest to developers only</obo:IAO_0000232>
-        <rdfs:label xml:lang="en">BFO CLIF specification label</rdfs:label>
-    </owl:AnnotationProperty>
+    <owl:AnnotationProperty rdf:about="http://purl.obolibrary.org/obo/BFO_0000180"/>
     
 
 

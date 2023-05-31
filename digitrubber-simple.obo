@@ -1,11 +1,11 @@
 format-version: 1.2
-data-version: digitrubber/releases/2023-04-25/digitrubber-simple.owl
-date: 25:04:2023 08:43
+data-version: digitrubber/releases/2023-05-31/digitrubber-simple.owl
+date: 31:05:2023 13:59
 ontology: digitrubber/digitrubber-simple
 property_value: http://purl.org/dc/terms/description "DigitRubber Ontology" xsd:string
 property_value: http://purl.org/dc/terms/license https://creativecommons.org/licenses/unspecified
 property_value: http://purl.org/dc/terms/title "DigitRubber Ontology" xsd:string
-property_value: owl:versionInfo "2023-04-25" xsd:string
+property_value: owl:versionInfo "2023-05-31" xsd:string
 
 [Term]
 id: DIGITRUBBER:0000000
