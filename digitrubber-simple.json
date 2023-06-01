@@ -13,12 +13,12 @@
         "val" : "DigitRubber Ontology"
       }, {
         "pred" : "http://www.geneontology.org/formats/oboInOwl#date",
-        "val" : "31:05:2023 14:58"
+        "val" : "01:06:2023 08:05"
       }, {
         "pred" : "http://www.w3.org/2002/07/owl#versionInfo",
-        "val" : "2023-05-31"
+        "val" : "2023-06-01"
       } ],
-      "version" : "http://purl.obolibrary.org/obo/digitrubber/releases/2023-05-31/digitrubber-simple.json"
+      "version" : "http://purl.obolibrary.org/obo/digitrubber/releases/2023-06-01/digitrubber-simple.json"
     },
     "nodes" : [ {
       "id" : "http://purl.obolibrary.org/obo/DIGITRUBBER_0000000",
@@ -110,19 +110,12 @@
         "definition" : {
           "val" : "An alternative name for a class or property which means the same thing as the preferred name (semantically equivalent)"
         },
-        "comments" : [ "Consider re-defing to: An alternative name for a class or property which can mean the same thing as the preferred name (semantically equivalent, narrow, broad or related)." ],
         "basicPropertyValues" : [ {
-          "pred" : "http://purl.obolibrary.org/obo/IAO_0000111",
-          "val" : "alternative label"
-        }, {
           "pred" : "http://purl.obolibrary.org/obo/IAO_0000111",
           "val" : "alternative term"
         }, {
           "pred" : "http://purl.obolibrary.org/obo/IAO_0000114",
           "val" : "http://purl.obolibrary.org/obo/IAO_0000125"
-        }, {
-          "pred" : "http://purl.obolibrary.org/obo/IAO_0000117",
-          "val" : "OBO Operations committee"
         }, {
           "pred" : "http://purl.obolibrary.org/obo/IAO_0000117",
           "val" : "PERSON:Daniel Schober"
@@ -242,22 +235,7 @@
     }, {
       "id" : "http://www.geneontology.org/formats/oboInOwl#hasExactSynonym",
       "lbl" : "has_exact_synonym",
-      "type" : "PROPERTY",
-      "meta" : {
-        "definition" : {
-          "val" : "An alternative label for a class or property which has the exact same meaning than the preferred name/primary label."
-        },
-        "basicPropertyValues" : [ {
-          "pred" : "http://purl.obolibrary.org/obo/IAO_0000117",
-          "val" : "http://orcid.org/0000-0001-5208-3432"
-        }, {
-          "pred" : "http://purl.obolibrary.org/obo/IAO_0000233",
-          "val" : "https://github.com/information-artifact-ontology/ontology-metadata/issues/20"
-        }, {
-          "pred" : "http://www.w3.org/2000/01/rdf-schema#seeAlso",
-          "val" : "https://github.com/information-artifact-ontology/ontology-metadata/issues/20"
-        } ]
-      }
+      "type" : "PROPERTY"
     } ]
   } ]
 }

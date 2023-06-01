@@ -16,12 +16,9 @@ These are the current imports in DIGITRUBBER
 
 | Import | URL | Type |
 | ------ | --- | ---- |
-| bfo | http://purl.obolibrary.org/obo/bfo.owl | slme |
 | chebi | http://purl.obolibrary.org/obo/chebi.owl | custom |
-| iao | http://purl.obolibrary.org/obo/iao.owl | slme |
 | obi | http://purl.obolibrary.org/obo/obi.owl | slme |
 | ro | http://purl.obolibrary.org/obo/ro.owl | slme |
-| uo | http://purl.obolibrary.org/obo/uo.owl | slme |
 
 ## Components
 Components, in contrast to imports, are considered full members of the ontology. This means that any axiom in a component is also included in the ontology base - which means it is considered _native_ to the ontology. While this sounds complicated, consider this: conceptually, no component should be part of more than one ontology. If that seems to be the case, we are most likely talking about an import. Components are often not needed for ontologies, but there are some use cases:

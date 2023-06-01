@@ -13,13 +13,13 @@
      xmlns:oboInOwl="http://www.geneontology.org/formats/oboInOwl#"
      xmlns:digitrubber="https://www.tib.eu/digitrubber#">
     <owl:Ontology rdf:about="http://purl.obolibrary.org/obo/digitrubber/digitrubber-base.owl">
-        <owl:versionIRI rdf:resource="http://purl.obolibrary.org/obo/digitrubber/releases/2023-05-31/digitrubber-base.owl"/>
+        <owl:versionIRI rdf:resource="http://purl.obolibrary.org/obo/digitrubber/releases/2023-06-01/digitrubber-base.owl"/>
         <dc:type rdf:resource="http://purl.obolibrary.org/obo/IAO_8000001"/>
         <terms:description>DigitRubber Ontology</terms:description>
         <terms:license rdf:resource="https://creativecommons.org/licenses/unspecified"/>
         <terms:title>DigitRubber Ontology</terms:title>
-        <oboInOwl:date>31:05:2023 14:58</oboInOwl:date>
-        <owl:versionInfo>2023-05-31</owl:versionInfo>
+        <oboInOwl:date>01:06:2023 08:05</oboInOwl:date>
+        <owl:versionInfo>2023-06-01</owl:versionInfo>
     </owl:Ontology>
     
 

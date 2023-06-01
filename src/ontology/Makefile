@@ -110,7 +110,7 @@ all_main: $(MAIN_FILES)
 # ----------------------------------------
 
 
-IMPORTS =  bfo chebi iao obi ro uo
+IMPORTS =  chebi obi ro
 
 IMPORT_ROOTS = $(patsubst %, $(IMPORTDIR)/%_import, $(IMPORTS))
 IMPORT_OWL_FILES = $(foreach n,$(IMPORT_ROOTS), $(n).owl)
@@ -318,24 +318,10 @@ $(IMPORTDIR)/%_import.owl: $(MIRRORDIR)/%.owl $(IMPORTDIR)/%_terms_combined.txt
 
 .PRECIOUS: $(IMPORTDIR)/%_import.owl
 
-## Module for ontology: bfo
-
-$(IMPORTDIR)/bfo_import.owl: $(MIRRORDIR)/bfo.owl $(IMPORTDIR)/bfo_terms_combined.txt
-	if [ $(IMP) = true ] && [ $(IMP_LARGE) = true ]; then $(ROBOT) extract -i $< -T $(IMPORTDIR)/bfo_terms_combined.txt --force true  --copy-ontology-annotations true --individuals include --method TOP \
-		query --update ../sparql/inject-subset-declaration.ru --update ../sparql/inject-synonymtype-declaration.ru --update ../sparql/postprocess-module.ru \
-		$(ANNOTATE_CONVERT_FILE); fi
-
 ## Module for ontology: chebi
 
 $(IMPORTDIR)/chebi_import.owl: $(MIRRORDIR)/chebi.owl
 	echo "ERROR: You have configured your default module type to be custom; this behavior needs to be overwritten in digitrubber.Makefile!" && false
-## Module for ontology: iao
-
-$(IMPORTDIR)/iao_import.owl: $(MIRRORDIR)/iao.owl $(IMPORTDIR)/iao_terms_combined.txt
-	if [ $(IMP) = true ] && [ $(IMP_LARGE) = true ]; then $(ROBOT) extract -i $< -T $(IMPORTDIR)/iao_terms_combined.txt --force true  --copy-ontology-annotations true --individuals include --method STAR \
-		query --update ../sparql/inject-subset-declaration.ru --update ../sparql/inject-synonymtype-declaration.ru --update ../sparql/postprocess-module.ru \
-		$(ANNOTATE_CONVERT_FILE); fi
-
 ## Module for ontology: obi
 
 $(IMPORTDIR)/obi_import.owl: $(MIRRORDIR)/obi.owl $(IMPORTDIR)/obi_terms_combined.txt
@@ -347,13 +333,6 @@ $(IMPORTDIR)/obi_import.owl: $(MIRRORDIR)/obi.owl $(IMPORTDIR)/obi_terms_combine
 
 $(IMPORTDIR)/ro_import.owl: $(MIRRORDIR)/ro.owl $(IMPORTDIR)/ro_terms_combined.txt
 	if [ $(IMP) = true ] && [ $(IMP_LARGE) = true ]; then $(ROBOT) extract -i $< -T $(IMPORTDIR)/ro_terms_combined.txt --force true  --copy-ontology-annotations true --individuals include --method STAR \
-		query --update ../sparql/inject-subset-declaration.ru --update ../sparql/inject-synonymtype-declaration.ru --update ../sparql/postprocess-module.ru \
-		$(ANNOTATE_CONVERT_FILE); fi
-
-## Module for ontology: uo
-
-$(IMPORTDIR)/uo_import.owl: $(MIRRORDIR)/uo.owl $(IMPORTDIR)/uo_terms_combined.txt
-	if [ $(IMP) = true ] && [ $(IMP_LARGE) = true ]; then $(ROBOT) extract -i $< -T $(IMPORTDIR)/uo_terms_combined.txt --force true  --copy-ontology-annotations true --individuals include --method STAR \
 		query --update ../sparql/inject-subset-declaration.ru --update ../sparql/inject-synonymtype-declaration.ru --update ../sparql/postprocess-module.ru \
 		$(ANNOTATE_CONVERT_FILE); fi
 
@@ -427,30 +406,12 @@ IMP_LARGE=true # Global parameter to bypass handling of large imports
 
 
 
-## ONTOLOGY: bfo
-.PHONY: mirror-bfo
-.PRECIOUS: $(MIRRORDIR)/bfo.owl
-mirror-bfo: | $(TMPDIR)
-	if [ $(MIR) = true ] && [ $(IMP) = true ] && [ $(IMP_LARGE) = true ]; then curl -L $(OBOBASE)/bfo.owl --create-dirs -o $(MIRRORDIR)/bfo.owl --retry 4 --max-time 200 &&\
-		$(ROBOT) convert -i $(MIRRORDIR)/bfo.owl -o $@.tmp.owl &&\
-		mv $@.tmp.owl $(TMPDIR)/$@.owl; fi
-
-
 ## ONTOLOGY: chebi
 .PHONY: mirror-chebi
 .PRECIOUS: $(MIRRORDIR)/chebi.owl
 mirror-chebi: | $(TMPDIR)
 	if [ $(MIR) = true ] && [ $(IMP) = true ] && [ $(IMP_LARGE) = true ]; then curl -L $(OBOBASE)/chebi.owl.gz --create-dirs -o $(MIRRORDIR)/chebi.owl.gz --retry 4 --max-time 200 &&\
 		$(ROBOT) convert -i $(MIRRORDIR)/chebi.owl.gz -o $@.tmp.owl &&\
-		mv $@.tmp.owl $(TMPDIR)/$@.owl; fi
-
-
-## ONTOLOGY: iao
-.PHONY: mirror-iao
-.PRECIOUS: $(MIRRORDIR)/iao.owl
-mirror-iao: | $(TMPDIR)
-	if [ $(MIR) = true ] && [ $(IMP) = true ] && [ $(IMP_LARGE) = true ]; then curl -L $(OBOBASE)/iao.owl --create-dirs -o $(MIRRORDIR)/iao.owl --retry 4 --max-time 200 &&\
-		$(ROBOT) convert -i $(MIRRORDIR)/iao.owl -o $@.tmp.owl &&\
 		mv $@.tmp.owl $(TMPDIR)/$@.owl; fi
 
 
@@ -469,15 +430,6 @@ mirror-obi: | $(TMPDIR)
 mirror-ro: | $(TMPDIR)
 	if [ $(MIR) = true ] && [ $(IMP) = true ] && [ $(IMP_LARGE) = true ]; then curl -L $(OBOBASE)/ro.owl --create-dirs -o $(MIRRORDIR)/ro.owl --retry 4 --max-time 200 &&\
 		$(ROBOT) convert -i $(MIRRORDIR)/ro.owl -o $@.tmp.owl &&\
-		mv $@.tmp.owl $(TMPDIR)/$@.owl; fi
-
-
-## ONTOLOGY: uo
-.PHONY: mirror-uo
-.PRECIOUS: $(MIRRORDIR)/uo.owl
-mirror-uo: | $(TMPDIR)
-	if [ $(MIR) = true ] && [ $(IMP) = true ] && [ $(IMP_LARGE) = true ]; then curl -L $(OBOBASE)/uo.owl --create-dirs -o $(MIRRORDIR)/uo.owl --retry 4 --max-time 200 &&\
-		$(ROBOT) convert -i $(MIRRORDIR)/uo.owl -o $@.tmp.owl &&\
 		mv $@.tmp.owl $(TMPDIR)/$@.owl; fi
 
 
