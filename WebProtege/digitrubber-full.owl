@@ -7219,6 +7219,16 @@ information_encoding
     
 
 
+    <!-- http://www.w3.org/2002/07/owl#Thing -->
+
+    <rdf:Description rdf:about="http://www.w3.org/2002/07/owl#Thing">
+        <obo:IAO_0000115 xml:lang="en">The class of OWL individuals.</obo:IAO_0000115>
+        <terms:contributor xml:lang="en">Akhilesh Vyas</terms:contributor>
+        <rdfs:label xml:lang="en">Thing</rdfs:label>
+    </rdf:Description>
+    
+
+
     <!-- https://www.tib.eu/digitrubber#DIGITRUBBER_000001 -->
 
     <owl:Class rdf:about="https://www.tib.eu/digitrubber#DIGITRUBBER_000001">
