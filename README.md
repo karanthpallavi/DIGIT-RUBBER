@@ -1,5 +1,5 @@
 
-![Build Status](https://github.com/TIBHannover/DIGIT-RUBBER/issues/workflows/CI/badge.svg)
+![Build Status](https://github.com/TIBHannover/DIGIT-RUBBER/workflows/CI/badge.svg)
 # DigitRubber Ontology
 
 Description: DigitRubber Ontology
