@@ -17,7 +17,7 @@ markdown_extensions:
   - pymdownx.mark
   - pymdownx.tilde
 
-site_url: https://tibhannover.github.io/digitrubber/
+site_url: https://tibhannover.github.io/digit-rubber/
 repo_url: https://github.com/TIBHannover/DIGIT-RUBBER/
 
 nav:

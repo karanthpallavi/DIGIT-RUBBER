@@ -4,8 +4,8 @@ idspace: DIGITRUBBER
 base_url: /obo/digitrubber
 
 products:
-- digitrubber.owl: https://raw.githubusercontent.com/vyasakhilesh/digitrubber/main/digitrubber.owl
-- digitrubber.obo: https://raw.githubusercontent.com/vyasakhilesh/digitrubber/main/digitrubber.obo
+- digitrubber.owl: https://raw.githubusercontent.com/tibhannover/digit-rubber/main/digitrubber.owl
+- digitrubber.obo: https://raw.githubusercontent.com/tibhannover/digit-rubber/main/digitrubber.obo
 
 term_browser: ontobee
 example_terms:
@@ -14,15 +14,15 @@ example_terms:
 entries:
 
 - prefix: /releases/
-  replacement: https://raw.githubusercontent.com/vyasakhilesh/digitrubber/v
+  replacement: https://raw.githubusercontent.com/tibhannover/digit-rubber/v
 
 - prefix: /tracker/
-  replacement: https://github.com/vyasakhilesh/digitrubber/issues
+  replacement: https://github.com/tibhannover/digit-rubber/issues
 
 - prefix: /about/
   replacement: http://www.ontobee.org/ontology/DIGITRUBBER?iri=http://purl.obolibrary.org/obo/
 
 ## generic fall-through, serve direct from github by default
 - prefix: /
-  replacement: https://raw.githubusercontent.com/vyasakhilesh/digitrubber/main/
+  replacement: https://raw.githubusercontent.com/tibhannover/digit-rubber/main/
 

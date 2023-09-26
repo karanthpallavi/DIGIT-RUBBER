@@ -3,10 +3,10 @@ layout: ontology_detail
 id: digitrubber
 title: DigitRubber Ontology
 jobs:
-  - id: https://travis-ci.org/vyasakhilesh/digitrubber
+  - id: https://travis-ci.org/tibhannover/digit-rubber
     type: travis-ci
 build:
-  checkout: git clone https://github.com/vyasakhilesh/digitrubber.git
+  checkout: git clone https://github.com/tibhannover/digit-rubber.git
   system: git
   path: "."
 contact:
@@ -15,7 +15,7 @@ contact:
   github: 
 description: DigitRubber Ontology is an ontology...
 domain: stuff
-homepage: https://github.com/vyasakhilesh/digitrubber
+homepage: https://github.com/tibhannover/digit-rubber
 products:
   - id: digitrubber.owl
     name: "DigitRubber Ontology main release in OWL format"
@@ -34,7 +34,7 @@ dependencies:
 - id: ro
 - id: pato
 
-tracker: https://github.com/vyasakhilesh/digitrubber/issues
+tracker: https://github.com/tibhannover/digit-rubber/issues
 license:
   url: http://creativecommons.org/licenses/by/3.0/
   label: CC-BY
