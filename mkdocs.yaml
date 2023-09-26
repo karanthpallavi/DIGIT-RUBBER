@@ -17,8 +17,8 @@ markdown_extensions:
   - pymdownx.mark
   - pymdownx.tilde
 
-site_url: https://vyasakhilesh.github.io/digitrubber/
-repo_url: https://github.com/vyasakhilesh/digitrubber/
+site_url: https://tibhannover.github.io/digitrubber/
+repo_url: https://github.com/TIBHannover/DIGIT-RUBBER/
 
 nav:
   - Getting started: index.md

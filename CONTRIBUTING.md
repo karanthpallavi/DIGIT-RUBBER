@@ -8,14 +8,18 @@ changes to this document in a pull request.
 
 ## Table Of Contents
 
-- [Code of Conduct](#code-of-conduct)
-- [Guidelines for Contributions and Requests](#contributions)
-    * [Reporting problems with the ontology](#reporting-bugs)
-    * [Requesting new terms](#requesting-terms)
-    * [Adding new terms by yourself](#adding-terms)
-- [Best practices](#best-practices)
-    * [How to write a great issue?](#great-issues)
-    * [How to create a great pull/merge request?](#great-pulls)
+- [Contributing to DigitRubber Ontology](#contributing-to-digitrubber-ontology)
+  - [Table Of Contents](#table-of-contents)
+  - [Code of Conduct](#code-of-conduct)
+  - [Guidelines for Contributions and Requests](#guidelines-for-contributions-and-requests)
+    - [Reporting problems with the ontology](#reporting-problems-with-the-ontology)
+    - [Requesting new terms](#requesting-new-terms)
+      - [Who can request a term?](#who-can-request-a-term)
+      - [How to write a new term request](#how-to-write-a-new-term-request)
+    - [How to add a new term](#how-to-add-a-new-term)
+  - [Best Practices](#best-practices)
+    - [How to write great issues?](#how-to-write-great-issues)
+    - [How to create a great pull/merge request?](#how-to-create-a-great-pullmerge-request)
 
 <a id="code-of-conduct"></a>
 
@@ -33,7 +37,7 @@ Please carefully read our [Code of Conduct](CODE_OF_CONDUCT.md).
 
 ### Reporting problems with the ontology
 
-Please use our [Issue Tracker](https://github.com/vyasakhilesh/digitrubber/issues/) for reporting problems with the ontology. 
+Please use our [Issue Tracker](https://github.com/TIBHannover/DIGIT-RUBBER/issues/) for reporting problems with the ontology. 
 To learn how to write a good issue [see here](#great-issues).
 
 <a id="requesting-terms"></a>
@@ -57,10 +61,10 @@ community resource, it is often necessary to do at least some of the work of add
 
 #### How to write a new term request
 
-Request a new term _via_ the GitHub [Issue Tracker](https://github.com/vyasakhilesh/digitrubber/issues/).
+Request a new term _via_ the GitHub [Issue Tracker](https://github.com/TIBHannover/DIGIT-RUBBER/issues/).
 
 It is important to remember that it takes a lot of time for curators to process issues submitted to the tracker.
-To make this work easier, please always use issue templates if they are available (https://github.com/vyasakhilesh/digitrubber/issues/new/choose).
+To make this work easier, please always use issue templates if they are available (https://github.com/TIBHannover/DIGIT-RUBBER/issues/new/choose).
 
 For how to write a good term request, please read the [best practices carefully](#great-issues).
 
