@@ -1,5 +1,5 @@
 
-![Build Status](https://tibhannover.github.io/DIGIT-RUBBER/workflows/CI/badge.svg)
+![Build Status](https://github.com/TIBHannover/DIGIT-RUBBER/issues/workflows/CI/badge.svg)
 # DigitRubber Ontology
 
 Description: DigitRubber Ontology
@@ -23,7 +23,7 @@ Editors of this ontology should use the edit version, [src/ontology/digitrubber-
 
 ## Contact
 
-Please use this GitHub repository's [Issue tracker](https://tibhannover.github.io/DIGIT-RUBBER/issues) to request new terms/classes or report errors or specific concerns related to the ontology.
+Please use this GitHub repository's [Issue tracker](https://github.com/TIBHannover/DIGIT-RUBBER/issues/) to request new terms/classes or report errors or specific concerns related to the ontology.
 
 ## Acknowledgements
 
