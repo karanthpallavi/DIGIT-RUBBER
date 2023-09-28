@@ -3183,74 +3183,19 @@ For example, A and B may be gene products and binding of B by A positively regul
     <!-- http://purl.obolibrary.org/obo/CHEBI_24431 -->
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/CHEBI_24431">
-        <obo:IAO_0000115>A chemical entity is a physical entity of interest in chemistry including molecular entities, parts thereof, and chemical substances.</obo:IAO_0000115>
+        <obo:IAO_0000115 xml:lang="en">A chemical entity is a physical entity of interest in chemistry including molecular entities, parts thereof, and chemical substances.</obo:IAO_0000115>
         <oboInOwl:hasExactSynonym>chemical entity</oboInOwl:hasExactSynonym>
         <oboInOwl:hasOBONamespace>chebi_ontology</oboInOwl:hasOBONamespace>
         <oboInOwl:id>CHEBI:24431</oboInOwl:id>
         <oboInOwl:inSubset rdf:resource="http://purl.obolibrary.org/obo/chebi#3_STAR"/>
-        <rdfs:label>chemical entity</rdfs:label>
+        <rdfs:label xml:lang="en">chemical entity</rdfs:label>
+        <rdfs:label xml:lang="de">chemische Entität</rdfs:label>
     </owl:Class>
     <owl:Axiom>
         <owl:annotatedSource rdf:resource="http://purl.obolibrary.org/obo/CHEBI_24431"/>
         <owl:annotatedProperty rdf:resource="http://www.geneontology.org/formats/oboInOwl#hasExactSynonym"/>
         <owl:annotatedTarget>chemical entity</owl:annotatedTarget>
         <oboInOwl:hasDbXref>UniProt</oboInOwl:hasDbXref>
-    </owl:Axiom>
-    
-
-
-    <!-- http://purl.obolibrary.org/obo/CHEBI_24433 -->
-
-    <owl:Class rdf:about="http://purl.obolibrary.org/obo/CHEBI_24433">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/CHEBI_24431"/>
-        <obo:IAO_0000115>A defined linked collection of atoms or a single atom within a molecular entity.</obo:IAO_0000115>
-        <oboInOwl:hasExactSynonym>group</oboInOwl:hasExactSynonym>
-        <oboInOwl:hasOBONamespace>chebi_ontology</oboInOwl:hasOBONamespace>
-        <oboInOwl:hasRelatedSynonym>Gruppe</oboInOwl:hasRelatedSynonym>
-        <oboInOwl:hasRelatedSynonym>Rest</oboInOwl:hasRelatedSynonym>
-        <oboInOwl:hasRelatedSynonym>groupe</oboInOwl:hasRelatedSynonym>
-        <oboInOwl:hasRelatedSynonym>grupo</oboInOwl:hasRelatedSynonym>
-        <oboInOwl:hasRelatedSynonym>grupos</oboInOwl:hasRelatedSynonym>
-        <oboInOwl:id>CHEBI:24433</oboInOwl:id>
-        <oboInOwl:inSubset rdf:resource="http://purl.obolibrary.org/obo/chebi#3_STAR"/>
-        <rdfs:label>group</rdfs:label>
-    </owl:Class>
-    <owl:Axiom>
-        <owl:annotatedSource rdf:resource="http://purl.obolibrary.org/obo/CHEBI_24433"/>
-        <owl:annotatedProperty rdf:resource="http://www.geneontology.org/formats/oboInOwl#hasExactSynonym"/>
-        <owl:annotatedTarget>group</owl:annotatedTarget>
-        <oboInOwl:hasDbXref rdf:datatype="http://www.w3.org/2001/XMLSchema#string">IUPAC</oboInOwl:hasDbXref>
-        <oboInOwl:hasSynonymType rdf:resource="http://purl.obolibrary.org/obo/chebi#IUPAC_NAME"/>
-    </owl:Axiom>
-    <owl:Axiom>
-        <owl:annotatedSource rdf:resource="http://purl.obolibrary.org/obo/CHEBI_24433"/>
-        <owl:annotatedProperty rdf:resource="http://www.geneontology.org/formats/oboInOwl#hasRelatedSynonym"/>
-        <owl:annotatedTarget>Gruppe</owl:annotatedTarget>
-        <oboInOwl:hasDbXref rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ChEBI</oboInOwl:hasDbXref>
-    </owl:Axiom>
-    <owl:Axiom>
-        <owl:annotatedSource rdf:resource="http://purl.obolibrary.org/obo/CHEBI_24433"/>
-        <owl:annotatedProperty rdf:resource="http://www.geneontology.org/formats/oboInOwl#hasRelatedSynonym"/>
-        <owl:annotatedTarget>Rest</owl:annotatedTarget>
-        <oboInOwl:hasDbXref rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ChEBI</oboInOwl:hasDbXref>
-    </owl:Axiom>
-    <owl:Axiom>
-        <owl:annotatedSource rdf:resource="http://purl.obolibrary.org/obo/CHEBI_24433"/>
-        <owl:annotatedProperty rdf:resource="http://www.geneontology.org/formats/oboInOwl#hasRelatedSynonym"/>
-        <owl:annotatedTarget>groupe</owl:annotatedTarget>
-        <oboInOwl:hasDbXref rdf:datatype="http://www.w3.org/2001/XMLSchema#string">IUPAC</oboInOwl:hasDbXref>
-    </owl:Axiom>
-    <owl:Axiom>
-        <owl:annotatedSource rdf:resource="http://purl.obolibrary.org/obo/CHEBI_24433"/>
-        <owl:annotatedProperty rdf:resource="http://www.geneontology.org/formats/oboInOwl#hasRelatedSynonym"/>
-        <owl:annotatedTarget>grupo</owl:annotatedTarget>
-        <oboInOwl:hasDbXref rdf:datatype="http://www.w3.org/2001/XMLSchema#string">IUPAC</oboInOwl:hasDbXref>
-    </owl:Axiom>
-    <owl:Axiom>
-        <owl:annotatedSource rdf:resource="http://purl.obolibrary.org/obo/CHEBI_24433"/>
-        <owl:annotatedProperty rdf:resource="http://www.geneontology.org/formats/oboInOwl#hasRelatedSynonym"/>
-        <owl:annotatedTarget>grupos</owl:annotatedTarget>
-        <oboInOwl:hasDbXref rdf:datatype="http://www.w3.org/2001/XMLSchema#string">IUPAC</oboInOwl:hasDbXref>
     </owl:Axiom>
     
 
@@ -3457,20 +3402,23 @@ For example, A and B may be gene products and binding of B by A positively regul
     <!-- http://purl.obolibrary.org/obo/CHEBI_28798 -->
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/CHEBI_28798">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/CHEBI_60027"/>
-        <obo:IAO_0000115>A polymer consisting of cis-linked prenyl units.</obo:IAO_0000115>
+        <rdfs:subClassOf rdf:resource="https://www.tib.eu/digitrubber#DIGITRUBBER_000273"/>
+        <obo:IAO_0000115 xml:lang="en">A polymer consisting of cis-linked prenyl units.</obo:IAO_0000115>
         <chebi:charge>0</chebi:charge>
         <chebi:formula>(C5H8)n.H2</chebi:formula>
         <oboInOwl:hasAlternativeId>CHEBI:26584</oboInOwl:hasAlternativeId>
         <oboInOwl:hasAlternativeId>CHEBI:8905</oboInOwl:hasAlternativeId>
         <oboInOwl:hasDbXref>KEGG:C02321</oboInOwl:hasDbXref>
         <oboInOwl:hasExactSynonym>Rubber particle</oboInOwl:hasExactSynonym>
+        <oboInOwl:hasExactSynonym xml:lang="en">Rubber particle</oboInOwl:hasExactSynonym>
         <oboInOwl:hasOBONamespace>chebi_ontology</oboInOwl:hasOBONamespace>
         <oboInOwl:hasRelatedSynonym>Rubber</oboInOwl:hasRelatedSynonym>
+        <oboInOwl:hasRelatedSynonym xml:lang="en">Rubber</oboInOwl:hasRelatedSynonym>
         <oboInOwl:hasRelatedSynonym>Rubber (all-cis)</oboInOwl:hasRelatedSynonym>
+        <oboInOwl:hasRelatedSynonym xml:lang="en">Rubber (all-cis)</oboInOwl:hasRelatedSynonym>
         <oboInOwl:id>CHEBI:28798</oboInOwl:id>
         <oboInOwl:inSubset rdf:resource="http://purl.obolibrary.org/obo/chebi#3_STAR"/>
-        <rdfs:label>rubber particle</rdfs:label>
+        <rdfs:label xml:lang="en">rubber particle  [chebi]</rdfs:label>
     </owl:Class>
     <owl:Axiom>
         <owl:annotatedSource rdf:resource="http://purl.obolibrary.org/obo/CHEBI_28798"/>
@@ -3489,26 +3437,6 @@ For example, A and B may be gene products and binding of B by A positively regul
         <owl:annotatedProperty rdf:resource="http://www.geneontology.org/formats/oboInOwl#hasRelatedSynonym"/>
         <owl:annotatedTarget>Rubber (all-cis)</owl:annotatedTarget>
         <oboInOwl:hasDbXref rdf:datatype="http://www.w3.org/2001/XMLSchema#string">KEGG_COMPOUND</oboInOwl:hasDbXref>
-    </owl:Axiom>
-    
-
-
-    <!-- http://purl.obolibrary.org/obo/CHEBI_33247 -->
-
-    <owl:Class rdf:about="http://purl.obolibrary.org/obo/CHEBI_33247">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/CHEBI_24433"/>
-        <obo:IAO_0000115>Any substituent group or skeleton containing carbon.</obo:IAO_0000115>
-        <oboInOwl:hasOBONamespace>chebi_ontology</oboInOwl:hasOBONamespace>
-        <oboInOwl:hasRelatedSynonym>organic groups</oboInOwl:hasRelatedSynonym>
-        <oboInOwl:id>CHEBI:33247</oboInOwl:id>
-        <oboInOwl:inSubset rdf:resource="http://purl.obolibrary.org/obo/chebi#3_STAR"/>
-        <rdfs:label>organic group</rdfs:label>
-    </owl:Class>
-    <owl:Axiom>
-        <owl:annotatedSource rdf:resource="http://purl.obolibrary.org/obo/CHEBI_33247"/>
-        <owl:annotatedProperty rdf:resource="http://www.geneontology.org/formats/oboInOwl#hasRelatedSynonym"/>
-        <owl:annotatedTarget>organic groups</owl:annotatedTarget>
-        <oboInOwl:hasDbXref rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ChEBI</oboInOwl:hasDbXref>
     </owl:Axiom>
     
 
@@ -4551,7 +4479,7 @@ For example, A and B may be gene products and binding of B by A positively regul
     <!-- http://purl.obolibrary.org/obo/CHEBI_51446 -->
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/CHEBI_51446">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/CHEBI_33247"/>
+        <rdfs:subClassOf rdf:resource="https://www.tib.eu/digitrubber#DIGITRUBBER_000604"/>
         <oboInOwl:hasOBONamespace>chebi_ontology</oboInOwl:hasOBONamespace>
         <oboInOwl:id>CHEBI:51446</oboInOwl:id>
         <oboInOwl:inSubset rdf:resource="http://purl.obolibrary.org/obo/chebi#1_STAR"/>
@@ -4612,12 +4540,14 @@ For example, A and B may be gene products and binding of B by A positively regul
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/CHEBI_59999">
         <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/CHEBI_24431"/>
-        <obo:IAO_0000115>A chemical substance is a portion of matter of constant composition, composed of molecular entities of the same type or of different types.</obo:IAO_0000115>
+        <obo:IAO_0000115 xml:lang="en">A chemical substance is a portion of matter of constant composition, composed of molecular entities of the same type or of different types.</obo:IAO_0000115>
         <oboInOwl:hasOBONamespace>chebi_ontology</oboInOwl:hasOBONamespace>
         <oboInOwl:hasRelatedSynonym>Chemische Substanz</oboInOwl:hasRelatedSynonym>
+        <oboInOwl:hasRelatedSynonym xml:lang="de">Chemische Substanz</oboInOwl:hasRelatedSynonym>
         <oboInOwl:id>CHEBI:59999</oboInOwl:id>
         <oboInOwl:inSubset rdf:resource="http://purl.obolibrary.org/obo/chebi#3_STAR"/>
-        <rdfs:label>chemical substance</rdfs:label>
+        <rdfs:label xml:lang="en">chemical substance</rdfs:label>
+        <rdfs:label xml:lang="de">chemische Substanz</rdfs:label>
     </owl:Class>
     <owl:Axiom>
         <owl:annotatedSource rdf:resource="http://purl.obolibrary.org/obo/CHEBI_59999"/>
@@ -4632,45 +4562,19 @@ For example, A and B may be gene products and binding of B by A positively regul
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/CHEBI_60004">
         <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/CHEBI_59999"/>
-        <obo:IAO_0000115>A mixture is a chemical substance composed of multiple molecules, at least two of which are of a different kind.</obo:IAO_0000115>
+        <obo:IAO_0000115 xml:lang="en">A mixture is a chemical substance composed of multiple molecules, at least two of which are of a different kind.</obo:IAO_0000115>
         <oboInOwl:hasOBONamespace>chebi_ontology</oboInOwl:hasOBONamespace>
         <oboInOwl:hasRelatedSynonym>Mischung</oboInOwl:hasRelatedSynonym>
+        <oboInOwl:hasRelatedSynonym xml:lang="de">Mischung</oboInOwl:hasRelatedSynonym>
         <oboInOwl:id>CHEBI:60004</oboInOwl:id>
         <oboInOwl:inSubset rdf:resource="http://purl.obolibrary.org/obo/chebi#3_STAR"/>
-        <rdfs:label>mixture</rdfs:label>
+        <rdfs:label xml:lang="de">Mischung</rdfs:label>
+        <rdfs:label xml:lang="en">mixture</rdfs:label>
     </owl:Class>
     <owl:Axiom>
         <owl:annotatedSource rdf:resource="http://purl.obolibrary.org/obo/CHEBI_60004"/>
         <owl:annotatedProperty rdf:resource="http://www.geneontology.org/formats/oboInOwl#hasRelatedSynonym"/>
         <owl:annotatedTarget>Mischung</owl:annotatedTarget>
-        <oboInOwl:hasDbXref rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ChEBI</oboInOwl:hasDbXref>
-    </owl:Axiom>
-    
-
-
-    <!-- http://purl.obolibrary.org/obo/CHEBI_60027 -->
-
-    <owl:Class rdf:about="http://purl.obolibrary.org/obo/CHEBI_60027">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/CHEBI_60004"/>
-        <obo:IAO_0000115>A polymer is a mixture, which is composed of macromolecules of different kinds and which may be differentiated by composition, length, degree of branching etc..</obo:IAO_0000115>
-        <oboInOwl:hasDbXref>Wikipedia:Polymer</oboInOwl:hasDbXref>
-        <oboInOwl:hasExactSynonym>Polymer</oboInOwl:hasExactSynonym>
-        <oboInOwl:hasOBONamespace>chebi_ontology</oboInOwl:hasOBONamespace>
-        <oboInOwl:hasRelatedSynonym>Kunststoff</oboInOwl:hasRelatedSynonym>
-        <oboInOwl:id>CHEBI:60027</oboInOwl:id>
-        <oboInOwl:inSubset rdf:resource="http://purl.obolibrary.org/obo/chebi#3_STAR"/>
-        <rdfs:label>polymer</rdfs:label>
-    </owl:Class>
-    <owl:Axiom>
-        <owl:annotatedSource rdf:resource="http://purl.obolibrary.org/obo/CHEBI_60027"/>
-        <owl:annotatedProperty rdf:resource="http://www.geneontology.org/formats/oboInOwl#hasExactSynonym"/>
-        <owl:annotatedTarget>Polymer</owl:annotatedTarget>
-        <oboInOwl:hasDbXref rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ChEBI</oboInOwl:hasDbXref>
-    </owl:Axiom>
-    <owl:Axiom>
-        <owl:annotatedSource rdf:resource="http://purl.obolibrary.org/obo/CHEBI_60027"/>
-        <owl:annotatedProperty rdf:resource="http://www.geneontology.org/formats/oboInOwl#hasRelatedSynonym"/>
-        <owl:annotatedTarget>Kunststoff</owl:annotatedTarget>
         <oboInOwl:hasDbXref rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ChEBI</oboInOwl:hasDbXref>
     </owl:Axiom>
     
@@ -4792,7 +4696,7 @@ For example, A and B may be gene products and binding of B by A positively regul
     <!-- http://purl.obolibrary.org/obo/CHEBI_82298 -->
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/CHEBI_82298">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/CHEBI_60027"/>
+        <rdfs:subClassOf rdf:resource="https://www.tib.eu/digitrubber#DIGITRUBBER_000273"/>
         <chebi:charge>0</chebi:charge>
         <chebi:formula>C12H16O15S2</chebi:formula>
         <oboInOwl:hasDbXref>CAS:53973-98-1</oboInOwl:hasDbXref>
@@ -4800,9 +4704,10 @@ For example, A and B may be gene products and binding of B by A positively regul
         <oboInOwl:hasDbXref>KEGG:D05539</oboInOwl:hasDbXref>
         <oboInOwl:hasOBONamespace>chebi_ontology</oboInOwl:hasOBONamespace>
         <oboInOwl:hasRelatedSynonym>Carrageenan, degraded</oboInOwl:hasRelatedSynonym>
+        <oboInOwl:hasRelatedSynonym xml:lang="en">Carrageenan, degraded</oboInOwl:hasRelatedSynonym>
         <oboInOwl:id>CHEBI:82298</oboInOwl:id>
         <oboInOwl:inSubset rdf:resource="http://purl.obolibrary.org/obo/chebi#2_STAR"/>
-        <rdfs:label>Poligeenan</rdfs:label>
+        <rdfs:label xml:lang="en">Poligeenan</rdfs:label>
     </owl:Class>
     <owl:Axiom>
         <owl:annotatedSource rdf:resource="http://purl.obolibrary.org/obo/CHEBI_82298"/>
@@ -4865,7 +4770,7 @@ For example, A and B may be gene products and binding of B by A positively regul
         <oboInOwl:hasExactSynonym>molecular function</oboInOwl:hasExactSynonym>
         <oboInOwl:id>GO:0003674</oboInOwl:id>
         <rdfs:comment>Note that, in addition to forming the root of the molecular function ontology, this term is recommended for use for the annotation of gene products whose molecular function is unknown. When this term is used for annotation, it indicates that no information was available about the molecular function of the gene product annotated as of the date the annotation was made; the evidence code &apos;no data&apos; (ND), is used to indicate this. Despite its name, this is not a type of &apos;function&apos; in the sense typically defined by upper ontologies such as Basic Formal Ontology (BFO). It is instead a BFO:process carried out by a single gene product or complex.</rdfs:comment>
-        <rdfs:label>molecular_function</rdfs:label>
+        <rdfs:label xml:lang="en">molecular_function</rdfs:label>
     </owl:Class>
     <owl:Axiom>
         <owl:annotatedSource rdf:resource="http://purl.obolibrary.org/obo/GO_0003674"/>
@@ -4880,16 +4785,18 @@ For example, A and B may be gene products and binding of B by A positively regul
 
     <owl:Class rdf:about="http://purl.obolibrary.org/obo/GO_0008150">
         <obo:IAO_0000115>A biological process represents a specific objective that the organism is genetically programmed to achieve. Biological processes are often described by their outcome or ending state, e.g., the biological process of cell division results in the creation of two daughter cells (a divided cell) from a single parent cell. A biological process is accomplished by a particular set of molecular functions carried out by specific gene products (or macromolecular complexes), often in a highly regulated manner and in a particular temporal sequence.</obo:IAO_0000115>
+        <obo:IAO_0000115 xml:lang="en">A biological process represents a specific objective that the organism is genetically programmed to achieve. Biological processes are often described by their outcome or ending state, e.g., the biological process of cell division results in the creation of two daughter cells (a divided cell) from a single parent cell. A biological process is accomplished by a particular set of molecular functions carried out by specific gene products (or macromolecular complexes), often in a highly regulated manner and in a particular temporal sequence.</obo:IAO_0000115>
         <oboInOwl:created_by>jl</oboInOwl:created_by>
         <oboInOwl:creation_date>2012-09-19T15:05:24Z</oboInOwl:creation_date>
         <oboInOwl:hasDbXref>Wikipedia:Biological_process</oboInOwl:hasDbXref>
-        <oboInOwl:hasExactSynonym>biological process</oboInOwl:hasExactSynonym>
-        <oboInOwl:hasExactSynonym>physiological process</oboInOwl:hasExactSynonym>
-        <oboInOwl:hasRelatedSynonym>single organism process</oboInOwl:hasRelatedSynonym>
-        <oboInOwl:hasRelatedSynonym>single-organism process</oboInOwl:hasRelatedSynonym>
+        <oboInOwl:hasExactSynonym xml:lang="en">biological process</oboInOwl:hasExactSynonym>
+        <oboInOwl:hasExactSynonym xml:lang="en">physiological process</oboInOwl:hasExactSynonym>
+        <oboInOwl:hasRelatedSynonym xml:lang="en">single organism process</oboInOwl:hasRelatedSynonym>
+        <oboInOwl:hasRelatedSynonym xml:lang="en">single-organism process</oboInOwl:hasRelatedSynonym>
         <oboInOwl:id>GO:0008150</oboInOwl:id>
-        <rdfs:comment>Note that, in addition to forming the root of the biological process ontology, this term is recommended for use for the annotation of gene products whose biological process is unknown. When this term is used for annotation, it indicates that no information was available about the biological process of the gene product annotated as of the date the annotation was made; the evidence code &apos;no data&apos; (ND), is used to indicate this.</rdfs:comment>
-        <rdfs:label>biological_process</rdfs:label>
+        <rdfs:comment xml:lang="en">Note that, in addition to forming the root of the biological process ontology, this term is recommended for use for the annotation of gene products whose biological process is unknown. When this term is used for annotation, it indicates that no information was available about the biological process of the gene product annotated as of the date the annotation was made; the evidence code &apos;no data&apos; (ND), is used to indicate this.</rdfs:comment>
+        <rdfs:label xml:lang="en">biological process</rdfs:label>
+        <rdfs:label xml:lang="de">biologischer Prozess</rdfs:label>
     </owl:Class>
     <owl:Axiom>
         <owl:annotatedSource rdf:resource="http://purl.obolibrary.org/obo/GO_0008150"/>
@@ -6029,7 +5936,7 @@ http://sourceforge.net/p/obi/obi-terms/716/</obo:IAO_0000116>
         <obo:IAO_0000111>manufacturer</obo:IAO_0000111>
         <obo:IAO_0000114 rdf:resource="http://purl.obolibrary.org/obo/IAO_0000123"/>
         <obo:IAO_0000115>A person or organization that has a manufacturer role</obo:IAO_0000115>
-        <rdfs:label>manufacturer</rdfs:label>
+        <rdfs:label xml:lang="en">manufacturer</rdfs:label>
     </owl:Class>
     
 
@@ -6260,7 +6167,7 @@ JZ: based on textual definition of edited document, it can be defined as N&amp;S
         <obo:IAO_0000115>An information content entity that specifies a value within a classification scheme or on a quantitative scale.</obo:IAO_0000115>
         <obo:IAO_0000116>This term is currently a descendant of &apos;information content entity&apos;, which requires that it &apos;is about&apos; something. A value specification of &apos;20g&apos; for a measurement data item of the mass of a particular mouse &apos;is about&apos; the mass of that mouse. However there are cases where a value specification is not clearly about any particular. In the future we may change &apos;value specification&apos; to remove the &apos;is about&apos; requirement.</obo:IAO_0000116>
         <obo:IAO_0000117>PERSON:Bjoern Peters</obo:IAO_0000117>
-        <rdfs:label>value specification</rdfs:label>
+        <rdfs:label xml:lang="en">value specification</rdfs:label>
     </owl:Class>
     
 
@@ -6661,7 +6568,7 @@ JZ: based on textual definition of edited document, it can be defined as N&amp;S
         <obo:IAO_0000115>A person or organization that provides material supplies to other people or organizations.</obo:IAO_0000115>
         <obo:IAO_0000117>Rebecca Jackson</obo:IAO_0000117>
         <obo:IAO_0000233>https://github.com/obi-ontology/obi/issues/1289</obo:IAO_0000233>
-        <rdfs:label>material supplier</rdfs:label>
+        <rdfs:label xml:lang="en">material supplier</rdfs:label>
     </owl:Class>
     
 
@@ -7017,7 +6924,7 @@ information_encoding
         <obo:IAO_0000111>physical object quality</obo:IAO_0000111>
         <obo:IAO_0000115>A quality which inheres in a continuant.</obo:IAO_0000115>
         <obo:IAO_0000412 rdf:resource="http://purl.obolibrary.org/obo/pato.owl"/>
-        <rdfs:label>physical object quality</rdfs:label>
+        <rdfs:label xml:lang="en">physical object quality</rdfs:label>
     </owl:Class>
     
 
@@ -7542,7 +7449,10 @@ members of a group differ from the mean
 
     <owl:Class rdf:about="https://www.tib.eu/digitrubber#DIGITRUBBER_000025">
         <obo:IAO_0000115 xml:lang="en">&quot;Bundle adjustment [...] is a method for the simultaneous numerical fit of an unlimited number of spatially distributed images (bundles of rays). It makes use of photogrammetric observations (measured image points), survey observations and an object coordinate system. Using tie points, single images are merged into a global model in which the object surface can be reconstructed in three dimensions.&quot; (Luhmann et al. 2020: 349f.)</obo:IAO_0000115>
-        <obo:IAO_0000118 xml:lang="en">bundle triangulation, bundle block adjustment, multi-image triangulation, multi-image orientation</obo:IAO_0000118>
+        <obo:IAO_0000118 xml:lang="en">bundle block adjustment</obo:IAO_0000118>
+        <obo:IAO_0000118 xml:lang="en">bundle triangulation</obo:IAO_0000118>
+        <obo:IAO_0000118 xml:lang="en">multi-image orientation</obo:IAO_0000118>
+        <obo:IAO_0000118 xml:lang="en">multi-image triangulation</obo:IAO_0000118>
         <obo:IAO_0000119>Luhmann, Robson, Kyle &amp; Boehm (2020): Close-Range Photogrammetry and 3D Imaging, 3rd ed. De Gruyter: Berlin, Boston</obo:IAO_0000119>
         <rdfs:label xml:lang="en">bundle adjustment [jade]</rdfs:label>
         <digitrubber:coarseClassification>plan specification</digitrubber:coarseClassification>
@@ -8670,6 +8580,7 @@ members of a group differ from the mean
 
     <owl:Class rdf:about="https://www.tib.eu/digitrubber#DIGITRUBBER_000101">
         <obo:IAO_0000115 xml:lang="en">A class of units in the system under study (e.g, machines, spare parts)</obo:IAO_0000115>
+        <dc:contributor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Marvin Auf der Landwehr</dc:contributor>
         <rdfs:label xml:lang="en">collection of material entities [hsh]</rdfs:label>
         <digitrubber:coarseClassification>material entity</digitrubber:coarseClassification>
     </owl:Class>
@@ -8747,6 +8658,7 @@ members of a group differ from the mean
 
     <owl:Class rdf:about="https://www.tib.eu/digitrubber#DIGITRUBBER_000106">
         <obo:IAO_0000115 xml:lang="en">Cumulative expression for the value of all costs groups within the system under study</obo:IAO_0000115>
+        <dc:contributor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Marvin Auf der Landwehr</dc:contributor>
         <rdfs:label xml:lang="en">cost [hsh]</rdfs:label>
         <rdfs:label xml:lang="de">kosten [hsh]</rdfs:label>
         <digitrubber:coarseClassification>information content entity</digitrubber:coarseClassification>
@@ -8777,6 +8689,7 @@ members of a group differ from the mean
 
     <owl:Class rdf:about="https://www.tib.eu/digitrubber#DIGITRUBBER_000108">
         <obo:IAO_0000115 xml:lang="en">Cumulative expression for the value of overarching entity groups (e.g., human ressource, maintenance) within the system under study</obo:IAO_0000115>
+        <dc:contributor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Marvin Auf der Landwehr</dc:contributor>
         <rdfs:label xml:lang="en">cost group [hsh]</rdfs:label>
         <rdfs:label xml:lang="de">kostengruppe [hsh]</rdfs:label>
         <digitrubber:coarseClassification>information content entity</digitrubber:coarseClassification>
@@ -8788,6 +8701,7 @@ members of a group differ from the mean
 
     <owl:Class rdf:about="https://www.tib.eu/digitrubber#DIGITRUBBER_000109">
         <obo:IAO_0000115 xml:lang="en">A cost group for all cost values occuring from entity sub-groups in the human ressource cost group and the associated factors</obo:IAO_0000115>
+        <dc:contributor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Marvin Auf der Landwehr</dc:contributor>
         <rdfs:label xml:lang="en">human ressource cost [hsh]</rdfs:label>
         <rdfs:label xml:lang="de">personalkosten [hsh]</rdfs:label>
         <digitrubber:coarseClassification>information content entity</digitrubber:coarseClassification>
@@ -8799,6 +8713,7 @@ members of a group differ from the mean
 
     <owl:Class rdf:about="https://www.tib.eu/digitrubber#DIGITRUBBER_000110">
         <obo:IAO_0000115 xml:lang="en">A cost group for all cost values occuring from entity sub-groups in the maintenance cost group and the associated factors</obo:IAO_0000115>
+        <dc:contributor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Marvin Auf der Landwehr</dc:contributor>
         <rdfs:label xml:lang="en">maintenance cost [hsh]</rdfs:label>
         <rdfs:label xml:lang="de">wartungskosten [hsh]</rdfs:label>
         <digitrubber:coarseClassification>information content entity</digitrubber:coarseClassification>
@@ -8810,6 +8725,7 @@ members of a group differ from the mean
 
     <owl:Class rdf:about="https://www.tib.eu/digitrubber#DIGITRUBBER_000111">
         <obo:IAO_0000115 xml:lang="en">A cost group for all cost values occuring from entity sub-groups in the energy cost group and the associated factors</obo:IAO_0000115>
+        <dc:contributor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Marvin Auf der Landwehr</dc:contributor>
         <rdfs:label xml:lang="de">energiekosten [hsh]</rdfs:label>
         <rdfs:label xml:lang="en">energy cost [hsh]</rdfs:label>
         <digitrubber:coarseClassification>information content entity</digitrubber:coarseClassification>
@@ -8821,6 +8737,7 @@ members of a group differ from the mean
 
     <owl:Class rdf:about="https://www.tib.eu/digitrubber#DIGITRUBBER_000112">
         <obo:IAO_0000115 xml:lang="en">A cost group for all cost values occuring from entity sub-groups in the material cost group and the associated factors</obo:IAO_0000115>
+        <dc:contributor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Marvin Auf der Landwehr</dc:contributor>
         <rdfs:label xml:lang="en">material cost [hsh]</rdfs:label>
         <rdfs:label xml:lang="de">materialkosten [hsh]</rdfs:label>
         <digitrubber:coarseClassification>information content entity</digitrubber:coarseClassification>
@@ -8832,6 +8749,7 @@ members of a group differ from the mean
 
     <owl:Class rdf:about="https://www.tib.eu/digitrubber#DIGITRUBBER_000113">
         <obo:IAO_0000115 xml:lang="en">A cost group for all cost values occuring from entity sub-groups in the storage cost group and the associated factors</obo:IAO_0000115>
+        <dc:contributor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Marvin Auf der Landwehr</dc:contributor>
         <rdfs:label xml:lang="de">lagerhaltungskosten [hsh]</rdfs:label>
         <rdfs:label xml:lang="en">storage cost [hsh]</rdfs:label>
         <digitrubber:coarseClassification>information content entity</digitrubber:coarseClassification>
@@ -8843,6 +8761,7 @@ members of a group differ from the mean
 
     <owl:Class rdf:about="https://www.tib.eu/digitrubber#DIGITRUBBER_000114">
         <obo:IAO_0000115 xml:lang="en">A cost group for all cost values occuring from entity sub-groups in the production cost group and the associated factors</obo:IAO_0000115>
+        <dc:contributor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Marvin Auf der Landwehr</dc:contributor>
         <rdfs:label xml:lang="en">production cost [hsh]</rdfs:label>
         <rdfs:label xml:lang="de">produktionskosten [hsh]</rdfs:label>
         <digitrubber:coarseClassification>information content entity</digitrubber:coarseClassification>
@@ -8854,6 +8773,7 @@ members of a group differ from the mean
 
     <owl:Class rdf:about="https://www.tib.eu/digitrubber#DIGITRUBBER_000115">
         <obo:IAO_0000115 xml:lang="en">A cost group for all cost values occuring from entity sub-groups in the investment cost group and the associated factors</obo:IAO_0000115>
+        <dc:contributor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Marvin Auf der Landwehr</dc:contributor>
         <rdfs:label xml:lang="de">investitionskosten [hsh]</rdfs:label>
         <rdfs:label xml:lang="en">investment cost [hsh]</rdfs:label>
         <digitrubber:coarseClassification>information content entity</digitrubber:coarseClassification>
@@ -8865,6 +8785,7 @@ members of a group differ from the mean
 
     <owl:Class rdf:about="https://www.tib.eu/digitrubber#DIGITRUBBER_000116">
         <obo:IAO_0000115 xml:lang="en">A cost group for all cost values occuring from entity sub-groups in the waste management cost group and the associated factors</obo:IAO_0000115>
+        <dc:contributor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Marvin Auf der Landwehr</dc:contributor>
         <rdfs:label xml:lang="de">abfallmanagementkosten [hsh]</rdfs:label>
         <rdfs:label xml:lang="en">waste management cost [hsh]</rdfs:label>
         <digitrubber:coarseClassification>information content entity</digitrubber:coarseClassification>
@@ -8876,6 +8797,7 @@ members of a group differ from the mean
 
     <owl:Class rdf:about="https://www.tib.eu/digitrubber#DIGITRUBBER_000117">
         <obo:IAO_0000115 xml:lang="en">A cost group for the total sales value generated in a time period X by the system under investigation</obo:IAO_0000115>
+        <dc:contributor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Marvin Auf der Landwehr</dc:contributor>
         <rdfs:label xml:lang="en">turnover [hsh]</rdfs:label>
         <rdfs:label xml:lang="de">umsatz [hsh]</rdfs:label>
         <digitrubber:coarseClassification>information content entity</digitrubber:coarseClassification>
@@ -8887,6 +8809,7 @@ members of a group differ from the mean
 
     <owl:Class rdf:about="https://www.tib.eu/digitrubber#DIGITRUBBER_000118">
         <obo:IAO_0000115 xml:lang="en">An apparatus using mechanical power and having several parts, each with a definite function and together performing a particular task, required for operations in the system under investigation. Constitutes an entity in the maintenance cost, energy cost, production cost, investment cost and turnover cost group.</obo:IAO_0000115>
+        <dc:contributor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Marvin Auf der Landwehr</dc:contributor>
         <rdfs:label xml:lang="en">machine [hsh]</rdfs:label>
         <rdfs:label xml:lang="de">maschine [hsh]</rdfs:label>
         <digitrubber:coarseClassification>material entity</digitrubber:coarseClassification>
@@ -8898,7 +8821,8 @@ members of a group differ from the mean
 
     <owl:Class rdf:about="https://www.tib.eu/digitrubber#DIGITRUBBER_000119">
         <obo:IAO_0000115 xml:lang="en">The state of an unit within an individual entity sub-group with regard to its working order (e.g., good, defective, not working).</obo:IAO_0000115>
-        <rdfs:label xml:lang="en">condition [hsh]</rdfs:label>
+        <dc:contributor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Marvin Auf der Landwehr</dc:contributor>
+        <rdfs:label xml:lang="en">Operating status [hsh]</rdfs:label>
         <rdfs:label xml:lang="de">zustand [hsh]</rdfs:label>
         <digitrubber:coarseClassification>quality</digitrubber:coarseClassification>
     </owl:Class>
@@ -8966,6 +8890,7 @@ members of a group differ from the mean
 
     <owl:Class rdf:about="https://www.tib.eu/digitrubber#DIGITRUBBER_000123">
         <obo:IAO_0000115 xml:lang="en">The basic materials from which a finished product is made in the system under investigation. Constitutes an entity in the material cost and waste management cost group.</obo:IAO_0000115>
+        <dc:contributor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Marvin Auf der Landwehr</dc:contributor>
         <rdfs:label xml:lang="en">raw material [hsh]</rdfs:label>
         <rdfs:label xml:lang="de">rohmaterial [hsh]</rdfs:label>
         <digitrubber:coarseClassification>material entity</digitrubber:coarseClassification>
@@ -8977,6 +8902,7 @@ members of a group differ from the mean
 
     <owl:Class rdf:about="https://www.tib.eu/digitrubber#DIGITRUBBER_000124">
         <obo:IAO_0000115 xml:lang="en">Processed raw materials that are not used for final consumption but as input for the production of finished goods in the system under investigation. Constitutes an entity in the material cost and waste management cost group.</obo:IAO_0000115>
+        <dc:contributor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Marvin Auf der Landwehr</dc:contributor>
         <rdfs:label xml:lang="de">halbfabrikat [hsh]</rdfs:label>
         <rdfs:label xml:lang="en">semi-finished product [hsh]</rdfs:label>
         <digitrubber:coarseClassification>material entity</digitrubber:coarseClassification>
@@ -8988,6 +8914,7 @@ members of a group differ from the mean
 
     <owl:Class rdf:about="https://www.tib.eu/digitrubber#DIGITRUBBER_000125">
         <obo:IAO_0000115 xml:lang="en">The product that emerges at the end of the production process of the system under study.  Constitutes an entity in the material cost, production cost, and waste management cost group.</obo:IAO_0000115>
+        <dc:contributor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Marvin Auf der Landwehr</dc:contributor>
         <rdfs:label xml:lang="de">endprodukt [hsh]</rdfs:label>
         <rdfs:label xml:lang="en">finished product [hsh]</rdfs:label>
         <digitrubber:coarseClassification>material entity</digitrubber:coarseClassification>
@@ -8999,6 +8926,7 @@ members of a group differ from the mean
 
     <owl:Class rdf:about="https://www.tib.eu/digitrubber#DIGITRUBBER_000126">
         <obo:IAO_0000115 xml:lang="en">A duplicate part to replace a lost or damaged part of a machine entity unit in the system under investigation. Constitutes an entity sub-group of the wear parts entity.</obo:IAO_0000115>
+        <dc:contributor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Marvin Auf der Landwehr</dc:contributor>
         <rdfs:label xml:lang="de">ersatzteil [hsh]</rdfs:label>
         <rdfs:label xml:lang="en">spare parts [hsh]</rdfs:label>
         <digitrubber:coarseClassification>material entity</digitrubber:coarseClassification>
@@ -9010,6 +8938,7 @@ members of a group differ from the mean
 
     <owl:Class rdf:about="https://www.tib.eu/digitrubber#DIGITRUBBER_000127">
         <obo:IAO_0000115 xml:lang="en">Parts pf a machine entity unit that are bound to wear out with repetitive use and will require periodic repair or replacement based on maintenance interval in the system under investigation. Constitutes an entity of the maintenance cost and material cost group.</obo:IAO_0000115>
+        <dc:contributor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Marvin Auf der Landwehr</dc:contributor>
         <rdfs:label xml:lang="de">verschleißteil [hsh]</rdfs:label>
         <rdfs:label xml:lang="en">wear parts [hsh]</rdfs:label>
         <digitrubber:coarseClassification>material entity</digitrubber:coarseClassification>
@@ -9021,6 +8950,7 @@ members of a group differ from the mean
 
     <owl:Class rdf:about="https://www.tib.eu/digitrubber#DIGITRUBBER_000128">
         <obo:IAO_0000115 xml:lang="en">Materials used to wrap or protect raw materials, semi-finished products, and finished products.</obo:IAO_0000115>
+        <dc:contributor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Marvin Auf der Landwehr</dc:contributor>
         <rdfs:label xml:lang="en">packaging [hsh]</rdfs:label>
         <rdfs:label xml:lang="de">verpackung [hsh]</rdfs:label>
         <digitrubber:coarseClassification>material entity</digitrubber:coarseClassification>
@@ -9152,6 +9082,7 @@ members of a group differ from the mean
 
     <owl:Class rdf:about="https://www.tib.eu/digitrubber#DIGITRUBBER_000137">
         <obo:IAO_0000115 xml:lang="en">A mode of transport that is employed to transport raw materials, semi-finished goods and finished goods within the system under investigation.</obo:IAO_0000115>
+        <dc:contributor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Marvin Auf der Landwehr</dc:contributor>
         <rdfs:label xml:lang="en">conveyor vehicle [hsh]</rdfs:label>
         <rdfs:label xml:lang="de">fördermittel [hsh]</rdfs:label>
         <digitrubber:coarseClassification>material entity</digitrubber:coarseClassification>
@@ -9163,6 +9094,7 @@ members of a group differ from the mean
 
     <owl:Class rdf:about="https://www.tib.eu/digitrubber#DIGITRUBBER_000138">
         <obo:IAO_0000115 xml:lang="en">A maintenance metric that measures the average amount of time a non-repairable asset operates before it fails in the system under investigation. Constitutes a factor of the maintenance cost group.</obo:IAO_0000115>
+        <dc:contributor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Marvin Auf der Landwehr</dc:contributor>
         <rdfs:label xml:lang="en">mean time to failure [hsh]</rdfs:label>
         <rdfs:label xml:lang="de">mittlere zeit bis zum ausfall [hsh]</rdfs:label>
         <digitrubber:coarseClassification>information content entity</digitrubber:coarseClassification>
@@ -9174,6 +9106,7 @@ members of a group differ from the mean
 
     <owl:Class rdf:about="https://www.tib.eu/digitrubber#DIGITRUBBER_000139">
         <obo:IAO_0000115 xml:lang="en">A maintenance metric that measures the average time required to troubleshoot and repair failed equipment. Constitutes a factor of the maintenance cost group.</obo:IAO_0000115>
+        <dc:contributor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Marvin Auf der Landwehr</dc:contributor>
         <rdfs:label xml:lang="en">mean time to repair [hsh]</rdfs:label>
         <rdfs:label xml:lang="de">mittlere reperaturdauer [hsh]</rdfs:label>
         <digitrubber:coarseClassification>information content entity</digitrubber:coarseClassification>
@@ -9214,6 +9147,7 @@ members of a group differ from the mean
 
     <owl:Class rdf:about="https://www.tib.eu/digitrubber#DIGITRUBBER_000142">
         <obo:IAO_0000115 xml:lang="en">The averafe time that is required to conduct scheduled maintenance activities for a machine entity unit. Constitutes a factor of the maintenance cost group.</obo:IAO_0000115>
+        <dc:contributor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Marvin Auf der Landwehr</dc:contributor>
         <rdfs:label xml:lang="en">maintenance duration [hsh]</rdfs:label>
         <rdfs:label xml:lang="de">wartungsdauer [hsh]</rdfs:label>
         <digitrubber:coarseClassification>information content entity</digitrubber:coarseClassification>
@@ -9225,6 +9159,7 @@ members of a group differ from the mean
 
     <owl:Class rdf:about="https://www.tib.eu/digitrubber#DIGITRUBBER_000143">
         <obo:IAO_0000115 xml:lang="en">The amount of electricity (kw/h) that is consumed by all entities in the system under investigation. Constitutes a factor of the energy cost, storage cost and production cost group.</obo:IAO_0000115>
+        <dc:contributor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Marvin Auf der Landwehr</dc:contributor>
         <rdfs:label xml:lang="en">energy consumption [hsh]</rdfs:label>
         <rdfs:label xml:lang="de">stromverbrauch [hsh]</rdfs:label>
         <digitrubber:coarseClassification>information content entity</digitrubber:coarseClassification>
@@ -9236,6 +9171,7 @@ members of a group differ from the mean
 
     <owl:Class rdf:about="https://www.tib.eu/digitrubber#DIGITRUBBER_000144">
         <obo:IAO_0000115 xml:lang="en">The expenditure that incurs for acquiring a single unit of an entity sub-group in the system under investigation. Constitutes a factor of the maintenance cost, material cost, and storage cost group.</obo:IAO_0000115>
+        <dc:contributor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Marvin Auf der Landwehr</dc:contributor>
         <rdfs:label xml:lang="de">stückkosten [hsh]</rdfs:label>
         <rdfs:label xml:lang="en">unit cost [hsh]</rdfs:label>
         <digitrubber:coarseClassification>information content entity</digitrubber:coarseClassification>
@@ -9246,11 +9182,19 @@ members of a group differ from the mean
     <!-- https://www.tib.eu/digitrubber#DIGITRUBBER_000145 -->
 
     <owl:Class rdf:about="https://www.tib.eu/digitrubber#DIGITRUBBER_000145">
-        <obo:IAO_0000115 xml:lang="en">The facility where the operations of the system under investigation are conducted. Constitutes an entity of the energy cost group.</obo:IAO_0000115>
-        <rdfs:comment xml:lang="en">add location as top-level category</rdfs:comment>
-        <rdfs:label xml:lang="en">building [hsh]</rdfs:label>
-        <rdfs:label xml:lang="de">gebäude [hsh]</rdfs:label>
-        <digitrubber:coarseClassification>material entity</digitrubber:coarseClassification>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/CHEBI_60004"/>
+        <obo:IAO_0000114 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">uncurated</obo:IAO_0000114>
+        <obo:IAO_0000115 xml:lang="en">A composite particle, comprising of strongly bound or fused smaller particles, where the resulting external surface area may be significantly smaller than the sum of calculated surface areas of the individual components.</obo:IAO_0000115>
+        <obo:IAO_0000119 rdf:resource="http://enanomapper.github.io/ontologies/releases/10.0/enanomapper.owl"/>
+        <obo:IAO_0000412 rdf:resource="http://purl.enanomapper.org/onto/ENM_9000002"/>
+        <dc:contributor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Lars M Vogt</dc:contributor>
+        <dc:language rdf:datatype="http://www.w3.org/2001/XMLSchema#string">English</dc:language>
+        <pav:lastUpdateOn rdf:datatype="http://www.w3.org/2001/XMLSchema#string">31.09.2023</pav:lastUpdateOn>
+        <oboInOwl:creation_date rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2023-09-01T09:55:19.791625Z</oboInOwl:creation_date>
+        <oboInOwl:id rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ENM:9000002</oboInOwl:id>
+        <rdfs:isDefinedBy rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ENM</rdfs:isDefinedBy>
+        <rdfs:label xml:lang="de">Aggregat</rdfs:label>
+        <rdfs:label xml:lang="en">aggregate [enm]</rdfs:label>
     </owl:Class>
     
 
@@ -9258,19 +9202,19 @@ members of a group differ from the mean
     <!-- https://www.tib.eu/digitrubber#DIGITRUBBER_000146 -->
 
     <owl:Class rdf:about="https://www.tib.eu/digitrubber#DIGITRUBBER_000146">
-        <obo:IAO_0000114>uncurated</obo:IAO_0000114>
-        <obo:IAO_0000115 xml:lang="en">Any kind of building (e.g. an institute building)</obo:IAO_0000115>
-        <obo:IAO_0000119>https://www.materials.fraunhofer.de/ontologies/BWMD_ontology/mid#BWMD_00027</obo:IAO_0000119>
-        <obo:IAO_0000412 rdf:resource="http://purl.allotrope.org/ontologies"/>
-        <dc:contributor>Luis Ramos</dc:contributor>
-        <dc:language>English</dc:language>
-        <pav:lastUpdateOn>16.08.2022</pav:lastUpdateOn>
-        <oboInOwl:creation_date rdf:datatype="http://www.w3.org/2001/XMLSchema#Date">16.08.2022</oboInOwl:creation_date>
-        <rdfs:comment xml:lang="en">rdfs:comment</rdfs:comment>
-        <rdfs:isDefinedBy>BWMD</rdfs:isDefinedBy>
-        <rdfs:label xml:lang="en">building [bwmd]</rdfs:label>
-        <rdfs:label xml:lang="de">gebäude</rdfs:label>
-        <digitrubber:coarseClassification>material entity</digitrubber:coarseClassification>
+        <rdfs:subClassOf rdf:resource="https://www.tib.eu/digitrubber#DIGITRUBBER_000273"/>
+        <obo:IAO_0000114 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">uncurated</obo:IAO_0000114>
+        <obo:IAO_0000115 xml:lang="en">A collection of weakly bound particles or aggregates where the resulting surface area is similar to the sum of the surface areas of the individual components.</obo:IAO_0000115>
+        <obo:IAO_0000119 rdf:resource="http://enanomapper.github.io/ontologies/releases/10.0/enanomapper.owl"/>
+        <obo:IAO_0000412 rdf:resource="http://purl.enanomapper.org/onto/ENM_9000001"/>
+        <dc:contributor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Lars M Vogt</dc:contributor>
+        <dc:language rdf:datatype="http://www.w3.org/2001/XMLSchema#string">English</dc:language>
+        <pav:lastUpdateOn rdf:datatype="http://www.w3.org/2001/XMLSchema#string">31.09.2023</pav:lastUpdateOn>
+        <oboInOwl:creation_date rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2023-09-01T10:05:41.878142Z</oboInOwl:creation_date>
+        <oboInOwl:id rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ENM:9000001</oboInOwl:id>
+        <rdfs:isDefinedBy rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ENM</rdfs:isDefinedBy>
+        <rdfs:label xml:lang="de">Agglomerat</rdfs:label>
+        <rdfs:label xml:lang="en">agglomerate [enm]</rdfs:label>
     </owl:Class>
     
 
@@ -9278,19 +9222,18 @@ members of a group differ from the mean
     <!-- https://www.tib.eu/digitrubber#DIGITRUBBER_000147 -->
 
     <owl:Class rdf:about="https://www.tib.eu/digitrubber#DIGITRUBBER_000147">
-        <obo:IAO_0000114>uncurated</obo:IAO_0000114>
-        <obo:IAO_0000115 xml:lang="en">A building (site) is a site located in a structure with a roof and walls. [Allotrope]</obo:IAO_0000115>
-        <obo:IAO_0000119>http://purl.allotrope.org/ontologies/spatial#AFSP_0000003</obo:IAO_0000119>
-        <obo:IAO_0000412 rdf:resource="http://purl.allotrope.org/"/>
-        <dc:contributor>Luis Ramos</dc:contributor>
-        <dc:language>English</dc:language>
-        <pav:lastUpdateOn>16.08.2022</pav:lastUpdateOn>
-        <oboInOwl:creation_date rdf:datatype="http://www.w3.org/2001/XMLSchema#Date">16.08.2022</oboInOwl:creation_date>
-        <rdfs:comment xml:lang="en">skos:definition</rdfs:comment>
-        <rdfs:isDefinedBy>allotrope</rdfs:isDefinedBy>
-        <rdfs:label xml:lang="en">building [allotrope]</rdfs:label>
-        <rdfs:label xml:lang="de">gebäude</rdfs:label>
-        <digitrubber:coarseClassification>material entity</digitrubber:coarseClassification>
+        <obo:IAO_0000114 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">uncurated</obo:IAO_0000114>
+        <obo:IAO_0000115 xml:lang="en">A particle in the physical sciences is a small localized object to which can be ascribed physical properties. [Wikipedia]</obo:IAO_0000115>
+        <obo:IAO_0000119 rdf:resource="http://purl.allotrope.org/voc/afo/merged/REC/2023/06/merged-without-qudt-and-inferred"/>
+        <obo:IAO_0000412 rdf:resource="http://purl.allotrope.org/ontologies/material#AFM_0000435"/>
+        <dc:contributor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Lars M Vogt</dc:contributor>
+        <dc:language rdf:datatype="http://www.w3.org/2001/XMLSchema#string">English</dc:language>
+        <pav:lastUpdateOn rdf:datatype="http://www.w3.org/2001/XMLSchema#string">31.09.2023</pav:lastUpdateOn>
+        <oboInOwl:creation_date rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2023-09-01T10:30:08.82821Z</oboInOwl:creation_date>
+        <oboInOwl:id rdf:datatype="http://www.w3.org/2001/XMLSchema#string">AFM:0000435</oboInOwl:id>
+        <rdfs:isDefinedBy rdf:datatype="http://www.w3.org/2001/XMLSchema#string">AFM</rdfs:isDefinedBy>
+        <rdfs:label xml:lang="de">Partikel (Physik)</rdfs:label>
+        <rdfs:label xml:lang="en">particle (physics) [afo]</rdfs:label>
     </owl:Class>
     
 
@@ -9307,27 +9250,8 @@ members of a group differ from the mean
         <pav:lastUpdateOn>22.08.2022</pav:lastUpdateOn>
         <oboInOwl:creation_date rdf:datatype="http://www.w3.org/2001/XMLSchema#Date">22.08.2022</oboInOwl:creation_date>
         <rdfs:isDefinedBy>NCIT</rdfs:isDefinedBy>
-        <rdfs:label xml:lang="en">building [ncit]</rdfs:label>
-        <rdfs:label xml:lang="de">gebäude</rdfs:label>
-        <digitrubber:coarseClassification>material entity</digitrubber:coarseClassification>
-    </owl:Class>
-    
-
-
-    <!-- https://www.tib.eu/digitrubber#DIGITRUBBER_000149 -->
-
-    <owl:Class rdf:about="https://www.tib.eu/digitrubber#DIGITRUBBER_000149">
-        <obo:IAO_0000114>uncurated</obo:IAO_0000114>
-        <obo:IAO_0000115 xml:lang="en">A permanent walled and roofed construction.</obo:IAO_0000115>
-        <obo:IAO_0000119>http://purl.obolibrary.org/obo/ENVO_00000073</obo:IAO_0000119>
-        <obo:IAO_0000412 rdf:resource="http://purl.obolibrary.org/obo/envo.owl"/>
-        <dc:contributor>Luis Ramos</dc:contributor>
-        <dc:language>English</dc:language>
-        <pav:lastUpdateOn>22.08.2022</pav:lastUpdateOn>
-        <oboInOwl:creation_date rdf:datatype="http://www.w3.org/2001/XMLSchema#Date">22.08.2022</oboInOwl:creation_date>
-        <rdfs:isDefinedBy>ENVO</rdfs:isDefinedBy>
-        <rdfs:label xml:lang="en">building [envo]</rdfs:label>
-        <rdfs:label xml:lang="de">gebäude</rdfs:label>
+        <rdfs:label xml:lang="de">Gebäude</rdfs:label>
+        <rdfs:label xml:lang="en">building</rdfs:label>
         <digitrubber:coarseClassification>material entity</digitrubber:coarseClassification>
     </owl:Class>
     
@@ -9337,6 +9261,7 @@ members of a group differ from the mean
 
     <owl:Class rdf:about="https://www.tib.eu/digitrubber#DIGITRUBBER_000150">
         <obo:IAO_0000115 xml:lang="en">The amount of raw materials, semi-finisehd products or finished products passing through a machine entity in the time X in the system under investigation.</obo:IAO_0000115>
+        <dc:contributor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Marvin Auf der Landwehr</dc:contributor>
         <rdfs:label xml:lang="de">durchsatz [hsh]</rdfs:label>
         <rdfs:label xml:lang="en">throughput [hsh]</rdfs:label>
         <digitrubber:coarseClassification>information content entity</digitrubber:coarseClassification>
@@ -9348,6 +9273,7 @@ members of a group differ from the mean
 
     <owl:Class rdf:about="https://www.tib.eu/digitrubber#DIGITRUBBER_000151">
         <obo:IAO_0000115 xml:lang="en">All costs that are derived from costs groups encompassing overhead charges or subsidiary work.</obo:IAO_0000115>
+        <dc:contributor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Marvin Auf der Landwehr</dc:contributor>
         <rdfs:label xml:lang="en">indirect cost [hsh]</rdfs:label>
         <rdfs:label xml:lang="de">indirekte kosten [hsh]</rdfs:label>
         <digitrubber:coarseClassification>information content entity</digitrubber:coarseClassification>
@@ -9358,7 +9284,8 @@ members of a group differ from the mean
     <!-- https://www.tib.eu/digitrubber#DIGITRUBBER_000152 -->
 
     <owl:Class rdf:about="https://www.tib.eu/digitrubber#DIGITRUBBER_000152">
-        <obo:IAO_0000115 xml:lang="en">All costs that are derived from costs groups that are directly related to the production of finished goods in the system under study.</obo:IAO_0000115>
+        <obo:IAO_0000115 xml:lang="en">All costs that are derived from costs groups that are directly related to the production of goods in the system under study.</obo:IAO_0000115>
+        <dc:contributor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Marvin Auf der Landwehr</dc:contributor>
         <rdfs:label xml:lang="en">direct cost [hsh]</rdfs:label>
         <rdfs:label xml:lang="de">direkte kosten [hsh]</rdfs:label>
         <digitrubber:coarseClassification>information content entity</digitrubber:coarseClassification>
@@ -9389,6 +9316,7 @@ members of a group differ from the mean
 
     <owl:Class rdf:about="https://www.tib.eu/digitrubber#DIGITRUBBER_000154">
         <obo:IAO_0000115 xml:lang="en">A single system element (e.g., extruder 1, tool 1) within an entity sub-group in the system under investigation.</obo:IAO_0000115>
+        <dc:contributor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Marvin Auf der Landwehr</dc:contributor>
         <rdfs:label xml:lang="de">einheit [hsh]</rdfs:label>
         <rdfs:label xml:lang="en">unit [hsh]</rdfs:label>
         <digitrubber:coarseClassification>material entity</digitrubber:coarseClassification>
@@ -9495,6 +9423,7 @@ members of a group differ from the mean
 
     <owl:Class rdf:about="https://www.tib.eu/digitrubber#DIGITRUBBER_000160">
         <obo:IAO_0000115 xml:lang="en">A machine that pushes unvulcanized rubber compounds through an extrusion die under pressure. Constitutes an entity sub-group of the machine entity.</obo:IAO_0000115>
+        <dc:contributor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Marvin Auf der Landwehr</dc:contributor>
         <rdfs:label xml:lang="de">extruder [hsh]</rdfs:label>
         <rdfs:label xml:lang="en">extruder [hsh]</rdfs:label>
         <digitrubber:coarseClassification>material entity</digitrubber:coarseClassification>
@@ -9506,8 +9435,9 @@ members of a group differ from the mean
 
     <owl:Class rdf:about="https://www.tib.eu/digitrubber#DIGITRUBBER_000161">
         <obo:IAO_0000115 xml:lang="en">A machine that mixes polymers and additives in the manufacture of plastic and rubber products. Constitutes an entity sub-group of the machine entity.</obo:IAO_0000115>
+        <dc:contributor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Marvin Auf der Landwehr</dc:contributor>
+        <rdfs:label xml:lang="de">Knetmaschine [hsh]</rdfs:label>
         <rdfs:label xml:lang="en">banbury mixer [hsh]</rdfs:label>
-        <rdfs:label xml:lang="de">knetmaschine [hsh]</rdfs:label>
         <digitrubber:coarseClassification>material entity</digitrubber:coarseClassification>
     </owl:Class>
     
@@ -9517,6 +9447,7 @@ members of a group differ from the mean
 
     <owl:Class rdf:about="https://www.tib.eu/digitrubber#DIGITRUBBER_000162">
         <obo:IAO_0000115 xml:lang="en">A machine that assembles assembles all components and semi-finished products to produce a tyre. Constitutes an entity sub-group of the machine entity.</obo:IAO_0000115>
+        <dc:contributor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Marvin Auf der Landwehr</dc:contributor>
         <rdfs:label xml:lang="de">reifenproduktionsmaschine [hsh]</rdfs:label>
         <rdfs:label xml:lang="en">tire building machine [hsh]</rdfs:label>
         <digitrubber:coarseClassification>material entity</digitrubber:coarseClassification>
@@ -9528,6 +9459,7 @@ members of a group differ from the mean
 
     <owl:Class rdf:about="https://www.tib.eu/digitrubber#DIGITRUBBER_000163">
         <obo:IAO_0000115 xml:lang="en">A pneumtaic machine that cuts rubber materials. Constitutes an entity sub-group of the machine entity.</obo:IAO_0000115>
+        <dc:contributor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Marvin Auf der Landwehr</dc:contributor>
         <rdfs:label xml:lang="en">cutter [hsh]</rdfs:label>
         <rdfs:label xml:lang="de">schneidemaschine [hsh]</rdfs:label>
         <digitrubber:coarseClassification>material entity</digitrubber:coarseClassification>
@@ -9539,8 +9471,9 @@ members of a group differ from the mean
 
     <owl:Class rdf:about="https://www.tib.eu/digitrubber#DIGITRUBBER_000164">
         <obo:IAO_0000115 xml:lang="en">A machine that combines a series of hard pressure rollers used to finish or smooth a sheet of rubber material. Constitutes an entity sub-group of the machine entity.</obo:IAO_0000115>
+        <dc:contributor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Marvin Auf der Landwehr</dc:contributor>
+        <rdfs:label xml:lang="de">Kalandar [hsh]</rdfs:label>
         <rdfs:label xml:lang="en">calandar [hsh]</rdfs:label>
-        <rdfs:label xml:lang="de">kalandar [hsh]</rdfs:label>
         <digitrubber:coarseClassification>material entity</digitrubber:coarseClassification>
     </owl:Class>
     
@@ -9550,6 +9483,7 @@ members of a group differ from the mean
 
     <owl:Class rdf:about="https://www.tib.eu/digitrubber#DIGITRUBBER_000165">
         <obo:IAO_0000115 xml:lang="en">An automated system that transports good to, within and from storage areas. Constitutes an entity sub-group of the machine entity.</obo:IAO_0000115>
+        <dc:contributor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Marvin Auf der Landwehr</dc:contributor>
         <rdfs:label xml:lang="de">lagerroboter [hsh]</rdfs:label>
         <rdfs:label xml:lang="en">storage robot [hsh]</rdfs:label>
         <digitrubber:coarseClassification>material entity</digitrubber:coarseClassification>
@@ -9561,6 +9495,7 @@ members of a group differ from the mean
 
     <owl:Class rdf:about="https://www.tib.eu/digitrubber#DIGITRUBBER_000166">
         <obo:IAO_0000115 xml:lang="en">An overhead crane with a girder configuration supported by freestanding legs that move on wheels to transport goods. Constitutes an entity sub-group of the machine entity.</obo:IAO_0000115>
+        <dc:contributor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Marvin Auf der Landwehr</dc:contributor>
         <rdfs:label xml:lang="en">gantry crane [hsh]</rdfs:label>
         <rdfs:label xml:lang="de">portalkran [hsh]</rdfs:label>
         <digitrubber:coarseClassification>material entity</digitrubber:coarseClassification>
@@ -9572,6 +9507,7 @@ members of a group differ from the mean
 
     <owl:Class rdf:about="https://www.tib.eu/digitrubber#DIGITRUBBER_000167">
         <obo:IAO_0000115 xml:lang="en">A machine that is measures the tire uniformity for complete vehicle wheels and determines the radial and lateral force fluctuations of the rolling wheel. Constitutes an entity sub-group of the machine entity.</obo:IAO_0000115>
+        <dc:contributor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Marvin Auf der Landwehr</dc:contributor>
         <rdfs:label xml:lang="de">gleichförmigkeitsmessautomat [hsh]</rdfs:label>
         <rdfs:label xml:lang="en">uniformity grading machine [hsh]</rdfs:label>
         <digitrubber:coarseClassification>material entity</digitrubber:coarseClassification>
@@ -9583,6 +9519,7 @@ members of a group differ from the mean
 
     <owl:Class rdf:about="https://www.tib.eu/digitrubber#DIGITRUBBER_000168">
         <obo:IAO_0000115 xml:lang="en">A powered industrial truck used to lift and move materials over short distances. Constitutes an entity sub-group of the conveyor vehicle entity.</obo:IAO_0000115>
+        <dc:contributor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Marvin Auf der Landwehr</dc:contributor>
         <rdfs:label xml:lang="en">forklift [hsh]</rdfs:label>
         <rdfs:label xml:lang="de">gabelstapler [hsh]</rdfs:label>
         <digitrubber:coarseClassification>material entity</digitrubber:coarseClassification>
@@ -9594,6 +9531,7 @@ members of a group differ from the mean
 
     <owl:Class rdf:about="https://www.tib.eu/digitrubber#DIGITRUBBER_000169">
         <obo:IAO_0000115 xml:lang="en">A continuous moving strip or surface that is used for transporting objects between different destinations. Constitutes an entity sub-group of the conveyor vehicle entity.</obo:IAO_0000115>
+        <dc:contributor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Marvin Auf der Landwehr</dc:contributor>
         <rdfs:label xml:lang="en">conveyor [hsh]</rdfs:label>
         <rdfs:label xml:lang="de">fördertechnik [hsh]</rdfs:label>
         <digitrubber:coarseClassification>material entity</digitrubber:coarseClassification>
@@ -9605,6 +9543,7 @@ members of a group differ from the mean
 
     <owl:Class rdf:about="https://www.tib.eu/digitrubber#DIGITRUBBER_000170">
         <obo:IAO_0000115 xml:lang="en">A small truck for lifting and transporting loads. Constitutes an entity sub-group of the conveyor vehicle entity.</obo:IAO_0000115>
+        <dc:contributor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Marvin Auf der Landwehr</dc:contributor>
         <rdfs:label xml:lang="de">hubwagen [hsh]</rdfs:label>
         <rdfs:label xml:lang="en">lift truck [hsh]</rdfs:label>
         <digitrubber:coarseClassification>material entity</digitrubber:coarseClassification>
@@ -9616,6 +9555,7 @@ members of a group differ from the mean
 
     <owl:Class rdf:about="https://www.tib.eu/digitrubber#DIGITRUBBER_000171">
         <obo:IAO_0000115 xml:lang="en">An object shaped for repair and installation purposes, with the help of which something is processed or manufactured.Constitutes an entity sub-group of the wear parts entity.</obo:IAO_0000115>
+        <dc:contributor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Marvin Auf der Landwehr</dc:contributor>
         <rdfs:label xml:lang="en">tools [hsh]</rdfs:label>
         <rdfs:label xml:lang="de">wekzeuge [hsh]</rdfs:label>
         <digitrubber:coarseClassification>material entity</digitrubber:coarseClassification>
@@ -9627,6 +9567,7 @@ members of a group differ from the mean
 
     <owl:Class rdf:about="https://www.tib.eu/digitrubber#DIGITRUBBER_000172">
         <obo:IAO_0000115 xml:lang="en">A set of small wear parts required to maintain and repair a machine entity. Constitutes an entity sub-group of the wear parts entity.</obo:IAO_0000115>
+        <dc:contributor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Marvin Auf der Landwehr</dc:contributor>
         <rdfs:label xml:lang="de">kleinteile [hsh]</rdfs:label>
         <rdfs:label xml:lang="en">small parts [hsh]</rdfs:label>
         <digitrubber:coarseClassification>material entity</digitrubber:coarseClassification>
@@ -9649,6 +9590,7 @@ members of a group differ from the mean
 
     <owl:Class rdf:about="https://www.tib.eu/digitrubber#DIGITRUBBER_000174">
         <obo:IAO_0000115 xml:lang="en">Equipment that is employed for producing light in the system under investigation. Constitutes an entity sub-group of the building entity.</obo:IAO_0000115>
+        <dc:contributor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Marvin Auf der Landwehr</dc:contributor>
         <rdfs:label xml:lang="de">beleuchtung [hsh]</rdfs:label>
         <rdfs:label xml:lang="en">lighting [hsh]</rdfs:label>
         <digitrubber:coarseClassification>material entity</digitrubber:coarseClassification>
@@ -9660,6 +9602,7 @@ members of a group differ from the mean
 
     <owl:Class rdf:about="https://www.tib.eu/digitrubber#DIGITRUBBER_000175">
         <obo:IAO_0000115 xml:lang="en">Equipment that is employed for cooling and heating in the system under investigation. Constitutes an entity sub-group of the building entity.</obo:IAO_0000115>
+        <dc:contributor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Marvin Auf der Landwehr</dc:contributor>
         <rdfs:label xml:lang="en">air conditioning [hsh]</rdfs:label>
         <rdfs:label xml:lang="de">klimatisierung [hsh]</rdfs:label>
         <digitrubber:coarseClassification>material entity</digitrubber:coarseClassification>
@@ -9671,6 +9614,7 @@ members of a group differ from the mean
 
     <owl:Class rdf:about="https://www.tib.eu/digitrubber#DIGITRUBBER_000176">
         <obo:IAO_0000115 xml:lang="en">Equipment that is employed for managerial purposes in the system under investigation.</obo:IAO_0000115>
+        <dc:contributor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Marvin Auf der Landwehr</dc:contributor>
         <rdfs:label xml:lang="de">büroausstattung [hsh]</rdfs:label>
         <rdfs:label xml:lang="en">office equipment [hsh]</rdfs:label>
         <digitrubber:coarseClassification>material entity</digitrubber:coarseClassification>
@@ -9682,6 +9626,7 @@ members of a group differ from the mean
 
     <owl:Class rdf:about="https://www.tib.eu/digitrubber#DIGITRUBBER_000177">
         <obo:IAO_0000115 xml:lang="en">An elastic material obtained from the latex sap of trees. Constitutes an entity sub-group of the raw material entity.</obo:IAO_0000115>
+        <dc:contributor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Marvin Auf der Landwehr</dc:contributor>
         <rdfs:label xml:lang="en">narural rubber [hsh]</rdfs:label>
         <rdfs:label xml:lang="de">naturkautschuk [hsh]</rdfs:label>
         <digitrubber:coarseClassification>material entity</digitrubber:coarseClassification>
@@ -9712,7 +9657,8 @@ members of a group differ from the mean
 
     <owl:Class rdf:about="https://www.tib.eu/digitrubber#DIGITRUBBER_000179">
         <obo:IAO_0000115 xml:lang="en">Any of several substances similar to natural rubber in properties and uses, produced synthetically. Constitutes an entity sub-group of the raw material entity.</obo:IAO_0000115>
-        <rdfs:label xml:lang="en">synthetic rubber [hsh]</rdfs:label>
+        <dc:contributor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Marvin Auf der Landwehr</dc:contributor>
+        <rdfs:label xml:lang="en">Synthetic rubber [hsh]</rdfs:label>
         <rdfs:label xml:lang="de">synthetikkautschuk [hsh]</rdfs:label>
         <digitrubber:coarseClassification>material entity</digitrubber:coarseClassification>
     </owl:Class>
@@ -9723,6 +9669,7 @@ members of a group differ from the mean
 
     <owl:Class rdf:about="https://www.tib.eu/digitrubber#DIGITRUBBER_000180">
         <obo:IAO_0000115 xml:lang="en">Material that is required to manipulate the properties of rubber products. Constitutes an entity sub-group of the raw material entity.</obo:IAO_0000115>
+        <dc:contributor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Marvin Auf der Landwehr</dc:contributor>
         <rdfs:label xml:lang="en">filling material [hsh]</rdfs:label>
         <rdfs:label xml:lang="de">füllstoffe [hsh]</rdfs:label>
         <digitrubber:coarseClassification>material entity</digitrubber:coarseClassification>
@@ -9734,6 +9681,7 @@ members of a group differ from the mean
 
     <owl:Class rdf:about="https://www.tib.eu/digitrubber#DIGITRUBBER_000181">
         <obo:IAO_0000115 xml:lang="en">Material that is used to support the structure of rubber based products (e.g., steel cords). Constitutes an entity sub-group of the raw material entity.</obo:IAO_0000115>
+        <dc:contributor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Marvin Auf der Landwehr</dc:contributor>
         <rdfs:label xml:lang="en">reinforcing materials [hsh]</rdfs:label>
         <rdfs:label xml:lang="de">verstärkungsmaterialien [hsh]</rdfs:label>
         <digitrubber:coarseClassification>material entity</digitrubber:coarseClassification>
@@ -9745,6 +9693,7 @@ members of a group differ from the mean
 
     <owl:Class rdf:about="https://www.tib.eu/digitrubber#DIGITRUBBER_000182">
         <obo:IAO_0000115 xml:lang="en">A substance added to a synthetic resin to produce or promote plasticity and flexibility and to reduce brittleness. Constitutes an entity sub-group of the raw material entity.</obo:IAO_0000115>
+        <dc:contributor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Marvin Auf der Landwehr</dc:contributor>
         <rdfs:label xml:lang="en">plasticizer [hsh]</rdfs:label>
         <rdfs:label xml:lang="de">weichmacher [hsh]</rdfs:label>
         <digitrubber:coarseClassification>material entity</digitrubber:coarseClassification>
@@ -9796,6 +9745,7 @@ members of a group differ from the mean
 
     <owl:Class rdf:about="https://www.tib.eu/digitrubber#DIGITRUBBER_000185">
         <obo:IAO_0000115 xml:lang="en">Chemicals added to rubber to alter its physical properties. Constitutes an entity sub-group of the raw material entity.</obo:IAO_0000115>
+        <dc:contributor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Marvin Auf der Landwehr</dc:contributor>
         <rdfs:label xml:lang="en">vulcanization chemicals [hsh]</rdfs:label>
         <rdfs:label xml:lang="de">vulkanisationschemikalien [hsh]</rdfs:label>
         <digitrubber:coarseClassification>material entity</digitrubber:coarseClassification>
@@ -9807,6 +9757,7 @@ members of a group differ from the mean
 
     <owl:Class rdf:about="https://www.tib.eu/digitrubber#DIGITRUBBER_000186">
         <obo:IAO_0000115 xml:lang="en">Additional substances that are employed to product rubber-based products. Constitutes an entity sub-group of the raw material entity.</obo:IAO_0000115>
+        <dc:contributor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Marvin Auf der Landwehr</dc:contributor>
         <rdfs:label xml:lang="en">other additives [hsh]</rdfs:label>
         <rdfs:label xml:lang="de">sonstige additive [hsh]</rdfs:label>
         <digitrubber:coarseClassification>material entity</digitrubber:coarseClassification>
@@ -9817,8 +9768,9 @@ members of a group differ from the mean
     <!-- https://www.tib.eu/digitrubber#DIGITRUBBER_000187 -->
 
     <owl:Class rdf:about="https://www.tib.eu/digitrubber#DIGITRUBBER_000187">
-        <obo:IAO_0000115 xml:lang="en">A non-destructive light scattering technique that provides detailed information about the chemical structure upon the interaction of light with the chemical bonds within a material based on periodic changes of polarizabilities.</obo:IAO_0000115>
+        <obo:IAO_0000115 xml:lang="en">A non-destructive light scattering technique that provides detailed information about the chemical structure upon the interaction of light with the chemical bonds within a material based on periodic changes of polarizabilities, usually manifested as energy loss (gain) with respect to the incident light.</obo:IAO_0000115>
         <obo:IAO_0000119>https://www.horiba.com/ind/raman-imaging-and-spectroscopy/</obo:IAO_0000119>
+        <dc:contributor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Georgios Ctistis</dc:contributor>
         <rdfs:label xml:lang="en">Raman spectroscopy [ifnano]</rdfs:label>
         <digitrubber:coarseClassification>plan specification</digitrubber:coarseClassification>
     </owl:Class>
@@ -9863,6 +9815,7 @@ members of a group differ from the mean
     <owl:Class rdf:about="https://www.tib.eu/digitrubber#DIGITRUBBER_000190">
         <obo:IAO_0000115 xml:lang="en">A graph that shows the intensity of radiation at different wavelengths or the response of the atomic or molecular system to different wavelengths of the radiation</obo:IAO_0000115>
         <obo:IAO_0000119>https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Book%3A_Quantum_States_of_Atoms_and_Molecules_(Zielinksi_et_al)/01%3A_Spectroscopy#:~:text=A%20spectrum%20is%20a%20graph,different%20wavelengths%20of%20the%20radiation.</obo:IAO_0000119>
+        <dc:contributor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Christoph Lenth</dc:contributor>
         <rdfs:label xml:lang="en">Spectrum [ifnano]</rdfs:label>
         <digitrubber:coarseClassification>information content entity</digitrubber:coarseClassification>
         <digitrubber:refersToCompetenceQuestion>IFNANO:01_CQ</digitrubber:refersToCompetenceQuestion>
@@ -9908,6 +9861,7 @@ members of a group differ from the mean
     <owl:Class rdf:about="https://www.tib.eu/digitrubber#DIGITRUBBER_000193">
         <obo:IAO_0000115 xml:lang="en">A graph presents a number of peaks, showing the intensity and wavelength position of the Raman scattered light, in which each peak corresponds to a specific molecular bond vibration.</obo:IAO_0000115>
         <obo:IAO_0000119>https://www.horiba.com/ind/raman-imaging-and-spectroscopy/</obo:IAO_0000119>
+        <dc:contributor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Christoph Lenth</dc:contributor>
         <rdfs:label xml:lang="en">Raman spectrum [ifnano]</rdfs:label>
         <digitrubber:coarseClassification>information content entity</digitrubber:coarseClassification>
     </owl:Class>
@@ -9935,6 +9889,9 @@ members of a group differ from the mean
     <owl:Class rdf:about="https://www.tib.eu/digitrubber#DIGITRUBBER_000195">
         <obo:IAO_0000115 xml:lang="en">Fourier transform infrared involves the probing of matter with infrared radiation. It is based on periodic changes in dipole moments caused by molecular vibrations during the absorption of IR radiation and gives spectroscopic fingerprints.</obo:IAO_0000115>
         <obo:IAO_0000119>https://www.hamamatsu.com/eu/en/applications/analytical-equipment/infrared-spectroscopy.html</obo:IAO_0000119>
+        <dc:contributor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Yaman Alsalka (IFNANO)</dc:contributor>
+        <oboInOwl:creation_date rdf:datatype="http://www.w3.org/2001/XMLSchema#string">31.03.2022</oboInOwl:creation_date>
+        <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Method</rdfs:comment>
         <rdfs:label xml:lang="en">FTIR spectroscopy [ifnano]</rdfs:label>
         <digitrubber:coarseClassification>plan specification</digitrubber:coarseClassification>
     </owl:Class>
@@ -9945,7 +9902,11 @@ members of a group differ from the mean
 
     <owl:Class rdf:about="https://www.tib.eu/digitrubber#DIGITRUBBER_000196">
         <obo:IAO_0000115 xml:lang="en">An attenuated total reflection accessory operates by measuring the changes that occur in a totally internally reflected infrared beam when the beam comes into contact with a sample.</obo:IAO_0000115>
-        <obo:IAO_0000119>https://cmdis.rpi.edu/sites/default/files/ATR_FTIR.pdf</obo:IAO_0000119>
+        <obo:IAO_0000119 xml:lang="en">https://cmdis.rpi.edu/sites/default/files/ATR_FTIR.pdf</obo:IAO_0000119>
+        <dc:contributor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Yamen Alsalka (IFNANO)</dc:contributor>
+        <oboInOwl:creation_date rdf:datatype="http://www.w3.org/2001/XMLSchema#string">31.03.2022</oboInOwl:creation_date>
+        <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Method</rdfs:comment>
+        <rdfs:label xml:lang="de">ATR-FTIR</rdfs:label>
         <rdfs:label xml:lang="en">ATR-FTIR [ifnano]</rdfs:label>
         <digitrubber:coarseClassification>plan specification</digitrubber:coarseClassification>
     </owl:Class>
@@ -9957,6 +9918,8 @@ members of a group differ from the mean
     <owl:Class rdf:about="https://www.tib.eu/digitrubber#DIGITRUBBER_000197">
         <obo:IAO_0000115 xml:lang="en">It arises when groups differ statistically in their distributions on characteristics relevant to a given situation.</obo:IAO_0000115>
         <obo:IAO_0000119>https://www.sciencedirect.com/science/article/pii/B0123693985005442</obo:IAO_0000119>
+        <dc:contributor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Yamen Alsalka (IFNANO)</dc:contributor>
+        <oboInOwl:creation_date rdf:datatype="http://www.w3.org/2001/XMLSchema#string">31.03.2022</oboInOwl:creation_date>
         <rdfs:label xml:lang="en">Statistical discrimination [ifnano]</rdfs:label>
         <digitrubber:coarseClassification>plan specification</digitrubber:coarseClassification>
     </owl:Class>
@@ -9968,6 +9931,8 @@ members of a group differ from the mean
     <owl:Class rdf:about="https://www.tib.eu/digitrubber#DIGITRUBBER_000198">
         <obo:IAO_0000115 xml:lang="en">The chemical discipline that uses mathematical and statistical methods, (a) to design or select optimal measurement procedures and experiments, and (b) to provide maximum chemical information by analyzing chemical data.</obo:IAO_0000115>
         <obo:IAO_0000119>https://www.wiley-vch.de/de/fachgebiete/naturwissenschaften/chemometrics-978-3-527-34097-2</obo:IAO_0000119>
+        <dc:contributor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Christoph Lenth</dc:contributor>
+        <oboInOwl:creation_date rdf:datatype="http://www.w3.org/2001/XMLSchema#string">31.03.2022</oboInOwl:creation_date>
         <rdfs:label xml:lang="en">Chemometrics [ifnano]</rdfs:label>
         <digitrubber:coarseClassification>plan specification</digitrubber:coarseClassification>
     </owl:Class>
@@ -9979,6 +9944,8 @@ members of a group differ from the mean
     <owl:Class rdf:about="https://www.tib.eu/digitrubber#DIGITRUBBER_000199">
         <obo:IAO_0000115 xml:lang="en">Natural and synthetic rubber materials that are modified and shaped into rubber products through the rubber extrusion process.</obo:IAO_0000115>
         <obo:IAO_0000119>https://www.extrudedrubber.net/</obo:IAO_0000119>
+        <dc:contributor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Yamen Alsalka (IFNANO)</dc:contributor>
+        <oboInOwl:creation_date rdf:datatype="http://www.w3.org/2001/XMLSchema#string">31.03.2022</oboInOwl:creation_date>
         <rdfs:label xml:lang="en">Raw rubber samples [ifnano]</rdfs:label>
         <digitrubber:coarseClassification>material entity</digitrubber:coarseClassification>
     </owl:Class>
@@ -9988,8 +9955,12 @@ members of a group differ from the mean
     <!-- https://www.tib.eu/digitrubber#DIGITRUBBER_000200 -->
 
     <owl:Class rdf:about="https://www.tib.eu/digitrubber#DIGITRUBBER_000200">
-        <obo:IAO_0000115 xml:lang="en">A statistical measure that expresses the extent to which two variables are linearly related (meaning they change together at a constant rate). It’s a common tool for describing simple relationships without making a statement about cause and effect.</obo:IAO_0000115>
-        <obo:IAO_0000119>https://www.jmp.com/en_ca/statistics-knowledge-portal/what-is-correlation.html</obo:IAO_0000119>
+        <obo:IAO_0000115 xml:lang="en">The degree to which two or more quantities or events are associated, a statistical relation between two or more variables such that systematic changes in the value of one variable are accompanied by systematic changes in the others. The collelation can be described by mathematical functions  (often a linear function is used). It’s a common tool for describing simple relationships without making a statement about cause and effect.</obo:IAO_0000115>
+        <obo:IAO_0000119 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://www.jmp.com/en_ca/statistics-knowledge-portal/what-is-correlation.html; http://purl.obolibrary.org/obo/NCIT_C48834</obo:IAO_0000119>
+        <dc:contributor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Yamen Alsalka (IFNANO)</dc:contributor>
+        <pav:lastUpdateOn rdf:datatype="http://www.w3.org/2001/XMLSchema#string">06.06.2023</pav:lastUpdateOn>
+        <oboInOwl:creation_date rdf:datatype="http://www.w3.org/2001/XMLSchema#string">31.03.2022</oboInOwl:creation_date>
+        <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Correlations are useful for describing simple relationships among data</rdfs:comment>
         <rdfs:label xml:lang="en">Correlation [ifnano]</rdfs:label>
         <digitrubber:coarseClassification>information content entity</digitrubber:coarseClassification>
     </owl:Class>
@@ -10252,11 +10223,12 @@ members of a group differ from the mean
     <!-- https://www.tib.eu/digitrubber#DIGITRUBBER_000216 -->
 
     <owl:Class rdf:about="https://www.tib.eu/digitrubber#DIGITRUBBER_000216">
-        <obo:IAO_0000115 xml:lang="en">In Spectroscopy, peaks are features of a spectrum. A peak comprise a restricted region of a spectrum, which is absorbed or emitted with high intensity.</obo:IAO_0000115>
+        <obo:IAO_0000115 xml:lang="en">In Spectroscopy, peaks are features of a spectrum. A peak comprise a restricted region of a spectrum, which is absorbed or emitted with high intensity. It is defined as a local maximum in the spectrum.</obo:IAO_0000115>
         <dc:contributor>Sven Schwabe (IFNANO)</dc:contributor>
-        <pav:lastUpdateOn>06.04.2022</pav:lastUpdateOn>
+        <pav:lastUpdateOn rdf:datatype="http://www.w3.org/2001/XMLSchema#string">06.06.2023</pav:lastUpdateOn>
         <oboInOwl:creation_date rdf:datatype="http://www.w3.org/2001/XMLSchema#Date">31.03.2022</oboInOwl:creation_date>
-        <rdfs:label xml:lang="en">peak [ifnano]</rdfs:label>
+        <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">in Spectroscopy</rdfs:comment>
+        <rdfs:label xml:lang="en">peak[ifnano]</rdfs:label>
         <digitrubber:coarseClassification>information content entity</digitrubber:coarseClassification>
         <digitrubber:refersToCompetenceQuestion>IFNANO:01_CQ</digitrubber:refersToCompetenceQuestion>
     </owl:Class>
@@ -10293,6 +10265,19 @@ members of a group differ from the mean
         <rdfs:isDefinedBy>NCIT</rdfs:isDefinedBy>
         <rdfs:label xml:lang="en">peak [ncit]</rdfs:label>
         <digitrubber:coarseClassification>information content entity</digitrubber:coarseClassification>
+    </owl:Class>
+    
+
+
+    <!-- https://www.tib.eu/digitrubber#DIGITRUBBER_000219 -->
+
+    <owl:Class rdf:about="https://www.tib.eu/digitrubber#DIGITRUBBER_000219">
+        <obo:IAO_0000115 xml:lang="en">Is to reliably assign new samples to existing classes in a given population.</obo:IAO_0000115>
+        <obo:IAO_0000119 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Unscrambler X</obo:IAO_0000119>
+        <dc:contributor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Yamen Alsalka</dc:contributor>
+        <oboInOwl:created_by rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Yamen Alsalka</oboInOwl:created_by>
+        <oboInOwl:creation_date rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2023-06-06T09:45:47.151055Z</oboInOwl:creation_date>
+        <rdfs:label xml:lang="en">Classification [ifnano]</rdfs:label>
     </owl:Class>
     
 
@@ -10408,6 +10393,7 @@ members of a group differ from the mean
 
     <owl:Class rdf:about="https://www.tib.eu/digitrubber#DIGITRUBBER_000227">
         <obo:IAO_0000115 xml:lang="en">Metadata are data, which belong to a measurement. They complete the measurment data providing information about the condition under which the measurements have been taken place.</obo:IAO_0000115>
+        <dc:contributor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Christoph Lenth</dc:contributor>
         <rdfs:label xml:lang="en">Metadata [ifnano]</rdfs:label>
         <digitrubber:coarseClassification>information content entity</digitrubber:coarseClassification>
     </owl:Class>
@@ -10434,7 +10420,11 @@ members of a group differ from the mean
     <!-- https://www.tib.eu/digitrubber#DIGITRUBBER_000229 -->
 
     <owl:Class rdf:about="https://www.tib.eu/digitrubber#DIGITRUBBER_000229">
-        <obo:IAO_0000115 xml:lang="en">Measurement method using visible light</obo:IAO_0000115>
+        <obo:IAO_0000115 xml:lang="en">Measurement method using visible light to analyse the property of a substance</obo:IAO_0000115>
+        <obo:IAO_0000119 rdf:resource="https://de.wikipedia.org/wiki/Photometrie"/>
+        <dc:contributor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Christoph Lenth</dc:contributor>
+        <pav:lastUpdateOn rdf:datatype="http://www.w3.org/2001/XMLSchema#string">06.06.2023</pav:lastUpdateOn>
+        <oboInOwl:creation_date rdf:datatype="http://www.w3.org/2001/XMLSchema#string">31.03.2022</oboInOwl:creation_date>
         <rdfs:label xml:lang="en">Photometry [ifnano]</rdfs:label>
         <digitrubber:coarseClassification>plan specification</digitrubber:coarseClassification>
     </owl:Class>
@@ -10462,7 +10452,10 @@ members of a group differ from the mean
 
     <owl:Class rdf:about="https://www.tib.eu/digitrubber#DIGITRUBBER_000231">
         <obo:IAO_0000115 xml:lang="en">Determination concentrations using a color chart</obo:IAO_0000115>
-        <rdfs:label xml:lang="en">Colorimetry [ifnano]</rdfs:label>
+        <obo:IAO_0000119 rdf:resource="https://de.wikipedia.org/wiki/Kolorimetrie"/>
+        <dc:contributor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Christoph Lenth</dc:contributor>
+        <oboInOwl:creation_date rdf:datatype="http://www.w3.org/2001/XMLSchema#string">31.03.2022</oboInOwl:creation_date>
+        <rdfs:label xml:lang="en">Colorimetry (chemical method) [ifnano]</rdfs:label>
         <digitrubber:coarseClassification>plan specification</digitrubber:coarseClassification>
     </owl:Class>
     
@@ -10574,7 +10567,10 @@ members of a group differ from the mean
 
     <owl:Class rdf:about="https://www.tib.eu/digitrubber#DIGITRUBBER_000240">
         <obo:IAO_0000115 xml:lang="en">Using image data and eventually digital image processing in order to generate a corellation between this data and an analytical target.</obo:IAO_0000115>
-        <rdfs:label xml:lang="en">Image analysis [ifnano]</rdfs:label>
+        <dc:contributor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Chrstoph Lenth</dc:contributor>
+        <pav:lastUpdateOn rdf:datatype="http://www.w3.org/2001/XMLSchema#string">06.06.2023</pav:lastUpdateOn>
+        <oboInOwl:creation_date rdf:datatype="http://www.w3.org/2001/XMLSchema#string">31.03.2022</oboInOwl:creation_date>
+        <rdfs:label xml:lang="en">Image analysis (Chemometrics) [ifnano]</rdfs:label>
         <digitrubber:coarseClassification>plan specification</digitrubber:coarseClassification>
     </owl:Class>
     
@@ -10617,8 +10613,10 @@ members of a group differ from the mean
 
     <owl:Class rdf:about="https://www.tib.eu/digitrubber#DIGITRUBBER_000243">
         <obo:IAO_0000115 xml:lang="en">The information represented by one or more variables, which has to be predicted by data analysis in instrumental analytics</obo:IAO_0000115>
-        <rdfs:label xml:lang="en">Analytical target [ifnano]</rdfs:label>
-        <digitrubber:coarseClassification>information content entity</digitrubber:coarseClassification>
+        <dc:contributor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Christoph Lenth</dc:contributor>
+        <oboInOwl:creation_date rdf:datatype="http://www.w3.org/2001/XMLSchema#string">31.03.2022</oboInOwl:creation_date>
+        <rdfs:label xml:lang="en">analytical target [ifnano]</rdfs:label>
+        <digitrubber:coarseClassification xml:lang="en">information content entity</digitrubber:coarseClassification>
     </owl:Class>
     
 
@@ -10627,6 +10625,7 @@ members of a group differ from the mean
 
     <owl:Class rdf:about="https://www.tib.eu/digitrubber#DIGITRUBBER_000244">
         <obo:IAO_0000115 xml:lang="en">In terms of digtal image procession: correction methods to compensate image errors caused by lense distorsion or perspective.</obo:IAO_0000115>
+        <dc:contributor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Jan Geweke</dc:contributor>
         <rdfs:label xml:lang="en">Geometry correction [ifnano]</rdfs:label>
         <digitrubber:coarseClassification>plan specification</digitrubber:coarseClassification>
     </owl:Class>
@@ -10637,6 +10636,9 @@ members of a group differ from the mean
 
     <owl:Class rdf:about="https://www.tib.eu/digitrubber#DIGITRUBBER_000245">
         <obo:IAO_0000115 xml:lang="en">Linear discriminant analysis (LDA), normal discriminant analysis (NDA), or discriminant function analysis is a generalization of Fisher&apos;s linear discriminant, a method used in statistics and other fields, to find a linear combination of features that characterizes or separates two or more classes of objects or events.</obo:IAO_0000115>
+        <obo:IAO_0000119 rdf:resource="https://de.frwiki.wiki/wiki/Analyse_discriminante_lin%C3%A9aire"/>
+        <dc:contributor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Christoph Lenth</dc:contributor>
+        <oboInOwl:creation_date rdf:datatype="http://www.w3.org/2001/XMLSchema#string">31.03.2022</oboInOwl:creation_date>
         <rdfs:label xml:lang="en">Linear discriminant analysis [ifnano]</rdfs:label>
         <digitrubber:coarseClassification>plan specification</digitrubber:coarseClassification>
     </owl:Class>
@@ -10647,6 +10649,7 @@ members of a group differ from the mean
 
     <owl:Class rdf:about="https://www.tib.eu/digitrubber#DIGITRUBBER_000246">
         <obo:IAO_0000115 xml:lang="en">Machine learning task of learning a function that maps an input to an output based on example input-output pairs.</obo:IAO_0000115>
+        <dc:contributor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Christoph Lenth</dc:contributor>
         <rdfs:label xml:lang="en">Supervised learning [ifnano]</rdfs:label>
         <digitrubber:coarseClassification>plan specification</digitrubber:coarseClassification>
     </owl:Class>
@@ -10673,6 +10676,7 @@ members of a group differ from the mean
 
     <owl:Class rdf:about="https://www.tib.eu/digitrubber#DIGITRUBBER_000248">
         <obo:IAO_0000115 xml:lang="en">A type of algorithm that learns patterns from untagged data</obo:IAO_0000115>
+        <dc:contributor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Christoph Lenth</dc:contributor>
         <rdfs:label xml:lang="en">Unsupervised learning [ifnano]</rdfs:label>
         <digitrubber:coarseClassification>plan specification</digitrubber:coarseClassification>
     </owl:Class>
@@ -10699,6 +10703,7 @@ members of a group differ from the mean
 
     <owl:Class rdf:about="https://www.tib.eu/digitrubber#DIGITRUBBER_000250">
         <obo:IAO_0000115 xml:lang="en">A type of histogram that acts as a graphical representation of the tonal distribution in a digital image. It plots the number of pixels for each tonal value.</obo:IAO_0000115>
+        <dc:contributor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Jan Geweke</dc:contributor>
         <rdfs:label xml:lang="en">Image histogramm / histogramm [ifnano]</rdfs:label>
         <digitrubber:coarseClassification>information content entity</digitrubber:coarseClassification>
     </owl:Class>
@@ -10736,6 +10741,7 @@ members of a group differ from the mean
     <!-- https://www.tib.eu/digitrubber#DIGITRUBBER_000254 -->
 
     <owl:Class rdf:about="https://www.tib.eu/digitrubber#DIGITRUBBER_000254">
+        <obo:IAO_0000115 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">counting events</obo:IAO_0000115>
         <dc:contributor>Sven Schwabe (IFNANO)</dc:contributor>
         <pav:lastUpdateOn>06.04.2022</pav:lastUpdateOn>
         <oboInOwl:creation_date rdf:datatype="http://www.w3.org/2001/XMLSchema#Date">31.03.2022</oboInOwl:creation_date>
@@ -10812,23 +10818,6 @@ members of a group differ from the mean
     
 
 
-    <!-- https://www.tib.eu/digitrubber#DIGITRUBBER_000259 -->
-
-    <owl:Class rdf:about="https://www.tib.eu/digitrubber#DIGITRUBBER_000259">
-        <obo:IAO_0000115 xml:lang="en">A general, relative unit of measurement</obo:IAO_0000115>
-        <obo:IAO_0000118 xml:lang="en">willkürliche Einheiten</obo:IAO_0000118>
-        <obo:IAO_0000119>https://en.wikipedia.org/wiki/Arbitrary_unit</obo:IAO_0000119>
-        <dc:contributor>Sven Schwabe (IFNANO)</dc:contributor>
-        <pav:lastUpdateOn>06.04.2022</pav:lastUpdateOn>
-        <oboInOwl:creation_date rdf:datatype="http://www.w3.org/2001/XMLSchema#Date">31.03.2022</oboInOwl:creation_date>
-        <oboInOwl:hasExactSynonym>a.u.; arb.u.; willk. E.</oboInOwl:hasExactSynonym>
-        <rdfs:comment xml:lang="en">unit</rdfs:comment>
-        <rdfs:label xml:lang="en">arbitrary units [ifnano]</rdfs:label>
-        <digitrubber:coarseClassification>information content entity</digitrubber:coarseClassification>
-    </owl:Class>
-    
-
-
     <!-- https://www.tib.eu/digitrubber#DIGITRUBBER_000260 -->
 
     <owl:Class rdf:about="https://www.tib.eu/digitrubber#DIGITRUBBER_000260">
@@ -10840,7 +10829,8 @@ members of a group differ from the mean
         <pav:lastUpdateOn>19.08.2022</pav:lastUpdateOn>
         <rdfs:comment xml:lang="en">http://purl.obolibrary.org/obo/ncit.owl</rdfs:comment>
         <rdfs:isDefinedBy>NCIT</rdfs:isDefinedBy>
-        <rdfs:label xml:lang="en">arbitrary units [ncit]</rdfs:label>
+        <rdfs:label xml:lang="en">arbitrary units</rdfs:label>
+        <rdfs:label xml:lang="de">willkürliche Einheiten</rdfs:label>
         <digitrubber:coarseClassification>information content entity</digitrubber:coarseClassification>
     </owl:Class>
     
@@ -10944,6 +10934,20 @@ members of a group differ from the mean
     
 
 
+    <!-- https://www.tib.eu/digitrubber#DIGITRUBBER_000267 -->
+
+    <owl:Class rdf:about="https://www.tib.eu/digitrubber#DIGITRUBBER_000267">
+        <obo:IAO_0000115 xml:lang="en">A pre-processing technique used to separate true spectroscopic signals from interference effects or remove background effects, stains, or traces of compounds. It adjusts the spectral offset.</obo:IAO_0000115>
+        <obo:IAO_0000119 rdf:resource="https://doi.org/10.1016/j.chemolab.2011.07.005"/>
+        <dc:contributor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Yamen Alsalka</dc:contributor>
+        <oboInOwl:created_by rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Yamen Alsalka</oboInOwl:created_by>
+        <oboInOwl:creation_date rdf:datatype="http://www.w3.org/2001/XMLSchema#string">06.06.2023</oboInOwl:creation_date>
+        <oboInOwl:creation_date rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2023-06-06T09:31:50.060206Z</oboInOwl:creation_date>
+        <rdfs:label xml:lang="en">baseline correction [ifnano]</rdfs:label>
+    </owl:Class>
+    
+
+
     <!-- https://www.tib.eu/digitrubber#DIGITRUBBER_000268 -->
 
     <owl:Class rdf:about="https://www.tib.eu/digitrubber#DIGITRUBBER_000268">
@@ -10966,6 +10970,7 @@ members of a group differ from the mean
     <owl:Class rdf:about="https://www.tib.eu/digitrubber#DIGITRUBBER_000269">
         <obo:IAO_0000115 xml:lang="en">The viscosity of rubber using a standard test method and Mooney Viscometer.</obo:IAO_0000115>
         <obo:IAO_0000119>https://www.astm.org/d1646-19a.html</obo:IAO_0000119>
+        <dc:contributor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Yamen Alsalka</dc:contributor>
         <rdfs:label xml:lang="en">Mooney viscosity [ifnano]</rdfs:label>
         <digitrubber:coarseClassification>information content entity</digitrubber:coarseClassification>
     </owl:Class>
@@ -11006,7 +11011,8 @@ sequence of additional like or unlike molecules under the conditions of the rele
         <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/CHEBI_60004"/>
         <obo:IAO_0000115 xml:lang="en">a substance consisting of molecules characterised by the sequence of one or more
 types of monomer unit. Such molecules must be distributed over a range of molecular weights.</obo:IAO_0000115>
-        <rdfs:label xml:lang="en">Polymer [ifnano]</rdfs:label>
+        <dc:contributor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Yamen Alsalka</dc:contributor>
+        <rdfs:label xml:lang="en">polymer [ifnano]</rdfs:label>
         <digitrubber:coarseClassification>material entity</digitrubber:coarseClassification>
     </owl:Class>
     
@@ -11022,9 +11028,12 @@ types of monomer unit. Such molecules must be distributed over a range of molecu
         <obo:IAO_0000412 rdf:resource="http://purl.obolibrary.org/obo/chebi.owl"/>
         <dc:language>English</dc:language>
         <pav:lastUpdateOn>19.08.2022</pav:lastUpdateOn>
+        <oboInOwl:hasRelatedSynonym xml:lang="de">Kunststoff</oboInOwl:hasRelatedSynonym>
+        <oboInOwl:id rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CHEBI:60027</oboInOwl:id>
         <rdfs:comment xml:lang="en">http://purl.obolibrary.org/obo/chebi.owl</rdfs:comment>
         <rdfs:isDefinedBy>CHEBI</rdfs:isDefinedBy>
-        <rdfs:label xml:lang="en">Polymer [chebi]</rdfs:label>
+        <rdfs:label xml:lang="de">Polymer</rdfs:label>
+        <rdfs:label xml:lang="en">polymer [chebi]</rdfs:label>
         <digitrubber:coarseClassification>material entity</digitrubber:coarseClassification>
     </owl:Class>
     
@@ -11042,25 +11051,7 @@ types of monomer unit. Such molecules must be distributed over a range of molecu
         <pav:lastUpdateOn>19.08.2022</pav:lastUpdateOn>
         <rdfs:comment xml:lang="en">http://purl.obolibrary.org/obo/ncit.owl</rdfs:comment>
         <rdfs:isDefinedBy>NCTI</rdfs:isDefinedBy>
-        <rdfs:label xml:lang="en">Polymer [ncit]</rdfs:label>
-        <digitrubber:coarseClassification>material entity</digitrubber:coarseClassification>
-    </owl:Class>
-    
-
-
-    <!-- https://www.tib.eu/digitrubber#DIGITRUBBER_000275 -->
-
-    <owl:Class rdf:about="https://www.tib.eu/digitrubber#DIGITRUBBER_000275">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/CHEBI_60004"/>
-        <obo:IAO_0000114>uncurated</obo:IAO_0000114>
-        <obo:IAO_0000115 xml:lang="en">A substance or material consisting of very large molecules, or macromolecules, composed of many repeating subunits.</obo:IAO_0000115>
-        <obo:IAO_0000119>http://purl.obolibrary.org/obo/PROCO_0000054</obo:IAO_0000119>
-        <obo:IAO_0000412 rdf:resource="http://purl.obolibrary.org/obo/proco.owl"/>
-        <dc:language>English</dc:language>
-        <pav:lastUpdateOn>19.08.2022</pav:lastUpdateOn>
-        <rdfs:comment xml:lang="en">http://purl.obolibrary.org/obo/proco.owl</rdfs:comment>
-        <rdfs:isDefinedBy>PROCO</rdfs:isDefinedBy>
-        <rdfs:label xml:lang="en">Polymer [proco]</rdfs:label>
+        <rdfs:label xml:lang="en">polymer [ncit]</rdfs:label>
         <digitrubber:coarseClassification>material entity</digitrubber:coarseClassification>
     </owl:Class>
     
@@ -11070,7 +11061,8 @@ types of monomer unit. Such molecules must be distributed over a range of molecu
 
     <owl:Class rdf:about="https://www.tib.eu/digitrubber#DIGITRUBBER_000276">
         <obo:IAO_0000115 xml:lang="en">The relative proportions of monomers that make up a particular chemical polymer (raw rubber).</obo:IAO_0000115>
-        <rdfs:label xml:lang="en">Composition [ifnano]</rdfs:label>
+        <dc:contributor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Christoph Lenth</dc:contributor>
+        <rdfs:label xml:lang="en">Polymer Composition [ifnano]</rdfs:label>
         <digitrubber:coarseClassification>information content entity</digitrubber:coarseClassification>
     </owl:Class>
     
@@ -11146,7 +11138,7 @@ types of monomer unit. Such molecules must be distributed over a range of molecu
     <!-- https://www.tib.eu/digitrubber#DIGITRUBBER_000281 -->
 
     <owl:Class rdf:about="https://www.tib.eu/digitrubber#DIGITRUBBER_000281">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/CHEBI_60027"/>
+        <rdfs:subClassOf rdf:resource="https://www.tib.eu/digitrubber#DIGITRUBBER_000273"/>
         <obo:IAO_0000115 xml:lang="en">Group of interlocked aggregates that are easily separated by normal rubber processing</obo:IAO_0000115>
         <obo:IAO_0000115 xml:lang="de">Verbund von zusammenhängenden Aggregaten, die bei normaler Kautschukverarbeitung leicht getrennt werden können</obo:IAO_0000115>
         <dc:contributor>Alexander Aschemann</dc:contributor>
@@ -11154,7 +11146,7 @@ types of monomer unit. Such molecules must be distributed over a range of molecu
         <oboInOwl:creation_date rdf:datatype="http://www.w3.org/2001/XMLSchema#Date">03.05.2022</oboInOwl:creation_date>
         <rdfs:comment xml:lang="en">0</rdfs:comment>
         <rdfs:label xml:lang="de">Agglomerat [dik]</rdfs:label>
-        <rdfs:label xml:lang="en">Agglomerate [dik]</rdfs:label>
+        <rdfs:label xml:lang="en">agglomerate [dik]</rdfs:label>
     </owl:Class>
     
 
@@ -11169,7 +11161,7 @@ types of monomer unit. Such molecules must be distributed over a range of molecu
         <terms:identifier>DIN ISO 1382:2016-07</terms:identifier>
         <oboInOwl:creation_date rdf:datatype="http://www.w3.org/2001/XMLSchema#Date">03.05.2022</oboInOwl:creation_date>
         <rdfs:label xml:lang="de">Aggregat [dik]</rdfs:label>
-        <rdfs:label xml:lang="en">Aggregate [dik]</rdfs:label>
+        <rdfs:label xml:lang="en">aggregate [dik]</rdfs:label>
     </owl:Class>
     
 
@@ -11187,8 +11179,8 @@ types of monomer unit. Such molecules must be distributed over a range of molecu
         <oboInOwl:creation_date rdf:datatype="http://www.w3.org/2001/XMLSchema#Date">03.05.2022</oboInOwl:creation_date>
         <rdfs:comment xml:lang="de">Die Partikel bilden in der Regel Gruppen, die als Aggregate bezeichnet werden.</rdfs:comment>
         <rdfs:comment xml:lang="en">Groups of particles are generally coalesced into aggregates.</rdfs:comment>
-        <rdfs:label xml:lang="en">Particle [dik]</rdfs:label>
         <rdfs:label xml:lang="de">Partikel [dik]</rdfs:label>
+        <rdfs:label xml:lang="en">particle [dik]</rdfs:label>
     </owl:Class>
     
 
@@ -11206,8 +11198,8 @@ types of monomer unit. Such molecules must be distributed over a range of molecu
         <pav:lastUpdateOn>23.08.2022</pav:lastUpdateOn>
         <oboInOwl:creation_date rdf:datatype="http://www.w3.org/2001/XMLSchema#Date">23.08.2022</oboInOwl:creation_date>
         <rdfs:isDefinedBy>NCIT</rdfs:isDefinedBy>
-        <rdfs:label xml:lang="en">Particle [ncit]</rdfs:label>
         <rdfs:label xml:lang="de">Partikel [ncit]</rdfs:label>
+        <rdfs:label xml:lang="en">particle [ncit]</rdfs:label>
     </owl:Class>
     
 
@@ -11224,63 +11216,6 @@ types of monomer unit. Such molecules must be distributed over a range of molecu
         <oboInOwl:creation_date rdf:datatype="http://www.w3.org/2001/XMLSchema#Date">03.05.2022</oboInOwl:creation_date>
         <rdfs:label xml:lang="de">Polymer [dik]</rdfs:label>
         <rdfs:label xml:lang="en">Polymer [dik]</rdfs:label>
-    </owl:Class>
-    
-
-
-    <!-- https://www.tib.eu/digitrubber#DIGITRUBBER_000286 -->
-
-    <owl:Class rdf:about="https://www.tib.eu/digitrubber#DIGITRUBBER_000286">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/CHEBI_28798"/>
-        <obo:IAO_0000114>uncurated</obo:IAO_0000114>
-        <obo:IAO_0000115 xml:lang="en">A polymer is a mixture, which is composed of macromolecules of different kinds and which may be differentiated by composition, length, degree of branching etc.</obo:IAO_0000115>
-        <obo:IAO_0000119>http://purl.obolibrary.org/obo/chebi.owl</obo:IAO_0000119>
-        <obo:IAO_0000412 rdf:resource="http://purl.obolibrary.org/obo/CHEBI_60027"/>
-        <dc:contributor>Luis Ramos</dc:contributor>
-        <dc:language>English</dc:language>
-        <pav:lastUpdateOn>23.08.2022</pav:lastUpdateOn>
-        <oboInOwl:creation_date rdf:datatype="http://www.w3.org/2001/XMLSchema#Date">23.08.2022</oboInOwl:creation_date>
-        <rdfs:isDefinedBy>CHEBI</rdfs:isDefinedBy>
-        <rdfs:label xml:lang="de">Polymer [chebi]</rdfs:label>
-        <rdfs:label xml:lang="en">Polymer [chebi]</rdfs:label>
-    </owl:Class>
-    
-
-
-    <!-- https://www.tib.eu/digitrubber#DIGITRUBBER_000287 -->
-
-    <owl:Class rdf:about="https://www.tib.eu/digitrubber#DIGITRUBBER_000287">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/CHEBI_28798"/>
-        <obo:IAO_0000114>uncurated</obo:IAO_0000114>
-        <obo:IAO_0000115 xml:lang="en">A substance made up of variable numbers of repeating structural units linked through covalent bonds.</obo:IAO_0000115>
-        <obo:IAO_0000119>http://purl.obolibrary.org/obo/ncit.owl</obo:IAO_0000119>
-        <obo:IAO_0000412 rdf:resource="http://purl.obolibrary.org/obo/NCIT_C48803"/>
-        <dc:contributor>Luis Ramos</dc:contributor>
-        <dc:language>English</dc:language>
-        <pav:lastUpdateOn>23.08.2022</pav:lastUpdateOn>
-        <oboInOwl:creation_date rdf:datatype="http://www.w3.org/2001/XMLSchema#Date">23.08.2022</oboInOwl:creation_date>
-        <rdfs:isDefinedBy>NCIT</rdfs:isDefinedBy>
-        <rdfs:label xml:lang="de">Polymer [ncit]</rdfs:label>
-        <rdfs:label xml:lang="en">Polymer [ncit]</rdfs:label>
-    </owl:Class>
-    
-
-
-    <!-- https://www.tib.eu/digitrubber#DIGITRUBBER_000288 -->
-
-    <owl:Class rdf:about="https://www.tib.eu/digitrubber#DIGITRUBBER_000288">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/CHEBI_28798"/>
-        <obo:IAO_0000114>uncurated</obo:IAO_0000114>
-        <obo:IAO_0000115 xml:lang="en">A substance or material consisting of very large molecules, or macromolecules, composed of many repeating subunits.</obo:IAO_0000115>
-        <obo:IAO_0000119>http://purl.obolibrary.org/obo/proco.owl</obo:IAO_0000119>
-        <obo:IAO_0000412 rdf:resource="http://purl.obolibrary.org/obo/PROCO_0000054"/>
-        <dc:contributor>Luis Ramos</dc:contributor>
-        <dc:language>English</dc:language>
-        <pav:lastUpdateOn>23.08.2022</pav:lastUpdateOn>
-        <oboInOwl:creation_date rdf:datatype="http://www.w3.org/2001/XMLSchema#Date">23.08.2022</oboInOwl:creation_date>
-        <rdfs:isDefinedBy>PROCO</rdfs:isDefinedBy>
-        <rdfs:label xml:lang="de">Polymer [proco]</rdfs:label>
-        <rdfs:label xml:lang="en">Polymer [proco]</rdfs:label>
     </owl:Class>
     
 
@@ -11378,7 +11313,7 @@ types of monomer unit. Such molecules must be distributed over a range of molecu
     <!-- https://www.tib.eu/digitrubber#DIGITRUBBER_000294 -->
 
     <owl:Class rdf:about="https://www.tib.eu/digitrubber#DIGITRUBBER_000294">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/CHEBI_60027"/>
+        <rdfs:subClassOf rdf:resource="https://www.tib.eu/digitrubber#DIGITRUBBER_000273"/>
         <obo:IAO_0000114>uncurated</obo:IAO_0000114>
         <obo:IAO_0000115 xml:lang="de">Handelsname für ein spezifischen EPDM-Kautschuk</obo:IAO_0000115>
         <obo:IAO_0000115 xml:lang="en">Trade name for a specific EPDM rubber</obo:IAO_0000115>
@@ -11604,7 +11539,7 @@ types of monomer unit. Such molecules must be distributed over a range of molecu
         <rdfs:comment xml:lang="de">Alterungsschutzmittel ist eine allgemeine Benennung für bestimmte Additive wie Antioxidantien, Ozonschutzmittel, Wachse und andere Schutzmittel.</rdfs:comment>
         <rdfs:comment xml:lang="en">Antidegradant is a generic term for certain additives such as antioxidants, antiozonants, waxes and other protective materials.</rdfs:comment>
         <rdfs:label xml:lang="de">Alterungsschutzmittel [dik]</rdfs:label>
-        <rdfs:label xml:lang="en">Antidegradant [dik]</rdfs:label>
+        <rdfs:label xml:lang="en">antidegradant [dik]</rdfs:label>
     </owl:Class>
     
 
@@ -11635,8 +11570,8 @@ types of monomer unit. Such molecules must be distributed over a range of molecu
         <dc:language>English</dc:language>
         <terms:identifier>DIN ISO 1382:2016-07</terms:identifier>
         <oboInOwl:creation_date rdf:datatype="http://www.w3.org/2001/XMLSchema#Date">03.05.2022</oboInOwl:creation_date>
-        <rdfs:label xml:lang="en">Activator [dik]</rdfs:label>
         <rdfs:label xml:lang="de">Aktivator [dik]</rdfs:label>
+        <rdfs:label xml:lang="en">activator [dik]</rdfs:label>
     </owl:Class>
     
 
@@ -11653,8 +11588,8 @@ types of monomer unit. Such molecules must be distributed over a range of molecu
         <pav:lastUpdateOn>24.08.2022</pav:lastUpdateOn>
         <oboInOwl:creation_date rdf:datatype="http://www.w3.org/2001/XMLSchema#Date">24.08.2022</oboInOwl:creation_date>
         <rdfs:isDefinedBy>NCIT</rdfs:isDefinedBy>
-        <rdfs:label xml:lang="en">Activator [ncit]</rdfs:label>
         <rdfs:label xml:lang="de">Aktivator [ncit]</rdfs:label>
+        <rdfs:label xml:lang="en">activator [ncit]</rdfs:label>
     </owl:Class>
     
 
@@ -11740,8 +11675,8 @@ types of monomer unit. Such molecules must be distributed over a range of molecu
         <dc:language>English</dc:language>
         <terms:identifier>DIN ISO 1382:2016-07</terms:identifier>
         <oboInOwl:creation_date rdf:datatype="http://www.w3.org/2001/XMLSchema#Date">03.05.2022</oboInOwl:creation_date>
-        <rdfs:label xml:lang="en">Accelerator [dik]</rdfs:label>
         <rdfs:label xml:lang="de">Beschleuniger [dik]</rdfs:label>
+        <rdfs:label xml:lang="en">accelerator [dik]</rdfs:label>
     </owl:Class>
     
 
@@ -11757,8 +11692,8 @@ types of monomer unit. Such molecules must be distributed over a range of molecu
         <dc:language>English</dc:language>
         <terms:identifier>DIN ISO 1382:2016-07</terms:identifier>
         <oboInOwl:creation_date rdf:datatype="http://www.w3.org/2001/XMLSchema#Date">03.05.2022</oboInOwl:creation_date>
-        <rdfs:label xml:lang="en">Primary Accelerator [dik]</rdfs:label>
         <rdfs:label xml:lang="de">Primärbeschleuniger [dik]</rdfs:label>
+        <rdfs:label xml:lang="en">primary accelerator [dik]</rdfs:label>
     </owl:Class>
     
 
@@ -11776,8 +11711,8 @@ types of monomer unit. Such molecules must be distributed over a range of molecu
         <dc:language>English</dc:language>
         <terms:identifier>DIN ISO 1382:2016-07</terms:identifier>
         <oboInOwl:creation_date rdf:datatype="http://www.w3.org/2001/XMLSchema#Date">03.05.2022</oboInOwl:creation_date>
-        <rdfs:label xml:lang="en">Secondary Accelerator [dik]</rdfs:label>
         <rdfs:label xml:lang="de">Zweitbeschleuniger [dik]</rdfs:label>
+        <rdfs:label xml:lang="en">secondary accelerator [dik]</rdfs:label>
     </owl:Class>
     
 
@@ -11945,7 +11880,7 @@ types of monomer unit. Such molecules must be distributed over a range of molecu
     <!-- https://www.tib.eu/digitrubber#DIGITRUBBER_000329 -->
 
     <owl:Class rdf:about="https://www.tib.eu/digitrubber#DIGITRUBBER_000329">
-        <rdfs:subClassOf rdf:resource="https://www.tib.eu/digitrubber#DIGITRUBBER_000316"/>
+        <rdfs:subClassOf rdf:resource="https://www.tib.eu/digitrubber#DIGITRUBBER_000328"/>
         <obo:IAO_0000114>uncurated</obo:IAO_0000114>
         <obo:IAO_0000115 xml:lang="de">Handelsname für ein spezifisches Zink-Dibenzyldithiocarbamat</obo:IAO_0000115>
         <obo:IAO_0000115 xml:lang="en">Trade name for a specific zinc dibenzyldithiocarbamate</obo:IAO_0000115>
@@ -12342,6 +12277,19 @@ types of monomer unit. Such molecules must be distributed over a range of molecu
         <oboInOwl:hasExactSynonym>1/min</oboInOwl:hasExactSynonym>
         <rdfs:label xml:lang="en">Turns per Minute [dik]</rdfs:label>
         <rdfs:label xml:lang="de">Umdrehungen pro Minute [dik]</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- https://www.tib.eu/digitrubber#DIGITRUBBER_000354 -->
+
+    <owl:Class rdf:about="https://www.tib.eu/digitrubber#DIGITRUBBER_000354">
+        <obo:IAO_0000115 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Is a supervised classification method and it is used to build classification rules of a number of prespecified clases.</obo:IAO_0000115>
+        <obo:IAO_0000119 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Unscrambler X</obo:IAO_0000119>
+        <dc:contributor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Yamen Alsalka</dc:contributor>
+        <oboInOwl:created_by rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Yamen Alsalka</oboInOwl:created_by>
+        <oboInOwl:creation_date rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2023-06-06T09:49:37.530555Z</oboInOwl:creation_date>
+        <rdfs:label xml:lang="en">Discriminant analysis [ifnano]</rdfs:label>
     </owl:Class>
     
 
@@ -13243,8 +13191,8 @@ types of monomer unit. Such molecules must be distributed over a range of molecu
         <dc:contributor>Alexander Aschemann</dc:contributor>
         <dc:language>English</dc:language>
         <oboInOwl:creation_date rdf:datatype="http://www.w3.org/2001/XMLSchema#Date">21.05.2022</oboInOwl:creation_date>
-        <rdfs:label xml:lang="en">Addition Sequence [dik]</rdfs:label>
         <rdfs:label xml:lang="de">Zugabereihenfolge [dik]</rdfs:label>
+        <rdfs:label xml:lang="en">addition sequence [dik]</rdfs:label>
     </owl:Class>
     
 
@@ -13367,6 +13315,7 @@ types of monomer unit. Such molecules must be distributed over a range of molecu
     <!-- https://www.tib.eu/digitrubber#DIGITRUBBER_000422 -->
 
     <owl:Class rdf:about="https://www.tib.eu/digitrubber#DIGITRUBBER_000422">
+        <rdfs:subClassOf rdf:resource="https://www.tib.eu/digitrubber#DIGITRUBBER_000423"/>
         <obo:IAO_0000114>uncurated</obo:IAO_0000114>
         <obo:IAO_0000115 xml:lang="en">Product of one mixing operation</obo:IAO_0000115>
         <obo:IAO_0000115 xml:lang="de">Produkt eines Mischungsvorganges</obo:IAO_0000115>
@@ -13374,8 +13323,8 @@ types of monomer unit. Such molecules must be distributed over a range of molecu
         <dc:language>English</dc:language>
         <terms:identifier>DIN ISO 1382:2016-07</terms:identifier>
         <oboInOwl:creation_date rdf:datatype="http://www.w3.org/2001/XMLSchema#Date">03.05.2022</oboInOwl:creation_date>
-        <rdfs:label xml:lang="en">Batch [dik]</rdfs:label>
         <rdfs:label xml:lang="de">Charge [dik]</rdfs:label>
+        <rdfs:label xml:lang="en">batch [dik]</rdfs:label>
     </owl:Class>
     
 
@@ -13391,8 +13340,8 @@ types of monomer unit. Such molecules must be distributed over a range of molecu
         <dc:language>English</dc:language>
         <oboInOwl:creation_date rdf:datatype="http://www.w3.org/2001/XMLSchema#Date">24.08.2022</oboInOwl:creation_date>
         <rdfs:isDefinedBy>NCIT</rdfs:isDefinedBy>
-        <rdfs:label xml:lang="en">Batch [ncit]</rdfs:label>
-        <rdfs:label xml:lang="de">Charge [ncit]</rdfs:label>
+        <rdfs:label xml:lang="de">Charge</rdfs:label>
+        <rdfs:label xml:lang="en">batch [ncit]</rdfs:label>
     </owl:Class>
     
 
@@ -14261,8 +14210,8 @@ types of monomer unit. Such molecules must be distributed over a range of molecu
         <dc:language>English</dc:language>
         <terms:identifier>DIN ISO 1382:2016-07</terms:identifier>
         <oboInOwl:creation_date rdf:datatype="http://www.w3.org/2001/XMLSchema#Date">03.05.2022</oboInOwl:creation_date>
-        <rdfs:label xml:lang="en">Autoclave [dik]</rdfs:label>
         <rdfs:label xml:lang="de">Autoklav [dik]</rdfs:label>
+        <rdfs:label xml:lang="en">autoclave [dik]</rdfs:label>
     </owl:Class>
     
 
@@ -14279,8 +14228,8 @@ types of monomer unit. Such molecules must be distributed over a range of molecu
         <pav:lastUpdateOn>25.08.2022</pav:lastUpdateOn>
         <oboInOwl:creation_date rdf:datatype="http://www.w3.org/2001/XMLSchema#Date">25.08.2022</oboInOwl:creation_date>
         <rdfs:isDefinedBy>OBI</rdfs:isDefinedBy>
-        <rdfs:label xml:lang="en">Autoclave[obi]</rdfs:label>
         <rdfs:label xml:lang="de">Autoklav [obi]</rdfs:label>
+        <rdfs:label xml:lang="en">autoclave[obi]</rdfs:label>
     </owl:Class>
     
 
@@ -14297,8 +14246,8 @@ types of monomer unit. Such molecules must be distributed over a range of molecu
         <pav:lastUpdateOn>25.08.2022</pav:lastUpdateOn>
         <oboInOwl:creation_date rdf:datatype="http://www.w3.org/2001/XMLSchema#Date">25.08.2022</oboInOwl:creation_date>
         <rdfs:isDefinedBy>CHMO</rdfs:isDefinedBy>
-        <rdfs:label xml:lang="en">Autoclave [chmo]</rdfs:label>
         <rdfs:label xml:lang="de">Autoklav [chmo]</rdfs:label>
+        <rdfs:label xml:lang="en">autoclave [chmo]</rdfs:label>
     </owl:Class>
     
 
@@ -14621,8 +14570,8 @@ types of monomer unit. Such molecules must be distributed over a range of molecu
         <dc:contributor>Alexander Aschemann</dc:contributor>
         <dc:language>English</dc:language>
         <oboInOwl:creation_date rdf:datatype="http://www.w3.org/2001/XMLSchema#Date">10.05.2022</oboInOwl:creation_date>
-        <rdfs:label xml:lang="en">Assay [dik]</rdfs:label>
         <rdfs:label xml:lang="de">Prüfung [dik]</rdfs:label>
+        <rdfs:label xml:lang="en">assay [dik]</rdfs:label>
     </owl:Class>
     
 
@@ -14639,8 +14588,8 @@ types of monomer unit. Such molecules must be distributed over a range of molecu
         <pav:lastUpdateOn>25.08.2022</pav:lastUpdateOn>
         <oboInOwl:creation_date rdf:datatype="http://www.w3.org/2001/XMLSchema#Date">25.08.2022</oboInOwl:creation_date>
         <rdfs:isDefinedBy>NCIT</rdfs:isDefinedBy>
-        <rdfs:label xml:lang="en">Assay [ncit]</rdfs:label>
         <rdfs:label xml:lang="de">Prüfung [ncit]</rdfs:label>
+        <rdfs:label xml:lang="en">assay [ncit]</rdfs:label>
     </owl:Class>
     
 
@@ -14657,8 +14606,8 @@ types of monomer unit. Such molecules must be distributed over a range of molecu
         <pav:lastUpdateOn>25.08.2022</pav:lastUpdateOn>
         <oboInOwl:creation_date rdf:datatype="http://www.w3.org/2001/XMLSchema#Date">25.08.2022</oboInOwl:creation_date>
         <rdfs:isDefinedBy>OBI</rdfs:isDefinedBy>
-        <rdfs:label xml:lang="en">Assay [obi]</rdfs:label>
         <rdfs:label xml:lang="de">Prüfung [obi]</rdfs:label>
+        <rdfs:label xml:lang="en">assay [obi]</rdfs:label>
     </owl:Class>
     
 
@@ -15509,8 +15458,8 @@ types of monomer unit. Such molecules must be distributed over a range of molecu
         <pav:lastUpdateOn>25.08.2022</pav:lastUpdateOn>
         <oboInOwl:creation_date rdf:datatype="http://www.w3.org/2001/XMLSchema#Date">25.08.2022</oboInOwl:creation_date>
         <rdfs:isDefinedBy>NCTI</rdfs:isDefinedBy>
-        <rdfs:label xml:lang="en">(Mix) [ncit]</rdfs:label>
-        <rdfs:label xml:lang="de">Mischen [ncit]</rdfs:label>
+        <rdfs:label xml:lang="de">Mischen</rdfs:label>
+        <rdfs:label xml:lang="en">mix</rdfs:label>
     </owl:Class>
     
 
@@ -15679,8 +15628,8 @@ types of monomer unit. Such molecules must be distributed over a range of molecu
         <dc:contributor>Alexander Aschemann</dc:contributor>
         <dc:language>English</dc:language>
         <oboInOwl:creation_date rdf:datatype="http://www.w3.org/2001/XMLSchema#Date">03.05.2022</oboInOwl:creation_date>
-        <rdfs:label xml:lang="en">Acid Value [dik]</rdfs:label>
         <rdfs:label xml:lang="de">Säurezahl‎ [dik]</rdfs:label>
+        <rdfs:label xml:lang="en">acid value [dik]</rdfs:label>
     </owl:Class>
     
 
@@ -16159,7 +16108,7 @@ types of monomer unit. Such molecules must be distributed over a range of molecu
         <dc:contributor>Alexander Aschemann</dc:contributor>
         <dc:language>English</dc:language>
         <oboInOwl:creation_date rdf:datatype="http://www.w3.org/2001/XMLSchema#Date">21.05.2022</oboInOwl:creation_date>
-        <rdfs:label xml:lang="en">Organodiyl Group [dik]</rdfs:label>
+        <rdfs:label xml:lang="en">organodiyl group [dik]</rdfs:label>
     </owl:Class>
     
 
@@ -16177,7 +16126,7 @@ types of monomer unit. Such molecules must be distributed over a range of molecu
         <pav:lastUpdateOn>26.08.2022</pav:lastUpdateOn>
         <oboInOwl:creation_date rdf:datatype="http://www.w3.org/2001/XMLSchema#Date">26.08.2022</oboInOwl:creation_date>
         <rdfs:isDefinedBy>CHEBI</rdfs:isDefinedBy>
-        <rdfs:label xml:lang="en">Organodiyl Group [chebi]</rdfs:label>
+        <rdfs:label xml:lang="en">organodiyl group [chebi]</rdfs:label>
     </owl:Class>
     
 
@@ -16185,12 +16134,12 @@ types of monomer unit. Such molecules must be distributed over a range of molecu
     <!-- https://www.tib.eu/digitrubber#DIGITRUBBER_000602 -->
 
     <owl:Class rdf:about="https://www.tib.eu/digitrubber#DIGITRUBBER_000602">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/CHEBI_33247"/>
+        <rdfs:subClassOf rdf:resource="https://www.tib.eu/digitrubber#DIGITRUBBER_000604"/>
         <obo:IAO_0000114>uncurated</obo:IAO_0000114>
         <dc:contributor>Alexander Aschemann</dc:contributor>
         <dc:language>English</dc:language>
         <oboInOwl:creation_date rdf:datatype="http://www.w3.org/2001/XMLSchema#Date">21.05.2022</oboInOwl:creation_date>
-        <rdfs:label xml:lang="en">Organic Divalent Group [dik]</rdfs:label>
+        <rdfs:label xml:lang="en">organic divalent group [dik]</rdfs:label>
     </owl:Class>
     
 
@@ -16198,7 +16147,7 @@ types of monomer unit. Such molecules must be distributed over a range of molecu
     <!-- https://www.tib.eu/digitrubber#DIGITRUBBER_000603 -->
 
     <owl:Class rdf:about="https://www.tib.eu/digitrubber#DIGITRUBBER_000603">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/CHEBI_24433"/>
+        <rdfs:subClassOf rdf:resource="https://www.tib.eu/digitrubber#DIGITRUBBER_000607"/>
         <obo:IAO_0000114>uncurated</obo:IAO_0000114>
         <dc:contributor>Alexander Aschemann</dc:contributor>
         <dc:language>English</dc:language>
@@ -16212,18 +16161,18 @@ types of monomer unit. Such molecules must be distributed over a range of molecu
     <!-- https://www.tib.eu/digitrubber#DIGITRUBBER_000604 -->
 
     <owl:Class rdf:about="https://www.tib.eu/digitrubber#DIGITRUBBER_000604">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/CHEBI_24433"/>
+        <rdfs:subClassOf rdf:resource="https://www.tib.eu/digitrubber#DIGITRUBBER_000607"/>
         <obo:IAO_0000114>uncurated</obo:IAO_0000114>
         <obo:IAO_0000115 xml:lang="en">Any substituent group or skeleton containing carbon.</obo:IAO_0000115>
         <obo:IAO_0000119>http://purl.obolibrary.org/obo/chebi.owl</obo:IAO_0000119>
-        <obo:IAO_0000412 rdf:resource="http://purl.obolibrary.org/obo/CHEBI_33247"/>
         <dc:contributor>Luis Ramos</dc:contributor>
         <dc:language>English</dc:language>
         <pav:lastUpdateOn>26.08.2022</pav:lastUpdateOn>
         <oboInOwl:creation_date rdf:datatype="http://www.w3.org/2001/XMLSchema#Date">26.08.2022</oboInOwl:creation_date>
+        <oboInOwl:id rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CHEBI:33247</oboInOwl:id>
         <rdfs:isDefinedBy>CHEBI</rdfs:isDefinedBy>
-        <rdfs:label xml:lang="en">Organic Group [chebi]</rdfs:label>
-        <rdfs:label xml:lang="de">Organik-Gruppe [chebi]</rdfs:label>
+        <rdfs:label xml:lang="en">organic group [chebi]</rdfs:label>
+        <rdfs:label xml:lang="de">organische-Gruppe</rdfs:label>
     </owl:Class>
     
 
@@ -16236,8 +16185,8 @@ types of monomer unit. Such molecules must be distributed over a range of molecu
         <dc:contributor>Alexander Aschemann</dc:contributor>
         <dc:language>English</dc:language>
         <oboInOwl:creation_date rdf:datatype="http://www.w3.org/2001/XMLSchema#Date">21.05.2022</oboInOwl:creation_date>
-        <rdfs:label xml:lang="en">Group [dik]</rdfs:label>
         <rdfs:label xml:lang="de">Gruppe [dik]</rdfs:label>
+        <rdfs:label xml:lang="en">group [dik]</rdfs:label>
     </owl:Class>
     
 
@@ -16255,8 +16204,8 @@ types of monomer unit. Such molecules must be distributed over a range of molecu
         <pav:lastUpdateOn>26.08.2022</pav:lastUpdateOn>
         <oboInOwl:creation_date rdf:datatype="http://www.w3.org/2001/XMLSchema#Date">26.08.2022</oboInOwl:creation_date>
         <rdfs:isDefinedBy>NCIT</rdfs:isDefinedBy>
-        <rdfs:label xml:lang="en">Group [ncit]</rdfs:label>
         <rdfs:label xml:lang="de">Gruppe [ncit]</rdfs:label>
+        <rdfs:label xml:lang="en">group [ncit]</rdfs:label>
     </owl:Class>
     
 
@@ -16268,33 +16217,14 @@ types of monomer unit. Such molecules must be distributed over a range of molecu
         <obo:IAO_0000114>uncurated</obo:IAO_0000114>
         <obo:IAO_0000115 xml:lang="en">A defined linked collection of atoms or a single atom within a molecular entity.</obo:IAO_0000115>
         <obo:IAO_0000119>http://purl.obolibrary.org/obo/chebi.owl</obo:IAO_0000119>
-        <obo:IAO_0000412 rdf:resource="http://purl.obolibrary.org/obo/CHEBI_24433"/>
         <dc:contributor>Luis Ramos</dc:contributor>
         <dc:language>English</dc:language>
         <pav:lastUpdateOn>26.08.2022</pav:lastUpdateOn>
         <oboInOwl:creation_date rdf:datatype="http://www.w3.org/2001/XMLSchema#Date">26.08.2022</oboInOwl:creation_date>
+        <oboInOwl:id rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CHEBI:24433</oboInOwl:id>
         <rdfs:isDefinedBy>CHEBI</rdfs:isDefinedBy>
-        <rdfs:label xml:lang="en">Group [chebi]</rdfs:label>
         <rdfs:label xml:lang="de">Gruppe [chebi]</rdfs:label>
-    </owl:Class>
-    
-
-
-    <!-- https://www.tib.eu/digitrubber#DIGITRUBBER_000608 -->
-
-    <owl:Class rdf:about="https://www.tib.eu/digitrubber#DIGITRUBBER_000608">
-        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/CHEBI_24431"/>
-        <obo:IAO_0000114>uncurated</obo:IAO_0000114>
-        <obo:IAO_0000115 xml:lang="en">Can be used to link to a property group to indicate that a property shape belongs to a group of related property shapes.</obo:IAO_0000115>
-        <obo:IAO_0000119>http://www.w3.org/ns/shacl#</obo:IAO_0000119>
-        <obo:IAO_0000412 rdf:resource="http://www.w3.org/ns/shacl#group"/>
-        <dc:contributor>Luis Ramos</dc:contributor>
-        <dc:language>English</dc:language>
-        <pav:lastUpdateOn>26.08.2022</pav:lastUpdateOn>
-        <oboInOwl:creation_date rdf:datatype="http://www.w3.org/2001/XMLSchema#Date">26.08.2022</oboInOwl:creation_date>
-        <rdfs:isDefinedBy>SHACL</rdfs:isDefinedBy>
-        <rdfs:label xml:lang="en">Group [shacl]</rdfs:label>
-        <rdfs:label xml:lang="de">Gruppe [shacl]</rdfs:label>
+        <rdfs:label xml:lang="en">group [chebi]</rdfs:label>
     </owl:Class>
     
 
@@ -16778,6 +16708,203 @@ types of monomer unit. Such molecules must be distributed over a range of molecu
     
 
 
+    <!-- https://www.tib.eu/digitrubber#DIGITRUBBER_000638 -->
+
+    <owl:Class rdf:about="https://www.tib.eu/digitrubber#DIGITRUBBER_000638">
+        <obo:IAO_0000115 xml:lang="en">Is a transformation applied to spectroscopic data to remove scatter effects by centering and scalling each individual spectrum.</obo:IAO_0000115>
+        <obo:IAO_0000119 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Unscrambler X</obo:IAO_0000119>
+        <dc:contributor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Yamen Alsalka</dc:contributor>
+        <oboInOwl:created_by rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Yamen Alsalka</oboInOwl:created_by>
+        <oboInOwl:creation_date rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2023-06-06T09:53:45.338938Z</oboInOwl:creation_date>
+        <rdfs:label xml:lang="en">Standard Normal Variate (SNV) [ifnano]</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- https://www.tib.eu/digitrubber#DIGITRUBBER_000639 -->
+
+    <owl:Class rdf:about="https://www.tib.eu/digitrubber#DIGITRUBBER_000639">
+        <obo:IAO_0000115 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Removing noise or spikes in correlated data such as spectroscopic data using a row-oriented transformation.</obo:IAO_0000115>
+        <obo:IAO_0000119 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Unscrambler X</obo:IAO_0000119>
+        <dc:contributor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Yamen Alsalka</dc:contributor>
+        <oboInOwl:created_by rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Yamen Alsalka</oboInOwl:created_by>
+        <oboInOwl:creation_date rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2023-06-06T09:59:58.658887Z</oboInOwl:creation_date>
+        <rdfs:label xml:lang="en">Smmothing [ifnano]</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- https://www.tib.eu/digitrubber#DIGITRUBBER_000640 -->
+
+    <owl:Class rdf:about="https://www.tib.eu/digitrubber#DIGITRUBBER_000640">
+        <obo:IAO_0000115 xml:lang="en">Scaling spectra in order to get all data on approximately the same scale.</obo:IAO_0000115>
+        <obo:IAO_0000119 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Unscrambler X</obo:IAO_0000119>
+        <dc:contributor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Yamen Alsalka</dc:contributor>
+        <oboInOwl:created_by rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Yamen Alsalka</oboInOwl:created_by>
+        <oboInOwl:creation_date rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2023-06-06T10:03:05.027474Z</oboInOwl:creation_date>
+        <rdfs:label xml:lang="en">Normalization [ifnano]</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- https://www.tib.eu/digitrubber#DIGITRUBBER_000641 -->
+
+    <owl:Class rdf:about="https://www.tib.eu/digitrubber#DIGITRUBBER_000641">
+        <obo:IAO_0000115 xml:lang="en">Estimation of unknown response values using a regression model.</obo:IAO_0000115>
+        <obo:IAO_0000119 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Unscrambler X</obo:IAO_0000119>
+        <dc:contributor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Yamen Alsalka</dc:contributor>
+        <oboInOwl:created_by rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Yamen Alsalka</oboInOwl:created_by>
+        <oboInOwl:creation_date rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2023-06-06T10:05:06.296372Z</oboInOwl:creation_date>
+        <rdfs:label xml:lang="en">Prediction [ifnano]</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- https://www.tib.eu/digitrubber#DIGITRUBBER_000642 -->
+
+    <owl:Class rdf:about="https://www.tib.eu/digitrubber#DIGITRUBBER_000642">
+        <rdfs:subClassOf rdf:resource="https://www.tib.eu/digitrubber#DIGITRUBBER_000179"/>
+        <obo:IAO_0000115 xml:lang="en">Polybutadiene [butadiene rubber BR] is a synthetic rubber. Polybutadiene rubber is a polymer formed from the polymerization of the monomer 1,3-butadiene. Polybutadiene has a high resistance to wear and is used especially in the manufacture of tires.</obo:IAO_0000115>
+        <obo:IAO_0000119 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Wikipedia</obo:IAO_0000119>
+        <dc:contributor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Yamen Alsalka</dc:contributor>
+        <oboInOwl:created_by rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Yamen Alsalka</oboInOwl:created_by>
+        <oboInOwl:creation_date rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2023-06-06T10:51:28.399079Z</oboInOwl:creation_date>
+        <rdfs:label xml:lang="en">Butadiene rubber BR [ifnano]</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- https://www.tib.eu/digitrubber#DIGITRUBBER_000643 -->
+
+    <owl:Class rdf:about="https://www.tib.eu/digitrubber#DIGITRUBBER_000643">
+        <obo:IAO_0000115 xml:lang="en">An atom or group of atoms within a molecule that has similar chemical properties whenever it appears in various compounds. Even if other parts of the molecule are quite different, certain functional groups tend to react in certain ways.</obo:IAO_0000115>
+        <obo:IAO_0000119 rdf:resource="https://chem.libretexts.org/Courses/University_of_Kentucky/UK%3A_CHE_103_-_Chemistry_for_Allied_Health_(Soult)/Chapters/Chapter_4%3A_Structure_and_Function/4.4%3A_Functional_Groups#:~:text=A%20functional%20group%20is%20defined,to%20react%20in%20certain%20ways."/>
+        <dc:contributor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Yamen Alsalka</dc:contributor>
+        <oboInOwl:created_by rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Yamen Alsalka</oboInOwl:created_by>
+        <oboInOwl:creation_date rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2023-06-06T10:12:52.940172Z</oboInOwl:creation_date>
+        <rdfs:label xml:lang="en">Functional group [ifnano]</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- https://www.tib.eu/digitrubber#DIGITRUBBER_000644 -->
+
+    <owl:Class rdf:about="https://www.tib.eu/digitrubber#DIGITRUBBER_000644">
+        <rdfs:subClassOf rdf:resource="https://www.tib.eu/digitrubber#DIGITRUBBER_000179"/>
+        <obo:IAO_0000115 xml:lang="en">Is a synthetic rubber, a copolymer of isobutylene with isoprene</obo:IAO_0000115>
+        <obo:IAO_0000119 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Wikipedia</obo:IAO_0000119>
+        <dc:contributor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Yamen Alsalka</dc:contributor>
+        <oboInOwl:created_by rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Yamen Alsalka</oboInOwl:created_by>
+        <oboInOwl:creation_date rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2023-06-06T12:23:10.166673Z</oboInOwl:creation_date>
+        <rdfs:label xml:lang="en">Butyl rubber BIIR [ifnano]</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- https://www.tib.eu/digitrubber#DIGITRUBBER_000645 -->
+
+    <owl:Class rdf:about="https://www.tib.eu/digitrubber#DIGITRUBBER_000645">
+        <rdfs:subClassOf rdf:resource="https://www.tib.eu/digitrubber#DIGITRUBBER_000179"/>
+        <obo:IAO_0000115 xml:lang="en">EPDM rubber (ethylene propylene diene monomer rubber) is a type of synthetic rubber that is composed of ethylidene norbornene (ENB), dicyclopentadiene (DCPD), and vinyl norbornene (VNB).</obo:IAO_0000115>
+        <obo:IAO_0000119 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Wikipedia</obo:IAO_0000119>
+        <dc:contributor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Yamen Alsalka</dc:contributor>
+        <oboInOwl:created_by rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Yamen Alsalka</oboInOwl:created_by>
+        <oboInOwl:creation_date rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2023-06-06T12:27:10.818157Z</oboInOwl:creation_date>
+        <rdfs:label xml:lang="en">EPDM rubber [ifnano]</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- https://www.tib.eu/digitrubber#DIGITRUBBER_000646 -->
+
+    <owl:Class rdf:about="https://www.tib.eu/digitrubber#DIGITRUBBER_000646">
+        <rdfs:subClassOf rdf:resource="https://www.tib.eu/digitrubber#DIGITRUBBER_000179"/>
+        <obo:IAO_0000115 xml:lang="en">A synthetic cis-1,4-polyisoprene, made by the industrial polymerisation of isoprene.</obo:IAO_0000115>
+        <obo:IAO_0000119 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Wikipedia</obo:IAO_0000119>
+        <dc:contributor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Yamen Alsalka</dc:contributor>
+        <oboInOwl:created_by rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Yamen Alsalka</oboInOwl:created_by>
+        <oboInOwl:creation_date rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2023-06-06T12:30:53.148584Z</oboInOwl:creation_date>
+        <rdfs:label xml:lang="en">Polyisoprene IR [ifnano]</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- https://www.tib.eu/digitrubber#DIGITRUBBER_000647 -->
+
+    <owl:Class rdf:about="https://www.tib.eu/digitrubber#DIGITRUBBER_000647">
+        <rdfs:subClassOf rdf:resource="https://www.tib.eu/digitrubber#DIGITRUBBER_000179"/>
+        <obo:IAO_0000115 xml:lang="en">Known as nitrile butadiene rubber and acrylonitrile butadiene rubber, is a synthetic rubber derived from acrylonitrile (ACN) and butadiene.</obo:IAO_0000115>
+        <obo:IAO_0000119 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Wikipedia</obo:IAO_0000119>
+        <dc:contributor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Yamen Alsalka</dc:contributor>
+        <oboInOwl:created_by rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Yamen Alsalka</oboInOwl:created_by>
+        <oboInOwl:creation_date rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2023-06-06T12:33:41.882181Z</oboInOwl:creation_date>
+        <rdfs:label xml:lang="en">Nitrile rubber NBR [ifnano]</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- https://www.tib.eu/digitrubber#DIGITRUBBER_000648 -->
+
+    <owl:Class rdf:about="https://www.tib.eu/digitrubber#DIGITRUBBER_000648">
+        <rdfs:subClassOf rdf:resource="https://www.tib.eu/digitrubber#DIGITRUBBER_000179"/>
+        <obo:IAO_0000115 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Is a family of fluorocarbon-based fluoroelastomer materials that contain vinylidene fluoride as a monomer.</obo:IAO_0000115>
+        <obo:IAO_0000119 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Wikipedia</obo:IAO_0000119>
+        <dc:contributor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Yamen Alsalka</dc:contributor>
+        <oboInOwl:created_by rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Yamen Alsalka</oboInOwl:created_by>
+        <oboInOwl:creation_date rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2023-06-06T12:36:21.319884Z</oboInOwl:creation_date>
+        <rdfs:label xml:lang="en">Fluororubber FKM [ifnano]</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- https://www.tib.eu/digitrubber#DIGITRUBBER_000649 -->
+
+    <owl:Class rdf:about="https://www.tib.eu/digitrubber#DIGITRUBBER_000649">
+        <rdfs:subClassOf rdf:resource="https://www.tib.eu/digitrubber#DIGITRUBBER_000179"/>
+        <obo:IAO_0000115 xml:lang="en">Highly Saturated Nitrile. A Higher performance solid rubber material than NBR, achieved through adding Hydrogen Atoms to the Butadiene Segments.</obo:IAO_0000115>
+        <obo:IAO_0000119 rdf:resource="https://maclellanrubber.com/definitions/hnbr"/>
+        <dc:contributor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Yamen Alsalka</dc:contributor>
+        <oboInOwl:created_by rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Yamen Alsalka</oboInOwl:created_by>
+        <oboInOwl:creation_date rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2023-06-06T12:40:53.184235Z</oboInOwl:creation_date>
+        <rdfs:label xml:lang="en">Hydrogenated Nitrile rubber HNBR [ifnano]</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- https://www.tib.eu/digitrubber#DIGITRUBBER_000650 -->
+
+    <owl:Class rdf:about="https://www.tib.eu/digitrubber#DIGITRUBBER_000650">
+        <rdfs:subClassOf rdf:resource="https://www.tib.eu/digitrubber#DIGITRUBBER_000179"/>
+        <obo:IAO_0000115 xml:lang="en">Families of synthetic rubbers derived from styrene and butadiene.</obo:IAO_0000115>
+        <obo:IAO_0000119 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Wikipedia</obo:IAO_0000119>
+        <dc:contributor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Yamen Alsalka</dc:contributor>
+        <oboInOwl:created_by rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Yamen Alsalka</oboInOwl:created_by>
+        <oboInOwl:creation_date rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2023-06-06T12:43:20.265544Z</oboInOwl:creation_date>
+        <rdfs:label xml:lang="en">Styrene-butadiene rubber SBR [ifnano]</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- https://www.tib.eu/digitrubber#DIGITRUBBER_000651 -->
+
+    <owl:Class rdf:about="https://www.tib.eu/digitrubber#DIGITRUBBER_000651">
+        <obo:IAO_0000114 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">uncurated</obo:IAO_0000114>
+        <obo:IAO_0000115 xml:lang="en">A concentration quality inhering in a bearer by virtue of the bearer&apos;s containing acid (hydrogen ions).</obo:IAO_0000115>
+        <obo:IAO_0000118 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">pH</obo:IAO_0000118>
+        <obo:IAO_0000119 rdf:resource="http://purl.obolibrary.org/obo/pato/releases/2022-08-31/pato.owl"/>
+        <obo:IAO_0000412 rdf:resource="http://purl.obolibrary.org/obo/PATO_0001842"/>
+        <dc:contributor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Lars M Vogt</dc:contributor>
+        <dc:language rdf:datatype="http://www.w3.org/2001/XMLSchema#string">English</dc:language>
+        <pav:lastUpdateOn rdf:datatype="http://www.w3.org/2001/XMLSchema#string">01.09.2023</pav:lastUpdateOn>
+        <oboInOwl:creation_date rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2023-09-01T09:06:40.923633Z</oboInOwl:creation_date>
+        <oboInOwl:id rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PATO:0001842</oboInOwl:id>
+        <rdfs:isDefinedBy rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PATO</rdfs:isDefinedBy>
+        <rdfs:label xml:lang="de">Säuregrad</rdfs:label>
+        <rdfs:label xml:lang="en">acidity [pato]</rdfs:label>
+    </owl:Class>
+    
+
+
     <!-- https://www.tib.eu/digitrubber#ROi3BNAY7lNum6bqHYNnKv -->
 
     <owl:Class rdf:about="https://www.tib.eu/digitrubber#ROi3BNAY7lNum6bqHYNnKv">
@@ -16786,7 +16913,7 @@ types of monomer unit. Such molecules must be distributed over a range of molecu
         <obo:IAO_0000115 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">provide a human-readable definition of the type of entity the class refers to</obo:IAO_0000115>
         <dc:contributor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">GROUP: TIB</dc:contributor>
         <dc:contributor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PERSON: Lars Vogt</dc:contributor>
-        <rdfs:label>template class</rdfs:label>
+        <rdfs:label xml:lang="en">template class</rdfs:label>
     </owl:Class>
     
 
