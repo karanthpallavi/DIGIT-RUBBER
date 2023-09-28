@@ -1,0 +1,236 @@
+[
+	a sh:ValidationResult ;
+	sh:resultSeverity sh:Violation ;
+	sh:sourceConstraintComponent sh:DatatypeConstraintComponent ;
+	sh:sourceShape _:n129 ;
+	sh:focusNode <http://purl.obolibrary.org/obo/digitrubber/digitrubber-full.owl> ;
+	sh:value "DigitRubber Ontology" ;
+	sh:resultPath _:n130 ;
+	sh:resultMessage "The ontology title is not an rdf:langString, i.e. it does not carry a language tag."@en ;
+] .
+[
+	a sh:ValidationResult ;
+	sh:resultSeverity sh:Violation ;
+	sh:sourceConstraintComponent sh:MinCountConstraintComponent ;
+	sh:sourceShape _:n132 ;
+	sh:focusNode <http://purl.obolibrary.org/obo/digitrubber/digitrubber-full.owl> ;
+	sh:resultPath vann:preferredNamespacePrefix ;
+	sh:resultMessage "The ontology does not declare exactly one preferred namespace prefix."@en ;
+] .
+[
+	a sh:ValidationResult ;
+	sh:resultSeverity sh:Violation ;
+	sh:sourceConstraintComponent sh:MinCountConstraintComponent ;
+	sh:sourceShape _:n135 ;
+	sh:focusNode <http://purl.obolibrary.org/obo/digitrubber/digitrubber-full.owl> ;
+	sh:resultPath mod:acronym ;
+	sh:resultMessage "The ontology does not declare exactly one preferred acronym."@en ;
+] .
+[
+	a sh:ValidationResult ;
+	sh:resultSeverity sh:Violation ;
+	sh:sourceConstraintComponent sh:MinCountConstraintComponent ;
+	sh:sourceShape _:n141 ;
+	sh:focusNode <http://purl.obolibrary.org/obo/digitrubber/digitrubber-full.owl> ;
+	sh:resultPath _:n142 ;
+	sh:resultMessage "The ontology does not state its creator. We recommend to provide PIDs for individuals (e.g. ORCiD) or organisations (e.g. ROR)."@en ;
+] .
+[
+	a sh:ValidationResult ;
+	sh:resultSeverity sh:Violation ;
+	sh:sourceConstraintComponent sh:MinCountConstraintComponent ;
+	sh:sourceShape _:n149 ;
+	sh:focusNode <http://purl.obolibrary.org/obo/digitrubber/digitrubber-full.owl> ;
+	sh:resultPath _:n150 ;
+	sh:resultMessage "The ontology does not specify exactly one date of creation. The date must be given in xsd:dateTime format."@en ;
+] .
+[
+	a sh:ValidationResult ;
+	sh:resultSeverity sh:Violation ;
+	sh:sourceConstraintComponent sh:MinCountConstraintComponent ;
+	sh:sourceShape _:n155 ;
+	sh:focusNode <http://purl.obolibrary.org/obo/digitrubber/digitrubber-full.owl> ;
+	sh:resultPath _:n156 ;
+	sh:resultMessage "The ontology does not specify at least one modification date in xsd:dateTime format."@en ;
+] .
+[
+	a sh:ValidationResult ;
+	sh:resultSeverity sh:Violation ;
+	sh:sourceConstraintComponent sh:MinCountConstraintComponent ;
+	sh:sourceShape _:n173 ;
+	sh:focusNode <http://purl.obolibrary.org/obo/digitrubber/digitrubber-full.owl> ;
+	sh:resultPath _:n174 ;
+	sh:resultMessage "The ontology does not give exactly one update description (e.g. a comparison between this version and the directly preceeding version)."@en ;
+] .
+[
+	a sh:ValidationResult ;
+	sh:resultSeverity sh:Violation ;
+	sh:sourceConstraintComponent sh:DatatypeConstraintComponent ;
+	sh:sourceShape _:n188 ;
+	sh:focusNode <http://purl.obolibrary.org/obo/digitrubber/digitrubber-full.owl> ;
+	sh:value "DigitRubber Ontology" ;
+	sh:resultPath _:n189 ;
+	sh:resultMessage "The ontology does not provide the short description about its scope as an rdf:langString."@en ;
+] .
+[
+	a sh:ValidationResult ;
+	sh:resultSeverity sh:Violation ;
+	sh:sourceConstraintComponent sh:MinCountConstraintComponent ;
+	sh:sourceShape _:n191 ;
+	sh:focusNode <http://purl.obolibrary.org/obo/digitrubber/digitrubber-full.owl> ;
+	sh:resultPath doap:bug-database ;
+	sh:resultMessage "The ontology does not specify exactly one IRI to a location where bugs and suggestions can be reported, ideally an *open* issue tracker at GitHub or GitLab or the like."@en ;
+] .
+[
+	a sh:ValidationResult ;
+	sh:resultSeverity sh:Violation ;
+	sh:sourceConstraintComponent sh:MinCountConstraintComponent ;
+	sh:sourceShape _:n192 ;
+	sh:focusNode <http://purl.obolibrary.org/obo/digitrubber/digitrubber-full.owl> ;
+	sh:resultPath premis:documentation ;
+	sh:resultMessage "The ontology does not specify exactly one IRI to its documentation."@en ;
+] .
+[
+	a sh:ValidationResult ;
+	sh:resultSeverity sh:Warning ;
+	sh:sourceConstraintComponent sh:MinCountConstraintComponent ;
+	sh:sourceShape _:n193 ;
+	sh:focusNode <http://purl.obolibrary.org/obo/digitrubber/digitrubber-full.owl> ;
+	sh:resultPath _:n194 ;
+	sh:resultMessage "The ontology does not specify any contributors. Contributors should be referenced by PIDs (e.g. ORCiD)."@en ;
+] .
+[
+	a sh:ValidationResult ;
+	sh:resultSeverity sh:Warning ;
+	sh:sourceConstraintComponent sh:MinCountConstraintComponent ;
+	sh:sourceShape _:n200 ;
+	sh:focusNode <http://purl.obolibrary.org/obo/digitrubber/digitrubber-full.owl> ;
+	sh:resultPath schema:funder ;
+	sh:resultMessage "The ontology does not reference any funding institution. The funding instution should be referenced by PIDs (e.g. Research Organisation Registry identifiers, short ROR (https://ror.org/))."@en ;
+] .
+[
+	a sh:ValidationResult ;
+	sh:resultSeverity sh:Warning ;
+	sh:sourceConstraintComponent sh:MinCountConstraintComponent ;
+	sh:sourceShape _:n201 ;
+	sh:focusNode <http://purl.obolibrary.org/obo/digitrubber/digitrubber-full.owl> ;
+	sh:resultPath _:n202 ;
+	sh:resultMessage "The ontology does not specify its audience. The audience description should be a short, language-tagged text."@en ;
+] .
+[
+	a sh:ValidationResult ;
+	sh:resultSeverity sh:Warning ;
+	sh:sourceConstraintComponent sh:MinCountConstraintComponent ;
+	sh:sourceShape _:n207 ;
+	sh:focusNode <http://purl.obolibrary.org/obo/digitrubber/digitrubber-full.owl> ;
+	sh:resultPath dcterms:subject ;
+	sh:resultMessage "The ontology does not specify which subjects it has. Use identifiers of controlled vocabularies to do so. You can search for fitting terms on TIB's Terminology service (https://terminology.tib.eu)."@en ;
+] .
+[
+	a sh:ValidationResult ;
+	sh:resultSeverity sh:Warning ;
+	sh:sourceConstraintComponent sh:MinCountConstraintComponent ;
+	sh:sourceShape _:n209 ;
+	sh:focusNode <http://purl.obolibrary.org/obo/digitrubber/digitrubber-full.owl> ;
+	sh:resultPath _:n210 ;
+	sh:resultMessage "The ontology does not specifiy which natural language it covers in annotations."@en ;
+] .
+[
+	a sh:ValidationResult ;
+	sh:resultSeverity sh:Warning ;
+	sh:sourceConstraintComponent sh:MinCountConstraintComponent ;
+	sh:sourceShape _:n218 ;
+	sh:focusNode <http://purl.obolibrary.org/obo/digitrubber/digitrubber-full.owl> ;
+	sh:resultPath mod:hasFormalityLevel ;
+	sh:resultMessage "The ontology does not specify which logical framework it applies."@en ;
+] .
+[
+	a sh:ValidationResult ;
+	sh:resultSeverity sh:Warning ;
+	sh:sourceConstraintComponent sh:MinCountConstraintComponent ;
+	sh:sourceShape _:n220 ;
+	sh:focusNode <http://purl.obolibrary.org/obo/digitrubber/digitrubber-full.owl> ;
+	sh:resultPath <http://omv.ontoware.org/2005/05/ontology#hasOntologySyntax> ;
+	sh:resultMessage "The ontology does not specify its applied syntax. The value should be provided via IRI from the following controlled vocabulary: https://www.w3.org/ns/formats/."@en ;
+] .
+[
+	a sh:ValidationResult ;
+	sh:resultSeverity sh:Warning ;
+	sh:sourceConstraintComponent sh:MinCountConstraintComponent ;
+	sh:sourceShape _:n234 ;
+	sh:focusNode <http://purl.obolibrary.org/obo/digitrubber/digitrubber-full.owl> ;
+	sh:resultPath <http://purl.org/ontology/bibo/status> ;
+	sh:resultMessage "The ontology does not declare its current maintenance status. It should provide exactly one of the English-language values 'active', 'inactive', 'orphaned' or 'obsolete' (cf. https://obofoundry.org/docs/OntologyStatus.html)."@en ;
+] .
+[
+	a sh:ValidationResult ;
+	sh:resultSeverity sh:Warning ;
+	sh:sourceConstraintComponent sh:MinCountConstraintComponent ;
+	sh:sourceShape _:n241 ;
+	sh:focusNode <http://purl.obolibrary.org/obo/digitrubber/digitrubber-full.owl> ;
+	sh:resultPath doap:repository ;
+	sh:resultMessage "The ontology does not declare its code repository. The ontology should be on a code repository and the ontology should contain the repository's IRI."@en ;
+] .
+[
+	a sh:ValidationResult ;
+	sh:resultSeverity sh:Warning ;
+	sh:sourceConstraintComponent sh:MinCountConstraintComponent ;
+	sh:sourceShape _:n243 ;
+	sh:focusNode <http://purl.obolibrary.org/obo/digitrubber/digitrubber-full.owl> ;
+	sh:resultPath _:n244 ;
+	sh:resultMessage "The ontology does not specify IRIs for available alternative serializations of the ontology."@en ;
+] .
+[
+	a sh:ValidationResult ;
+	sh:resultSeverity sh:Warning ;
+	sh:sourceConstraintComponent sh:MinCountConstraintComponent ;
+	sh:sourceShape _:n249 ;
+	sh:focusNode <http://purl.obolibrary.org/obo/digitrubber/digitrubber-full.owl> ;
+	sh:resultPath <https://vocab.org/vann/example> ;
+	sh:resultMessage "The ontology does not provide information about an example of its use/ application. Ideally, the ontology provides a PID to e.g. a publication describing applications of the ontology, or directly to an application that uses the ontology."@en ;
+] .
+[
+	a sh:ValidationResult ;
+	sh:resultSeverity sh:Warning ;
+	sh:sourceConstraintComponent sh:MinCountConstraintComponent ;
+	sh:sourceShape _:n251 ;
+	sh:focusNode <http://purl.obolibrary.org/obo/digitrubber/digitrubber-full.owl> ;
+	sh:resultPath dcterms:references ;
+	sh:resultMessage "The ontology does not make references to related publications introducing or discussing the ontology. The reference should be provided via PID, for example a DOI."@en ;
+] .
+[
+	a sh:ValidationResult ;
+	sh:resultSeverity sh:Warning ;
+	sh:sourceConstraintComponent sh:MinCountConstraintComponent ;
+	sh:sourceShape _:n253 ;
+	sh:focusNode <http://purl.obolibrary.org/obo/digitrubber/digitrubber-full.owl> ;
+	sh:resultPath dcterms:bibliographicCitation ;
+	sh:resultMessage "The ontology does not provide information about how it should be cited. The information should be provided as rdf:langString."@en ;
+] .
+[
+	a sh:ValidationResult ;
+	sh:resultSeverity sh:Warning ;
+	sh:sourceConstraintComponent sh:MinCountConstraintComponent ;
+	sh:sourceShape _:n255 ;
+	sh:focusNode <http://purl.obolibrary.org/obo/digitrubber/digitrubber-full.owl> ;
+	sh:resultPath _:n256 ;
+	sh:resultMessage "The ontology does not specify whether and from which ontologies it has been derived. The information should be provided via the owl:versionIRI of the related ontology."@en ;
+] .
+[
+	a sh:ValidationResult ;
+	sh:resultSeverity sh:Warning ;
+	sh:sourceConstraintComponent sh:MinCountConstraintComponent ;
+	sh:sourceShape _:n261 ;
+	sh:focusNode <http://purl.obolibrary.org/obo/digitrubber/digitrubber-full.owl> ;
+	sh:resultPath <http://purl.obolibrary.org/obo/IAO_0000700> ;
+	sh:resultMessage "The ontology does not declare whether and which specific classes shall be displayed as root terms in a tree-like visualization of the class hierarchy. The repsective classes (if any) need to be provided via their identifier."@en ;
+] .
+[
+	a sh:ValidationResult ;
+	sh:resultSeverity sh:Warning ;
+	sh:sourceConstraintComponent sh:MinCountConstraintComponent ;
+	sh:sourceShape _:n344 ;
+	sh:focusNode <http://purl.obolibrary.org/obo/digitrubber/digitrubber-full.owl> ;
+	sh:resultPath dcterms:issued ;
+	sh:resultMessage "The ontology does not have an issued date or the date does not conform to xsd:dateTime."@en ;
+] .
