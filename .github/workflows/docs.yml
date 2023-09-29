@@ -18,10 +18,8 @@ jobs:
       - name: Checkout main
         uses: actions/checkout@v3
       - name: setup for install
-        run:  |
-              sudo apt-get install gcc python3-dev 
-              sudo pip install --upgrade pip
-              sudo apt-get install linux-headers-$(uname -r)
+        run: |
+             sudo apt-get update && DEBIAN_FRONTEND="noninteractive" apt-get install -y gcc python3-dev
       - name: Deploy docs
         uses: mhausenblas/mkdocs-deploy-gh-pages@master
         # Or use mhausenblas/mkdocs-deploy-gh-pages@nomaterial to build without the mkdocs-material theme
