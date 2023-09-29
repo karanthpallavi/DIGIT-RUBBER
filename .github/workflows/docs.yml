@@ -20,7 +20,8 @@ jobs:
       - name: setup for install
         run:  |
               sudo apt-get install gcc python3-dev 
-              pip install --upgrade pip
+              sudo pip install --upgrade pip
+              sudo apt-get install linux-headers-$(uname -r)
       - name: Deploy docs
         uses: mhausenblas/mkdocs-deploy-gh-pages@master
         # Or use mhausenblas/mkdocs-deploy-gh-pages@nomaterial to build without the mkdocs-material theme
