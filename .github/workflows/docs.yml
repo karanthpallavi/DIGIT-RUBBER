@@ -16,6 +16,10 @@ jobs:
       with:
         ref: main
         path: main
+
+    - name: Build DOC for main
+      run: | 
+            mkdir public 
     - name: Deploy to GitHub Pages
       if: success()
       uses: crazy-max/ghaction-github-pages@v3
