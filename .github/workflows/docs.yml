@@ -18,8 +18,8 @@ jobs:
       - name: Checkout main
         uses: actions/checkout@v3
       - name: setup for install
-        run:  
-              sudo apk add gcc python3-dev
+        run:  |
+              sudo apk add gcc python3-dev 
               pip install --upgrade pip
       - name: Deploy docs
         uses: mhausenblas/mkdocs-deploy-gh-pages@master
