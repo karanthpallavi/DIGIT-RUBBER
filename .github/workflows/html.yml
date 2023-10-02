@@ -21,12 +21,12 @@ jobs:
            wget -O widoco.jar https://github.com/dgarijo/Widoco/releases/download/v1.4.20/widoco-1.4.20-jar-with-dependencies_JDK-17.jar
            mkdir public 
            java -jar widoco.jar -ontFile main/WebProtege/digitrubber-full.ttl -outFolder public -htaccess -uniteSections -includeAnnotationProperties -lang en-de  -getOntologyMetadata -noPlaceHolderText -rewriteAll -webVowl
-#            cp public/index-en.html public/index.html
+           cp public/index-en.html public/index.html
     - name: Deploy to GitHub Pages
       if: success()
       uses: crazy-max/ghaction-github-pages@v3
       with:
-        target_branch: gh-pages
+        target_branch: gh-pages-ontology
         build_dir: public
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
