@@ -19,13 +19,13 @@ jobs:
 
     - name: Build DOC for main
       run: | 
-            mkdir publicc
+            mkdir public
     - name: Deploy to GitHub Pages
       if: success()
       uses: crazy-max/ghaction-github-pages@v3
       with:
-        target_branch: gh-pages
-        build_dir: publicc
+        target_branch: gh-pages-docs
+        build_dir: public
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         CONFIG_FILE: mkdocs.yaml
