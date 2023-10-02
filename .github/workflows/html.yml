@@ -22,7 +22,7 @@ jobs:
            mkdir public 
            java -jar widoco.jar -ontFile main/WebProtege/digitrubber-full.ttl -outFolder public -htaccess -uniteSections -includeAnnotationProperties -lang en-de  -getOntologyMetadata -noPlaceHolderText -rewriteAll -webVowl
            cp public/index-en.html public/index.html
-    - name: Deploy to GitHub Pages
+    - name: Deploy HTML to GitHub Pages
       if: success()
       uses: crazy-max/ghaction-github-pages@v3
       with:
