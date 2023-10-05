@@ -15,6 +15,7 @@
 @prefix pav: <http://purl.org/pav/> .
 @base <http://purl.obolibrary.org/obo/digitrubber/digitrubber-full.owl> .
 
+
 <http://purl.obolibrary.org/obo/digitrubber/digitrubber-full.owl> rdf:type owl:Ontology ;
                                                                    owl:versionIRI <https://github.com/TIBHannover/DIGIT-RUBBER/blob/main/WebProtege/digitrubber-full.owl> ;
                                                                    owl:versionInfo "v2023-Sep-26" ;
@@ -29,14 +30,14 @@
                                                                    dcterms:title "DigitRubber Ontology"@en ;
                                                                    dcterms:created "2023-06-01T08:05:00"^^xsd:dateTime ;
                                                                    dcterms:modified "2023-09-26T10:19:00"^^xsd:dateTime ;
-                                                                   dcterms:issued "2003-09-26T10:19:00"^^xsd:dateTime ; 
+                                                                   dcterms:issued "2003-09-26T10:19:00"^^xsd:dateTime ;
                                                                    dcterms:contributor <0000-0000-0000-0000> ;
                                                                    dcterms:format <https://www.iana.org/assignments/media-types/application/rdf+xml> ;
                                                                    dcterms:references <https://zenodo.org/record/0000000> ;
                                                                    dcterms:bibliographicCitation "TIB (2023): DigitRubber Ontology. An ontology demonstrating rich ontology for rubber extrusion. PURL: http://www.purl.org/OntoMeta/DigitRubberOntology."@en ;
                                                                    schema:funder <https://ror.org/> ;
                                                                    doap:audience "DigitRubber ontology has been developed for rubber extrusion"@en ;
-                                                                   doap:repository https://github.com/TIBHannover/DIGIT-RUBBER> ;
+                                                                   doap:repository <https://github.com/TIBHannover/DIGIT-RUBBER> ;
                                                                    doap:bug-database <https://github.com/TIBHannover/DIGIT-RUBBER/issues> ;
                                                                    adms:versionNotes "A description of changes between last version and current version of the ontology."@en ;
                                                                    premis:documentation <https://tibhannover.github.io/DIGIT-RUBBER/> ;
@@ -48,4 +49,3 @@
                                                                    <http://www.w3.org/ns/dcat#distribution> <http://www.purl.org/OntoMeta/DigitRubber.owl> ;
                                                                    <https://vocab.org/vann/example> <http://www.purl.org/OntoMeta/DigitRubber/docs/descriptionOfUse> ;
                                                                    <http://purl.obolibrary.org/obo/IAO_0000700> <http://www.purl.org/OntoMeta/DigitRubber#1>.
-                                                                   
