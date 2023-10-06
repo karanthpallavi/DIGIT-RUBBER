@@ -2071,7 +2071,7 @@ For example, A and B may be gene products and binding of B by A positively regul
                                             owl:propertyChainAxiom ( <http://purl.obolibrary.org/obo/RO_0002211>
                                                                      <http://purl.obolibrary.org/obo/RO_0019000>
                                                                    ) ;
-                                            <http://purl.obolibrary.org/obo/IAO_0000115> "A relationship that holds between a process and a characteristic in which process (P) regulates characteristic (C) iff: P results in the existence of C OR affects the intensity or magnitude of C." ;
+                                            <http://purl.obolibrary.org/obo/IAO_0000115> "A relationship that holds between a process and a characteristic in which process (P) regulates characteristic (C) iff: P results in the existence of C OR affects the intensity or magnitude of C." ;
                                             <http://purl.org/dc/terms/contributor> <https://orcid.org/0000-0002-8688-6599> ;
                                             rdfs:label "regulates characteristic" .
 
@@ -2082,7 +2082,7 @@ For example, A and B may be gene products and binding of B by A positively regul
                                             owl:propertyChainAxiom ( <http://purl.obolibrary.org/obo/RO_0002213>
                                                                      <http://purl.obolibrary.org/obo/RO_0019001>
                                                                    ) ;
-                                            <http://purl.obolibrary.org/obo/IAO_0000115> "A relationship that holds between a process and a characteristic in which process (P) positively regulates characteristic (C) iff: P results in an increase in the intensity or magnitude of C." ;
+                                            <http://purl.obolibrary.org/obo/IAO_0000115> "A relationship that holds between a process and a characteristic in which process (P) positively regulates characteristic (C) iff: P results in an increase in the intensity or magnitude of C." ;
                                             <http://purl.org/dc/terms/contributor> <https://orcid.org/0000-0002-8688-6599> ;
                                             rdfs:label "positively regulates characteristic" .
 
@@ -2096,7 +2096,7 @@ For example, A and B may be gene products and binding of B by A positively regul
                                                                    ( <http://purl.obolibrary.org/obo/RO_0002213>
                                                                      <http://purl.obolibrary.org/obo/RO_0019002>
                                                                    ) ;
-                                            <http://purl.obolibrary.org/obo/IAO_0000115> "A relationship that holds between a process and a characteristic in which process (P) negatively regulates characteristic (C) iff: P results in a decrease in the intensity or magnitude of C." ;
+                                            <http://purl.obolibrary.org/obo/IAO_0000115> "A relationship that holds between a process and a characteristic in which process (P) negatively regulates characteristic (C) iff: P results in a decrease in the intensity or magnitude of C." ;
                                             <http://purl.org/dc/terms/contributor> <https://orcid.org/0000-0002-8688-6599> ;
                                             rdfs:label "negatively regulates characteristic" .
 
@@ -8331,7 +8331,7 @@ members of a group differ from the mean
 
 ###  https://www.tib.eu/digitrubber#DIGITRUBBER_000199
 <https://www.tib.eu/digitrubber#DIGITRUBBER_000199> rdf:type owl:Class ;
-                                                    <http://purl.obolibrary.org/obo/IAO_0000115> "Natural and synthetic rubber materials that are modified and shaped into rubber products through the rubber extrusion process."@en ;
+                                                    <http://purl.obolibrary.org/obo/IAO_0000115> "Natural and synthetic rubber materials that are modified and shaped into rubber products through the rubber extrusion process."@en ;
                                                     <http://purl.obolibrary.org/obo/IAO_0000119> "https://www.extrudedrubber.net/" ;
                                                     <http://purl.org/dc/elements/1.1/contributor> "Yamen Alsalka (IFNANO)"^^xsd:string ;
                                                     <http://www.geneontology.org/formats/oboInOwl#creation_date> "31.03.2022"^^xsd:string ;
@@ -14551,7 +14551,7 @@ types of monomer unit. Such molecules must be distributed over a range of molecu
                                                       <http://purl.obolibrary.org/obo/OBI_0000835> ;
                                              <http://purl.obolibrary.org/obo/IAO_0000111> "Sysmex Corporation, Kobe, Japan" ;
                                              <http://purl.obolibrary.org/obo/IAO_0000114> <http://purl.obolibrary.org/obo/IAO_0000120> ;
-                                             <http://purl.obolibrary.org/obo/IAO_0000119> "WEB:http://www.sysmex.com/"@2009/08/06 ;
+                                             <http://purl.obolibrary.org/obo/IAO_0000119> "WEB:http://www.sysmex.com/" ;
                                              rdfs:label "Sysmex Corporation, Kobe, Japan" .
 
 
@@ -14607,7 +14607,7 @@ types of monomer unit. Such molecules must be distributed over a range of molecu
                                              <http://purl.obolibrary.org/obo/IAO_0000111> "eBioscience" ;
                                              <http://purl.obolibrary.org/obo/IAO_0000114> <http://purl.obolibrary.org/obo/IAO_0000123> ;
                                              <http://purl.obolibrary.org/obo/IAO_0000117> "Karin Breuer" ;
-                                             <http://purl.obolibrary.org/obo/IAO_0000119> "WEB:http://www.ebioscience.com/"@2011/04/11 ;
+                                             <http://purl.obolibrary.org/obo/IAO_0000119> "WEB:http://www.ebioscience.com/" ;
                                              rdfs:label "eBioscience" .
 
 
@@ -14617,7 +14617,7 @@ types of monomer unit. Such molecules must be distributed over a range of molecu
                                              <http://purl.obolibrary.org/obo/IAO_0000111> "Cytopeia" ;
                                              <http://purl.obolibrary.org/obo/IAO_0000114> <http://purl.obolibrary.org/obo/IAO_0000123> ;
                                              <http://purl.obolibrary.org/obo/IAO_0000117> "Karin Breuer" ;
-                                             <http://purl.obolibrary.org/obo/IAO_0000119> "WEB:http://www.cytopeia.com/"@2011/04/11 ;
+                                             <http://purl.obolibrary.org/obo/IAO_0000119> "WEB:http://www.cytopeia.com/" ;
                                              rdfs:label "Cytopeia" .
 
 
@@ -14627,7 +14627,7 @@ types of monomer unit. Such molecules must be distributed over a range of molecu
                                              <http://purl.obolibrary.org/obo/IAO_0000111> "Exalpha Biological" ;
                                              <http://purl.obolibrary.org/obo/IAO_0000114> <http://purl.obolibrary.org/obo/IAO_0000123> ;
                                              <http://purl.obolibrary.org/obo/IAO_0000117> "Karin Breuer" ;
-                                             <http://purl.obolibrary.org/obo/IAO_0000119> "WEB:http://www.exalpha.com/"@2011/04/11 ;
+                                             <http://purl.obolibrary.org/obo/IAO_0000119> "WEB:http://www.exalpha.com/" ;
                                              rdfs:label "Exalpha Biological" .
 
 
@@ -14637,7 +14637,7 @@ types of monomer unit. Such molecules must be distributed over a range of molecu
                                              <http://purl.obolibrary.org/obo/IAO_0000111> "Apogee Flow Systems" ;
                                              <http://purl.obolibrary.org/obo/IAO_0000114> <http://purl.obolibrary.org/obo/IAO_0000123> ;
                                              <http://purl.obolibrary.org/obo/IAO_0000117> "Karin Breuer" ;
-                                             <http://purl.obolibrary.org/obo/IAO_0000119> "WEB:http://www.apogeeflow.com/"@2011/04/11 ;
+                                             <http://purl.obolibrary.org/obo/IAO_0000119> "WEB:http://www.apogeeflow.com/" ;
                                              rdfs:label "Apogee Flow Systems" .
 
 
@@ -14647,7 +14647,7 @@ types of monomer unit. Such molecules must be distributed over a range of molecu
                                              <http://purl.obolibrary.org/obo/IAO_0000111> "Exbio Antibodies" ;
                                              <http://purl.obolibrary.org/obo/IAO_0000114> <http://purl.obolibrary.org/obo/IAO_0000123> ;
                                              <http://purl.obolibrary.org/obo/IAO_0000117> "Karin Breuer" ;
-                                             <http://purl.obolibrary.org/obo/IAO_0000119> "WEB:http://www.exbio.cz/"@2011/04/11 ;
+                                             <http://purl.obolibrary.org/obo/IAO_0000119> "WEB:http://www.exbio.cz/" ;
                                              rdfs:label "Exbio Antibodies" .
 
 
@@ -14657,7 +14657,7 @@ types of monomer unit. Such molecules must be distributed over a range of molecu
                                              <http://purl.obolibrary.org/obo/IAO_0000111> "Becton Dickinson (BD Biosciences)" ;
                                              <http://purl.obolibrary.org/obo/IAO_0000114> <http://purl.obolibrary.org/obo/IAO_0000123> ;
                                              <http://purl.obolibrary.org/obo/IAO_0000117> "Karin Breuer" ;
-                                             <http://purl.obolibrary.org/obo/IAO_0000119> "WEB:http://www.bdbiosciences.com/"@2011/04/11 ;
+                                             <http://purl.obolibrary.org/obo/IAO_0000119> "WEB:http://www.bdbiosciences.com/" ;
                                              rdfs:label "Becton Dickinson (BD Biosciences)" .
 
 
@@ -14667,7 +14667,7 @@ types of monomer unit. Such molecules must be distributed over a range of molecu
                                              <http://purl.obolibrary.org/obo/IAO_0000111> "Dako Cytomation" ;
                                              <http://purl.obolibrary.org/obo/IAO_0000114> <http://purl.obolibrary.org/obo/IAO_0000123> ;
                                              <http://purl.obolibrary.org/obo/IAO_0000117> "Karin Breuer" ;
-                                             <http://purl.obolibrary.org/obo/IAO_0000119> "WEB:http://www.dakousa.com/"@2011/04/11 ;
+                                             <http://purl.obolibrary.org/obo/IAO_0000119> "WEB:http://www.dakousa.com/" ;
                                              rdfs:label "Dako Cytomation" .
 
 
@@ -14677,7 +14677,7 @@ types of monomer unit. Such molecules must be distributed over a range of molecu
                                              <http://purl.obolibrary.org/obo/IAO_0000111> "Millipore" ;
                                              <http://purl.obolibrary.org/obo/IAO_0000114> <http://purl.obolibrary.org/obo/IAO_0000123> ;
                                              <http://purl.obolibrary.org/obo/IAO_0000117> "Karin Breuer" ;
-                                             <http://purl.obolibrary.org/obo/IAO_0000119> "WEB:http://www.guavatechnologies.com/"@2011/04/11 ;
+                                             <http://purl.obolibrary.org/obo/IAO_0000119> "WEB:http://www.guavatechnologies.com/" ;
                                              rdfs:label "Millipore" .
 
 
@@ -14687,7 +14687,7 @@ types of monomer unit. Such molecules must be distributed over a range of molecu
                                              <http://purl.obolibrary.org/obo/IAO_0000111> "Antigenix" ;
                                              <http://purl.obolibrary.org/obo/IAO_0000114> <http://purl.obolibrary.org/obo/IAO_0000123> ;
                                              <http://purl.obolibrary.org/obo/IAO_0000117> "Karin Breuer" ;
-                                             <http://purl.obolibrary.org/obo/IAO_0000119> "WEB:http://www.antigenix.com/"@2011/04/11 ;
+                                             <http://purl.obolibrary.org/obo/IAO_0000119> "WEB:http://www.antigenix.com/" ;
                                              rdfs:label "Antigenix" .
 
 
@@ -14697,7 +14697,7 @@ types of monomer unit. Such molecules must be distributed over a range of molecu
                                              <http://purl.obolibrary.org/obo/IAO_0000111> "Partec" ;
                                              <http://purl.obolibrary.org/obo/IAO_0000114> <http://purl.obolibrary.org/obo/IAO_0000123> ;
                                              <http://purl.obolibrary.org/obo/IAO_0000117> "Karin Breuer" ;
-                                             <http://purl.obolibrary.org/obo/IAO_0000119> "WEB:http://www.partec.de/"@2011/04/11 ;
+                                             <http://purl.obolibrary.org/obo/IAO_0000119> "WEB:http://www.partec.de/" ;
                                              rdfs:label "Partec" .
 
 
@@ -14707,7 +14707,7 @@ types of monomer unit. Such molecules must be distributed over a range of molecu
                                              <http://purl.obolibrary.org/obo/IAO_0000111> "Beckman Coulter" ;
                                              <http://purl.obolibrary.org/obo/IAO_0000114> <http://purl.obolibrary.org/obo/IAO_0000123> ;
                                              <http://purl.obolibrary.org/obo/IAO_0000117> "Karin Breuer" ;
-                                             <http://purl.obolibrary.org/obo/IAO_0000119> "WEB:http://www.beckmancoulter.com/"@2011/04/11 ;
+                                             <http://purl.obolibrary.org/obo/IAO_0000119> "WEB:http://www.beckmancoulter.com/" ;
                                              rdfs:label "Beckman Coulter" .
 
 
@@ -14717,7 +14717,7 @@ types of monomer unit. Such molecules must be distributed over a range of molecu
                                              <http://purl.obolibrary.org/obo/IAO_0000111> "Advanced Instruments Inc. (AI Companies)" ;
                                              <http://purl.obolibrary.org/obo/IAO_0000114> <http://purl.obolibrary.org/obo/IAO_0000123> ;
                                              <http://purl.obolibrary.org/obo/IAO_0000117> "Karin Breuer" ;
-                                             <http://purl.obolibrary.org/obo/IAO_0000119> "WEB:http://www.aicompanies.com/"@2011/04/11 ;
+                                             <http://purl.obolibrary.org/obo/IAO_0000119> "WEB:http://www.aicompanies.com/" ;
                                              rdfs:label "Advanced Instruments Inc. (AI Companies)" .
 
 
@@ -14727,7 +14727,7 @@ types of monomer unit. Such molecules must be distributed over a range of molecu
                                              <http://purl.obolibrary.org/obo/IAO_0000111> "Miltenyi Biotec" ;
                                              <http://purl.obolibrary.org/obo/IAO_0000114> <http://purl.obolibrary.org/obo/IAO_0000123> ;
                                              <http://purl.obolibrary.org/obo/IAO_0000117> "Karin Breuer" ;
-                                             <http://purl.obolibrary.org/obo/IAO_0000119> "WEB:http://www.miltenyibiotec.com/"@2011/04/11 ;
+                                             <http://purl.obolibrary.org/obo/IAO_0000119> "WEB:http://www.miltenyibiotec.com/" ;
                                              rdfs:label "Miltenyi Biotec" .
 
 
@@ -14737,7 +14737,7 @@ types of monomer unit. Such molecules must be distributed over a range of molecu
                                              <http://purl.obolibrary.org/obo/IAO_0000111> "AES Chemunex" ;
                                              <http://purl.obolibrary.org/obo/IAO_0000114> <http://purl.obolibrary.org/obo/IAO_0000123> ;
                                              <http://purl.obolibrary.org/obo/IAO_0000117> "Karin Breuer" ;
-                                             <http://purl.obolibrary.org/obo/IAO_0000119> "WEB:http://www.aeschemunex.com/"@2011/04/11 ;
+                                             <http://purl.obolibrary.org/obo/IAO_0000119> "WEB:http://www.aeschemunex.com/" ;
                                              rdfs:label "AES Chemunex" .
 
 
@@ -14747,7 +14747,7 @@ types of monomer unit. Such molecules must be distributed over a range of molecu
                                              <http://purl.obolibrary.org/obo/IAO_0000111> "Bentley Instruments" ;
                                              <http://purl.obolibrary.org/obo/IAO_0000114> <http://purl.obolibrary.org/obo/IAO_0000123> ;
                                              <http://purl.obolibrary.org/obo/IAO_0000117> "Karin Breuer" ;
-                                             <http://purl.obolibrary.org/obo/IAO_0000119> "WEB:http://bentleyinstruments.com/"@2011/04/11 ;
+                                             <http://purl.obolibrary.org/obo/IAO_0000119> "WEB:http://bentleyinstruments.com/" ;
                                              rdfs:label "Bentley Instruments" .
 
 
@@ -14757,7 +14757,7 @@ types of monomer unit. Such molecules must be distributed over a range of molecu
                                              <http://purl.obolibrary.org/obo/IAO_0000111> "Invitrogen" ;
                                              <http://purl.obolibrary.org/obo/IAO_0000114> <http://purl.obolibrary.org/obo/IAO_0000123> ;
                                              <http://purl.obolibrary.org/obo/IAO_0000117> "Karin Breuer" ;
-                                             <http://purl.obolibrary.org/obo/IAO_0000119> "WEB:http://www.invitrogen.com/"@2011/04/11 ;
+                                             <http://purl.obolibrary.org/obo/IAO_0000119> "WEB:http://www.invitrogen.com/" ;
                                              rdfs:label "Invitrogen" .
 
 
@@ -14767,7 +14767,7 @@ types of monomer unit. Such molecules must be distributed over a range of molecu
                                              <http://purl.obolibrary.org/obo/IAO_0000111> "Luminex" ;
                                              <http://purl.obolibrary.org/obo/IAO_0000114> <http://purl.obolibrary.org/obo/IAO_0000123> ;
                                              <http://purl.obolibrary.org/obo/IAO_0000117> "Karin Breuer" ;
-                                             <http://purl.obolibrary.org/obo/IAO_0000119> "WEB:http://www.luminexcorp.com/"@2011/04/11 ;
+                                             <http://purl.obolibrary.org/obo/IAO_0000119> "WEB:http://www.luminexcorp.com/" ;
                                              rdfs:label "Luminex" .
 
 
@@ -14777,7 +14777,7 @@ types of monomer unit. Such molecules must be distributed over a range of molecu
                                              <http://purl.obolibrary.org/obo/IAO_0000111> "CytoBuoy" ;
                                              <http://purl.obolibrary.org/obo/IAO_0000114> <http://purl.obolibrary.org/obo/IAO_0000123> ;
                                              <http://purl.obolibrary.org/obo/IAO_0000117> "Karin Breuer" ;
-                                             <http://purl.obolibrary.org/obo/IAO_0000119> "WEB:http://www.cytobuoy.com/"@2011/04/11 ;
+                                             <http://purl.obolibrary.org/obo/IAO_0000119> "WEB:http://www.cytobuoy.com/" ;
                                              rdfs:label "CytoBuoy" .
 
 
