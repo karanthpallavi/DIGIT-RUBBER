@@ -1,0 +1,26 @@
+p
+
+http://www.geneontology.org/formats/oboInOwl#SubsetProperty
+http://purl.obolibrary.org/obo/RO_0002259
+http://purl.obolibrary.org/obo/valid_for_go_annotation_extension
+http://purl.obolibrary.org/obo/valid_for_go_gp2term
+http://purl.obolibrary.org/obo/valid_for_go_ontology
+http://purl.obolibrary.org/obo/valid_for_gocam
+http://purl.obolibrary.org/obo/chebi#IUPAC_NAME
+http://www.geneontology.org/formats/oboInOwl#SynonymTypeProperty
+http://purl.obolibrary.org/obo/chebi#1_STAR
+http://purl.obolibrary.org/obo/chebi#2_STAR
+http://purl.obolibrary.org/obo/chebi#3_STAR
+http://purl.obolibrary.org/obo/ro/subsets#ro-eco
+
+
+# Deleted
+http://protege.stanford.edu/plugins/owl/protege#defaultLanguage
+http://purl.obolibrary.org/obo/RO_0040042
+http://www.geneontology.org/formats/oboInOwl#default-namespace
+http://www.geneontology.org/formats/oboInOwl#hasOBOFormatVersion
+http://www.geneontology.org/formats/oboInOwl#saved-by
+http://xmlns.com/foaf/0.1/homepage
+http://purl.org/dc/elements/1.1/format
+http://purl.org/dc/elements/1.1/subject
+http://purl.org/dc/elements/1.1/title
