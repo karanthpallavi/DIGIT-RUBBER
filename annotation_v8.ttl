@@ -9720,8 +9720,7 @@ dcterms:description <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ww
 <http://purl.obolibrary.org/obo/SCDO_0000482> <http://purl.org/dc/elements/1.1/creator> "SCDO" .
 <http://purl.obolibrary.org/obo/SCDO_0000484> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#AnnotationProperty> .
 <http://purl.obolibrary.org/obo/SCDO_0000484> <http://www.w3.org/2000/01/rdf-schema#label> "has translations" .
-<http://purl.obolibrary.org/obo/SCDO_0000484> <http://purl.obolibrary.org/obo/SCDO_0000303> "Requested inclusion of this property into RO. Check details here again after inclusion.
- Should be restricted to all measure/questionnaire classes." .
+<http://purl.obolibrary.org/obo/SCDO_0000484> <http://purl.obolibrary.org/obo/SCDO_0000303> "Requested inclusion of this property into RO. Check details here again after inclusion. Should be restricted to all measure/questionnaire classes." .
 <http://purl.obolibrary.org/obo/SCDO_0000484> <http://purl.obolibrary.org/obo/SCDO_0000929> "metadata complete - requires restrictions and relationships" .
 <http://purl.obolibrary.org/obo/SCDO_0000484> <http://purl.obolibrary.org/obo/IAO_0000115> "An account of known translations of a measure into other languages (other than English)." .
 <http://purl.obolibrary.org/obo/SCDO_0000484> <http://purl.org/dc/elements/1.1/creator> "SCDO" .
@@ -9744,30 +9743,26 @@ dcterms:description <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ww
 <http://purl.obolibrary.org/obo/SCDO_0000662> <http://purl.org/dc/elements/1.1/creator> "SCDO" .
 <http://purl.obolibrary.org/obo/SCDO_0000929> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#AnnotationProperty> .
 <http://purl.obolibrary.org/obo/SCDO_0000929> <http://www.w3.org/2000/01/rdf-schema#label> "property has curation status" .
-<http://purl.obolibrary.org/obo/SCDO_0000929> <http://www.w3.org/2000/01/rdf-schema#comment> "Used for properties, not classes.
- For classes, use has curation status object property." .
+<http://purl.obolibrary.org/obo/SCDO_0000929> <http://www.w3.org/2000/01/rdf-schema#comment> "Used for properties, not classes. For classes, use has curation status object property." .
 <http://purl.obolibrary.org/obo/SCDO_0000929> <http://purl.obolibrary.org/obo/SCDO_0000363> "Only label adapted" .
 <http://purl.obolibrary.org/obo/SCDO_0000929> <http://purl.obolibrary.org/obo/SCDO_0000929> "organizational term" .
 <http://purl.obolibrary.org/obo/SCDO_0000929> <http://purl.obolibrary.org/obo/IAO_0000115> "Description inherent in name (not provided by source)" .
 <http://purl.obolibrary.org/obo/SCDO_0001033> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#AnnotationProperty> .
 <http://purl.obolibrary.org/obo/SCDO_0001033> <http://www.w3.org/2000/01/rdf-schema#label> "selection criteria met" .
-<http://purl.obolibrary.org/obo/SCDO_0001033> <http://purl.obolibrary.org/obo/SCDO_0000303> "Requested inclusion of this property into RO. Check details here again after inclusion.
- Should be restricted to all measure/questionnaire classes." .
+<http://purl.obolibrary.org/obo/SCDO_0001033> <http://purl.obolibrary.org/obo/SCDO_0000303> "Requested inclusion of this property into RO. Check details here again after inclusion. Should be restricted to all measure/questionnaire classes." .
 <http://purl.obolibrary.org/obo/SCDO_0001033> <http://purl.obolibrary.org/obo/SCDO_0000929> "metadata complete - requires restrictions and relationships" .
 <http://purl.obolibrary.org/obo/SCDO_0001033> <http://purl.obolibrary.org/obo/IAO_0000115> "A relation between a selected entity and the predefined criteria that were met by the entity and that made it eligible for selection." .
 <http://purl.obolibrary.org/obo/SCDO_0001033> <http://purl.org/dc/elements/1.1/creator> "SCDO" .
 <http://purl.obolibrary.org/obo/SCDO_0001222> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#AnnotationProperty> .
 <http://purl.obolibrary.org/obo/SCDO_0001222> <http://www.w3.org/2000/01/rdf-schema#label> "validated for age ranges" .
-<http://purl.obolibrary.org/obo/SCDO_0001222> <http://purl.obolibrary.org/obo/SCDO_0000303> "Requested inclusion of this property into RO. Check details here again after inclusion.
- Should be restricted to all measure/questionnaire classes." .
+<http://purl.obolibrary.org/obo/SCDO_0001222> <http://purl.obolibrary.org/obo/SCDO_0000303> "Requested inclusion of this property into RO. Check details here again after inclusion.Should be restricted to all measure/questionnaire classes." .
 <http://purl.obolibrary.org/obo/SCDO_0001222> <http://purl.obolibrary.org/obo/SCDO_0000929> "metadata complete - requires restrictions and relationships" .
 <http://purl.obolibrary.org/obo/SCDO_0001222> <http://purl.obolibrary.org/obo/IAO_0000115> "A relation between a measure and the age ranges for which the measure has been validated." .
 <http://purl.obolibrary.org/obo/SCDO_0001222> <http://purl.org/dc/elements/1.1/creator> "SCDO" .
 <http://purl.obolibrary.org/obo/SCDO_0001335> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#AnnotationProperty> .
 <http://purl.obolibrary.org/obo/SCDO_0001335> <http://www.w3.org/2000/01/rdf-schema#label> "freely available" .
 <http://purl.obolibrary.org/obo/SCDO_0001335> <http://www.w3.org/2000/01/rdf-schema#comment> "'yes' indicates that the measure is freely available. 'no' indicates that the measure is not freely available." .
-<http://purl.obolibrary.org/obo/SCDO_0001335> <http://purl.obolibrary.org/obo/SCDO_0000303> "Requested inclusion of this property into RO. Check details here again after inclusion.
- Should be restricted to all measure/questionnaire classes." .
+<http://purl.obolibrary.org/obo/SCDO_0001335> <http://purl.obolibrary.org/obo/SCDO_0000303> "Requested inclusion of this property into RO. Check details here again after inclusion. Should be restricted to all measure/questionnaire classes." .
 <http://purl.obolibrary.org/obo/SCDO_0001335> <http://purl.obolibrary.org/obo/SCDO_0000929> "metadata complete - requires restrictions and relationships" .
 <http://purl.obolibrary.org/obo/SCDO_0001335> <http://purl.obolibrary.org/obo/IAO_0000115> "A relation between a measure (e.g. a survey) and an indication of whether the measure is freely available." .
 <http://purl.obolibrary.org/obo/SCDO_0001335> <http://purl.org/dc/elements/1.1/creator> "SCDO" .
@@ -9786,8 +9781,7 @@ dcterms:description <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ww
 <http://purl.obolibrary.org/obo/SCDO_1000176> <http://purl.org/dc/elements/1.1/creator> "SCDO (Jade Hotchkiss)" .
 <http://purl.obolibrary.org/obo/SCDO_1000288> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#AnnotationProperty> .
 <http://purl.obolibrary.org/obo/SCDO_1000288> <http://www.w3.org/2000/01/rdf-schema#label> "existence in other ontologies" .
-<http://purl.obolibrary.org/obo/SCDO_1000288> <http://www.w3.org/2000/01/rdf-schema#comment> "Annotation options:
-Negligable Not relevant to context of sickle cell Few but definitions not freely available Suggest update to description Suggest update to label None" .
+<http://purl.obolibrary.org/obo/SCDO_1000288> <http://www.w3.org/2000/01/rdf-schema#comment> "Annotation options: Negligable Not relevant to context of sickle cell Few but definitions not freely available Suggest update to description Suggest update to label None" .
 <http://purl.obolibrary.org/obo/SCDO_1000288> <http://purl.obolibrary.org/obo/IAO_0000115> "An indication of whether a term/class already exists in other ontologies. Only used for term (descriptions) that were not taken directly from an existing ontology." .
 <http://purl.obolibrary.org/obo/SCDO_1000288> <http://purl.org/dc/elements/1.1/creator> "SCDO (Jade Hotchkiss)" .
 <http://purl.obolibrary.org/obo/SCDO_1000517> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#AnnotationProperty> .
@@ -9905,8 +9899,7 @@ Negligable Not relevant to context of sickle cell Few but definitions not freely
 <http://purl.obolibrary.org/obo/SEPIO_0000399> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#AnnotationProperty> .
 <http://purl.obolibrary.org/obo/SEPIO_0000399> <http://www.w3.org/2000/01/rdf-schema#label> "is_shortcut" .
 <http://purl.obolibrary.org/obo/SEPIO_0000399> <http://www.w3.org/2000/01/rdf-schema#range> <http://www.w3.org/2001/XMLSchema#boolean> .
-<http://purl.obolibrary.org/obo/SEPIO_0000399> <http://purl.obolibrary.org/obo/IAO_0000115> "Annotation indicating whether a property represents a shortcut relation that can be used to directly link two objects that are indirectly linked through a longer path of two or more edges.  Shortcut relations can be logically expanded to be expressed in terms of this longer path, e.g. 
- has_evidence_from_source = has_evidence_line o has_evidence_item o source." .
+<http://purl.obolibrary.org/obo/SEPIO_0000399> <http://purl.obolibrary.org/obo/IAO_0000115> "Annotation indicating whether a property represents a shortcut relation that can be used to directly link two objects that are indirectly linked through a longer path of two or more edges.  Shortcut relations can be logically expanded to be expressed in terms of this longer path, e.g.  has_evidence_from_source = has_evidence_line o has_evidence_item o source." .
 <http://purl.obolibrary.org/obo/STATO_0000032> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#AnnotationProperty> .
 <http://purl.obolibrary.org/obo/STATO_0000032> <http://www.w3.org/2000/01/rdf-schema#subPropertyOf> <http://purl.obolibrary.org/obo/IAO_0000118> .
 <http://purl.obolibrary.org/obo/STATO_0000032> <http://www.w3.org/2000/01/rdf-schema#label> "STATO alternative term" .
@@ -9962,8 +9955,7 @@ Negligable Not relevant to context of sickle cell Few but definitions not freely
 <http://purl.obolibrary.org/obo/UBPROP_0000001> <http://www.w3.org/2000/01/rdf-schema#comment> "This annotation property may be replaced with an annotation property from an external ontology such as IAO" .
 <http://purl.obolibrary.org/obo/UBPROP_0000001> <http://www.w3.org/2000/01/rdf-schema#comment> "这个注释的属性可以用从外部本体如IAO注解属性替换" .
 <http://purl.obolibrary.org/obo/UBPROP_0000001> <http://www.w3.org/2000/01/rdf-schema#comment> "This annotation property may be replaced with an annotation property from an external ontology such as IAO" .
-<http://purl.obolibrary.org/obo/UBPROP_0000001> <http://www.w3.org/2000/01/rdf-schema#comment> " .
-This annotation property may be replaced with an annotation property from an external ontology such as IAO " .
+<http://purl.obolibrary.org/obo/UBPROP_0000001> <http://www.w3.org/2000/01/rdf-schema#comment> " . This annotation property may be replaced with an annotation property from an external ontology such as IAO " .
 <http://purl.obolibrary.org/obo/UBPROP_0000001> <http://xmlns.com/foaf/0.1/IAO_0000115> "An alternate textual definition for a class taken unmodified from an external source. This definition may have been used to derive a generalized definition for the new class." .
 <http://purl.obolibrary.org/obo/UBPROP_0000001> <http://xmlns.com/foaf/0.1/IAO_0000115> "An alternate textual definition for a class taken unmodified from an external source. This definition may have been used to derive a generalized definition for the new class." .
 <http://purl.obolibrary.org/obo/UBPROP_0000001> <http://xmlns.com/foaf/0.1/IAO_0000115> "对外部来源未修改的类的替代文本定义。这个定义可能被用来为新类推导出一个广义的定义。" .
@@ -9978,8 +9970,7 @@ This annotation property may be replaced with an annotation property from an ext
 <http://purl.obolibrary.org/obo/UBPROP_0000001> <http://purl.obolibrary.org/obo/IAO_0000115> "An alternate textual definition for a class taken unmodified from an external source. This definition may have been used to derive a generalized definition for the new class." .
 <http://purl.obolibrary.org/obo/UBPROP_0000001> <http://purl.obolibrary.org/obo/IAO_0000115> "An alternate textual definition for a class taken unmodified from an external source. This definition may have been used to derive a generalized definition for the new class." .
 <http://purl.obolibrary.org/obo/UBPROP_0000001> <http://purl.obolibrary.org/obo/IAO_0000115> "An alternate textual definition for a class taken unmodified from an external source. This definition may have been used to derive a generalized definition for the new class." .
-<http://purl.obolibrary.org/obo/UBPROP_0000001> <http://purl.obolibrary.org/obo/IAO_0000115> " .
-An alternate textual definition for a class taken unmodified from an external source. This definition may have been used to derive a generalized definition for the new class. " .
+<http://purl.obolibrary.org/obo/UBPROP_0000001> <http://purl.obolibrary.org/obo/IAO_0000115> " . An alternate textual definition for a class taken unmodified from an external source. This definition may have been used to derive a generalized definition for the new class. " .
 <http://purl.obolibrary.org/obo/UBPROP_0000001> <http://purl.obolibrary.org/obo/is_metadata_tag> 1 .
 <http://purl.obolibrary.org/obo/UBPROP_0000001> <http://purl.obolibrary.org/obo/is_metadata_tag> 1 .
 <http://purl.obolibrary.org/obo/UBPROP_0000001> <http://www.geneontology.org/formats/oboInOwl#is_metadata_tag> 1 .
@@ -10044,8 +10035,7 @@ An alternate textual definition for a class taken unmodified from an external so
 <http://purl.obolibrary.org/obo/UBPROP_0000003> <http://www.w3.org/2000/01/rdf-schema#comment> "This annotation property may be replaced with an annotation property from an external ontology such as IAO" .
 <http://purl.obolibrary.org/obo/UBPROP_0000003> <http://www.w3.org/2000/01/rdf-schema#comment> "这个注释的属性可以用从外部本体如IAO注解属性替换" .
 <http://purl.obolibrary.org/obo/UBPROP_0000003> <http://www.w3.org/2000/01/rdf-schema#comment> "This annotation property may be replaced with an annotation property from an external ontology such as IAO" .
-<http://purl.obolibrary.org/obo/UBPROP_0000003> <http://www.w3.org/2000/01/rdf-schema#comment> " .
-This annotation property may be replaced with an annotation property from an external ontology such as IAO " .
+<http://purl.obolibrary.org/obo/UBPROP_0000003> <http://www.w3.org/2000/01/rdf-schema#comment> " . This annotation property may be replaced with an annotation property from an external ontology such as IAO " .
 <http://purl.obolibrary.org/obo/UBPROP_0000003> <http://xmlns.com/foaf/0.1/IAO_0000115> "Notes on the homology status of this class." .
 <http://purl.obolibrary.org/obo/UBPROP_0000003> <http://xmlns.com/foaf/0.1/IAO_0000115> "Notes on the homology status of this class." .
 <http://purl.obolibrary.org/obo/UBPROP_0000003> <http://xmlns.com/foaf/0.1/IAO_0000115> "关于这个类的同源性状态的注释。" .
@@ -10752,8 +10742,7 @@ This annotation property may be replaced with an annotation property from an ext
 <http://purl.obolibrary.org/obo/VO_0003160> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#AnnotationProperty> .
 <http://purl.obolibrary.org/obo/VO_0003160> <http://www.w3.org/2000/01/rdf-schema#label> "FDA vaccine indications" .
 <http://purl.obolibrary.org/obo/VO_0003160> <http://www.w3.org/2000/01/rdf-schema#label> "FDA vaccine indications" .
-<http://purl.obolibrary.org/obo/VO_0003160> <http://purl.obolibrary.org/obo/IAO_0000112> "The vaccine Prevnar has the indications:
-- Immunization of infants 2, 4, 6 and 12-15 months of age to prevent invasive pneumococcal disease. - Immunization of infants and toddlers against otitis media caused by vaccine serotypes. Reference: https://www.fda.gov/biologicsbloodvaccines/vaccines/approvedproducts/ucm180017.htm" .
+<http://purl.obolibrary.org/obo/VO_0003160> <http://purl.obolibrary.org/obo/IAO_0000112> "The vaccine Prevnar has the indications:- Immunization of infants 2, 4, 6 and 12-15 months of age to prevent invasive pneumococcal disease. - Immunization of infants and toddlers against otitis media caused by vaccine serotypes. Reference: https://www.fda.gov/biologicsbloodvaccines/vaccines/approvedproducts/ucm180017.htm" .
 <http://purl.obolibrary.org/obo/VO_0003160> <http://purl.obolibrary.org/obo/IAO_0000117> "Oliver He, Kallan Roan" .
 <http://purl.obolibrary.org/obo/VO_0003160> <http://purl.obolibrary.org/obo/IAO_0000115> "An annotation property that represents the indications of a vaccine defined by the USA FDA." .
 <http://purl.obolibrary.org/obo/VO_0003161> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#AnnotationProperty> .
@@ -11006,14 +10995,14 @@ This annotation property may be replaced with an annotation property from an ext
 <http://purl.obolibrary.org/obo/cl#abbreviation> <http://www.w3.org/2000/01/rdf-schema#subPropertyOf> <http://www.geneontology.org/formats/oboInOwl#SynonymTypeProperty> .
 <http://purl.obolibrary.org/obo/cl#abbreviation> <http://www.w3.org/2000/01/rdf-schema#label> "abbreviation" .
 <http://purl.obolibrary.org/obo/cl#abbreviation> <http://purl.org/dc/terms/contributor> <https://orcid.org/0000-0002-1773-2692> .
-<http://purl.obolibrary.org/obo/cl#abbreviation> <http://purl.org/dc/elements/1.1/date> 2022-03-29T15:09:49Z .
+<http://purl.obolibrary.org/obo/cl#abbreviation> <http://purl.org/dc/elements/1.1/date> "2022-03-29T15:09:49Z" .
 <http://purl.obolibrary.org/obo/cl#added_for_HCA> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#AnnotationProperty> .
 <http://purl.obolibrary.org/obo/cl#added_for_HCA> <http://www.w3.org/2000/01/rdf-schema#subPropertyOf> <http://www.geneontology.org/formats/oboInOwl#SubsetProperty> .
 <http://purl.obolibrary.org/obo/cl#blood_and_immune_upper_slim> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#AnnotationProperty> .
 <http://purl.obolibrary.org/obo/cl#blood_and_immune_upper_slim> <http://www.w3.org/2000/01/rdf-schema#subPropertyOf> <http://www.geneontology.org/formats/oboInOwl#SubsetProperty> .
 <http://purl.obolibrary.org/obo/cl#blood_and_immune_upper_slim> <http://www.w3.org/2000/01/rdf-schema#label> "blood_and_immune_upper_slim" .
 <http://purl.obolibrary.org/obo/cl#blood_and_immune_upper_slim> <http://www.w3.org/2000/01/rdf-schema#comment> "a subset of general classes related to blood and the immune system, primarily of hematopoietic origin" .
-<http://purl.obolibrary.org/obo/cl#blood_and_immune_upper_slim> <http://purl.org/dc/terms/date> "2023-03-31T09:17:34Z
+<http://purl.obolibrary.org/obo/cl#blood_and_immune_upper_slim> <http://purl.org/dc/terms/date> "2023-03-31T09:17:34Z" .
 <http://purl.obolibrary.org/obo/cl#created_by> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#AnnotationProperty> .
 <http://purl.obolibrary.org/obo/cl#eye_upper_slim> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#AnnotationProperty> .
 <http://purl.obolibrary.org/obo/cl#eye_upper_slim> <http://www.w3.org/2000/01/rdf-schema#subPropertyOf> <http://www.geneontology.org/formats/oboInOwl#SubsetProperty> .
@@ -11796,7 +11785,7 @@ This annotation property may be replaced with an annotation property from an ext
 <http://purl.obolibrary.org/obo/hp#display_label> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#AnnotationProperty> .
 <http://purl.obolibrary.org/obo/hp#display_label> <http://www.w3.org/2000/01/rdf-schema#label> "display label" .
 <http://purl.obolibrary.org/obo/hp#display_label> <http://www.w3.org/2000/01/rdf-schema#label> "display label" .
-<http://purl.obolibrary.org/obo/hp#display_label> <http://purl.org/dc/elements/1.1/date> 2018-07-05T13:18:08Z .
+<http://purl.obolibrary.org/obo/hp#display_label> <http://purl.org/dc/elements/1.1/date> "2018-07-05T13:18:08Z" .
 <http://purl.obolibrary.org/obo/hp#display_label> <http://www.geneontology.org/formats/oboInOwl#created_by> "peter" .
 <http://purl.obolibrary.org/obo/hp#display_label> <http://purl.org/dc/terms/creator> <https://orcid.org/0000-0002-0736-9199> .
 <http://purl.obolibrary.org/obo/hp#hposlim_core> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#AnnotationProperty> .
@@ -11817,7 +11806,7 @@ This annotation property may be replaced with an annotation property from an ext
 <http://purl.obolibrary.org/obo/hp#obsolete_synonym> <http://www.w3.org/2000/01/rdf-schema#subPropertyOf> <http://www.geneontology.org/formats/oboInOwl#SynonymTypeProperty> .
 <http://purl.obolibrary.org/obo/hp#obsolete_synonym> <http://www.w3.org/2000/01/rdf-schema#label> "discarded/obsoleted synonym" .
 <http://purl.obolibrary.org/obo/hp#obsolete_synonym> <http://www.w3.org/2000/01/rdf-schema#label> "discarded/obsoleted synonym" .
-<http://purl.obolibrary.org/obo/hp#obsolete_synonym> <http://purl.org/dc/elements/1.1/date> 2018-05-05T19:01:17Z .
+<http://purl.obolibrary.org/obo/hp#obsolete_synonym> <http://purl.org/dc/elements/1.1/date> "2018-05-05T19:01:17Z" .
 <http://purl.obolibrary.org/obo/hp#obsolete_synonym> <http://www.geneontology.org/formats/oboInOwl#created_by> "peter" .
 <http://purl.obolibrary.org/obo/hp#obsolete_synonym> <http://purl.org/dc/terms/creator> <https://orcid.org/0000-0002-0736-9199> .
 <http://purl.obolibrary.org/obo/hp#plural_form> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#AnnotationProperty> .
@@ -11923,8 +11912,7 @@ This annotation property may be replaced with an annotation property from an ext
 <http://purl.obolibrary.org/obo/hydrophilicPEGchain_> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#AnnotationProperty> .
 <http://purl.obolibrary.org/obo/iao/IAO_0000599> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#AnnotationProperty> .
 <http://purl.obolibrary.org/obo/iao/IAO_0000599> <http://www.w3.org/2000/01/rdf-schema#label> "has ID prefix" .
-<http://purl.obolibrary.org/obo/iao/IAO_0000599> <http://purl.obolibrary.org/obo/IAO_0000112> "Ontology: <http://purl.obolibrary.org/obo/ro/idrange/>
-  Annotations:       'has ID prefix': "<http://purl.obolibrary.org/obo/RO_ .      'has ID digit count' : 7,      rdfs:label RO id policy .      'has ID policy for': RO" .
+<http://purl.obolibrary.org/obo/iao/IAO_0000599> <http://purl.obolibrary.org/obo/IAO_0000112> "Ontology: <http://purl.obolibrary.org/obo/ro/idrange/> Annotations:       'has ID prefix': <http://purl.obolibrary.org/obo/RO_ .      'has ID digit count' : 7,      rdfs:label RO id policy .      'has ID policy for': RO" .
 <http://purl.obolibrary.org/obo/iao/IAO_0000599> <http://purl.obolibrary.org/obo/IAO_0000117> "Person:Alan Ruttenberg" .
 <http://purl.obolibrary.org/obo/iao/IAO_0000599> <http://purl.obolibrary.org/obo/IAO_0000115> "Relates an ontology used to record id policy to a prefix concatenated with an integer in the id range (left padded with 0s to make this many digits) to construct an ID for a term being created." .
 <http://purl.obolibrary.org/obo/id> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#AnnotationProperty> .
@@ -12513,16 +12501,14 @@ This annotation property may be replaced with an annotation property from an ext
 <http://purl.obolibrary.org/obo/ncbitaxon#has_rank> <http://www.w3.org/2000/01/rdf-schema#label> "has_rank" .
 <http://purl.obolibrary.org/obo/ncbitaxon#has_rank> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <http://purl.obolibrary.org/obo/ncbitaxon.owl> .
 <http://purl.obolibrary.org/obo/ncbitaxon#has_rank> <http://www.w3.org/2000/01/rdf-schema#comment> "This is an abstract class for use with the NCBI taxonomy to name the depth of the node within the tree. The link between the node term and the rank is only visible if you are using an obo 1.3 aware browser/editor; otherwise this can be ignored" .
-<http://purl.obolibrary.org/obo/ncbitaxon#has_rank> <http://www.w3.org/2000/01/rdf-schema#comment> " .
-This is an abstract class for use with the NCBI taxonomy to name the depth of the node within the tree. The link between the node term and the rank is only visible if you are using an obo 1.3 aware browser/editor; otherwise this can be ignored " .
+<http://purl.obolibrary.org/obo/ncbitaxon#has_rank> <http://www.w3.org/2000/01/rdf-schema#comment> " . This is an abstract class for use with the NCBI taxonomy to name the depth of the node within the tree. The link between the node term and the rank is only visible if you are using an obo 1.3 aware browser/editor; otherwise this can be ignored " .
 <http://purl.obolibrary.org/obo/ncbitaxon#has_rank> <http://www.w3.org/2000/01/rdf-schema#comment> "This is an abstract class for use with the NCBI taxonomy to name the depth of the node within the tree. The link between the node term and the rank is only visible if you are using an obo 1.3 aware browser/editor; otherwise this can be ignored" .
 <http://purl.obolibrary.org/obo/ncbitaxon#has_rank> <http://www.geneontology.org/formats/oboInOwl#hasOBONamespace> "ncbi_taxonomy" .
 <http://purl.obolibrary.org/obo/ncbitaxon#has_rank> <http://www.geneontology.org/formats/oboInOwl#hasOBONamespace> "ncbi_taxonomy" .
 <http://purl.obolibrary.org/obo/ncbitaxon#has_rank> <http://www.geneontology.org/formats/oboInOwl#hasOBONamespace> "ncbi_taxonomy" .
 <http://purl.obolibrary.org/obo/ncbitaxon#has_rank> <http://purl.obolibrary.org/obo/IAO_0000115> "A metadata relation between a class and its taxonomic rank (eg species, family)" .
 <http://purl.obolibrary.org/obo/ncbitaxon#has_rank> <http://purl.obolibrary.org/obo/IAO_0000115> "A metadata relation between a class and its taxonomic rank (eg species, family)" .
-<http://purl.obolibrary.org/obo/ncbitaxon#has_rank> <http://purl.obolibrary.org/obo/IAO_0000115> " .
-A metadata relation between a class and its taxonomic rank (eg species, family) " .
+<http://purl.obolibrary.org/obo/ncbitaxon#has_rank> <http://purl.obolibrary.org/obo/IAO_0000115> " . A metadata relation between a class and its taxonomic rank (eg species, family) " .
 <http://purl.obolibrary.org/obo/ncbitaxon#has_rank> <http://purl.obolibrary.org/obo/IAO_0000115> "A metadata relation between a class and its taxonomic rank (eg species, family)" .
 <http://purl.obolibrary.org/obo/ncbitaxon#has_rank> <http://purl.obolibrary.org/obo/hasOBONamespace> "ncbi_taxonomy" .
 <http://purl.obolibrary.org/obo/ncbitaxon#has_rank> <http://purl.obolibrary.org/obo/hasOBONamespace> "ncbi_taxonomy" .
@@ -13184,16 +13170,12 @@ A metadata relation between a class and its taxonomic rank (eg species, family) 
 <http://purl.obolibrary.org/obo/uberon/core#human_reference_atlas> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#AnnotationProperty> .
 <http://purl.obolibrary.org/obo/uberon/core#human_reference_atlas> <http://www.w3.org/2000/01/rdf-schema#subPropertyOf> <http://www.geneontology.org/formats/oboInOwl#SubsetProperty> .
 <http://purl.obolibrary.org/obo/uberon/core#human_reference_atlas> <http://www.w3.org/2000/01/rdf-schema#label> "human_reference_atlas" .
-<http://purl.obolibrary.org/obo/uberon/core#human_reference_atlas> <http://www.w3.org/2000/01/rdf-schema#comment>  .
-<http://purl.obolibrary.org/obo/uberon/core#human_reference_atlas> <http://www.w3.org/2000/01/rdf-schema#comment>  .
 <http://purl.obolibrary.org/obo/uberon/core#inconsistent_with_fma> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#AnnotationProperty> .
 <http://purl.obolibrary.org/obo/uberon/core#inconsistent_with_fma> <http://www.w3.org/2000/01/rdf-schema#subPropertyOf> <http://www.geneontology.org/formats/oboInOwl#SubsetProperty> .
 <http://purl.obolibrary.org/obo/uberon/core#inconsistent_with_fma> <http://www.w3.org/2000/01/rdf-schema#comment> "classes that have some inconsistency with FMA" .
 <http://purl.obolibrary.org/obo/uberon/core#inconsistent_with_fma> <http://www.w3.org/2000/01/rdf-schema#comment> "classes that have some inconsistency with FMA" .
 <http://purl.obolibrary.org/obo/uberon/core#location_grouping> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#AnnotationProperty> .
 <http://purl.obolibrary.org/obo/uberon/core#location_grouping> <http://www.w3.org/2000/01/rdf-schema#subPropertyOf> <http://www.geneontology.org/formats/oboInOwl#SubsetProperty> .
-<http://purl.obolibrary.org/obo/uberon/core#location_grouping> <http://www.w3.org/2000/01/rdf-schema#comment>  .
-<http://purl.obolibrary.org/obo/uberon/core#location_grouping> <http://www.w3.org/2000/01/rdf-schema#comment>  .
 <http://purl.obolibrary.org/obo/uberon/core#major_organ> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#AnnotationProperty> .
 <http://purl.obolibrary.org/obo/uberon/core#major_organ> <http://www.w3.org/2000/01/rdf-schema#subPropertyOf> <http://www.geneontology.org/formats/oboInOwl#SubsetProperty> .
 <http://purl.obolibrary.org/obo/uberon/core#major_organ> <http://www.w3.org/2000/01/rdf-schema#comment> "somewhat fuzzy grouping for analysis purposes, currently composed of something like: liver, heart, skeletal, kidney, bladder, brain, skin, mouth, esophagus, stomach, small intestine, large intestines, trachea nose, lungs, brain, spinal cord,  peripheral nerves, kidneys, ureters, bladder, urethra, gonads" .
@@ -13257,7 +13239,7 @@ A metadata relation between a class and its taxonomic rank (eg species, family) 
 <http://purl.obolibrary.org/obo/valid_for_go_annotation_extension> <http://www.geneontology.org/formats/oboInOwl#created_by> <https://orcid.org/0000-0003-1813-6857> .
 <http://purl.obolibrary.org/obo/valid_for_go_annotation_extension> <http://www.geneontology.org/formats/oboInOwl#created_by> "pg" .
 <http://purl.obolibrary.org/obo/valid_for_go_annotation_extension> <http://www.geneontology.org/formats/oboInOwl#created_by> "pg" .
-<http://purl.obolibrary.org/obo/valid_for_go_annotation_extension> <http://www.geneontology.org/formats/oboInOwl#creation_date> 2020-09-22T11:05:29Z
+<http://purl.obolibrary.org/obo/valid_for_go_annotation_extension> <http://www.geneontology.org/formats/oboInOwl#creation_date> "2020-09-22T11:05:29Z" .
 <http://purl.obolibrary.org/obo/valid_for_go_gp2term> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#AnnotationProperty> .
 <http://purl.obolibrary.org/obo/valid_for_go_gp2term> <http://www.w3.org/2000/01/rdf-schema#subPropertyOf> <http://www.geneontology.org/formats/oboInOwl#SubsetProperty> .
 <http://purl.obolibrary.org/obo/valid_for_go_gp2term> <http://www.w3.org/2000/01/rdf-schema#label> "valid_for_go_gp2term" .
@@ -13265,7 +13247,7 @@ A metadata relation between a class and its taxonomic rank (eg species, family) 
 <http://purl.obolibrary.org/obo/valid_for_go_gp2term> <http://www.geneontology.org/formats/oboInOwl#created_by> <https://orcid.org/0000-0003-1813-6857> .
 <http://purl.obolibrary.org/obo/valid_for_go_gp2term> <http://www.geneontology.org/formats/oboInOwl#created_by> "pg" .
 <http://purl.obolibrary.org/obo/valid_for_go_gp2term> <http://www.geneontology.org/formats/oboInOwl#created_by> "pg" .
-<http://purl.obolibrary.org/obo/valid_for_go_gp2term> <http://www.geneontology.org/formats/oboInOwl#creation_date> 2020-09-22T11:05:18Z
+<http://purl.obolibrary.org/obo/valid_for_go_gp2term> <http://www.geneontology.org/formats/oboInOwl#creation_date> "2020-09-22T11:05:18Z" .
 <http://purl.obolibrary.org/obo/valid_for_go_ontology> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#AnnotationProperty> .
 <http://purl.obolibrary.org/obo/valid_for_go_ontology> <http://www.w3.org/2000/01/rdf-schema#subPropertyOf> <http://www.geneontology.org/formats/oboInOwl#SubsetProperty> .
 <http://purl.obolibrary.org/obo/valid_for_go_ontology> <http://www.w3.org/2000/01/rdf-schema#label> "valid_for_go_ontology" .
@@ -13273,7 +13255,7 @@ A metadata relation between a class and its taxonomic rank (eg species, family) 
 <http://purl.obolibrary.org/obo/valid_for_go_ontology> <http://www.geneontology.org/formats/oboInOwl#created_by> <https://orcid.org/0000-0003-1813-6857> .
 <http://purl.obolibrary.org/obo/valid_for_go_ontology> <http://www.geneontology.org/formats/oboInOwl#created_by> "pg" .
 <http://purl.obolibrary.org/obo/valid_for_go_ontology> <http://www.geneontology.org/formats/oboInOwl#created_by> "pg" .
-<http://purl.obolibrary.org/obo/valid_for_go_ontology> <http://www.geneontology.org/formats/oboInOwl#creation_date> 2020-09-22T11:04:12Z
+<http://purl.obolibrary.org/obo/valid_for_go_ontology> <http://www.geneontology.org/formats/oboInOwl#creation_date> "2020-09-22T11:04:12Z" .
 <http://purl.obolibrary.org/obo/valid_for_gocam> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#AnnotationProperty> .
 <http://purl.obolibrary.org/obo/valid_for_gocam> <http://www.w3.org/2000/01/rdf-schema#subPropertyOf> <http://www.geneontology.org/formats/oboInOwl#SubsetProperty> .
 <http://purl.obolibrary.org/obo/valid_for_gocam> <http://www.w3.org/2000/01/rdf-schema#label> "valid_for_gocam" .
@@ -13281,7 +13263,7 @@ A metadata relation between a class and its taxonomic rank (eg species, family) 
 <http://purl.obolibrary.org/obo/valid_for_gocam> <http://www.geneontology.org/formats/oboInOwl#created_by> <https://orcid.org/0000-0003-1813-6857> .
 <http://purl.obolibrary.org/obo/valid_for_gocam> <http://www.geneontology.org/formats/oboInOwl#created_by> "pg" .
 <http://purl.obolibrary.org/obo/valid_for_gocam> <http://www.geneontology.org/formats/oboInOwl#created_by> "pg" .
-<http://purl.obolibrary.org/obo/valid_for_gocam> <http://www.geneontology.org/formats/oboInOwl#creation_date> 2020-09-22T11:05:45Z
+<http://purl.obolibrary.org/obo/valid_for_gocam> <http://www.geneontology.org/formats/oboInOwl#creation_date> "2020-09-22T11:05:45Z" .
 <http://purl.obolibrary.org/obo/vbo#breed_code> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#AnnotationProperty> .
 <http://purl.obolibrary.org/obo/vbo#breed_code> <http://www.w3.org/2000/01/rdf-schema#label> "breed code" .
 <http://purl.obolibrary.org/obo/vbo#breed_recognition_status> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#AnnotationProperty> .
@@ -13594,17 +13576,12 @@ A metadata relation between a class and its taxonomic rank (eg species, family) 
 <http://purl.org/dc/elements/1.1/contributor> <http://www.w3.org/2000/01/rdf-schema#label> "Contributor" .
 <http://purl.org/dc/elements/1.1/contributor> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <http://purl.org/dc/elements/1.1/> .
 <http://purl.org/dc/elements/1.1/contributor> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <http://purl.org/dc/elements/1.1.owl> .
-<http://purl.org/dc/elements/1.1/contributor> <http://www.w3.org/2000/01/rdf-schema#comment> "An entity responsible for making contributions to the
-         content of the resource." .
-<http://purl.org/dc/elements/1.1/contributor> <http://www.w3.org/2000/01/rdf-schema#comment> "一个实体应该有助于
-         资源的内容" .
 <http://purl.org/dc/elements/1.1/contributor> <http://www.w3.org/2000/01/rdf-schema#comment> "An entity responsible for making contributions to the content of the resource." .
-<http://purl.org/dc/elements/1.1/contributor> <http://purl.org/dc/elements/1.1/description> "Examples of a Contributor include a person, an 
-         organisation, or a service.  Typically, the name of a           Contributor should be used to indicate the entity." .
-<http://purl.org/dc/elements/1.1/contributor> <http://purl.org/dc/elements/1.1/description> "贡献者的例子包括一个人，一个
-         组织或者一个服务。  典型地， 一个贡献者的名字          应该用于指示这个实体." .
-<http://purl.org/dc/elements/1.1/contributor> <http://purl.org/dc/elements/1.1/description> "Examples of a Contributor include a person, an
-         organisation, or a service.  Typically, the name of a          Contributor should be used to indicate the entity." .
+<http://purl.org/dc/elements/1.1/contributor> <http://www.w3.org/2000/01/rdf-schema#comment> "一个实体应该有助于 资源的内容" .
+<http://purl.org/dc/elements/1.1/contributor> <http://www.w3.org/2000/01/rdf-schema#comment> "An entity responsible for making contributions to the content of the resource." .
+<http://purl.org/dc/elements/1.1/contributor> <http://purl.org/dc/elements/1.1/description> "Examples of a Contributor include a person, an   organisation, or a service.  Typically, the name of a           Contributor should be used to indicate the entity." .
+<http://purl.org/dc/elements/1.1/contributor> <http://purl.org/dc/elements/1.1/description> "贡献者的例子包括一个人，一个  组织或者一个服务。  典型地， 一个贡献者的名字          应该用于指示这个实体." .
+<http://purl.org/dc/elements/1.1/contributor> <http://purl.org/dc/elements/1.1/description> "Examples of a Contributor include a person, an  organisation, or a service.  Typically, the name of a          Contributor should be used to indicate the entity." .
 <http://purl.org/dc/elements/1.1/contributor> <http://purl.org/dc/elements/1.1/description> "Examples of a Contributor include a person, an organisation, or a service. Typically, the name of a Contributor should be used to indicate the entity." .
 <http://purl.org/dc/elements/1.1/contributor> <http://purl.org/dc/elements/1.1/identifier> "contributor" .
 <http://purl.org/dc/elements/1.1/contributor> <http://www.geneontology.org/formats/oboInOwl#hasDbXref> <http://purl.org/dc/elements/1.1/contributor> .
@@ -13620,8 +13597,7 @@ A metadata relation between a class and its taxonomic rank (eg species, family) 
 <http://purl.org/dc/elements/1.1/contributor> <http://www.geneontology.org/formats/oboInOwl#shorthand> "dc-contributor" .
 <http://purl.org/dc/elements/1.1/contributor> <http://purl.obolibrary.org/obo/is_metadata_tag> 1 .
 <http://purl.org/dc/elements/1.1/contributor> <http://purl.obolibrary.org/obo/is_metadata_tag> 1 .
-<http://purl.org/dc/elements/1.1/contributor> <http://purl.org/dc/terms/description> "Examples of a Contributor include a person, an 
-         organisation, or a service.  Typically, the name of a           Contributor should be used to indicate the entity." .
+<http://purl.org/dc/elements/1.1/contributor> <http://purl.org/dc/terms/description> "Examples of a Contributor include a person, an    organisation, or a service.  Typically, the name of a           Contributor should be used to indicate the entity." .
 <http://purl.org/dc/elements/1.1/contributor> <http://www.geneontology.org/formats/oboInOwl#is_metadata_tag> 1 .
 <http://purl.org/dc/elements/1.1/contributor> <http://www.geneontology.org/formats/oboInOwl#is_metadata_tag> 1 .
 <http://purl.org/dc/elements/1.1/contributor> <http://purl.obolibrary.org/obo/hasDbXref> <http://purl.org/dc/elements/1.1/contributor> .
@@ -13640,8 +13616,7 @@ A metadata relation between a class and its taxonomic rank (eg species, family) 
 <http://purl.org/dc/elements/1.1/coverage> <http://www.w3.org/2000/01/rdf-schema#label> "Coverage" .
 <http://purl.org/dc/elements/1.1/coverage> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <http://purl.org/dc/elements/1.1/> .
 <http://purl.org/dc/elements/1.1/coverage> <http://www.w3.org/2000/01/rdf-schema#comment> "The extent or scope of the content of the resource." .
-<http://purl.org/dc/elements/1.1/coverage> <http://purl.org/dc/elements/1.1/description> "Coverage will typically include spatial location (a place name
-         or geographic coordinates), temporal period (a period label,          date, or date range) or jurisdiction (such as a named          administrative entity).          Recommended best practice is to select a value from a          controlled vocabulary (for example, the Thesaurus of Geographic          Names [TGN]) and that, where appropriate, named places or time          periods be used in preference to numeric identifiers such as          sets of coordinates or date ranges." .
+<http://purl.org/dc/elements/1.1/coverage> <http://purl.org/dc/elements/1.1/description> "Coverage will typically include spatial location (a place name  or geographic coordinates), temporal period (a period label,          date, or date range) or jurisdiction (such as a named          administrative entity).          Recommended best practice is to select a value from a          controlled vocabulary (for example, the Thesaurus of Geographic          Names [TGN]) and that, where appropriate, named places or time          periods be used in preference to numeric identifiers such as          sets of coordinates or date ranges." .
 <http://purl.org/dc/elements/1.1/coverage> <http://purl.obolibrary.org/obo/SCDO_0000340> <http://purl.org/dc/terms/coverage> .
 <http://purl.org/dc/elements/1.1/coverage> <http://purl.obolibrary.org/obo/SCDO_0000363> "no" .
 <http://purl.org/dc/elements/1.1/coverage> <http://purl.obolibrary.org/obo/SCDO_0000929> "ontology annotation property" .
@@ -13658,15 +13633,11 @@ A metadata relation between a class and its taxonomic rank (eg species, family) 
 <http://purl.org/dc/elements/1.1/creator> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <http://purl.org/dc/elements/1.1/> .
 <http://purl.org/dc/elements/1.1/creator> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <http://purl.obolibrary.org/obo/ohd/imports/iao_import.owl> .
 <http://purl.org/dc/elements/1.1/creator> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <http://purl.org/dc/elements/1.1.owl> .
-<http://purl.org/dc/elements/1.1/creator> <http://www.w3.org/2000/01/rdf-schema#comment> "An entity primarily responsible for making the content 
-         of the resource." .
-<http://purl.org/dc/elements/1.1/creator> <http://www.w3.org/2000/01/rdf-schema#comment> "An entity primarily responsible for making the content
-         of the resource." .
+<http://purl.org/dc/elements/1.1/creator> <http://www.w3.org/2000/01/rdf-schema#comment> "An entity primarily responsible for making the content  of the resource." .
+<http://purl.org/dc/elements/1.1/creator> <http://www.w3.org/2000/01/rdf-schema#comment> "An entity primarily responsible for making the content  of the resource." .
 <http://purl.org/dc/elements/1.1/creator> <http://www.w3.org/2000/01/rdf-schema#comment> "An entity primarily responsible for making the content of the resource." .
-<http://purl.org/dc/elements/1.1/creator> <http://purl.org/dc/elements/1.1/description> "Examples of a Creator include a person, an organisation,
-         or a service.  Typically, the name of a Creator should           be used to indicate the entity." .
-<http://purl.org/dc/elements/1.1/creator> <http://purl.org/dc/elements/1.1/description> "Examples of a Creator include a person, an organisation,
-         or a service.  Typically, the name of a Creator should          be used to indicate the entity." .
+<http://purl.org/dc/elements/1.1/creator> <http://purl.org/dc/elements/1.1/description> "Examples of a Creator include a person, an organisation, or a service.  Typically, the name of a Creator should           be used to indicate the entity." .
+<http://purl.org/dc/elements/1.1/creator> <http://purl.org/dc/elements/1.1/description> "Examples of a Creator include a person, an organisation, or a service.  Typically, the name of a Creator should          be used to indicate the entity." .
 <http://purl.org/dc/elements/1.1/creator> <http://purl.org/dc/elements/1.1/description> "Examples of a Creator include a person, an organisation, or a service. Typically, the name of a Creator should be used to indicate the entity." .
 <http://purl.org/dc/elements/1.1/creator> <http://purl.org/dc/elements/1.1/identifier> "creator" .
 <http://purl.org/dc/elements/1.1/creator> <http://purl.obolibrary.org/obo/SCDO_0000340> <http://purl.org/dc/terms/creator> .
@@ -13683,8 +13654,7 @@ A metadata relation between a class and its taxonomic rank (eg species, family) 
 <http://purl.org/dc/elements/1.1/creator> <http://www.geneontology.org/formats/oboInOwl#shorthand> "dc-creator" .
 <http://purl.org/dc/elements/1.1/creator> <http://www.geneontology.org/formats/oboInOwl#shorthand> "dc-creator" .
 <http://purl.org/dc/elements/1.1/creator> <http://purl.obolibrary.org/obo/IAO_0000115> "An entity primarily responsible for making the resource. (This property is used in the SCDO when a term was created by the SCDO Working Group or a curator.) The SCDO uses this especially to apply to term descriptions." .
-<http://purl.org/dc/elements/1.1/creator> <http://purl.org/dc/terms/description> "Examples of a Creator include a person, an organisation,
-         or a service.  Typically, the name of a Creator should           be used to indicate the entity." .
+<http://purl.org/dc/elements/1.1/creator> <http://purl.org/dc/terms/description> "Examples of a Creator include a person, an organisation,  or a service.  Typically, the name of a Creator should           be used to indicate the entity." .
 <http://purl.org/dc/elements/1.1/creator> <http://www.geneontology.org/formats/oboInOwl#is_metadata_tag> 1 .
 <http://purl.org/dc/elements/1.1/creator> <http://www.w3.org/2004/02/skos/core#prefLabel> "Creator" .
 <http://purl.org/dc/elements/1.1/date> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#AnnotationProperty> .
@@ -13695,14 +13665,11 @@ A metadata relation between a class and its taxonomic rank (eg species, family) 
 <http://purl.org/dc/elements/1.1/date> <http://www.w3.org/2000/01/rdf-schema#label> "dc:date" .
 <http://purl.org/dc/elements/1.1/date> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <http://purl.org/dc/elements/1.1/> .
 <http://purl.org/dc/elements/1.1/date> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <http://purl.org/dc/elements/1.1.owl> .
-<http://purl.org/dc/elements/1.1/date> <http://www.w3.org/2000/01/rdf-schema#comment> "A date associated with an event in the life cycle of the
-         resource." .
 <http://purl.org/dc/elements/1.1/date> <http://www.w3.org/2000/01/rdf-schema#comment> "A date associated with an event in the life cycle of the resource." .
-<http://purl.org/dc/elements/1.1/date> <http://purl.org/dc/elements/1.1/description> "Typically, Date will be associated with the creation or
-         availability of the resource.  Recommended best practice          for encoding the date value is defined in a profile of          ISO 8601 [W3CDTF] and follows the YYYY-MM-DD format." .
+<http://purl.org/dc/elements/1.1/date> <http://www.w3.org/2000/01/rdf-schema#comment> "A date associated with an event in the life cycle of the resource." .
+<http://purl.org/dc/elements/1.1/date> <http://purl.org/dc/elements/1.1/description> "Typically, Date will be associated with the creation or availability of the resource.  Recommended best practice          for encoding the date value is defined in a profile of          ISO 8601 [W3CDTF] and follows the YYYY-MM-DD format." .
 <http://purl.org/dc/elements/1.1/date> <http://purl.org/dc/elements/1.1/description> "Typically, Date will be associated with the creation or availability of the resource. Recommended best practice for encoding the date value is defined in a profile of ISO 8601 [W3CDTF] and follows the YYYY-MM-DD format." .
-<http://purl.org/dc/elements/1.1/date> <http://purl.org/dc/terms/description> "Typically, Date will be associated with the creation or
-         availability of the resource.  Recommended best practice          for encoding the date value is defined in a profile of          ISO 8601 [W3CDTF] and follows the YYYY-MM-DD format." .
+<http://purl.org/dc/elements/1.1/date> <http://purl.org/dc/terms/description> "Typically, Date will be associated with the creation or availability of the resource.  Recommended best practice          for encoding the date value is defined in a profile of          ISO 8601 [W3CDTF] and follows the YYYY-MM-DD format." .
 <http://purl.org/dc/elements/1.1/description> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#AnnotationProperty> .
 <http://purl.org/dc/elements/1.1/description> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#DatatypeProperty> .
 <http://purl.org/dc/elements/1.1/description> <http://www.w3.org/2000/01/rdf-schema#label> "Description" .
@@ -13720,10 +13687,8 @@ A metadata relation between a class and its taxonomic rank (eg species, family) 
 <http://purl.org/dc/elements/1.1/description> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <http://purl.org/dc/elements/1.1.owl> .
 <http://purl.org/dc/elements/1.1/description> <http://www.w3.org/2000/01/rdf-schema#comment> "An account of the content of the resource." .
 <http://purl.org/dc/elements/1.1/description> <http://www.w3.org/2000/01/rdf-schema#comment> "资源内容的说明。" .
-<http://purl.org/dc/elements/1.1/description> <http://purl.org/dc/elements/1.1/description> "Description may include but is not limited to: an abstract,
-         table of contents, reference to a graphical representation          of content or a free-text account of the content." .
-<http://purl.org/dc/elements/1.1/description> <http://purl.org/dc/elements/1.1/description> "描述应该包含但不限于一个摘要，
-         内容表格, 内容的图形表示          或内容的自由文本描述" .
+<http://purl.org/dc/elements/1.1/description> <http://purl.org/dc/elements/1.1/description> "Description may include but is not limited to: an abstract,  table of contents, reference to a graphical representation          of content or a free-text account of the content." .
+<http://purl.org/dc/elements/1.1/description> <http://purl.org/dc/elements/1.1/description> "描述应该包含但不限于一个摘要，  内容表格, 内容的图形表示          或内容的自由文本描述" .
 <http://purl.org/dc/elements/1.1/description> <http://purl.org/dc/elements/1.1/description> "Description may include but is not limited to: an abstract, table of contents, reference to a graphical representation of content or a free-text account of the content." .
 <http://purl.org/dc/elements/1.1/description> <http://purl.org/dc/elements/1.1/identifier> "description" .
 <http://purl.org/dc/elements/1.1/description> <http://purl.obolibrary.org/obo/IAO_0000412> <http://purl.obolibrary.org/obo/obi/2017-02-22/obi.owl> .
@@ -13739,8 +13704,7 @@ A metadata relation between a class and its taxonomic rank (eg species, family) 
 <http://purl.org/dc/elements/1.1/description> <http://purl.obolibrary.org/obo/IAO_0000115> "An account of a resource." .
 <http://purl.org/dc/elements/1.1/description> <http://purl.obolibrary.org/obo/IAO_0000115> "Description of the ontology." .
 <http://purl.org/dc/elements/1.1/description> <http://purl.obolibrary.org/obo/IAO_0000115> "Description." .
-<http://purl.org/dc/elements/1.1/description> <http://purl.org/dc/terms/description> "Description may include but is not limited to: an abstract,
-         table of contents, reference to a graphical representation          of content or a free-text account of the content." .
+<http://purl.org/dc/elements/1.1/description> <http://purl.org/dc/terms/description> "Description may include but is not limited to: an abstract, table of contents, reference to a graphical representation          of content or a free-text account of the content." .
 <http://purl.org/dc/elements/1.1/description> <http://www.geneontology.org/formats/oboInOwl#is_metadata_tag> 1 .
 <http://purl.org/dc/elements/1.1/format> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#AnnotationProperty> .
 <http://purl.org/dc/elements/1.1/format> <http://www.w3.org/2000/01/rdf-schema#label> "Format" .
@@ -13750,11 +13714,9 @@ A metadata relation between a class and its taxonomic rank (eg species, family) 
 <http://purl.org/dc/elements/1.1/format> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <http://purl.org/dc/elements/1.1/> .
 <http://purl.org/dc/elements/1.1/format> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <http://purl.org/dc/elements/1.1.owl> .
 <http://purl.org/dc/elements/1.1/format> <http://www.w3.org/2000/01/rdf-schema#comment> "The physical or digital manifestation of the resource." .
-<http://purl.org/dc/elements/1.1/format> <http://purl.org/dc/elements/1.1/description> "Typically, Format may include the media-type or dimensions of
-         the resource. Format may be used to determine the software,          hardware or other equipment needed to display or operate the          resource. Examples of dimensions include size and duration.          Recommended best practice is to select a value from a          controlled vocabulary (for example, the list of Internet Media          Types [MIME] defining computer media formats)." .
+<http://purl.org/dc/elements/1.1/format> <http://purl.org/dc/elements/1.1/description> "Typically, Format may include the media-type or dimensions of  the resource. Format may be used to determine the software,          hardware or other equipment needed to display or operate the          resource. Examples of dimensions include size and duration.          Recommended best practice is to select a value from a          controlled vocabulary (for example, the list of Internet Media          Types [MIME] defining computer media formats)." .
 <http://purl.org/dc/elements/1.1/format> <http://purl.org/dc/elements/1.1/description> "Typically, Format may include the media-type or dimensions of the resource. Format may be used to determine the software, hardware or other equipment needed to display or operate the resource. Examples of dimensions include size and duration. Recommended best practice is to select a value from a controlled vocabulary (for example, the list of Internet Media Types [MIME] defining computer media formats)." .
-<http://purl.org/dc/elements/1.1/format> <http://purl.org/dc/terms/description> "Typically, Format may include the media-type or dimensions of
-         the resource. Format may be used to determine the software,          hardware or other equipment needed to display or operate the          resource. Examples of dimensions include size and duration.          Recommended best practice is to select a value from a          controlled vocabulary (for example, the list of Internet Media          Types [MIME] defining computer media formats)." .
+<http://purl.org/dc/elements/1.1/format> <http://purl.org/dc/terms/description> "Typically, Format may include the media-type or dimensions of   the resource. Format may be used to determine the software,          hardware or other equipment needed to display or operate the          resource. Examples of dimensions include size and duration.          Recommended best practice is to select a value from a          controlled vocabulary (for example, the list of Internet Media          Types [MIME] defining computer media formats)." .
 <http://purl.org/dc/elements/1.1/identifier> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#AnnotationProperty> .
 <http://purl.org/dc/elements/1.1/identifier> <http://www.w3.org/2000/01/rdf-schema#label> "Resource Identifier" .
 <http://purl.org/dc/elements/1.1/identifier> <http://www.w3.org/2000/01/rdf-schema#label> "Resource Identifier" .
@@ -13763,8 +13725,7 @@ A metadata relation between a class and its taxonomic rank (eg species, family) 
 <http://purl.org/dc/elements/1.1/identifier> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <http://purl.org/dc/elements/1.1/> .
 <http://purl.org/dc/elements/1.1/identifier> <http://www.w3.org/2000/01/rdf-schema#comment> "An unambiguous reference to the resource within a given context." .
 <http://purl.org/dc/elements/1.1/identifier> <http://www.lesfleursdunormal.fr/static/_downloads/owlready_ontology.owl#python_name> "identifier_dc" .
-<http://purl.org/dc/elements/1.1/identifier> <http://purl.org/dc/elements/1.1/description> "Recommended best practice is to identify the resource by means
-         of a string or number conforming to a formal identification          system.          Example formal identification systems include the Uniform          Resource Identifier (URI) (including the Uniform Resource          Locator (URL)), the Digital Object Identifier (DOI) and the          International Standard Book Number (ISBN)." .
+<http://purl.org/dc/elements/1.1/identifier> <http://purl.org/dc/elements/1.1/description> "Recommended best practice is to identify the resource by means   of a string or number conforming to a formal identification          system.          Example formal identification systems include the Uniform          Resource Identifier (URI) (including the Uniform Resource          Locator (URL)), the Digital Object Identifier (DOI) and the          International Standard Book Number (ISBN)." .
 <http://purl.org/dc/elements/1.1/isReferencedBy> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#AnnotationProperty> .
 <http://purl.org/dc/elements/1.1/isReferencedBy> <http://www.w3.org/2000/01/rdf-schema#label> "dc:isReferencedBy" .
 <http://purl.org/dc/elements/1.1/isReferencedBy> <http://purl.obolibrary.org/obo/SCDO_0000340> <http://purl.org/dc/terms/isReferencedBy> .
@@ -13788,8 +13749,7 @@ A metadata relation between a class and its taxonomic rank (eg species, family) 
 <http://purl.org/dc/elements/1.1/language> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <http://purl.org/dc/elements/1.1/> .
 <http://purl.org/dc/elements/1.1/language> <http://www.w3.org/2000/01/rdf-schema#comment> "A language of the intellectual content of the resource." .
 <http://purl.org/dc/elements/1.1/language> <http://www.w3.org/2000/01/rdf-schema#comment> "Recommended best practice is to use a controlled vocabulary such as RFC 4646 [RFC4646]." .
-<http://purl.org/dc/elements/1.1/language> <http://purl.org/dc/elements/1.1/description> "Recommended best practice is to use RFC 3066 [RFC3066],
-         which, in conjunction with ISO 639 [ISO639], defines two-          and three-letter primary language tags with optional          subtags.  Examples include en or eng for English,          akk for Akkadian, and en-GB for English used in the          United Kingdom." .
+<http://purl.org/dc/elements/1.1/language> <http://purl.org/dc/elements/1.1/description> "Recommended best practice is to use RFC 3066 [RFC3066],    which, in conjunction with ISO 639 [ISO639], defines two-          and three-letter primary language tags with optional          subtags.  Examples include en or eng for English,          akk for Akkadian, and en-GB for English used in the          United Kingdom." .
 <http://purl.org/dc/elements/1.1/language> <http://purl.obolibrary.org/obo/SCDO_0000340> <http://purl.org/dc/terms/language> .
 <http://purl.org/dc/elements/1.1/language> <http://purl.obolibrary.org/obo/SCDO_0000363> "no" .
 <http://purl.org/dc/elements/1.1/language> <http://purl.obolibrary.org/obo/SCDO_0000929> "ontology annotation property" .
@@ -13814,8 +13774,7 @@ A metadata relation between a class and its taxonomic rank (eg species, family) 
 <http://purl.org/dc/elements/1.1/publisher> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <http://purl.org/dc/elements/1.1/> .
 <http://purl.org/dc/elements/1.1/publisher> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <http://purl.org/dc/elements/1.1.owl> .
 <http://purl.org/dc/elements/1.1/publisher> <http://www.w3.org/2000/01/rdf-schema#comment> "An entity responsible for making the resource available" .
-<http://purl.org/dc/elements/1.1/publisher> <http://purl.org/dc/elements/1.1/description> "Examples of a Publisher include a person, an organisation,
-         or a service.          Typically, the name of a Publisher should be used to          indicate the entity." .
+<http://purl.org/dc/elements/1.1/publisher> <http://purl.org/dc/elements/1.1/description> "Examples of a Publisher include a person, an organisation, or a service.          Typically, the name of a Publisher should be used to          indicate the entity." .
 <http://purl.org/dc/elements/1.1/publisher> <http://www.geneontology.org/formats/oboInOwl#hasDbXref> <http://purl.org/dc/elements/1.1/publisher> .
 <http://purl.org/dc/elements/1.1/publisher> <http://www.geneontology.org/formats/oboInOwl#hasDbXref> <http://purl.org/dc/elements/1.1/publisher> .
 <http://purl.org/dc/elements/1.1/publisher> <http://www.geneontology.org/formats/oboInOwl#hasOBONamespace> "uberon" .
@@ -13832,8 +13791,7 @@ A metadata relation between a class and its taxonomic rank (eg species, family) 
 <http://purl.org/dc/elements/1.1/relation> <http://www.w3.org/2000/01/rdf-schema#label> "Relation" .
 <http://purl.org/dc/elements/1.1/relation> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <http://purl.org/dc/elements/1.1/> .
 <http://purl.org/dc/elements/1.1/relation> <http://www.w3.org/2000/01/rdf-schema#comment> "A reference to a related resource." .
-<http://purl.org/dc/elements/1.1/relation> <http://purl.org/dc/elements/1.1/description> " .
-         Recommended best practice is to reference the resource by means          of a string or number conforming to a formal identification          system.     " .
+<http://purl.org/dc/elements/1.1/relation> <http://purl.org/dc/elements/1.1/description> " .   Recommended best practice is to reference the resource by means          of a string or number conforming to a formal identification          system.     " .
 <http://purl.org/dc/elements/1.1/rights> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#AnnotationProperty> .
 <http://purl.org/dc/elements/1.1/rights> <http://www.w3.org/2000/01/rdf-schema#label> "Rights Management" .
 <http://purl.org/dc/elements/1.1/rights> <http://www.w3.org/2000/01/rdf-schema#label> "Rights Management" .
@@ -13841,10 +13799,8 @@ A metadata relation between a class and its taxonomic rank (eg species, family) 
 <http://purl.org/dc/elements/1.1/rights> <http://www.w3.org/2000/01/rdf-schema#label> "Rights Management" .
 <http://purl.org/dc/elements/1.1/rights> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <http://purl.org/dc/elements/1.1/> .
 <http://purl.org/dc/elements/1.1/rights> <http://www.w3.org/2000/01/rdf-schema#comment> "Information about rights held in and over the resource." .
-<http://purl.org/dc/elements/1.1/rights> <http://purl.org/dc/elements/1.1/description> " .
-          Typically, a Rights element will contain a rights            management statement for the resource, or reference            a service providing such information. Rights information            often encompasses Intellectual Property Rights (IPR),            Copyright, and various Property Rights.            If the Rights element is absent, no assumptions can be made            about the status of these and other rights with respect to            the resource.     " .
-<http://purl.org/dc/elements/1.1/rights> <http://purl.org/dc/elements/1.1/description> " .
-          Typically, a Rights element will contain a rights           management statement for the resource, or reference           a service providing such information. Rights information           often encompasses Intellectual Property Rights (IPR),           Copyright, and various Property Rights.           If the Rights element is absent, no assumptions can be made           about the status of these and other rights with respect to           the resource.     " .
+<http://purl.org/dc/elements/1.1/rights> <http://purl.org/dc/elements/1.1/description> " .  Typically, a Rights element will contain a rights            management statement for the resource, or reference            a service providing such information. Rights information            often encompasses Intellectual Property Rights (IPR),            Copyright, and various Property Rights.            If the Rights element is absent, no assumptions can be made            about the status of these and other rights with respect to            the resource.     " .
+<http://purl.org/dc/elements/1.1/rights> <http://purl.org/dc/elements/1.1/description> " .  Typically, a Rights element will contain a rights           management statement for the resource, or reference           a service providing such information. Rights information           often encompasses Intellectual Property Rights (IPR),           Copyright, and various Property Rights.           If the Rights element is absent, no assumptions can be made           about the status of these and other rights with respect to           the resource.     " .
 <http://purl.org/dc/elements/1.1/source> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#AnnotationProperty> .
 <http://purl.org/dc/elements/1.1/source> <http://www.w3.org/2000/01/rdf-schema#label> "Source" .
 <http://purl.org/dc/elements/1.1/source> <http://www.w3.org/2000/01/rdf-schema#label> "Source" .
@@ -13857,11 +13813,9 @@ A metadata relation between a class and its taxonomic rank (eg species, family) 
 <http://purl.org/dc/elements/1.1/source> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <http://purl.org/dc/elements/1.1> .
 <http://purl.org/dc/elements/1.1/source> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <http://purl.obolibrary.org/obo/ohd/imports/ro_import.owl> .
 <http://purl.org/dc/elements/1.1/source> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <http://purl.org/dc/elements/1.1.owl> .
-<http://purl.org/dc/elements/1.1/source> <http://www.w3.org/2000/01/rdf-schema#comment> "A reference to a resource from which the present resource
-         is derived." .
+<http://purl.org/dc/elements/1.1/source> <http://www.w3.org/2000/01/rdf-schema#comment> "A reference to a resource from which the present resource  is derived." .
 <http://purl.org/dc/elements/1.1/source> <http://www.w3.org/2000/01/rdf-schema#comment> "A reference to a resource from which the present resource is derived." .
-<http://purl.org/dc/elements/1.1/source> <http://purl.org/dc/elements/1.1/description> "The present resource may be derived from the Source resource
-         in whole or in part.  Recommended best practice is to reference          the resource by means of a string or number conforming to a          formal identification system." .
+<http://purl.org/dc/elements/1.1/source> <http://purl.org/dc/elements/1.1/description> "The present resource may be derived from the Source resource  in whole or in part.  Recommended best practice is to reference          the resource by means of a string or number conforming to a          formal identification system." .
 <http://purl.org/dc/elements/1.1/source> <http://purl.org/dc/elements/1.1/description> "The present resource may be derived from the Source resource in whole or in part. Recommended best practice is to reference the resource by means of a string or number conforming to a formal identification system." .
 <http://purl.org/dc/elements/1.1/source> <http://purl.obolibrary.org/obo/SCDO_0000340> <http://purl.org/dc/terms/source> .
 <http://purl.org/dc/elements/1.1/source> <http://purl.obolibrary.org/obo/SCDO_0000363> "yes" .
@@ -13878,8 +13832,7 @@ A metadata relation between a class and its taxonomic rank (eg species, family) 
 <http://purl.org/dc/elements/1.1/source> <http://www.geneontology.org/formats/oboInOwl#shorthand> "dc-source" .
 <http://purl.org/dc/elements/1.1/source> <http://www.geneontology.org/formats/oboInOwl#shorthand> "dc-source" .
 <http://purl.org/dc/elements/1.1/source> <http://purl.obolibrary.org/obo/IAO_0000115> "A related resource from which the described class/term's annotations are derived." .
-<http://purl.org/dc/elements/1.1/source> <http://purl.org/dc/terms/description> "The present resource may be derived from the Source resource
-         in whole or in part.  Recommended best practice is to reference          the resource by means of a string or number conforming to a          formal identification system." .
+<http://purl.org/dc/elements/1.1/source> <http://purl.org/dc/terms/description> "The present resource may be derived from the Source resource   in whole or in part.  Recommended best practice is to reference          the resource by means of a string or number conforming to a          formal identification system." .
 <http://purl.org/dc/elements/1.1/source> <http://www.geneontology.org/formats/oboInOwl#is_metadata_tag> 1 .
 <http://purl.org/dc/elements/1.1/subject> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#AnnotationProperty> .
 <http://purl.org/dc/elements/1.1/subject> <http://www.w3.org/2000/01/rdf-schema#label> "Subject and Keywords" .
@@ -13890,13 +13843,10 @@ A metadata relation between a class and its taxonomic rank (eg species, family) 
 <http://purl.org/dc/elements/1.1/subject> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <http://purl.org/dc/elements/1.1.owl> .
 <http://purl.org/dc/elements/1.1/subject> <http://www.w3.org/2000/01/rdf-schema#comment> "The topic of the content of the resource." .
 <http://purl.org/dc/elements/1.1/subject> <http://www.lesfleursdunormal.fr/static/_downloads/owlready_ontology.owl#python_name> "subject_dc" .
-<http://purl.org/dc/elements/1.1/subject> <http://purl.org/dc/elements/1.1/description> "Typically, a Subject will be expressed as keywords,
-         key phrases or classification codes that describe a topic          of the resource.  Recommended best practice is to select           a value from a controlled vocabulary or formal           classification scheme." .
-<http://purl.org/dc/elements/1.1/subject> <http://purl.org/dc/elements/1.1/description> "Typically, a Subject will be expressed as keywords,
-         key phrases or classification codes that describe a topic          of the resource.  Recommended best practice is to select          a value from a controlled vocabulary or formal          classification scheme." .
+<http://purl.org/dc/elements/1.1/subject> <http://purl.org/dc/elements/1.1/description> "Typically, a Subject will be expressed as keywords,   key phrases or classification codes that describe a topic          of the resource.  Recommended best practice is to select           a value from a controlled vocabulary or formal           classification scheme." .
+<http://purl.org/dc/elements/1.1/subject> <http://purl.org/dc/elements/1.1/description> "Typically, a Subject will be expressed as keywords,   key phrases or classification codes that describe a topic          of the resource.  Recommended best practice is to select          a value from a controlled vocabulary or formal          classification scheme." .
 <http://purl.org/dc/elements/1.1/subject> <http://purl.org/dc/elements/1.1/description> "Typically, a Subject will be expressed as keywords, key phrases or classification codes that describe a topic of the resource. Recommended best practice is to select a value from a controlled vocabulary or formal classification scheme." .
-<http://purl.org/dc/elements/1.1/subject> <http://purl.org/dc/terms/description> "Typically, a Subject will be expressed as keywords,
-         key phrases or classification codes that describe a topic          of the resource.  Recommended best practice is to select           a value from a controlled vocabulary or formal           classification scheme." .
+<http://purl.org/dc/elements/1.1/subject> <http://purl.org/dc/terms/description> "Typically, a Subject will be expressed as keywords,   key phrases or classification codes that describe a topic          of the resource.  Recommended best practice is to select           a value from a controlled vocabulary or formal           classification scheme." .
 <http://purl.org/dc/elements/1.1/title> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#AnnotationProperty> .
 <http://purl.org/dc/elements/1.1/title> <http://www.w3.org/2000/01/rdf-schema#label> "Title" .
 <http://purl.org/dc/elements/1.1/title> <http://www.w3.org/2000/01/rdf-schema#label> "Title" .
@@ -13908,8 +13858,7 @@ A metadata relation between a class and its taxonomic rank (eg species, family) 
 <http://purl.org/dc/elements/1.1/title> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <http://purl.org/dc/elements/1.1.owl> .
 <http://purl.org/dc/elements/1.1/title> <http://www.w3.org/2000/01/rdf-schema#comment> "A name given to the resource." .
 <http://purl.org/dc/elements/1.1/title> <http://www.lesfleursdunormal.fr/static/_downloads/owlready_ontology.owl#python_name> "title_dc" .
-<http://purl.org/dc/elements/1.1/title> <http://purl.org/dc/elements/1.1/description> " .
-        Typically, a Title will be a name by which the resource is          formally known.     " .
+<http://purl.org/dc/elements/1.1/title> <http://purl.org/dc/elements/1.1/description> " .   Typically, a Title will be a name by which the resource is          formally known.     " .
 <http://purl.org/dc/elements/1.1/title> <http://www.geneontology.org/formats/oboInOwl#hasDbXref> <http://purl.org/dc/elements/1.1/title> .
 <http://purl.org/dc/elements/1.1/title> <http://www.geneontology.org/formats/oboInOwl#hasDbXref> <http://purl.org/dc/elements/1.1/title> .
 <http://purl.org/dc/elements/1.1/title> <http://www.geneontology.org/formats/oboInOwl#hasDbXref> <http://purl.org/dc/elements/1.1/title> .
@@ -13921,8 +13870,7 @@ A metadata relation between a class and its taxonomic rank (eg species, family) 
 <http://purl.org/dc/elements/1.1/title> <http://www.geneontology.org/formats/oboInOwl#shorthand> "dc-title" .
 <http://purl.org/dc/elements/1.1/title> <http://purl.obolibrary.org/obo/IAO_0000115> "Title of the ontology." .
 <http://purl.org/dc/elements/1.1/title> <http://purl.obolibrary.org/obo/IAO_0000115> "Title." .
-<http://purl.org/dc/elements/1.1/title> <http://purl.org/dc/terms/description> " .
-        Typically, a Title will be a name by which the resource is          formally known.     " .
+<http://purl.org/dc/elements/1.1/title> <http://purl.org/dc/terms/description> " .  Typically, a Title will be a name by which the resource is          formally known.     " .
 <http://purl.org/dc/elements/1.1/title> <http://www.geneontology.org/formats/oboInOwl#is_metadata_tag> 1 .
 <http://purl.org/dc/elements/1.1/type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#AnnotationProperty> .
 <http://purl.org/dc/elements/1.1/type> <http://www.w3.org/2000/01/rdf-schema#label> "Resource Type" .
@@ -13933,18 +13881,15 @@ A metadata relation between a class and its taxonomic rank (eg species, family) 
 <http://purl.org/dc/elements/1.1/type> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <http://purl.org/dc/elements/1.1/> .
 <http://purl.org/dc/elements/1.1/type> <http://www.w3.org/2000/01/rdf-schema#comment> "The nature or genre of the content of the resource." .
 <http://purl.org/dc/elements/1.1/type> <http://www.lesfleursdunormal.fr/static/_downloads/owlready_ontology.owl#python_name> "type_dc" .
-<http://purl.org/dc/elements/1.1/type> <http://purl.org/dc/elements/1.1/description> "Type includes terms describing general categories, functions,
-         genres, or aggregation levels for content. Recommended best          practice is to select a value from a controlled vocabulary          (for example, the DCMI Type Vocabulary [DCMITYPE]). To           describe the physical or digital manifestation of the           resource, use the Format element." .
-<http://purl.org/dc/elements/1.1/type> <http://purl.org/dc/elements/1.1/description> "Type includes terms describing general categories, functions,
-         genres, or aggregation levels for content. Recommended best          practice is to select a value from a controlled vocabulary          (for example, the DCMI Type Vocabulary [DCMITYPE]). To          describe the physical or digital manifestation of the          resource, use the Format element." .
+<http://purl.org/dc/elements/1.1/type> <http://purl.org/dc/elements/1.1/description> "Type includes terms describing general categories, functions,   genres, or aggregation levels for content. Recommended best          practice is to select a value from a controlled vocabulary          (for example, the DCMI Type Vocabulary [DCMITYPE]). To           describe the physical or digital manifestation of the           resource, use the Format element." .
+<http://purl.org/dc/elements/1.1/type> <http://purl.org/dc/elements/1.1/description> "Type includes terms describing general categories, functions,  genres, or aggregation levels for content. Recommended best          practice is to select a value from a controlled vocabulary          (for example, the DCMI Type Vocabulary [DCMITYPE]). To          describe the physical or digital manifestation of the          resource, use the Format element." .
 <http://purl.org/dc/elements/1.1/type> <http://purl.obolibrary.org/obo/IAO_0000115> "The dc:type." .
 <http://purl.org/dc/elements/title> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#AnnotationProperty> .
 <http://purl.org/dc/elements/title> <http://www.w3.org/2000/01/rdf-schema#label> "Title" .
 <http://purl.org/dc/elements/title> <http://www.w3.org/2000/01/rdf-schema#label> "Title" .
 <http://purl.org/dc/elements/title> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <http://purl.org/dc/elements/1.1/> .
 <http://purl.org/dc/elements/title> <http://www.w3.org/2000/01/rdf-schema#comment> "A name given to the resource." .
-<http://purl.org/dc/elements/title> <http://purl.org/dc/elements/1.1/description> " .
-        Typically, a Title will be a name by which the resource is          formally known.     " .
+<http://purl.org/dc/elements/title> <http://purl.org/dc/elements/1.1/description> " .  Typically, a Title will be a name by which the resource is formally known.     " .
 <http://purl.org/dc/terms/1.1/contributor> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#AnnotationProperty> .
 <http://purl.org/dc/terms/1.1/creator> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#AnnotationProperty> .
 <http://purl.org/dc/terms/1.1/date> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#AnnotationProperty> .
@@ -14252,7 +14197,7 @@ A metadata relation between a class and its taxonomic rank (eg species, family) 
 <http://purl.org/dc/terms/license> <http://purl.obolibrary.org/obo/IAO_0000115> "A legal document giving official permission to do something with the resource." .
 <http://purl.org/dc/terms/license> <http://purl.obolibrary.org/obo/IAO_0000115> "License of the ontology." .
 <http://purl.org/dc/terms/license> <http://purl.obolibrary.org/obo/IAO_0000115> "License." .
-<http://purl.org/dc/terms/license> <http://purl.org/dc/elements/1.1/date> 2018-05-11T13:47:29Z .
+<http://purl.org/dc/terms/license> <http://purl.org/dc/elements/1.1/date> "2018-05-11T13:47:29Z" .
 <http://purl.org/dc/terms/license> <http://www.geneontology.org/formats/oboInOwl#is_metadata_tag> 1 .
 <http://purl.org/dc/terms/license> <http://purl.allotrope.org/ontologies/property#AFX_0002865> <http://purl.org/dc/terms/> .
 <http://purl.org/dc/terms/license> <http://www.w3.org/2004/02/skos/core#prefLabel> "license" .
@@ -14476,8 +14421,7 @@ A metadata relation between a class and its taxonomic rank (eg species, family) 
 <http://purl.org/pav/importedFrom> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#ObjectProperty> .
 <http://purl.org/pav/importedFrom> <http://www.w3.org/2000/01/rdf-schema#subPropertyOf> <http://purl.org/dc/terms/source> .
 <http://purl.org/pav/importedFrom> <http://www.w3.org/2000/01/rdf-schema#label> "Imported from" .
-<http://purl.org/pav/importedFrom> <http://purl.obolibrary.org/obo/IAO_0000115> "The original source of imported information.
- Import means that the content has been preserved, but transcribed somehow, for instance to fit a different representation model by converting formats. Examples of import are when the original was JSON and the current resource is RDF, or where the original was an document scan, and this resource is the plain text found through OCR.  The imported resource does not have to be complete, but should be consistent with the knowledge conveyed by the original resource.  If additional knowledge has been contributed, pav:derivedFrom would be more appropriate.  If the resource has been copied verbatim from the original representation (e.g. downloaded), use pav:retrievedFrom.  To indicate which agent(s) performed the import, use pav:importedBy. Use pav:importedOn to indicate when it happened." .
+<http://purl.org/pav/importedFrom> <http://purl.obolibrary.org/obo/IAO_0000115> "The original source of imported information. Import means that the content has been preserved, but transcribed somehow, for instance to fit a different representation model by converting formats. Examples of import are when the original was JSON and the current resource is RDF, or where the original was an document scan, and this resource is the plain text found through OCR.  The imported resource does not have to be complete, but should be consistent with the knowledge conveyed by the original resource.  If additional knowledge has been contributed, pav:derivedFrom would be more appropriate.  If the resource has been copied verbatim from the original representation (e.g. downloaded), use pav:retrievedFrom.  To indicate which agent(s) performed the import, use pav:importedBy. Use pav:importedOn to indicate when it happened." .
 <http://purl.org/sig/ont/fma/AAL> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#AnnotationProperty> .
 <http://purl.org/sig/ont/fma/AAL> <http://www.w3.org/2000/01/rdf-schema#label> "AAL" .
 <http://purl.org/sig/ont/fma/AAL> <http://purl.org/sig/ont/fma/FMAID> "276388" .
@@ -14671,8 +14615,8 @@ A metadata relation between a class and its taxonomic rank (eg species, family) 
 <http://www.ebi.ac.uk/efo/CALOHA_definition_citation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#AnnotationProperty> .
 <http://www.ebi.ac.uk/efo/DOID_definition_citation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#AnnotationProperty> .
 <http://www.ebi.ac.uk/efo/DOID_definition_citation> <http://www.w3.org/2000/01/rdf-schema#subPropertyOf> <http://www.ebi.ac.uk/efo/definition_citation> .
-<http://www.ebi.ac.uk/efo/DOID_definition_citation> <http://www.ebi.ac.uk/efo/DOID_definition_citation> <http://www.ebi.ac.uk/efo/DOID_definition_citation is an annotation property that is drawn from DOID" .
-<http://www.ebi.ac.uk/efo/DOID_definition_citation> <http://www.ebi.ac.uk/efo/definition> <http://www.ebi.ac.uk/efo/DOID_definition_citation is an annotation property that is drawn from DOID" .
+<http://www.ebi.ac.uk/efo/DOID_definition_citation> <http://www.ebi.ac.uk/efo/DOID_definition_citation> "http://www.ebi.ac.uk/efo/DOID_definition_citation is an annotation property that is drawn from DOID" .
+<http://www.ebi.ac.uk/efo/DOID_definition_citation> <http://www.ebi.ac.uk/efo/definition> "http://www.ebi.ac.uk/efo/DOID_definition_citation is an annotation property that is drawn from DOID" .
 <http://www.ebi.ac.uk/efo/EFO_0008147> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#AnnotationProperty> .
 <http://www.ebi.ac.uk/efo/EFO_0008147> <http://www.w3.org/2000/01/rdf-schema#label> "obsolete_gwas_trait" .
 <http://www.ebi.ac.uk/efo/EFO_0008147> <http://purl.obolibrary.org/obo/IAO_0000116> "Do not use this property for anything. It is an accidental duplication of another property that was released and has now been obsoleted following the accepted obsolence procedure" .
@@ -14690,7 +14634,7 @@ A metadata relation between a class and its taxonomic rank (eg species, family) 
 <http://www.ebi.ac.uk/efo/GOC_definition_citation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#AnnotationProperty> .
 <http://www.ebi.ac.uk/efo/ICD9_definition_citation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#AnnotationProperty> .
 <http://www.ebi.ac.uk/efo/ICD9_definition_citation> <http://www.w3.org/2000/01/rdf-schema#subPropertyOf> <http://www.ebi.ac.uk/efo/definition_citation> .
-<http://www.ebi.ac.uk/efo/ICD9_definition_citation> <http://www.ebi.ac.uk/efo/definition> <http://www.ebi.ac.uk/efo/ICD9_definition_citation is an annotation property that is drawn from ICD9" .
+<http://www.ebi.ac.uk/efo/ICD9_definition_citation> <http://www.ebi.ac.uk/efo/definition> "http://www.ebi.ac.uk/efo/ICD9_definition_citation is an annotation property that is drawn from ICD9" .
 <http://www.ebi.ac.uk/efo/ISBN_definition_citation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#AnnotationProperty> .
 <http://www.ebi.ac.uk/efo/KUPO_definition_citation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#AnnotationProperty> .
 <http://www.ebi.ac.uk/efo/MAT_definition_citation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#AnnotationProperty> .
@@ -14703,25 +14647,25 @@ A metadata relation between a class and its taxonomic rank (eg species, family) 
 <http://www.ebi.ac.uk/efo/MO_definition_citation> <http://www.ebi.ac.uk/efo/definition> "Definition citation for the Microarray and Gene Expression Data Ontology" .
 <http://www.ebi.ac.uk/efo/MSH_definition_citation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#AnnotationProperty> .
 <http://www.ebi.ac.uk/efo/MSH_definition_citation> <http://www.w3.org/2000/01/rdf-schema#subPropertyOf> <http://www.ebi.ac.uk/efo/definition_citation> .
-<http://www.ebi.ac.uk/efo/MSH_definition_citation> <http://www.ebi.ac.uk/efo/MSH_definition_citation> <http://www.ebi.ac.uk/efo/MSH_definition_citation is an annotation property that is drawn from MSH" .
-<http://www.ebi.ac.uk/efo/MSH_definition_citation> <http://www.ebi.ac.uk/efo/MSH_definition_citation> <http://www.ebi.ac.uk/efo/MESH_definition_citation is an annotation property that is drawn from MESH" .
+<http://www.ebi.ac.uk/efo/MSH_definition_citation> <http://www.ebi.ac.uk/efo/MSH_definition_citation> "http://www.ebi.ac.uk/efo/MSH_definition_citation is an annotation property that is drawn from MSH" .
+<http://www.ebi.ac.uk/efo/MSH_definition_citation> <http://www.ebi.ac.uk/efo/MSH_definition_citation> "http://www.ebi.ac.uk/efo/MESH_definition_citation is an annotation property that is drawn from MESH" .
 <http://www.ebi.ac.uk/efo/NCI_Thesaurus_definition_citation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#AnnotationProperty> .
 <http://www.ebi.ac.uk/efo/NCI_Thesaurus_definition_citation> <http://www.w3.org/2000/01/rdf-schema#subPropertyOf> <http://www.ebi.ac.uk/efo/definition_citation> .
-<http://www.ebi.ac.uk/efo/NCI_Thesaurus_definition_citation> <http://www.ebi.ac.uk/efo/NCI_Thesaurus_definition_citation> <http://www.ebi.ac.uk/efo/NCI_Thesaurus_definition_citation is an annotation property that is drawn from NCI_Thesaurus" .
-<http://www.ebi.ac.uk/efo/NCI_Thesaurus_definition_citation> <http://www.ebi.ac.uk/efo/definition> <http://www.ebi.ac.uk/efo/NCI_Thesaurus_definition_citation is an annotation property that is drawn from NCI_Thesaurus" .
+<http://www.ebi.ac.uk/efo/NCI_Thesaurus_definition_citation> <http://www.ebi.ac.uk/efo/NCI_Thesaurus_definition_citation> "http://www.ebi.ac.uk/efo/NCI_Thesaurus_definition_citation is an annotation property that is drawn from NCI_Thesaurus" .
+<http://www.ebi.ac.uk/efo/NCI_Thesaurus_definition_citation> <http://www.ebi.ac.uk/efo/definition> "http://www.ebi.ac.uk/efo/NCI_Thesaurus_definition_citation is an annotation property that is drawn from NCI_Thesaurus" .
 <http://www.ebi.ac.uk/efo/NIFSTD_definition_citation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#AnnotationProperty> .
 <http://www.ebi.ac.uk/efo/NIFSTD_definition_citation> <http://www.w3.org/2000/01/rdf-schema#subPropertyOf> <http://www.ebi.ac.uk/efo/definition_citation> .
-<http://www.ebi.ac.uk/efo/NIFSTD_definition_citation> <http://www.ebi.ac.uk/efo/NIFSTD_definition_citation> <http://www.ebi.ac.uk/efo/NIFSTD_definition_citation is an annotation property that is drawn from NIFSTD" .
+<http://www.ebi.ac.uk/efo/NIFSTD_definition_citation> <http://www.ebi.ac.uk/efo/NIFSTD_definition_citation> "http://www.ebi.ac.uk/efo/NIFSTD_definition_citation is an annotation property that is drawn from NIFSTD" .
 <http://www.ebi.ac.uk/efo/NIF_Cell_definition_citation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#AnnotationProperty> .
 <http://www.ebi.ac.uk/efo/OMIM_definition_citation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#AnnotationProperty> .
 <http://www.ebi.ac.uk/efo/OMIM_definition_citation> <http://www.w3.org/2000/01/rdf-schema#subPropertyOf> <http://www.ebi.ac.uk/efo/definition_citation> .
-<http://www.ebi.ac.uk/efo/OMIM_definition_citation> <http://www.ebi.ac.uk/efo/OMIM_definition_citation> <http://www.ebi.ac.uk/efo/OMIM_definition_citation is an annotation property that is drawn from OMIM" .
+<http://www.ebi.ac.uk/efo/OMIM_definition_citation> <http://www.ebi.ac.uk/efo/OMIM_definition_citation> "http://www.ebi.ac.uk/efo/OMIM_definition_citation is an annotation property that is drawn from OMIM" .
 <http://www.ebi.ac.uk/efo/PATO_definition_citation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#AnnotationProperty> .
 <http://www.ebi.ac.uk/efo/PMID_definition_citation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#AnnotationProperty> .
 <http://www.ebi.ac.uk/efo/PO_definition_citation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#AnnotationProperty> .
 <http://www.ebi.ac.uk/efo/SNOMEDCT_definition_citation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#AnnotationProperty> .
 <http://www.ebi.ac.uk/efo/SNOMEDCT_definition_citation> <http://www.w3.org/2000/01/rdf-schema#subPropertyOf> <http://www.ebi.ac.uk/efo/definition_citation> .
-<http://www.ebi.ac.uk/efo/SNOMEDCT_definition_citation> <http://www.ebi.ac.uk/efo/SNOMEDCT_definition_citation> <http://www.ebi.ac.uk/efo/SNOMEDCT_definition_citation is an annotation property that is drawn from SNOMEDCT" .
+<http://www.ebi.ac.uk/efo/SNOMEDCT_definition_citation> <http://www.ebi.ac.uk/efo/SNOMEDCT_definition_citation> "http://www.ebi.ac.uk/efo/SNOMEDCT_definition_citation is an annotation property that is drawn from SNOMEDCT" .
 <http://www.ebi.ac.uk/efo/SRA_label> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#AnnotationProperty> .
 <http://www.ebi.ac.uk/efo/TADS_definition_citation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#AnnotationProperty> .
 <http://www.ebi.ac.uk/efo/TAO_definition_citation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#AnnotationProperty> .
@@ -15256,7 +15200,7 @@ A metadata relation between a class and its taxonomic rank (eg species, family) 
 <http://www.geneontology.org/formats/oboInOwl#treat-xrefs-as-genus-differentia> <http://www.w3.org/2000/01/rdf-schema#label> "treat-xrefs-as-genus-differentia" .
 <http://www.geneontology.org/formats/oboInOwl#treat-xrefs-as-genus-differentia> <http://www.w3.org/2000/01/rdf-schema#label> "treat-xrefs-as-genus-differentia" .
 <http://www.geneontology.org/formats/oboInOwl#treat-xrefs-as-genus-differentia> <http://www.geneontology.org/formats/oboInOwl#created_by> "Sofia Robb" .
-<http://www.geneontology.org/formats/oboInOwl#treat-xrefs-as-genus-differentia> <http://www.geneontology.org/formats/oboInOwl#creation_date> 2017-07-26T18:19:59Z
+<http://www.geneontology.org/formats/oboInOwl#treat-xrefs-as-genus-differentia> <http://www.geneontology.org/formats/oboInOwl#creation_date> "2017-07-26T18:19:59Z" .
 <http://www.geneontology.org/formats/oboInOwl#treat-xrefs-as-has-subclass> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#AnnotationProperty> .
 <http://www.geneontology.org/formats/oboInOwl#treat-xrefs-as-has-subclass> <http://www.w3.org/2000/01/rdf-schema#label> "treat-xrefs-as-has-subclass" .
 <http://www.geneontology.org/formats/oboInOwl#treat-xrefs-as-has-subclass> <http://www.w3.org/2000/01/rdf-schema#label> "treat-xrefs-as-has-subclass" .
@@ -15615,7 +15559,6 @@ A metadata relation between a class and its taxonomic rank (eg species, family) 
 <http://www.w3.org/2000/01/rdf-schema#comment> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <http://purl.obolibrary.org/obo/ohd/imports/caro_import.owl> .
 <http://www.w3.org/2000/01/rdf-schema#comment> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <http://purl.obolibrary.org/obo/ohd/imports/iao_import.owl> .
 <http://www.w3.org/2000/01/rdf-schema#comment> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <http://purl.obolibrary.org/obo/ohd/imports/ro_import.owl> .
-<http://www.w3.org/2000/01/rdf-schema#comment> <http://www.w3.org/2000/01/rdf-schema#comment>  .
 <http://www.w3.org/2000/01/rdf-schema#comment> <http://purl.obolibrary.org/obo/SCDO_0000340> <http://www.w3.org/2000/01/rdf-schema#comment> .
 <http://www.w3.org/2000/01/rdf-schema#comment> <http://purl.obolibrary.org/obo/SCDO_0000363> "yes" .
 <http://www.w3.org/2000/01/rdf-schema#comment> <http://purl.obolibrary.org/obo/IAO_0000412> <http://purl.obolibrary.org/obo/obi/2017-02-22/obi.owl> .
@@ -15650,7 +15593,6 @@ A metadata relation between a class and its taxonomic rank (eg species, family) 
 <http://www.w3.org/2000/01/rdf-schema#label> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <http://purl.obolibrary.org/obo/ohd/imports/ecto_import.owl> .
 <http://www.w3.org/2000/01/rdf-schema#label> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <http://purl.obolibrary.org/obo/ohd/imports/iao_import.owl> .
 <http://www.w3.org/2000/01/rdf-schema#label> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <http://purl.obolibrary.org/obo/ohd/imports/ro_import.owl> .
-<http://www.w3.org/2000/01/rdf-schema#label> <http://www.w3.org/2000/01/rdf-schema#comment>  .
 <http://www.w3.org/2000/01/rdf-schema#label> <http://www.w3.org/2000/01/rdf-schema#comment> "A human-readable name for the subject." .
 <http://www.w3.org/2000/01/rdf-schema#label> <http://purl.obolibrary.org/obo/IAO_0000111> "label" .
 <http://www.w3.org/2000/01/rdf-schema#label> <http://purl.obolibrary.org/obo/IAO_0000111> "label" .
@@ -15670,7 +15612,6 @@ A metadata relation between a class and its taxonomic rank (eg species, family) 
 <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <http://www.w3.org/2000/01/rdf-schema.owl> .
 <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <http://purl.obolibrary.org/obo/ohd/imports/iao_import.owl> .
 <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <http://purl.obolibrary.org/obo/ohd/imports/ro_import.owl> .
-<http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://www.w3.org/2000/01/rdf-schema#comment>  .
 <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://www.lesfleursdunormal.fr/static/_downloads/owlready_ontology.owl#python_name> "see_also_rdf_schema" .
 <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://purl.obolibrary.org/obo/SCDO_0000340> <http://www.w3.org/2000/01/rdf-schema#seeAlso> .
 <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://purl.obolibrary.org/obo/SCDO_0000363> "yes" .
@@ -15762,7 +15703,6 @@ A metadata relation between a class and its taxonomic rank (eg species, family) 
 <http://www.w3.org/2002/07/owl#versionInfo> <http://www.w3.org/2000/01/rdf-schema#label> "owl:versionInfo" .
 <http://www.w3.org/2002/07/owl#versionInfo> <http://www.w3.org/2000/01/rdf-schema#label> "versionInfo" .
 <http://www.w3.org/2002/07/owl#versionInfo> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <http://www.w3.org/2002/07/owl.owl> .
-<http://www.w3.org/2002/07/owl#versionInfo> <http://www.w3.org/2002/07/owl#versionInfo>  .
 <http://www.w3.org/2002/07/owl#versionInfo> <http://purl.obolibrary.org/obo/IAO_0000115> "Version info." .
 <http://www.w3.org/2004/02/skos/core#altLabel> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#AnnotationProperty> .
 <http://www.w3.org/2004/02/skos/core#altLabel> <http://www.w3.org/2000/01/rdf-schema#subPropertyOf> <http://www.w3.org/2000/01/rdf-schema#label> .
@@ -15937,13 +15877,11 @@ A metadata relation between a class and its taxonomic rank (eg species, family) 
 <http://www.w3.org/2004/02/skos/core#prefLabel> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <http://purl.allotrope.org/voc/skos/REC/2018/10/skos> .
 <http://www.w3.org/2004/02/skos/core#prefLabel> <http://www.w3.org/2000/01/rdf-schema#comment> "A resource has no more than one value of skos:prefLabel per language tag, and no more than one value of skos:prefLabel without language tag." .
 <http://www.w3.org/2004/02/skos/core#prefLabel> <http://www.w3.org/2000/01/rdf-schema#comment> "The range of skos:prefLabel is the class of RDF plain literals." .
-<http://www.w3.org/2004/02/skos/core#prefLabel> <http://www.w3.org/2000/01/rdf-schema#comment> "skos:prefLabel, skos:altLabel and skos:hiddenLabel are pairwise
-      disjoint properties." .
+<http://www.w3.org/2004/02/skos/core#prefLabel> <http://www.w3.org/2000/01/rdf-schema#comment> "skos:prefLabel, skos:altLabel and skos:hiddenLabel are pairwise disjoint properties." .
 <http://www.w3.org/2004/02/skos/core#prefLabel> <http://www.w3.org/2000/01/rdf-schema#comment> "The range of skos:prefLabel is the class of RDF plain literals. " .
 <http://www.w3.org/2004/02/skos/core#prefLabel> <http://www.w3.org/2000/01/rdf-schema#comment> "A resource has no more than one value of skos:prefLabel per language tag. " .
 <http://www.w3.org/2004/02/skos/core#prefLabel> <http://www.w3.org/2000/01/rdf-schema#comment> "skos:prefLabel, skos:altLabel and skos:hiddenLabel are pairwise disjoint properties." .
-<http://www.w3.org/2004/02/skos/core#prefLabel> <http://www.w3.org/2000/01/rdf-schema#comment> "skos:prefLabel, skos:altLabel and skos:hiddenLabel are pairwise
-      disjoint properties." .
+<http://www.w3.org/2004/02/skos/core#prefLabel> <http://www.w3.org/2000/01/rdf-schema#comment> "skos:prefLabel, skos:altLabel and skos:hiddenLabel are pairwise  disjoint properties." .
 <http://www.w3.org/2004/02/skos/core#prefLabel> <http://purl.obolibrary.org/obo/SCDO_0000340> <http://www.w3.org/2004/02/skos/core#prefLabel> .
 <http://www.w3.org/2004/02/skos/core#prefLabel> <http://purl.obolibrary.org/obo/SCDO_0000363> "yes" .
 <http://www.w3.org/2004/02/skos/core#prefLabel> <http://purl.obolibrary.org/obo/SCDO_0000929> "pending vetting by the SCDO developers" .
@@ -16017,8 +15955,7 @@ A metadata relation between a class and its taxonomic rank (eg species, family) 
 <http://www.w3.org/ns/prov#qualifiedForm> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#AnnotationProperty> .
 <http://www.w3.org/ns/prov#qualifiedForm> <http://www.w3.org/2000/01/rdf-schema#subPropertyOf> <http://www.w3.org/2000/01/rdf-schema#seeAlso> .
 <http://www.w3.org/ns/prov#qualifiedForm> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <http://www.w3.org/ns/prov-o#> .
-<http://www.w3.org/ns/prov#qualifiedForm> <http://www.w3.org/2000/01/rdf-schema#comment> "This annotation property links a subproperty of prov:wasInfluencedBy with the subclass of prov:Influence and the qualifying property that are used to qualify it. 
- Example annotation:      prov:wasGeneratedBy prov:qualifiedForm prov:qualifiedGeneration, prov:Generation .  Then this unqualified assertion:      :entity1 prov:wasGeneratedBy :activity1 .  can be qualified by adding:     :entity1 prov:qualifiedGeneration :entity1Gen .    :entity1Gen         a prov:Generation, prov:Influence;        prov:activity :activity1;        :customValue 1337 .  Note how the value of the unqualified influence (prov:wasGeneratedBy :activity1) is mirrored as the value of the prov:activity (or prov:entity, or prov:agent) property on the influence class." .
+<http://www.w3.org/ns/prov#qualifiedForm> <http://www.w3.org/2000/01/rdf-schema#comment> "This annotation property links a subproperty of prov:wasInfluencedBy with the subclass of prov:Influence and the qualifying property that are used to qualify it.  Example annotation:      prov:wasGeneratedBy prov:qualifiedForm prov:qualifiedGeneration, prov:Generation .  Then this unqualified assertion:      :entity1 prov:wasGeneratedBy :activity1 .  can be qualified by adding:     :entity1 prov:qualifiedGeneration :entity1Gen .    :entity1Gen         a prov:Generation, prov:Influence;        prov:activity :activity1;        :customValue 1337 .  Note how the value of the unqualified influence (prov:wasGeneratedBy :activity1) is mirrored as the value of the prov:activity (or prov:entity, or prov:agent) property on the influence class." .
 <http://www.w3.org/ns/prov#sharesDefinitionWith> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#AnnotationProperty> .
 <http://www.w3.org/ns/prov#sharesDefinitionWith> <http://www.w3.org/2000/01/rdf-schema#subPropertyOf> <http://www.w3.org/2000/01/rdf-schema#seeAlso> .
 <http://www.w3.org/ns/prov#sharesDefinitionWith> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <http://www.w3.org/ns/prov-o#> .
@@ -16107,7 +16044,7 @@ A metadata relation between a class and its taxonomic rank (eg species, family) 
 <http://xmlns.com/foaf/0.1/depiction> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#AnnotationProperty> .
 <http://xmlns.com/foaf/0.1/depiction> <http://www.geneontology.org/formats/oboInOwl#id> "depiction" .
 <http://xmlns.com/foaf/0.1/depiction> <http://www.geneontology.org/formats/oboInOwl#created_by> "Sofia Robb" .
-<http://xmlns.com/foaf/0.1/depiction> <http://www.geneontology.org/formats/oboInOwl#creation_date> 2017-09-11T16:38:22Z
+<http://xmlns.com/foaf/0.1/depiction> <http://www.geneontology.org/formats/oboInOwl#creation_date> "2017-09-11T16:38:22Z" .
 <http://xmlns.com/foaf/0.1/homepage> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#AnnotationProperty> .
 <http://xmlns.com/foaf/0.1/homepage> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#ObjectProperty> .
 <http://xmlns.com/foaf/0.1/homepage> <http://www.w3.org/2000/01/rdf-schema#label> "homepage" .
@@ -16723,4 +16660,3 @@ A metadata relation between a class and its taxonomic rank (eg species, family) 
 <https://www.wikidata.org/wiki/Q1823134> <http://www.w3.org/2000/01/rdf-schema#label> "Library of Congress Subject Headings" .
 <https://www.wikidata.org/wiki/Q1823134> <http://www.lesfleursdunormal.fr/static/_downloads/owlready_ontology.owl#python_name> "library_of_congress_subject_headings" .
 <https://www.wikidata.org/wiki/Q1823134> <https://www.wikidata.org/wiki/Property:P214> <https://viaf.org/viaf/174475040> .
-"oboInOwl:hasExactSynonym> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#AnnotationProperty> . "oboInOwl:hasRelatedSynonym> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#AnnotationProperty> . "oio:hasOBONamespace> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#AnnotationProperty> . "rdfs:seeAlso> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#AnnotationProperty> . <http://www.geneontology.org/formats/oboInOwl#created_by> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#AnnotationProperty> .
