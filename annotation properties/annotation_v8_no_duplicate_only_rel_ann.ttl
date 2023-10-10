@@ -1,0 +1,1037 @@
+<http://purl.obolibrary.org/obo/BFO_0000179> <http://purl.obolibrary.org/obo/IAO_0000111> "BFO OWL specification label" .
+<http://purl.obolibrary.org/obo/BFO_0000179> <http://purl.obolibrary.org/obo/IAO_0000111> "BFO OWL规范标签" .
+<http://purl.obolibrary.org/obo/BFO_0000179> <http://purl.obolibrary.org/obo/IAO_0000115> "Relates an entity in the ontology to the name of the variable that is used to represent it in the code that generates the BFO OWL file from the lispy specification." .
+<http://purl.obolibrary.org/obo/BFO_0000179> <http://purl.obolibrary.org/obo/IAO_0000115> "将本体中的实体关联到用于在代码中表示它的变量的名称，这些代码从lispy规范生成BFO OWL 文件。" .
+<http://purl.obolibrary.org/obo/BFO_0000179> <http://purl.obolibrary.org/obo/IAO_0000232> "Really of interest to developers only" .
+<http://purl.obolibrary.org/obo/BFO_0000179> <http://purl.obolibrary.org/obo/IAO_0000232> "只对开发人员感兴趣" .
+<http://purl.obolibrary.org/obo/BFO_0000179> <http://purl.obolibrary.org/obo/IAO_0000412> <http://purl.obolibrary.org/obo/bco/releases/2016-12-14/bco.owl> .
+<http://purl.obolibrary.org/obo/BFO_0000179> <http://purl.obolibrary.org/obo/IAO_0000412> <http://purl.obolibrary.org/obo/bfo/2.0/bfo.owl> .
+<http://purl.obolibrary.org/obo/BFO_0000179> <http://purl.obolibrary.org/obo/IAO_0000412> <http://purl.obolibrary.org/obo/iao/2017-03-24/iao.owl> .
+<http://purl.obolibrary.org/obo/BFO_0000179> <http://purl.obolibrary.org/obo/IAO_0000412> <http://purl.obolibrary.org/obo/obi/2017-02-22/obi.owl> .
+<http://purl.obolibrary.org/obo/BFO_0000179> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#AnnotationProperty> .
+<http://purl.obolibrary.org/obo/BFO_0000179> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <http://purl.allotrope.org/voc/bfo/REC/2018/04/bfo-2-0> .
+<http://purl.obolibrary.org/obo/BFO_0000179> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <http://purl.obolibrary.org/obo/bfo.owl> .
+<http://purl.obolibrary.org/obo/BFO_0000179> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <http://purl.obolibrary.org/obo/ohd/imports/caro_import.owl> .
+<http://purl.obolibrary.org/obo/BFO_0000179> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <http://purl.obolibrary.org/obo/ohd/imports/iao_import.owl> .
+<http://purl.obolibrary.org/obo/BFO_0000179> <http://www.w3.org/2000/01/rdf-schema#label> "BFO OWL specification label" .
+<http://purl.obolibrary.org/obo/BFO_0000179> <http://www.w3.org/2000/01/rdf-schema#label> "BFO OWL规范标签" .
+<http://purl.obolibrary.org/obo/BFO_0000179> <http://www.w3.org/2000/01/rdf-schema#subPropertyOf> <http://www.w3.org/2000/01/rdf-schema#label> .
+<http://purl.obolibrary.org/obo/BFO_0000180> <http://purl.obolibrary.org/obo/IAO_0000111> "BFO CLIF specification label" .
+<http://purl.obolibrary.org/obo/BFO_0000180> <http://purl.obolibrary.org/obo/IAO_0000111> "BFO CLIF规范标签" .
+<http://purl.obolibrary.org/obo/BFO_0000180> <http://purl.obolibrary.org/obo/IAO_0000115> "Relates an entity in the ontology to the term that is used to represent it in the the CLIF specification of BFO2" .
+<http://purl.obolibrary.org/obo/BFO_0000180> <http://purl.obolibrary.org/obo/IAO_0000115> "将本体中的实体关联到用于在BFO2 CLIF规范中表示它的术语上。" .
+<http://purl.obolibrary.org/obo/BFO_0000180> <http://purl.obolibrary.org/obo/IAO_0000119> "Person:Alan Ruttenberg" .
+<http://purl.obolibrary.org/obo/BFO_0000180> <http://purl.obolibrary.org/obo/IAO_0000232> "Really of interest to developers only" .
+<http://purl.obolibrary.org/obo/BFO_0000180> <http://purl.obolibrary.org/obo/IAO_0000232> "只对开发人员感兴趣" .
+<http://purl.obolibrary.org/obo/BFO_0000180> <http://purl.obolibrary.org/obo/IAO_0000412> <http://purl.obolibrary.org/obo/bco/releases/2016-12-14/bco.owl> .
+<http://purl.obolibrary.org/obo/BFO_0000180> <http://purl.obolibrary.org/obo/IAO_0000412> <http://purl.obolibrary.org/obo/bfo/2.0/bfo.owl> .
+<http://purl.obolibrary.org/obo/BFO_0000180> <http://purl.obolibrary.org/obo/IAO_0000412> <http://purl.obolibrary.org/obo/iao/2017-03-24/iao.owl> .
+<http://purl.obolibrary.org/obo/BFO_0000180> <http://purl.obolibrary.org/obo/IAO_0000412> <http://purl.obolibrary.org/obo/obi/2017-02-22/obi.owl> .
+<http://purl.obolibrary.org/obo/BFO_0000180> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#AnnotationProperty> .
+<http://purl.obolibrary.org/obo/BFO_0000180> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <http://purl.allotrope.org/voc/bfo/REC/2018/04/bfo-2-0> .
+<http://purl.obolibrary.org/obo/BFO_0000180> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <http://purl.obolibrary.org/obo/bfo.owl> .
+<http://purl.obolibrary.org/obo/BFO_0000180> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <http://purl.obolibrary.org/obo/ohd/imports/caro_import.owl> .
+<http://purl.obolibrary.org/obo/BFO_0000180> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <http://purl.obolibrary.org/obo/ohd/imports/iao_import.owl> .
+<http://purl.obolibrary.org/obo/BFO_0000180> <http://www.w3.org/2000/01/rdf-schema#label> "BFO CLIF specification label" .
+<http://purl.obolibrary.org/obo/BFO_0000180> <http://www.w3.org/2000/01/rdf-schema#label> "BFO CLIF规范标签" .
+<http://purl.obolibrary.org/obo/BFO_0000180> <http://www.w3.org/2000/01/rdf-schema#subPropertyOf> <http://www.w3.org/2000/01/rdf-schema#label> .
+<http://purl.obolibrary.org/obo/IAO_0000111> <http://purl.obolibrary.org/obo/IAO_0000111> "editor preferred label" .
+<http://purl.obolibrary.org/obo/IAO_0000111> <http://purl.obolibrary.org/obo/IAO_0000111> "editor preferred term" .
+<http://purl.obolibrary.org/obo/IAO_0000111> <http://purl.obolibrary.org/obo/IAO_0000111> "editor preferred term~editor preferred label" .
+<http://purl.obolibrary.org/obo/IAO_0000111> <http://purl.obolibrary.org/obo/IAO_0000111> "编辑首选术语" .
+<http://purl.obolibrary.org/obo/IAO_0000111> <http://purl.obolibrary.org/obo/IAO_0000111> "编辑首选标签" .
+<http://purl.obolibrary.org/obo/IAO_0000111> <http://purl.obolibrary.org/obo/IAO_0000114> <http://purl.obolibrary.org/obo/IAO_0000122> .
+<http://purl.obolibrary.org/obo/IAO_0000111> <http://purl.obolibrary.org/obo/IAO_0000115> "The concise, meaningful, and human-friendly name for a class or property preferred by the ontology developers. (US-English)" .
+<http://purl.obolibrary.org/obo/IAO_0000111> <http://purl.obolibrary.org/obo/IAO_0000115> "对于一类或属性的简洁的、有意义的、与人类友好的名称由本体开发商首选。 （美国英语）" .
+<http://purl.obolibrary.org/obo/IAO_0000111> <http://purl.obolibrary.org/obo/IAO_0000117> "PERSON:Daniel Schober" .
+<http://purl.obolibrary.org/obo/IAO_0000111> <http://purl.obolibrary.org/obo/IAO_0000119> "GROUP:OBI:<http://purl.obolibrary.org/obo/obi>" .
+<http://purl.obolibrary.org/obo/IAO_0000111> <http://purl.obolibrary.org/obo/IAO_0000412> <http://purl.obolibrary.org/obo/bco/releases/2016-12-14/bco.owl> .
+<http://purl.obolibrary.org/obo/IAO_0000111> <http://purl.obolibrary.org/obo/IAO_0000412> <http://purl.obolibrary.org/obo/iao/2017-03-24/iao.owl> .
+<http://purl.obolibrary.org/obo/IAO_0000111> <http://purl.obolibrary.org/obo/IAO_0000412> <http://purl.obolibrary.org/obo/iao/ontology-metadata.owl> .
+<http://purl.obolibrary.org/obo/IAO_0000111> <http://purl.obolibrary.org/obo/IAO_0000412> <http://purl.obolibrary.org/obo/obi/2017-02-22/obi.owl> .
+<http://purl.obolibrary.org/obo/IAO_0000111> <http://purl.obolibrary.org/obo/IAO_0000412> <http://purl.obolibrary.org/obo/ro/releases/2016-10-28/ro.owl> .
+<http://purl.obolibrary.org/obo/IAO_0000111> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#AnnotationProperty> .
+<http://purl.obolibrary.org/obo/IAO_0000111> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <http://purl.obolibrary.org/obo/iao.owl> .
+<http://purl.obolibrary.org/obo/IAO_0000111> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <http://purl.obolibrary.org/obo/ohd/imports/ecto_import.owl> .
+<http://purl.obolibrary.org/obo/IAO_0000111> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <http://purl.obolibrary.org/obo/ohd/imports/ro_import.owl> .
+<http://purl.obolibrary.org/obo/IAO_0000111> <http://www.w3.org/2000/01/rdf-schema#label> "editor preferred label" .
+<http://purl.obolibrary.org/obo/IAO_0000111> <http://www.w3.org/2000/01/rdf-schema#label> "editor preferred term" .
+<http://purl.obolibrary.org/obo/IAO_0000111> <http://www.w3.org/2000/01/rdf-schema#label> "editor preferred term~editor preferred label" .
+<http://purl.obolibrary.org/obo/IAO_0000111> <http://www.w3.org/2000/01/rdf-schema#label> "编辑首选术语" .
+<http://purl.obolibrary.org/obo/IAO_0000111> <http://www.w3.org/2000/01/rdf-schema#label> "编辑首选术语~编辑首选标签" .
+<http://purl.obolibrary.org/obo/IAO_0000111> <http://www.w3.org/2000/01/rdf-schema#label> "编辑首选标签" .
+<http://purl.obolibrary.org/obo/IAO_0000112> <http://purl.obolibrary.org/obo/IAO_0000111> "example of usage" .
+<http://purl.obolibrary.org/obo/IAO_0000112> <http://purl.obolibrary.org/obo/IAO_0000111> "example" .
+<http://purl.obolibrary.org/obo/IAO_0000112> <http://purl.obolibrary.org/obo/IAO_0000111> "例子" .
+<http://purl.obolibrary.org/obo/IAO_0000112> <http://purl.obolibrary.org/obo/IAO_0000111> "用法示例" .
+<http://purl.obolibrary.org/obo/IAO_0000112> <http://purl.obolibrary.org/obo/IAO_0000114> <http://purl.obolibrary.org/obo/IAO_0000122> .
+<http://purl.obolibrary.org/obo/IAO_0000112> <http://purl.obolibrary.org/obo/IAO_0000115> "A phrase describing how a class name should be used. May also include other kinds of examples that facilitate immediate understanding of a class semantics, such as widely known prototypical subclasses or instances of the class. Although essential for high level terms, examples for low level terms (e.g., Affymetrix HU133 array) are not" .
+<http://purl.obolibrary.org/obo/IAO_0000112> <http://purl.obolibrary.org/obo/IAO_0000115> "A phrase describing how a class name should be used. May also include other kinds of examples that facilitate immediate understanding of a class semantics, such as widely known prototypical subclasses or instances of the class. Although essential for high level terms, examples for low level terms (e.g., Affymetrix HU133 array) are not." .
+<http://purl.obolibrary.org/obo/IAO_0000112> <http://purl.obolibrary.org/obo/IAO_0000115> "A phrase describing how a term should be used and/or a citation to a work which uses it. May also include other kinds of examples that facilitate immediate understanding, such as widely know prototypes or instances of a class, or cases where a relation is said to hold." .
+<http://purl.obolibrary.org/obo/IAO_0000112> <http://purl.obolibrary.org/obo/IAO_0000115> "短语描述一个类的名字应该如何使用。也可包括其他类型有助于直接理解类的语义的例子，如广为人知的类的原型子类或实例。虽然高水平的术语必不可少，对于低级别术语的示例（例如，Affymetrix HU133阵列）不" .
+<http://purl.obolibrary.org/obo/IAO_0000112> <http://purl.obolibrary.org/obo/IAO_0000117> "PERSON:Daniel Schober" .
+<http://purl.obolibrary.org/obo/IAO_0000112> <http://purl.obolibrary.org/obo/IAO_0000119> "GROUP:OBI:<http://purl.obolibrary.org/obo/obi&gt>" .
+<http://purl.obolibrary.org/obo/IAO_0000112> <http://purl.obolibrary.org/obo/IAO_0000119> "GROUP:OBI:<http://purl.obolibrary.org/obo/obi>" .
+<http://purl.obolibrary.org/obo/IAO_0000112> <http://purl.obolibrary.org/obo/IAO_0000119> "IAO" .
+<http://purl.obolibrary.org/obo/IAO_0000112> <http://purl.obolibrary.org/obo/IAO_0000412> <http://purl.obolibrary.org/obo/bco/releases/2016-12-14/bco.owl> .
+<http://purl.obolibrary.org/obo/IAO_0000112> <http://purl.obolibrary.org/obo/IAO_0000412> <http://purl.obolibrary.org/obo/bfo/2.0/bfo.owl> .
+<http://purl.obolibrary.org/obo/IAO_0000112> <http://purl.obolibrary.org/obo/IAO_0000412> <http://purl.obolibrary.org/obo/iao/2017-03-24/iao.owl> .
+<http://purl.obolibrary.org/obo/IAO_0000112> <http://purl.obolibrary.org/obo/IAO_0000412> <http://purl.obolibrary.org/obo/iao/ontology-metadata.owl> .
+<http://purl.obolibrary.org/obo/IAO_0000112> <http://purl.obolibrary.org/obo/IAO_0000412> <http://purl.obolibrary.org/obo/obi/2017-02-22/obi.owl> .
+<http://purl.obolibrary.org/obo/IAO_0000112> <http://purl.obolibrary.org/obo/IAO_0000412> <http://purl.obolibrary.org/obo/ro/releases/2016-10-28/ro.owl> .
+<http://purl.obolibrary.org/obo/IAO_0000112> <http://www.geneontology.org/formats/oboInOwl#hasDbXref> "IAO:0000112" .
+<http://purl.obolibrary.org/obo/IAO_0000112> <http://www.geneontology.org/formats/oboInOwl#hasOBONamespace> "uberon" .
+<http://purl.obolibrary.org/obo/IAO_0000112> <http://www.geneontology.org/formats/oboInOwl#id> "example_of_usage" .
+<http://purl.obolibrary.org/obo/IAO_0000112> <http://www.geneontology.org/formats/oboInOwl#is_metadata_tag> "1" .
+<http://purl.obolibrary.org/obo/IAO_0000112> <http://www.geneontology.org/formats/oboInOwl#shorthand> "example_of_usage" .
+<http://purl.obolibrary.org/obo/IAO_0000112> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#AnnotationProperty> .
+<http://purl.obolibrary.org/obo/IAO_0000112> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <http://purl.obolibrary.org/obo/iao.owl> .
+<http://purl.obolibrary.org/obo/IAO_0000112> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <http://purl.obolibrary.org/obo/ohd/imports/caro_import.owl> .
+<http://purl.obolibrary.org/obo/IAO_0000112> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <http://purl.obolibrary.org/obo/ohd/imports/ro_import.owl> .
+<http://purl.obolibrary.org/obo/IAO_0000112> <http://www.w3.org/2000/01/rdf-schema#label> "example of usage" .
+<http://purl.obolibrary.org/obo/IAO_0000112> <http://www.w3.org/2000/01/rdf-schema#label> "用法示例" .
+<http://purl.obolibrary.org/obo/IAO_0000114> <http://purl.obolibrary.org/obo/IAO_0000111> "has curation status" .
+<http://purl.obolibrary.org/obo/IAO_0000114> <http://purl.obolibrary.org/obo/IAO_0000111> "有管理状态" .
+<http://purl.obolibrary.org/obo/IAO_0000114> <http://purl.obolibrary.org/obo/IAO_0000117> "PERSON:Alan Ruttenberg" .
+<http://purl.obolibrary.org/obo/IAO_0000114> <http://purl.obolibrary.org/obo/IAO_0000117> "PERSON:Bill Bug" .
+<http://purl.obolibrary.org/obo/IAO_0000114> <http://purl.obolibrary.org/obo/IAO_0000117> "PERSON:Melanie Courtot" .
+<http://purl.obolibrary.org/obo/IAO_0000114> <http://purl.obolibrary.org/obo/IAO_0000119> "OBI_0000281" .
+<http://purl.obolibrary.org/obo/IAO_0000114> <http://purl.obolibrary.org/obo/IAO_0000412> <http://purl.obolibrary.org/obo/bco/releases/2016-12-14/bco.owl> .
+<http://purl.obolibrary.org/obo/IAO_0000114> <http://purl.obolibrary.org/obo/IAO_0000412> <http://purl.obolibrary.org/obo/iao/2017-03-24/iao.owl> .
+<http://purl.obolibrary.org/obo/IAO_0000114> <http://purl.obolibrary.org/obo/IAO_0000412> <http://purl.obolibrary.org/obo/iao/ontology-metadata.owl> .
+<http://purl.obolibrary.org/obo/IAO_0000114> <http://purl.obolibrary.org/obo/IAO_0000412> <http://purl.obolibrary.org/obo/obi/2017-02-22/obi.owl> .
+<http://purl.obolibrary.org/obo/IAO_0000114> <http://purl.obolibrary.org/obo/IAO_0000412> <http://purl.obolibrary.org/obo/ro/releases/2016-10-28/ro.owl> .
+<http://purl.obolibrary.org/obo/IAO_0000114> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#AnnotationProperty> .
+<http://purl.obolibrary.org/obo/IAO_0000114> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <http://purl.obolibrary.org/obo/iao.owl> .
+<http://purl.obolibrary.org/obo/IAO_0000114> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <http://purl.obolibrary.org/obo/ohd/imports/ecto_import.owl> .
+<http://purl.obolibrary.org/obo/IAO_0000114> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <http://purl.obolibrary.org/obo/ohd/imports/iao_import.owl> .
+<http://purl.obolibrary.org/obo/IAO_0000114> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <http://purl.obolibrary.org/obo/ohd/imports/ro_import.owl> .
+<http://purl.obolibrary.org/obo/IAO_0000114> <http://www.w3.org/2000/01/rdf-schema#label> "has curation status" .
+<http://purl.obolibrary.org/obo/IAO_0000114> <http://www.w3.org/2000/01/rdf-schema#label> "有管理状态" .
+<http://purl.obolibrary.org/obo/IAO_0000115> <http://purl.obolibrary.org/obo/IAO_0000111> "definition" .
+<http://purl.obolibrary.org/obo/IAO_0000115> <http://purl.obolibrary.org/obo/IAO_0000111> "textual definition" .
+<http://purl.obolibrary.org/obo/IAO_0000115> <http://purl.obolibrary.org/obo/IAO_0000111> "定义" .
+<http://purl.obolibrary.org/obo/IAO_0000115> <http://purl.obolibrary.org/obo/IAO_0000114> <http://purl.obolibrary.org/obo/IAO_0000122> .
+<http://purl.obolibrary.org/obo/IAO_0000115> <http://purl.obolibrary.org/obo/IAO_0000115> "A property representing the English language definitions of what NCI means by the concept. They may also include information about the definition's source and attribution in a form that can easily be interpreted by software." .
+<http://purl.obolibrary.org/obo/IAO_0000115> <http://purl.obolibrary.org/obo/IAO_0000115> "English language definitions of what NCI means by the concept. These are limited to 1024 characters. They may also include information about the definition's source and attribution in a form that can easily be interpreted by software." .
+<http://purl.obolibrary.org/obo/IAO_0000115> <http://purl.obolibrary.org/obo/IAO_0000115> "OBI的官方定义，解释类或属性的含义。应该是亚里士多德式的，形式化和规范化的。 可以通过口语定义进行扩充。" .
+<http://purl.obolibrary.org/obo/IAO_0000115> <http://purl.obolibrary.org/obo/IAO_0000115> "The official OBI definition, explaining the meaning of a class or property. Shall be Aristotelian, formalized and normalized. Can be augmented with colloquial definitions." .
+<http://purl.obolibrary.org/obo/IAO_0000115> <http://purl.obolibrary.org/obo/IAO_0000115> "The official definition, explaining the meaning of a class or property. Shall be Aristotelian, formalized and normalized. Can be augmented with colloquial definitions." .
+<http://purl.obolibrary.org/obo/IAO_0000115> <http://purl.obolibrary.org/obo/IAO_0000115> "The official definition." .
+<http://purl.obolibrary.org/obo/IAO_0000115> <http://purl.obolibrary.org/obo/IAO_0000115> "官方的定义，解释类或属性的含义。应该是亚里士多德式的，形式化和规范化的。 可以通过口语定义进行扩充。" .
+<http://purl.obolibrary.org/obo/IAO_0000115> <http://purl.obolibrary.org/obo/IAO_0000116> "2012-04-05:  Barry Smith  OBI的官方定义解释了一个类或属性的含义：'应该是亚里士多德式的，形式化和规范化的。可以用口语定义'是糟糕的。  您能解决这样的问题吗？  解释关于类或属性的表达含义的必要和充分条件的陈述。  Alan Ruttenberg  您提出的定义是一个合理的备选，除非它很常见，没有给出必要和充分的条件。大多数情况下它们是必要的，偶尔是必要的，充分的或者仅仅仅充分的。它们通常使用不是自己定义的术语，因此它们实际上不能通过这些标准进行评估。  关于拟议定义的具体内容：  我们没有“含义”，或“表达”或“属性”的定义。对于在预期意义上的“参考”，我认为我们使用术语“指示”。对于'表达'，我认为我们和你的意思是符号，或标识符。对于“含义”，它不同于类和属性。对于类，我们希望文档能够让读者确定一个实体是否是该类的实例。对于属性，让我们的目标读者决定，给定一对潜在的关系，判断关系成立的断言正确与否。 “目标读者”部分表明我们也指定了我们期望的能够理解定义的人，并且概括了人类和计算机读者以包含文本和逻辑定义。  就我个人而言，我更愿意削弱对文档的定义，并指出什么是可取的。  我们还有一个悬而未决的问题，就是如何针对不同的受众定位不同的定义。临床读者阅读chebi需要来自受过化学训练的受众的不同类型的定义文档/定义，同样需要一个适合本体工作者的定义。 " .
+<http://purl.obolibrary.org/obo/IAO_0000115> <http://purl.obolibrary.org/obo/IAO_0000116> "2012-04-05:  Barry Smith  The official OBI definition, explaining the meaning of a class or property: 'Shall be Aristotelian, formalized and normalized. Can be augmented with colloquial definitions'  is terrible.  Can you fix to something like:  A statement of necessary and sufficient conditions explaining the meaning of an expression referring to a class or property.  Alan Ruttenberg  Your proposed definition is a reasonable candidate, except that it is very common that necessary and sufficient conditions are not given. Mostly they are necessary, occasionally they are necessary and sufficient or just sufficient. Often they use terms that are not themselves defined and so they effectively can't be evaluated by those criteria.   On the specifics of the proposed definition:  We don't have definitions of 'meaning' or 'expression' or 'property'. For 'reference' in the intended sense I think we use the term 'denotation'. For 'expression', I think we you mean symbol, or identifier. For 'meaning' it differs for class and property. For class we want documentation that let's the intended reader determine whether an entity is instance of the class, or not. For property we want documentation that let's the intended reader determine, given a pair of potential relata, whether the assertion that the relation holds is true. The 'intended reader' part suggests that we also specify who, we expect, would be able to understand the definition, and also generalizes over human and computer reader to include textual and logical definition.   Personally, I am more comfortable weakening definition to documentation, with instructions as to what is desirable.   We also have the outstanding issue of how to aim different definitions to different audiences. A clinical audience reading chebi wants a different sort of definition documentation/definition from a chemistry trained audience, and similarly there is a need for a definition that is adequate for an ontologist to work with.  " .
+<http://purl.obolibrary.org/obo/IAO_0000115> <http://purl.obolibrary.org/obo/IAO_0000116> "2012-04-05:  Barry Smith  The official OBI definition, explaining the meaning of a class or property: 'Shall be Aristotelian, formalized and normalized. Can be augmented with colloquial definitions'  is terrible.  Can you fix to something like:  A statement of necessary and sufficient conditions explaining the meaning of an expression referring to a class or property.  Alan Ruttenberg  Your proposed definition is a reasonable candidate, except that it is very common that necessary and sufficient conditions are not given. Mostly they are necessary, occasionally they are necessary and sufficient or just sufficient. Often they use terms that are not themselves defined and so they effectively can't be evaluated by those criteria.   On the specifics of the proposed definition:  We don't have definitions of 'meaning' or 'expression' or 'property'. For 'reference' in the intended sense I think we use the term 'denotation'. For 'expression', I think we you mean symbol, or identifier. For 'meaning' it differs for class and property. For class we want documentation that let's the intended reader determine whether an entity is instance of the class, or not. For property we want documentation that let's the intended reader determine, given a pair of potential relata, whether the assertion that the relation holds is true. The 'intended reader' part suggests that we also specify who, we expect, would be able to understand the definition, and also generalizes over human and computer reader to include textual and logical definition.   Personally, I am more comfortable weakening definition to documentation, with instructions as to what is desirable.   We also have the outstanding issue of how to aim different definitions to different audiences. A clinical audience reading chebi wants a different sort of definition documentation/definition from a chemistry trained audience, and similarly there is a need for a definition that is adequate for an ontologist to work with." .
+<http://purl.obolibrary.org/obo/IAO_0000115> <http://purl.obolibrary.org/obo/IAO_0000116> "2012-04-05: Barry Smith  The official OBI definition, explaining the meaning of a class or property: 'Shall be Aristotelian, formalized and normalized. Can be augmented with colloquial definitions'  is terrible.  Can you fix to something like:  A statement of necessary and sufficient conditions explaining the meaning of an expression referring to a class or property.  Alan Ruttenberg  Your proposed definition is a reasonable candidate, except that it is very common that necessary and sufficient conditions are not given. Mostly they are necessary, occasionally they are necessary and sufficient or just sufficient. Often they use terms that are not themselves defined and so they effectively can't be evaluated by those criteria.  On the specifics of the proposed definition:  We don't have definitions of 'meaning' or 'expression' or 'property'. For 'reference' in the intended sense I think we use the term 'denotation'. For 'expression', I think we you mean symbol, or identifier. For 'meaning' it differs for class and property. For class we want documentation that let's the intended reader determine whether an entity is instance of the class, or not. For property we want documentation that let's the intended reader determine, given a pair of potential relata, whether the assertion that the relation holds is true. The 'intended reader' part suggests that we also specify who, we expect, would be able to understand the definition, and also generalizes over human and computer reader to include textual and logical definition.  Personally, I am more comfortable weakening definition to documentation, with instructions as to what is desirable.  We also have the outstanding issue of how to aim different definitions to different audiences. A clinical audience reading chebi wants a different sort of definition documentation/definition from a chemistry trained audience, and similarly there is a need for a definition that is adequate for an ontologist to work with.  " .
+<http://purl.obolibrary.org/obo/IAO_0000115> <http://purl.obolibrary.org/obo/IAO_0000116> "2012-04-05: Barry Smith The official OBI definition, explaining the meaning of a class or property: 'Shall be Aristotelian, formalized and normalized. Can be augmented with colloquial definitions' is terrible. Can you fix to something like: A statement of necessary and sufficient conditions explaining the meaning of an expression referring to a class or property. Alan Ruttenberg Your proposed definition is a reasonable candidate, except that it is very common that necessary and sufficient conditions are not given. Mostly they are necessary, occasionally they are necessary and sufficient or just sufficient. Often they use terms that are not themselves defined and so they effectively can't be evaluated by those criteria. On the specifics of the proposed definition: We don't have definitions of 'meaning' or 'expression' or 'property'. For 'reference' in the intended sense I think we use the term 'denotation'. For 'expression', I think we you mean symbol, or identifier. For 'meaning' it differs for class and property. For class we want documentation that let's the intended reader determine whether an entity is instance of the class, or not. For property we want documentation that let's the intended reader determine, given a pair of potential relata, whether the assertion that the relation holds is true. The 'intended reader' part suggests that we also specify who, we expect, would be able to understand the definition, and also generalizes over human and computer reader to include textual and logical definition. Personally, I am more comfortable weakening definition to documentation, with instructions as to what is desirable. We also have the outstanding issue of how to aim different definitions to different audiences. A clinical audience reading chebi wants a different sort of definition documentation/definition from a chemistry trained audience, and similarly there is a need for a definition that is adequate for an ontologist to work with. " .
+<http://purl.obolibrary.org/obo/IAO_0000115> <http://purl.obolibrary.org/obo/IAO_0000117> "PERSON:Daniel Schober" .
+<http://purl.obolibrary.org/obo/IAO_0000115> <http://purl.obolibrary.org/obo/IAO_0000118> "DEFINITION" .
+<http://purl.obolibrary.org/obo/IAO_0000115> <http://purl.obolibrary.org/obo/IAO_0000119> "GROUP:OBI:<http://purl.obolibrary.org/obo/obi>" .
+<http://purl.obolibrary.org/obo/IAO_0000115> <http://purl.obolibrary.org/obo/IAO_0000412> <http://purl.obolibrary.org/obo/bco/releases/2016-12-14/bco.owl> .
+<http://purl.obolibrary.org/obo/IAO_0000115> <http://purl.obolibrary.org/obo/IAO_0000412> <http://purl.obolibrary.org/obo/bfo/2.0/bfo.owl> .
+<http://purl.obolibrary.org/obo/IAO_0000115> <http://purl.obolibrary.org/obo/IAO_0000412> <http://purl.obolibrary.org/obo/go/releases/2017-01-24/go.owl> .
+<http://purl.obolibrary.org/obo/IAO_0000115> <http://purl.obolibrary.org/obo/IAO_0000412> <http://purl.obolibrary.org/obo/iao/2017-03-24/iao.owl> .
+<http://purl.obolibrary.org/obo/IAO_0000115> <http://purl.obolibrary.org/obo/IAO_0000412> <http://purl.obolibrary.org/obo/iao/ontology-metadata.owl> .
+<http://purl.obolibrary.org/obo/IAO_0000115> <http://purl.obolibrary.org/obo/IAO_0000412> <http://purl.obolibrary.org/obo/obi/2017-02-22/obi.owl> .
+<http://purl.obolibrary.org/obo/IAO_0000115> <http://purl.obolibrary.org/obo/IAO_0000412> <http://purl.obolibrary.org/obo/pato/releases/2017-03-22/pato.owl> .
+<http://purl.obolibrary.org/obo/IAO_0000115> <http://purl.obolibrary.org/obo/IAO_0000412> <http://purl.obolibrary.org/obo/po/releases/2017-01-06/po.owl> .
+<http://purl.obolibrary.org/obo/IAO_0000115> <http://purl.obolibrary.org/obo/IAO_0000412> <http://purl.obolibrary.org/obo/ro/releases/2016-10-28/ro.owl> .
+<http://purl.obolibrary.org/obo/IAO_0000115> <http://purl.obolibrary.org/obo/IAO_0000412> <http://purl.obolibrary.org/obo/uberon/releases/2017-05-29/uberon.owl> .
+<http://purl.obolibrary.org/obo/IAO_0000115> <http://purl.obolibrary.org/obo/REO_0000360> "Definition" .
+<http://purl.obolibrary.org/obo/IAO_0000115> <http://purl.obolibrary.org/obo/SCDO_0000340> <http://purl.obolibrary.org/obo/IAO_0000115> .
+<http://purl.obolibrary.org/obo/IAO_0000115> <http://purl.obolibrary.org/obo/SCDO_0000363> "no" .
+<http://purl.obolibrary.org/obo/IAO_0000115> <http://www.geneontology.org/formats/oboInOwl#created_by> <https://orcid.org/0000-0002-7702-4495> .
+<http://purl.obolibrary.org/obo/IAO_0000115> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "DEFINITION" .
+<http://purl.obolibrary.org/obo/IAO_0000115> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#AnnotationProperty> .
+<http://purl.obolibrary.org/obo/IAO_0000115> <http://www.w3.org/2000/01/rdf-schema#comment> "Allyson Lister 8.10.2019: Although the IAO definition has been included here, we have made a curation decision to allow non-Aristotelian definitions." .
+<http://purl.obolibrary.org/obo/IAO_0000115> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <http://purl.obolibrary.org/obo/iao.owl> .
+<http://purl.obolibrary.org/obo/IAO_0000115> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <http://purl.obolibrary.org/obo/ohd/imports/caro_import.owl> .
+<http://purl.obolibrary.org/obo/IAO_0000115> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <http://purl.obolibrary.org/obo/ohd/imports/ro_import.owl> .
+<http://purl.obolibrary.org/obo/IAO_0000115> <http://www.w3.org/2000/01/rdf-schema#label> "definition" .
+<http://purl.obolibrary.org/obo/IAO_0000115> <http://www.w3.org/2000/01/rdf-schema#label> "textual definition" .
+<http://purl.obolibrary.org/obo/IAO_0000115> <http://www.w3.org/2000/01/rdf-schema#label> "定义" .
+<http://purl.obolibrary.org/obo/IAO_0000115> <http://www.w3.org/2000/01/rdf-schema#label> "文本定义" .
+<http://purl.obolibrary.org/obo/IAO_0000115> <http://www.w3.org/2000/01/rdf-schema#subPropertyOf> <http://www.ebi.ac.uk/efo/definition> .
+<http://purl.obolibrary.org/obo/IAO_0000116> <http://purl.obolibrary.org/obo/IAO_0000111> "editor note" .
+<http://purl.obolibrary.org/obo/IAO_0000116> <http://purl.obolibrary.org/obo/IAO_0000111> "编者注" .
+<http://purl.obolibrary.org/obo/IAO_0000116> <http://purl.obolibrary.org/obo/IAO_0000114> <http://purl.obolibrary.org/obo/IAO_0000122> .
+<http://purl.obolibrary.org/obo/IAO_0000116> <http://purl.obolibrary.org/obo/IAO_0000115> "An administrative note intended for its editor. It may not be included in the publication version of the ontology, so it should contain nothing necessary for end users to understand the ontology." .
+<http://purl.obolibrary.org/obo/IAO_0000116> <http://purl.obolibrary.org/obo/IAO_0000115> "管理者注释用于其编辑器。它可能不包含在本体的出版版本中，所以它应该不包含最终用户了解本体所需的信息。" .
+<http://purl.obolibrary.org/obo/IAO_0000116> <http://purl.obolibrary.org/obo/IAO_0000117> "PERSON:Daniel Schober" .
+<http://purl.obolibrary.org/obo/IAO_0000116> <http://purl.obolibrary.org/obo/IAO_0000119> "GROUP:OBI:<http://purl.obfoundry.org/obo/obi>" .
+<http://purl.obolibrary.org/obo/IAO_0000116> <http://purl.obolibrary.org/obo/IAO_0000119> "GROUP:OBI:<http://purl.obofoundry.org/obo/obi&gt>" .
+<http://purl.obolibrary.org/obo/IAO_0000116> <http://purl.obolibrary.org/obo/IAO_0000119> "GROUP:OBI:<http://purl.obofoundry.org/obo/obi>" .
+<http://purl.obolibrary.org/obo/IAO_0000116> <http://purl.obolibrary.org/obo/IAO_0000412> <http://purl.obolibrary.org/obo/bco/releases/2016-12-14/bco.owl> .
+<http://purl.obolibrary.org/obo/IAO_0000116> <http://purl.obolibrary.org/obo/IAO_0000412> <http://purl.obolibrary.org/obo/bfo/2.0/bfo.owl> .
+<http://purl.obolibrary.org/obo/IAO_0000116> <http://purl.obolibrary.org/obo/IAO_0000412> <http://purl.obolibrary.org/obo/iao/2017-03-24/iao.owl> .
+<http://purl.obolibrary.org/obo/IAO_0000116> <http://purl.obolibrary.org/obo/IAO_0000412> <http://purl.obolibrary.org/obo/iao/ontology-metadata.owl> .
+<http://purl.obolibrary.org/obo/IAO_0000116> <http://purl.obolibrary.org/obo/IAO_0000412> <http://purl.obolibrary.org/obo/obi/2017-02-22/obi.owl> .
+<http://purl.obolibrary.org/obo/IAO_0000116> <http://purl.obolibrary.org/obo/IAO_0000412> <http://purl.obolibrary.org/obo/ro/releases/2016-10-28/ro.owl> .
+<http://purl.obolibrary.org/obo/IAO_0000116> <http://purl.obolibrary.org/obo/IAO_0000412> <http://purl.obolibrary.org/obo/uberon/releases/2017-05-29/uberon.owl> .
+<http://purl.obolibrary.org/obo/IAO_0000116> <http://purl.obolibrary.org/obo/hasDbXref> "IAO:0000116" .
+<http://purl.obolibrary.org/obo/IAO_0000116> <http://purl.obolibrary.org/obo/hasOBONamespace> "uberon" .
+<http://purl.obolibrary.org/obo/IAO_0000116> <http://purl.obolibrary.org/obo/id> "editor_note" .
+<http://purl.obolibrary.org/obo/IAO_0000116> <http://purl.obolibrary.org/obo/id> "编辑_注释" .
+<http://purl.obolibrary.org/obo/IAO_0000116> <http://purl.obolibrary.org/obo/is_metadata_tag> "1" .
+<http://purl.obolibrary.org/obo/IAO_0000116> <http://purl.obolibrary.org/obo/shorthand> "editor_note" .
+<http://purl.obolibrary.org/obo/IAO_0000116> <http://purl.obolibrary.org/obo/shorthand> "编辑_注释" .
+<http://purl.obolibrary.org/obo/IAO_0000116> <http://www.geneontology.org/formats/oboInOwl#hasDbXref> "IAO:0000116" .
+<http://purl.obolibrary.org/obo/IAO_0000116> <http://www.geneontology.org/formats/oboInOwl#hasOBONamespace> "uberon" .
+<http://purl.obolibrary.org/obo/IAO_0000116> <http://www.geneontology.org/formats/oboInOwl#id> "editor_note" .
+<http://purl.obolibrary.org/obo/IAO_0000116> <http://www.geneontology.org/formats/oboInOwl#is_metadata_tag> "1" .
+<http://purl.obolibrary.org/obo/IAO_0000116> <http://www.geneontology.org/formats/oboInOwl#shorthand> "editor_note" .
+<http://purl.obolibrary.org/obo/IAO_0000116> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#AnnotationProperty> .
+<http://purl.obolibrary.org/obo/IAO_0000116> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <http://purl.obolibrary.org/obo/iao.owl> .
+<http://purl.obolibrary.org/obo/IAO_0000116> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <http://purl.obolibrary.org/obo/ohd/imports/caro_import.owl> .
+<http://purl.obolibrary.org/obo/IAO_0000116> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <http://purl.obolibrary.org/obo/ohd/imports/ecto_import.owl> .
+<http://purl.obolibrary.org/obo/IAO_0000116> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <http://purl.obolibrary.org/obo/ohd/imports/ro_import.owl> .
+<http://purl.obolibrary.org/obo/IAO_0000116> <http://www.w3.org/2000/01/rdf-schema#label> "editor note" .
+<http://purl.obolibrary.org/obo/IAO_0000116> <http://www.w3.org/2000/01/rdf-schema#label> "fma translation source" .
+<http://purl.obolibrary.org/obo/IAO_0000116> <http://www.w3.org/2000/01/rdf-schema#label> "编者注" .
+<http://purl.obolibrary.org/obo/IAO_0000116> <http://www.w3.org/2000/01/rdf-schema#seeAlso> "IAO:0000116" .
+<http://purl.obolibrary.org/obo/IAO_0000117> <http://purl.obolibrary.org/obo/IAO_0000111> "definition editor" .
+<http://purl.obolibrary.org/obo/IAO_0000117> <http://purl.obolibrary.org/obo/IAO_0000111> "term editor" .
+<http://purl.obolibrary.org/obo/IAO_0000117> <http://purl.obolibrary.org/obo/IAO_0000111> "术语编辑者" .
+<http://purl.obolibrary.org/obo/IAO_0000117> <http://purl.obolibrary.org/obo/IAO_0000114> <http://purl.obolibrary.org/obo/IAO_0000122> .
+<http://purl.obolibrary.org/obo/IAO_0000117> <http://purl.obolibrary.org/obo/IAO_0000115> "Name of editor entering the definition in the file. The definition editor is a point of contact for information regarding the term. The definition editor may be, but is not always, the author of the definition, which may have been worked upon by several people" .
+<http://purl.obolibrary.org/obo/IAO_0000117> <http://purl.obolibrary.org/obo/IAO_0000115> "Name of editor entering the term in the file. The term editor is a point of contact for information regarding the term. The term editor may be, but is not always, the author of the definition, which may have been worked upon by several people" .
+<http://purl.obolibrary.org/obo/IAO_0000117> <http://purl.obolibrary.org/obo/IAO_0000115> "输入文件中术语编辑者的名称。术语编辑者是有关术语的信息交汇点。术语编辑者可以是，但并不总是，定义的作者，这可能是由几个人完成" .
+<http://purl.obolibrary.org/obo/IAO_0000117> <http://purl.obolibrary.org/obo/IAO_0000116> "20110707, MC: label update to term editor and definition modified accordingly. See http://code.google.com/p/information-artifact-ontology/issues/detail?id=115." .
+<http://purl.obolibrary.org/obo/IAO_0000117> <http://purl.obolibrary.org/obo/IAO_0000116> "20110707, MC: label update to term editor and definition modified accordingly. See https://github.com/information-artifact-ontology/IAO/issues/115." .
+<http://purl.obolibrary.org/obo/IAO_0000117> <http://purl.obolibrary.org/obo/IAO_0000116> "20110707，MC：术语编辑和定义进行相应的修改。见http://code.google.com/p/information-artifact-ontology/issues/detail?id=115。" .
+<http://purl.obolibrary.org/obo/IAO_0000117> <http://purl.obolibrary.org/obo/IAO_0000117> "PERSON:Daniel Schober" .
+<http://purl.obolibrary.org/obo/IAO_0000117> <http://purl.obolibrary.org/obo/IAO_0000119> "GROUP:OBI:<http://purl.obolibrary.org/obo/obi&gt>" .
+<http://purl.obolibrary.org/obo/IAO_0000117> <http://purl.obolibrary.org/obo/IAO_0000119> "GROUP:OBI:<http://purl.obolibrary.org/obo/obi>" .
+<http://purl.obolibrary.org/obo/IAO_0000117> <http://purl.obolibrary.org/obo/IAO_0000412> <http://purl.obolibrary.org/obo/bco/releases/2016-12-14/bco.owl> .
+<http://purl.obolibrary.org/obo/IAO_0000117> <http://purl.obolibrary.org/obo/IAO_0000412> <http://purl.obolibrary.org/obo/iao/2017-03-24/iao.owl> .
+<http://purl.obolibrary.org/obo/IAO_0000117> <http://purl.obolibrary.org/obo/IAO_0000412> <http://purl.obolibrary.org/obo/iao/ontology-metadata.owl> .
+<http://purl.obolibrary.org/obo/IAO_0000117> <http://purl.obolibrary.org/obo/IAO_0000412> <http://purl.obolibrary.org/obo/obi/2017-02-22/obi.owl> .
+<http://purl.obolibrary.org/obo/IAO_0000117> <http://purl.obolibrary.org/obo/IAO_0000412> <http://purl.obolibrary.org/obo/ro/releases/2016-10-28/ro.owl> .
+<http://purl.obolibrary.org/obo/IAO_0000117> <http://purl.obolibrary.org/obo/REO_0000360> "definition_editor" .
+<http://purl.obolibrary.org/obo/IAO_0000117> <http://www.geneontology.org/formats/oboInOwl#created_by> "Peter McQuilton" .
+<http://purl.obolibrary.org/obo/IAO_0000117> <http://www.geneontology.org/formats/oboInOwl#created_by> <https://orcid.org/0000-0002-7702-4495> .
+<http://purl.obolibrary.org/obo/IAO_0000117> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#AnnotationProperty> .
+<http://purl.obolibrary.org/obo/IAO_0000117> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <http://purl.obolibrary.org/obo/iao.owl> .
+<http://purl.obolibrary.org/obo/IAO_0000117> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <http://purl.obolibrary.org/obo/ohd/imports/caro_import.owl> .
+<http://purl.obolibrary.org/obo/IAO_0000117> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <http://purl.obolibrary.org/obo/ohd/imports/ecto_import.owl> .
+<http://purl.obolibrary.org/obo/IAO_0000117> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <http://purl.obolibrary.org/obo/ohd/imports/ro_import.owl> .
+<http://purl.obolibrary.org/obo/IAO_0000117> <http://www.w3.org/2000/01/rdf-schema#label> "definition editor" .
+<http://purl.obolibrary.org/obo/IAO_0000117> <http://www.w3.org/2000/01/rdf-schema#label> "definition_editor" .
+<http://purl.obolibrary.org/obo/IAO_0000117> <http://www.w3.org/2000/01/rdf-schema#label> "term editor" .
+<http://purl.obolibrary.org/obo/IAO_0000117> <http://www.w3.org/2000/01/rdf-schema#label> "术语编辑者" .
+<http://purl.obolibrary.org/obo/IAO_0000118> <http://purl.obolibrary.org/obo/IAO_0000111> "alternative label" .
+<http://purl.obolibrary.org/obo/IAO_0000118> <http://purl.obolibrary.org/obo/IAO_0000111> "alternative term" .
+<http://purl.obolibrary.org/obo/IAO_0000118> <http://purl.obolibrary.org/obo/IAO_0000111> "替代术语" .
+<http://purl.obolibrary.org/obo/IAO_0000118> <http://purl.obolibrary.org/obo/IAO_0000114> <http://purl.obolibrary.org/obo/IAO_0000125> .
+<http://purl.obolibrary.org/obo/IAO_0000118> <http://purl.obolibrary.org/obo/IAO_0000115> "A label for a class or property that can be used to refer to the class or property instead of the preferred rdfs:label. Alternative labels should be used to indicate community- or context-specific labels, abbreviations, shorthand forms and the like." .
+<http://purl.obolibrary.org/obo/IAO_0000118> <http://purl.obolibrary.org/obo/IAO_0000115> "An alternative name for a class or property which means the same thing as the preferred name (semantically equivalent)" .
+<http://purl.obolibrary.org/obo/IAO_0000118> <http://purl.obolibrary.org/obo/IAO_0000115> "一类或属性的替代名称，这意味着与所述首选名称同样的事物（语义上等价）" .
+<http://purl.obolibrary.org/obo/IAO_0000118> <http://purl.obolibrary.org/obo/IAO_0000117> "Mia" .
+<http://purl.obolibrary.org/obo/IAO_0000118> <http://purl.obolibrary.org/obo/IAO_0000117> "OBO Operations committee" .
+<http://purl.obolibrary.org/obo/IAO_0000118> <http://purl.obolibrary.org/obo/IAO_0000117> "PERSON:Daniel Schober" .
+<http://purl.obolibrary.org/obo/IAO_0000118> <http://purl.obolibrary.org/obo/IAO_0000119> "GROUP:OBI:<http://purl.obolibrary.org/obo/obi&gt>" .
+<http://purl.obolibrary.org/obo/IAO_0000118> <http://purl.obolibrary.org/obo/IAO_0000119> "GROUP:OBI:<http://purl.obolibrary.org/obo/obi>" .
+<http://purl.obolibrary.org/obo/IAO_0000118> <http://purl.obolibrary.org/obo/IAO_0000412> <http://purl.obolibrary.org/obo/bco/releases/2016-12-14/bco.owl> .
+<http://purl.obolibrary.org/obo/IAO_0000118> <http://purl.obolibrary.org/obo/IAO_0000412> <http://purl.obolibrary.org/obo/iao/2017-03-24/iao.owl> .
+<http://purl.obolibrary.org/obo/IAO_0000118> <http://purl.obolibrary.org/obo/IAO_0000412> <http://purl.obolibrary.org/obo/iao/ontology-metadata.owl> .
+<http://purl.obolibrary.org/obo/IAO_0000118> <http://purl.obolibrary.org/obo/IAO_0000412> <http://purl.obolibrary.org/obo/obi/2017-02-22/obi.owl> .
+<http://purl.obolibrary.org/obo/IAO_0000118> <http://purl.obolibrary.org/obo/IAO_0000412> <http://purl.obolibrary.org/obo/ro/releases/2016-10-28/ro.owl> .
+<http://purl.obolibrary.org/obo/IAO_0000118> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#AnnotationProperty> .
+<http://purl.obolibrary.org/obo/IAO_0000118> <http://www.w3.org/2000/01/rdf-schema#comment> "Consider re-defing to: An alternative name for a class or property which can mean the same thing as the preferred name (semantically equivalent, narrow, broad or related)." .
+<http://purl.obolibrary.org/obo/IAO_0000118> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <http://purl.obolibrary.org/obo/iao.owl> .
+<http://purl.obolibrary.org/obo/IAO_0000118> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <http://purl.obolibrary.org/obo/ohd/imports/caro_import.owl> .
+<http://purl.obolibrary.org/obo/IAO_0000118> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <http://purl.obolibrary.org/obo/ohd/imports/iao_import.owl> .
+<http://purl.obolibrary.org/obo/IAO_0000118> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <http://purl.obolibrary.org/obo/ohd/imports/ro_import.owl> .
+<http://purl.obolibrary.org/obo/IAO_0000118> <http://www.w3.org/2000/01/rdf-schema#label> "alternative label" .
+<http://purl.obolibrary.org/obo/IAO_0000118> <http://www.w3.org/2000/01/rdf-schema#label> "alternative term" .
+<http://purl.obolibrary.org/obo/IAO_0000118> <http://www.w3.org/2000/01/rdf-schema#label> "alternative_term" .
+<http://purl.obolibrary.org/obo/IAO_0000118> <http://www.w3.org/2000/01/rdf-schema#label> "替代术语" .
+<http://purl.obolibrary.org/obo/IAO_0000119> <http://purl.obolibrary.org/obo/IAO_0000111> "definition source" .
+<http://purl.obolibrary.org/obo/IAO_0000119> <http://purl.obolibrary.org/obo/IAO_0000111> "定义来源" .
+<http://purl.obolibrary.org/obo/IAO_0000119> <http://purl.obolibrary.org/obo/IAO_0000114> <http://purl.obolibrary.org/obo/IAO_0000122> .
+<http://purl.obolibrary.org/obo/IAO_0000119> <http://purl.obolibrary.org/obo/IAO_0000115> "Formal citation, e.g. identifier in external database to indicate / attribute source(s) for the definition. Free text indicate / attribute source(s) for the definition. EXAMPLE: Author Name, URI, MeSH Term C04, PUBMED ID, Wiki uri on 31.01.2007" .
+<http://purl.obolibrary.org/obo/IAO_0000119> <http://purl.obolibrary.org/obo/IAO_0000115> "Formal citation, e.g. identifier in external database to indicate / attribute source(s) for the definition. Free text indicate / attribute source(s) for the definition. EXAMPLE: Author Name, URI, MeSH Term C04, PUBMED ID, Wiki uri on 31.01.2007." .
+<http://purl.obolibrary.org/obo/IAO_0000119> <http://purl.obolibrary.org/obo/IAO_0000115> "formal citation, e.g. identifier in external database to indicate / attribute source(s) for the definition. Free text indicate / attribute source(s) for the definition. EXAMPLE: Author Name, URI, MeSH Term C04, PUBMED ID, Wiki uri on 31.01.2007" .
+<http://purl.obolibrary.org/obo/IAO_0000119> <http://purl.obolibrary.org/obo/IAO_0000115> "正式引用，例如在外部数据库中的标识符，用于表示/定义的属性源（S）。自由文本表示/为定义属性源（S）。实例：在2007年1月31日的作者姓名，URI，MeSH术语C04，PUBMEDID，维基uri" .
+<http://purl.obolibrary.org/obo/IAO_0000119> <http://purl.obolibrary.org/obo/IAO_0000117> "PERSON:Daniel Schober" .
+<http://purl.obolibrary.org/obo/IAO_0000119> <http://purl.obolibrary.org/obo/IAO_0000119> "Discussion on obo-discuss mailing-list, see http://bit.ly/hgm99w" .
+<http://purl.obolibrary.org/obo/IAO_0000119> <http://purl.obolibrary.org/obo/IAO_0000119> "GROUP:OBI:<http://purl.obolibrary.org/obo/obi>" .
+<http://purl.obolibrary.org/obo/IAO_0000119> <http://purl.obolibrary.org/obo/IAO_0000119> "论OBO-讨论邮件-列表，请参阅http://bit.ly/hgm99w" .
+<http://purl.obolibrary.org/obo/IAO_0000119> <http://purl.obolibrary.org/obo/IAO_0000412> <http://purl.obolibrary.org/obo/bco/releases/2016-12-14/bco.owl> .
+<http://purl.obolibrary.org/obo/IAO_0000119> <http://purl.obolibrary.org/obo/IAO_0000412> <http://purl.obolibrary.org/obo/iao/2017-03-24/iao.owl> .
+<http://purl.obolibrary.org/obo/IAO_0000119> <http://purl.obolibrary.org/obo/IAO_0000412> <http://purl.obolibrary.org/obo/iao/ontology-metadata.owl> .
+<http://purl.obolibrary.org/obo/IAO_0000119> <http://purl.obolibrary.org/obo/IAO_0000412> <http://purl.obolibrary.org/obo/obi/2017-02-22/obi.owl> .
+<http://purl.obolibrary.org/obo/IAO_0000119> <http://purl.obolibrary.org/obo/IAO_0000412> <http://purl.obolibrary.org/obo/ro/releases/2016-10-28/ro.owl> .
+<http://purl.obolibrary.org/obo/IAO_0000119> <http://purl.obolibrary.org/obo/REO_0000360> "definition_source" .
+<http://purl.obolibrary.org/obo/IAO_0000119> <http://www.geneontology.org/formats/oboInOwl#created_by> "Peter McQuilton" .
+<http://purl.obolibrary.org/obo/IAO_0000119> <http://www.geneontology.org/formats/oboInOwl#created_by> <https://orcid.org/0000-0002-7702-4495> .
+<http://purl.obolibrary.org/obo/IAO_0000119> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#AnnotationProperty> .
+<http://purl.obolibrary.org/obo/IAO_0000119> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <http://purl.obolibrary.org/obo/iao.owl> .
+<http://purl.obolibrary.org/obo/IAO_0000119> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <http://purl.obolibrary.org/obo/ohd/imports/ecto_import.owl> .
+<http://purl.obolibrary.org/obo/IAO_0000119> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <http://purl.obolibrary.org/obo/ohd/imports/ro_import.owl> .
+<http://purl.obolibrary.org/obo/IAO_0000119> <http://www.w3.org/2000/01/rdf-schema#label> "definition source" .
+<http://purl.obolibrary.org/obo/IAO_0000119> <http://www.w3.org/2000/01/rdf-schema#label> "definition_source" .
+<http://purl.obolibrary.org/obo/IAO_0000119> <http://www.w3.org/2000/01/rdf-schema#label> "定义来源" .
+<http://purl.obolibrary.org/obo/IAO_0000232> <http://purl.obolibrary.org/obo/IAO_0000111> "curator note" .
+<http://purl.obolibrary.org/obo/IAO_0000232> <http://purl.obolibrary.org/obo/IAO_0000111> "管理者注释" .
+<http://purl.obolibrary.org/obo/IAO_0000232> <http://purl.obolibrary.org/obo/IAO_0000114> <http://purl.obolibrary.org/obo/IAO_0000122> .
+<http://purl.obolibrary.org/obo/IAO_0000232> <http://purl.obolibrary.org/obo/IAO_0000115> "An administrative note of use for a curator but of no use for a user" .
+<http://purl.obolibrary.org/obo/IAO_0000232> <http://purl.obolibrary.org/obo/IAO_0000115> "管理者注释对管理者有用对用户无用" .
+<http://purl.obolibrary.org/obo/IAO_0000232> <http://purl.obolibrary.org/obo/IAO_0000117> "PERSON:Alan Ruttenberg" .
+<http://purl.obolibrary.org/obo/IAO_0000232> <http://purl.obolibrary.org/obo/IAO_0000412> <http://purl.obolibrary.org/obo/bco/releases/2016-12-14/bco.owl> .
+<http://purl.obolibrary.org/obo/IAO_0000232> <http://purl.obolibrary.org/obo/IAO_0000412> <http://purl.obolibrary.org/obo/iao/2017-03-24/iao.owl> .
+<http://purl.obolibrary.org/obo/IAO_0000232> <http://purl.obolibrary.org/obo/IAO_0000412> <http://purl.obolibrary.org/obo/iao/ontology-metadata.owl> .
+<http://purl.obolibrary.org/obo/IAO_0000232> <http://purl.obolibrary.org/obo/IAO_0000412> <http://purl.obolibrary.org/obo/obi/2017-02-22/obi.owl> .
+<http://purl.obolibrary.org/obo/IAO_0000232> <http://purl.obolibrary.org/obo/IAO_0000412> <http://purl.obolibrary.org/obo/ro/releases/2016-10-28/ro.owl> .
+<http://purl.obolibrary.org/obo/IAO_0000232> <http://purl.obolibrary.org/obo/hasDbXref> "IAO:0000232" .
+<http://purl.obolibrary.org/obo/IAO_0000232> <http://purl.obolibrary.org/obo/hasOBONamespace> "uberon" .
+<http://purl.obolibrary.org/obo/IAO_0000232> <http://purl.obolibrary.org/obo/id> "curator_notes" .
+<http://purl.obolibrary.org/obo/IAO_0000232> <http://purl.obolibrary.org/obo/id> "管理者_注释" .
+<http://purl.obolibrary.org/obo/IAO_0000232> <http://purl.obolibrary.org/obo/is_metadata_tag> "1" .
+<http://purl.obolibrary.org/obo/IAO_0000232> <http://purl.obolibrary.org/obo/shorthand> "curator_notes" .
+<http://purl.obolibrary.org/obo/IAO_0000232> <http://purl.obolibrary.org/obo/shorthand> "管理者_注释" .
+<http://purl.obolibrary.org/obo/IAO_0000232> <http://www.geneontology.org/formats/oboInOwl#hasDbXref> "IAO:0000232" .
+<http://purl.obolibrary.org/obo/IAO_0000232> <http://www.geneontology.org/formats/oboInOwl#hasOBONamespace> "uberon" .
+<http://purl.obolibrary.org/obo/IAO_0000232> <http://www.geneontology.org/formats/oboInOwl#id> "curator_notes" .
+<http://purl.obolibrary.org/obo/IAO_0000232> <http://www.geneontology.org/formats/oboInOwl#is_metadata_tag> "1" .
+<http://purl.obolibrary.org/obo/IAO_0000232> <http://www.geneontology.org/formats/oboInOwl#shorthand> "curator_notes" .
+<http://purl.obolibrary.org/obo/IAO_0000232> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#AnnotationProperty> .
+<http://purl.obolibrary.org/obo/IAO_0000232> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <http://purl.obolibrary.org/obo/iao.owl> .
+<http://purl.obolibrary.org/obo/IAO_0000232> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <http://purl.obolibrary.org/obo/ohd/imports/ro_import.owl> .
+<http://purl.obolibrary.org/obo/IAO_0000232> <http://www.w3.org/2000/01/rdf-schema#label> "curator note" .
+<http://purl.obolibrary.org/obo/IAO_0000232> <http://www.w3.org/2000/01/rdf-schema#label> "curator notes" .
+<http://purl.obolibrary.org/obo/IAO_0000232> <http://www.w3.org/2000/01/rdf-schema#label> "管理者注释" .
+<http://purl.obolibrary.org/obo/IAO_0000233> <http://purl.obolibrary.org/obo/IAO_0000111> "term tracker item" .
+<http://purl.obolibrary.org/obo/IAO_0000233> <http://purl.obolibrary.org/obo/IAO_0000112> "the URI for an OBI Terms ticket at sourceforge, such as https://sourceforge.net/p/obi/obi-terms/772/" .
+<http://purl.obolibrary.org/obo/IAO_0000233> <http://purl.obolibrary.org/obo/IAO_0000114> <http://purl.obolibrary.org/obo/IAO_0000125> .
+<http://purl.obolibrary.org/obo/IAO_0000233> <http://purl.obolibrary.org/obo/IAO_0000115> "An IRI or similar locator for a request or discussion of an ontology term." .
+<http://purl.obolibrary.org/obo/IAO_0000233> <http://purl.obolibrary.org/obo/IAO_0000117> "Person: Jie Zheng, Chris Stoeckert, Alan Ruttenberg" .
+<http://purl.obolibrary.org/obo/IAO_0000233> <http://purl.obolibrary.org/obo/IAO_0000119> "Person: Jie Zheng, Chris Stoeckert, Alan Ruttenberg" .
+<http://purl.obolibrary.org/obo/IAO_0000233> <http://www.geneontology.org/formats/oboInOwl#hasDbXref> "IAO:0000233" .
+<http://purl.obolibrary.org/obo/IAO_0000233> <http://www.geneontology.org/formats/oboInOwl#hasOBONamespace> "external" .
+<http://purl.obolibrary.org/obo/IAO_0000233> <http://www.geneontology.org/formats/oboInOwl#hasOBONamespace> "uberon" .
+<http://purl.obolibrary.org/obo/IAO_0000233> <http://www.geneontology.org/formats/oboInOwl#id> "term_tracker_item" .
+<http://purl.obolibrary.org/obo/IAO_0000233> <http://www.geneontology.org/formats/oboInOwl#is_class_level> "1" .
+<http://purl.obolibrary.org/obo/IAO_0000233> <http://www.geneontology.org/formats/oboInOwl#is_metadata_tag> "1" .
+<http://purl.obolibrary.org/obo/IAO_0000233> <http://www.geneontology.org/formats/oboInOwl#shorthand> "term_tracker_item" .
+<http://purl.obolibrary.org/obo/IAO_0000233> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#AnnotationProperty> .
+<http://purl.obolibrary.org/obo/IAO_0000233> <http://www.w3.org/2000/01/rdf-schema#comment> "The 'tracker item' can associate a tracker with a specific ontology term." .
+<http://purl.obolibrary.org/obo/IAO_0000233> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <http://purl.obolibrary.org/obo/iao.owl> .
+<http://purl.obolibrary.org/obo/IAO_0000233> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <http://purl.obolibrary.org/obo/ohd/imports/iao_import.owl> .
+<http://purl.obolibrary.org/obo/IAO_0000233> <http://www.w3.org/2000/01/rdf-schema#label> "term tracker item" .
+<http://purl.obolibrary.org/obo/IAO_0000234> <http://purl.obolibrary.org/obo/IAO_0000111> "ontology term requester" .
+<http://purl.obolibrary.org/obo/IAO_0000234> <http://purl.obolibrary.org/obo/IAO_0000114> <http://purl.obolibrary.org/obo/IAO_0000125> .
+<http://purl.obolibrary.org/obo/IAO_0000234> <http://purl.obolibrary.org/obo/IAO_0000115> "The 'term requester' can credit the person, organization or project who request the ontology term.,The name of the person, project, or organization that motivated inclusion of an ontology term by requesting its addition." .
+<http://purl.obolibrary.org/obo/IAO_0000234> <http://purl.obolibrary.org/obo/IAO_0000115> "The name of the person, project, or organization that motivated inclusion of an ontology term by requesting its addition." .
+<http://purl.obolibrary.org/obo/IAO_0000234> <http://purl.obolibrary.org/obo/IAO_0000117> "Person: Jie Zheng, Chris Stoeckert, Alan Ruttenberg" .
+<http://purl.obolibrary.org/obo/IAO_0000234> <http://purl.obolibrary.org/obo/IAO_0000119> "Person: Jie Zheng, Chris Stoeckert, Alan Ruttenberg" .
+<http://purl.obolibrary.org/obo/IAO_0000234> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#AnnotationProperty> .
+<http://purl.obolibrary.org/obo/IAO_0000234> <http://www.w3.org/2000/01/rdf-schema#comment> "The 'term requester' can credit the person, organization or project who request the ontology term." .
+<http://purl.obolibrary.org/obo/IAO_0000234> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> "IAO" .
+<http://purl.obolibrary.org/obo/IAO_0000234> <http://www.w3.org/2000/01/rdf-schema#label> "ontology term requester" .
+<http://purl.obolibrary.org/obo/IAO_0000412> <http://purl.obolibrary.org/obo/IAO_0000111> "imported from" .
+<http://purl.obolibrary.org/obo/IAO_0000412> <http://purl.obolibrary.org/obo/IAO_0000111> "引自" .
+<http://purl.obolibrary.org/obo/IAO_0000412> <http://purl.obolibrary.org/obo/IAO_0000114> <http://purl.obolibrary.org/obo/IAO_0000125> .
+<http://purl.obolibrary.org/obo/IAO_0000412> <http://purl.obolibrary.org/obo/IAO_0000115> "For external terms/classes, the ontology from which the term was imported" .
+<http://purl.obolibrary.org/obo/IAO_0000412> <http://purl.obolibrary.org/obo/IAO_0000115> "For external terms/classes, the ontology from which the term was imported." .
+<http://purl.obolibrary.org/obo/IAO_0000412> <http://purl.obolibrary.org/obo/IAO_0000115> "外部术语/类，术语引入的本体" .
+<http://purl.obolibrary.org/obo/IAO_0000412> <http://purl.obolibrary.org/obo/IAO_0000117> "PERSON:Alan Ruttenberg" .
+<http://purl.obolibrary.org/obo/IAO_0000412> <http://purl.obolibrary.org/obo/IAO_0000117> "PERSON:Melanie Courtot" .
+<http://purl.obolibrary.org/obo/IAO_0000412> <http://purl.obolibrary.org/obo/IAO_0000119> "GROUP:OBI:<http://purl.obolibrary.org/obo/obi>" .
+<http://purl.obolibrary.org/obo/IAO_0000412> <http://purl.obolibrary.org/obo/IAO_0000412> <http://purl.obolibrary.org/obo/bco/releases/2016-12-14/bco.owl> .
+<http://purl.obolibrary.org/obo/IAO_0000412> <http://purl.obolibrary.org/obo/IAO_0000412> <http://purl.obolibrary.org/obo/iao.owl> .
+<http://purl.obolibrary.org/obo/IAO_0000412> <http://purl.obolibrary.org/obo/IAO_0000412> <http://purl.obolibrary.org/obo/iao/ontology-metadata.owl> .
+<http://purl.obolibrary.org/obo/IAO_0000412> <http://purl.obolibrary.org/obo/IAO_0000412> <http://purl.obolibrary.org/obo/ido/brucellosis.owl> .
+<http://purl.obolibrary.org/obo/IAO_0000412> <http://purl.obolibrary.org/obo/IAO_0000412> <http://purl.obolibrary.org/obo/obi/2017-02-22/obi.owl> .
+<http://purl.obolibrary.org/obo/IAO_0000412> <http://purl.obolibrary.org/obo/SCDO_0000363> "no" .
+<http://purl.obolibrary.org/obo/IAO_0000412> <http://purl.obolibrary.org/obo/SCDO_0000929> "metadata complete - requires restrictions and relationships" .
+<http://purl.obolibrary.org/obo/IAO_0000412> <http://www.geneontology.org/formats/oboInOwl#hasDbXref> "IAO:0000412" .
+<http://purl.obolibrary.org/obo/IAO_0000412> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#AnnotationProperty> .
+<http://purl.obolibrary.org/obo/IAO_0000412> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#NamedIndividual> .
+<http://purl.obolibrary.org/obo/IAO_0000412> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#ObjectProperty> .
+<http://purl.obolibrary.org/obo/IAO_0000412> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <http://purl.obolibrary.org/obo/iao.owl> .
+<http://purl.obolibrary.org/obo/IAO_0000412> <http://www.w3.org/2000/01/rdf-schema#label> "imported from" .
+<http://purl.obolibrary.org/obo/IAO_0000412> <http://www.w3.org/2000/01/rdf-schema#label> "引自" .
+<http://purl.obolibrary.org/obo/IAO_0000424> <http://purl.obolibrary.org/obo/IAO_0000111> "expand expression to" .
+<http://purl.obolibrary.org/obo/IAO_0000424> <http://purl.obolibrary.org/obo/IAO_0000112> "ObjectProperty: RO_0002104 Label: has plasma membrane part Annotations: IAO_0000424 <http://purl.obolibrary.org/obo/BFO_0000051 some (http://purl.obolibrary.org/obo/GO_0005886 and http://purl.obolibrary.org/obo/BFO_0000051 some ?Y) " .
+<http://purl.obolibrary.org/obo/IAO_0000424> <http://purl.obolibrary.org/obo/IAO_0000112> "ObjectProperty: RO_0002104 Label: has plasma membrane part Annotations: IAO_0000424 <http://purl.obolibrary.org/obo/BFO_0000051 some (http://purl.obolibrary.org/obo/GO_0005886 and http://purl.obolibrary.org/obo/BFO_0000051 some ?Y) . " .
+<http://purl.obolibrary.org/obo/IAO_0000424> <http://purl.obolibrary.org/obo/IAO_0000112> "ObjectProperty: RO_0002104 Label: has plasma membrane part Annotations: IAO_0000424 <http://purl.obolibrary.org/obo/BFO_0000051 some (http://purl.org/obo/owl/GO#GO_0005886 and http://purl.obolibrary.org/obo/BFO_0000051 some ?Y) . " .
+<http://purl.obolibrary.org/obo/IAO_0000424> <http://purl.obolibrary.org/obo/IAO_0000115> "A macro expansion tag applied to an object property (or possibly a data property)  which can be used by a macro-expansion engine to generate more complex expressions from simpler ones" .
+<http://purl.obolibrary.org/obo/IAO_0000424> <http://purl.obolibrary.org/obo/IAO_0000117> "Chris Mungall" .
+<http://purl.obolibrary.org/obo/IAO_0000424> <http://purl.obolibrary.org/obo/IAO_0000412> <http://purl.obolibrary.org/obo/iao/ontology-metadata.owl> .
+<http://purl.obolibrary.org/obo/IAO_0000424> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#AnnotationProperty> .
+<http://purl.obolibrary.org/obo/IAO_0000424> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <http://purl.obolibrary.org/obo/iao.owl> .
+<http://purl.obolibrary.org/obo/IAO_0000424> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <http://purl.obolibrary.org/obo/ohd/imports/ro_import.owl> .
+<http://purl.obolibrary.org/obo/IAO_0000424> <http://www.w3.org/2000/01/rdf-schema#label> "expand expression to" .
+<http://purl.obolibrary.org/obo/IAO_0000589> <http://purl.obolibrary.org/obo/IAO_0000111> "OBO foundry unique label" .
+<http://purl.obolibrary.org/obo/IAO_0000589> <http://purl.obolibrary.org/obo/IAO_0000114> <http://purl.obolibrary.org/obo/IAO_0000125> .
+<http://purl.obolibrary.org/obo/IAO_0000589> <http://purl.obolibrary.org/obo/IAO_0000115> "An alternative name for a class or property which is unique across the OBO Foundry." .
+<http://purl.obolibrary.org/obo/IAO_0000589> <http://purl.obolibrary.org/obo/IAO_0000116> "The intended usage of that property is as follow: OBO foundry unique labels are automatically generated based on regular expressions provided by each ontology, so that SO could specify unique label = 'sequence ' + [label], etc. , MA could specify 'mouse + [label]' etc. Upon importing terms, ontology developers can choose to use the 'OBO foundry unique label' for an imported term or not. The same applies to tools ." .
+<http://purl.obolibrary.org/obo/IAO_0000589> <http://purl.obolibrary.org/obo/IAO_0000117> "PERSON:Alan Ruttenberg" .
+<http://purl.obolibrary.org/obo/IAO_0000589> <http://purl.obolibrary.org/obo/IAO_0000117> "PERSON:Bjoern Peters" .
+<http://purl.obolibrary.org/obo/IAO_0000589> <http://purl.obolibrary.org/obo/IAO_0000117> "PERSON:Chris Mungall" .
+<http://purl.obolibrary.org/obo/IAO_0000589> <http://purl.obolibrary.org/obo/IAO_0000117> "PERSON:Melanie Courtot" .
+<http://purl.obolibrary.org/obo/IAO_0000589> <http://purl.obolibrary.org/obo/IAO_0000119> "GROUP:OBO Foundry <http://obofoundry.org/>" .
+<http://purl.obolibrary.org/obo/IAO_0000589> <http://purl.obolibrary.org/obo/IAO_0000412> <http://purl.obolibrary.org/obo/iao/ontology-metadata.owl> .
+<http://purl.obolibrary.org/obo/IAO_0000589> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#AnnotationProperty> .
+<http://purl.obolibrary.org/obo/IAO_0000589> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <http://purl.obolibrary.org/obo/iao.owl> .
+<http://purl.obolibrary.org/obo/IAO_0000589> <http://www.w3.org/2000/01/rdf-schema#label> "OBO foundry unique label" .
+<http://purl.obolibrary.org/obo/IAO_0000589> <http://www.w3.org/2000/01/rdf-schema#label> "obo foundry unique label" .
+<http://purl.obolibrary.org/obo/IAO_0000600> <http://purl.obolibrary.org/obo/IAO_0000111> "elucidation" .
+<http://purl.obolibrary.org/obo/IAO_0000600> <http://purl.obolibrary.org/obo/IAO_0000111> "说明" .
+<http://purl.obolibrary.org/obo/IAO_0000600> <http://purl.obolibrary.org/obo/IAO_0000117> "person:Alan Ruttenberg" .
+<http://purl.obolibrary.org/obo/IAO_0000600> <http://purl.obolibrary.org/obo/IAO_0000119> "Person:Barry Smith" .
+<http://purl.obolibrary.org/obo/IAO_0000600> <http://purl.obolibrary.org/obo/IAO_0000412> <http://purl.obolibrary.org/obo/bco/releases/2016-12-14/bco.owl> .
+<http://purl.obolibrary.org/obo/IAO_0000600> <http://purl.obolibrary.org/obo/IAO_0000412> <http://purl.obolibrary.org/obo/bfo/2.0/bfo.owl> .
+<http://purl.obolibrary.org/obo/IAO_0000600> <http://purl.obolibrary.org/obo/IAO_0000412> <http://purl.obolibrary.org/obo/iao/2017-03-24/iao.owl> .
+<http://purl.obolibrary.org/obo/IAO_0000600> <http://purl.obolibrary.org/obo/IAO_0000412> <http://purl.obolibrary.org/obo/iao/ontology-metadata.owl> .
+<http://purl.obolibrary.org/obo/IAO_0000600> <http://purl.obolibrary.org/obo/IAO_0000412> <http://purl.obolibrary.org/obo/obi/2017-02-22/obi.owl> .
+<http://purl.obolibrary.org/obo/IAO_0000600> <http://purl.obolibrary.org/obo/IAO_0000600> "Primitive terms in a highest-level ontology such as BFO are terms which are so basic to our understanding of reality that there is no way of defining them in a non-circular fashion. For these, therefore, we can provide only elucidations, supplemented by examples and by axioms" .
+<http://purl.obolibrary.org/obo/IAO_0000600> <http://purl.obolibrary.org/obo/IAO_0000600> "在最高级别的本体中的原始术语如BFO是对我们理解现实最基本，以至于无法以非循环的方式来定义它们的术语。对于这些，因此，我们只能提供说明，通过例子和公理进行补充" .
+<http://purl.obolibrary.org/obo/IAO_0000600> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#AnnotationProperty> .
+<http://purl.obolibrary.org/obo/IAO_0000600> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <http://purl.obolibrary.org/obo/iao.owl> .
+<http://purl.obolibrary.org/obo/IAO_0000600> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <http://purl.obolibrary.org/obo/ohd/imports/caro_import.owl> .
+<http://purl.obolibrary.org/obo/IAO_0000600> <http://www.w3.org/2000/01/rdf-schema#label> "elucidation" .
+<http://purl.obolibrary.org/obo/IAO_0000600> <http://www.w3.org/2000/01/rdf-schema#label> "说明" .
+<http://purl.obolibrary.org/obo/IAO_0000601> <http://purl.obolibrary.org/obo/IAO_0000111> "has associated axiom(nl)" .
+<http://purl.obolibrary.org/obo/IAO_0000601> <http://purl.obolibrary.org/obo/IAO_0000111> "具有相关联的公理（nl）" .
+<http://purl.obolibrary.org/obo/IAO_0000601> <http://purl.obolibrary.org/obo/IAO_0000117> "Person:Alan Ruttenberg" .
+<http://purl.obolibrary.org/obo/IAO_0000601> <http://purl.obolibrary.org/obo/IAO_0000119> "Person:Alan Ruttenberg" .
+<http://purl.obolibrary.org/obo/IAO_0000601> <http://purl.obolibrary.org/obo/IAO_0000412> <http://purl.obolibrary.org/obo/bfo/2.0/bfo.owl> .
+<http://purl.obolibrary.org/obo/IAO_0000601> <http://purl.obolibrary.org/obo/IAO_0000412> <http://purl.obolibrary.org/obo/iao/2017-03-24/iao.owl> .
+<http://purl.obolibrary.org/obo/IAO_0000601> <http://purl.obolibrary.org/obo/IAO_0000412> <http://purl.obolibrary.org/obo/iao/ontology-metadata.owl> .
+<http://purl.obolibrary.org/obo/IAO_0000601> <http://purl.obolibrary.org/obo/IAO_0000412> <http://purl.obolibrary.org/obo/obi/2017-02-22/obi.owl> .
+<http://purl.obolibrary.org/obo/IAO_0000601> <http://purl.obolibrary.org/obo/IAO_0000600> "An axiom associated with a term expressed using natural language" .
+<http://purl.obolibrary.org/obo/IAO_0000601> <http://purl.obolibrary.org/obo/IAO_0000600> "与一个使用自然语言表达的术语相关的公理" .
+<http://purl.obolibrary.org/obo/IAO_0000601> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#AnnotationProperty> .
+<http://purl.obolibrary.org/obo/IAO_0000601> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <http://purl.obolibrary.org/obo/iao.owl> .
+<http://purl.obolibrary.org/obo/IAO_0000601> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <http://purl.obolibrary.org/obo/ohd/imports/caro_import.owl> .
+<http://purl.obolibrary.org/obo/IAO_0000601> <http://www.w3.org/2000/01/rdf-schema#label> "has associated axiom(nl)" .
+<http://purl.obolibrary.org/obo/IAO_0000601> <http://www.w3.org/2000/01/rdf-schema#label> "具有相关联的公理（nl）" .
+<http://purl.obolibrary.org/obo/IAO_0000602> <http://purl.obolibrary.org/obo/IAO_0000111> "has associated axiom(fol)" .
+<http://purl.obolibrary.org/obo/IAO_0000602> <http://purl.obolibrary.org/obo/IAO_0000111> "具有相关联的公理（fol）" .
+<http://purl.obolibrary.org/obo/IAO_0000602> <http://purl.obolibrary.org/obo/IAO_0000117> "Person:Alan Ruttenberg" .
+<http://purl.obolibrary.org/obo/IAO_0000602> <http://purl.obolibrary.org/obo/IAO_0000119> "Person:Alan Ruttenberg" .
+<http://purl.obolibrary.org/obo/IAO_0000602> <http://purl.obolibrary.org/obo/IAO_0000412> <http://purl.obolibrary.org/obo/bfo/2.0/bfo.owl> .
+<http://purl.obolibrary.org/obo/IAO_0000602> <http://purl.obolibrary.org/obo/IAO_0000412> <http://purl.obolibrary.org/obo/iao/2017-03-24/iao.owl> .
+<http://purl.obolibrary.org/obo/IAO_0000602> <http://purl.obolibrary.org/obo/IAO_0000412> <http://purl.obolibrary.org/obo/iao/ontology-metadata.owl> .
+<http://purl.obolibrary.org/obo/IAO_0000602> <http://purl.obolibrary.org/obo/IAO_0000412> <http://purl.obolibrary.org/obo/obi/2017-02-22/obi.owl> .
+<http://purl.obolibrary.org/obo/IAO_0000602> <http://purl.obolibrary.org/obo/IAO_0000600> "An axiom expressed in first order logic using CLIF syntax" .
+<http://purl.obolibrary.org/obo/IAO_0000602> <http://purl.obolibrary.org/obo/IAO_0000600> "使用CLIF语法在第一逻辑进行表达的公理" .
+<http://purl.obolibrary.org/obo/IAO_0000602> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#AnnotationProperty> .
+<http://purl.obolibrary.org/obo/IAO_0000602> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <http://purl.obolibrary.org/obo/iao.owl> .
+<http://purl.obolibrary.org/obo/IAO_0000602> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <http://purl.obolibrary.org/obo/ohd/imports/caro_import.owl> .
+<http://purl.obolibrary.org/obo/IAO_0000602> <http://www.w3.org/2000/01/rdf-schema#label> "has associated axiom(fol)" .
+<http://purl.obolibrary.org/obo/IAO_0000602> <http://www.w3.org/2000/01/rdf-schema#label> "具有相关联的公理（fol）" .
+<http://purl.obolibrary.org/obo/IAO_0000700> <http://purl.obolibrary.org/obo/IAO_0000111> "has ontology root term" .
+<http://purl.obolibrary.org/obo/IAO_0000700> <http://purl.obolibrary.org/obo/IAO_0000115> "Has ontology root term." .
+<http://purl.obolibrary.org/obo/IAO_0000700> <http://purl.obolibrary.org/obo/IAO_0000115> "Ontology annotation property. Relates an ontology to a term that is a designated root term of the ontology. Display tools like OLS can use terms annotated with this property as the starting point for rendering the ontology class hierarchy. There can be more than one root" .
+<http://purl.obolibrary.org/obo/IAO_0000700> <http://purl.obolibrary.org/obo/IAO_0000115> "Ontology annotation property. Relates an ontology to a term that is a designated root term of the ontology. Display tools like OLS can use terms annotated with this property as the starting point for rendering the ontology class hierarchy. There can be more than one root." .
+<http://purl.obolibrary.org/obo/IAO_0000700> <http://purl.obolibrary.org/obo/IAO_0000117> "Nicolas Matentzoglu" .
+<http://purl.obolibrary.org/obo/IAO_0000700> <http://www.geneontology.org/formats/oboInOwl#hasDbXref> "IAO:0000700" .
+<http://purl.obolibrary.org/obo/IAO_0000700> <http://www.geneontology.org/formats/oboInOwl#hasOBONamespace> "external" .
+<http://purl.obolibrary.org/obo/IAO_0000700> <http://www.geneontology.org/formats/oboInOwl#hasOBONamespace> "uberon" .
+<http://purl.obolibrary.org/obo/IAO_0000700> <http://www.geneontology.org/formats/oboInOwl#id> "has_ontology_root_term" .
+<http://purl.obolibrary.org/obo/IAO_0000700> <http://www.geneontology.org/formats/oboInOwl#is_class_level> "1" .
+<http://purl.obolibrary.org/obo/IAO_0000700> <http://www.geneontology.org/formats/oboInOwl#is_metadata_tag> "1" .
+<http://purl.obolibrary.org/obo/IAO_0000700> <http://www.geneontology.org/formats/oboInOwl#shorthand> "has_ontology_root_term" .
+<http://purl.obolibrary.org/obo/IAO_0000700> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#AnnotationProperty> .
+<http://purl.obolibrary.org/obo/IAO_0000700> <http://www.w3.org/2000/01/rdf-schema#label> "has ontology root term" .
+<http://purl.obolibrary.org/obo/IAO_0000700> <http://www.w3.org/2000/01/rdf-schema#label> "has_ontology_root_term" .
+<http://purl.obolibrary.org/obo/IAO_0000700> <http://www.w3.org/2000/01/rdf-schema#label> "preferred_root" .
+<http://purl.obolibrary.org/obo/IAO_0010000> <http://purl.obolibrary.org/obo/IAO_0000111> "has axiom id" .
+<http://purl.obolibrary.org/obo/IAO_0010000> <http://purl.obolibrary.org/obo/IAO_0000117> "Person:Alan Ruttenberg" .
+<http://purl.obolibrary.org/obo/IAO_0010000> <http://purl.obolibrary.org/obo/IAO_0000119> "Person:Alan Ruttenberg" .
+<http://purl.obolibrary.org/obo/IAO_0010000> <http://purl.obolibrary.org/obo/IAO_0000412> <http://purl.obolibrary.org/obo/bfo/2.0/bfo.owl> .
+<http://purl.obolibrary.org/obo/IAO_0010000> <http://purl.obolibrary.org/obo/IAO_0000412> <http://purl.obolibrary.org/obo/iao/2017-03-24/iao.owl> .
+<http://purl.obolibrary.org/obo/IAO_0010000> <http://purl.obolibrary.org/obo/IAO_0000412> <http://purl.obolibrary.org/obo/iao/ontology-metadata.owl> .
+<http://purl.obolibrary.org/obo/IAO_0010000> <http://purl.obolibrary.org/obo/IAO_0000412> <http://purl.obolibrary.org/obo/obi/2017-02-22/obi.owl> .
+<http://purl.obolibrary.org/obo/IAO_0010000> <http://purl.obolibrary.org/obo/IAO_0000600> "A URI that is intended to be unique label for an axiom used for tracking change to the ontology. For an axiom expressed in different languages, each expression is given the same URI" .
+<http://purl.obolibrary.org/obo/IAO_0010000> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#AnnotationProperty> .
+<http://purl.obolibrary.org/obo/IAO_0010000> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <http://purl.obolibrary.org/obo/iao.owl> .
+<http://purl.obolibrary.org/obo/IAO_0010000> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <http://purl.obolibrary.org/obo/ohd/imports/caro_import.owl> .
+<http://purl.obolibrary.org/obo/IAO_0010000> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <http://purl.obolibrary.org/obo/ohd/imports/iao_import.owl> .
+<http://purl.obolibrary.org/obo/IAO_0010000> <http://www.w3.org/2000/01/rdf-schema#label> "axiom id" .
+<http://purl.obolibrary.org/obo/IAO_0010000> <http://www.w3.org/2000/01/rdf-schema#label> "has axiom label" .
+<http://purl.obolibrary.org/obo/OBI_0001847> <http://purl.obolibrary.org/obo/IAO_0000111> "ISA alternative term" .
+<http://purl.obolibrary.org/obo/OBI_0001847> <http://purl.obolibrary.org/obo/IAO_0000114> <http://purl.obolibrary.org/obo/IAO_0000122> .
+<http://purl.obolibrary.org/obo/OBI_0001847> <http://purl.obolibrary.org/obo/IAO_0000115> "An alternative term used by the ISA tools project (http://isa-tools.org)." .
+<http://purl.obolibrary.org/obo/OBI_0001847> <http://purl.obolibrary.org/obo/IAO_0000116> "Requested by Alejandra Gonzalez-Beltran https://sourceforge.net/tracker/?func=detail aid=3603413 group_id=177891 atid=886178" .
+<http://purl.obolibrary.org/obo/OBI_0001847> <http://purl.obolibrary.org/obo/IAO_0000116> "Requested by Alejandra Gonzalez-Beltran https://sourceforge.net/tracker/?func=detail&aid=3603413&group_id=177891&atid=886178" .
+<http://purl.obolibrary.org/obo/OBI_0001847> <http://purl.obolibrary.org/obo/IAO_0000117> "Person: Alejandra Gonzalez-Beltran" .
+<http://purl.obolibrary.org/obo/OBI_0001847> <http://purl.obolibrary.org/obo/IAO_0000117> "Person: Philippe Rocca-Serra" .
+<http://purl.obolibrary.org/obo/OBI_0001847> <http://purl.obolibrary.org/obo/IAO_0000119> "ISA tools project (http://isa-tools.org)" .
+<http://purl.obolibrary.org/obo/OBI_0001847> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#AnnotationProperty> .
+<http://purl.obolibrary.org/obo/OBI_0001847> <http://www.w3.org/2000/01/rdf-schema#label> "ISA alternative term" .
+<http://purl.obolibrary.org/obo/OBI_0001847> <http://www.w3.org/2000/01/rdf-schema#subPropertyOf> <http://purl.obolibrary.org/obo/IAO_0000118> .
+<http://purl.obolibrary.org/obo/OBI_9991118> <http://purl.obolibrary.org/obo/IAO_0000111> "IEDB alternative term" .
+<http://purl.obolibrary.org/obo/OBI_9991118> <http://purl.obolibrary.org/obo/IAO_0000114> <http://purl.obolibrary.org/obo/IAO_0000122> .
+<http://purl.obolibrary.org/obo/OBI_9991118> <http://purl.obolibrary.org/obo/IAO_0000115> "An alternative term used by the IEDB." .
+<http://purl.obolibrary.org/obo/OBI_9991118> <http://purl.obolibrary.org/obo/IAO_0000117> "PERSON:Randi Vita, Jason Greenbaum, Bjoern Peters" .
+<http://purl.obolibrary.org/obo/OBI_9991118> <http://purl.obolibrary.org/obo/IAO_0000119> "IEDB" .
+<http://purl.obolibrary.org/obo/OBI_9991118> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#AnnotationProperty> .
+<http://purl.obolibrary.org/obo/OBI_9991118> <http://www.w3.org/2000/01/rdf-schema#label> "IEDB alternative term" .
+<http://purl.obolibrary.org/obo/OBI_9991118> <http://www.w3.org/2000/01/rdf-schema#subPropertyOf> <http://purl.obolibrary.org/obo/IAO_0000118> .
+<http://purl.obolibrary.org/obo/RO_0001900> <http://purl.obolibrary.org/obo/IAO_0000111> "temporal interpretation" .
+<http://purl.obolibrary.org/obo/RO_0001900> <http://purl.obolibrary.org/obo/IAO_0000115> "An assertion that holds between an OWL Object Property and a temporal interpretation that elucidates how OWL Class Axioms that use this property are to be interpreted in a temporal context." .
+<http://purl.obolibrary.org/obo/RO_0001900> <http://purl.obolibrary.org/obo/IAO_0000412> <http://purl.obolibrary.org/obo/ro/releases/2016-10-28/ro.owl> .
+<http://purl.obolibrary.org/obo/RO_0001900> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#AnnotationProperty> .
+<http://purl.obolibrary.org/obo/RO_0001900> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#ObjectProperty> .
+<http://purl.obolibrary.org/obo/RO_0001900> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <http://purl.obolibrary.org/obo/ohd/imports/ro_import.owl> .
+<http://purl.obolibrary.org/obo/RO_0001900> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <http://purl.obolibrary.org/obo/ro.owl> .
+<http://purl.obolibrary.org/obo/RO_0001900> <http://www.w3.org/2000/01/rdf-schema#label> "temporal interpretation" .
+<http://purl.obolibrary.org/obo/RO_0001900> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://purl.obolibrary.org/obo/ro/docs/temporal-semantics/> .
+<http://purl.obolibrary.org/obo/RO_0001900> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <https://oborel.github.io/obo-relations/temporal-semantics/> .
+<http://purl.obolibrary.org/obo/RO_0001900> <http://www.w3.org/2000/01/rdf-schema#subPropertyOf> <http://purl.obolibrary.org/obo/RO_0002422> .
+<http://purl.obolibrary.org/obo/RO_0001900> <http://xmlns.com/foaf/0.1/page> <https://code.google.com/p/obo-relations/wiki/ROAndTime> .
+<http://purl.obolibrary.org/obo/RO_0001900> <http://xmlns.com/foaf/0.1/page> <https://github.com/oborel/obo-relations/wiki/ROAndTime> .
+<http://purl.obolibrary.org/obo/RO_0002259> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#AnnotationProperty> .
+<http://purl.obolibrary.org/obo/RO_0002259> <http://www.w3.org/2000/01/rdf-schema#label> "defined by inverse" .
+<http://purl.obolibrary.org/obo/RO_0002259> <http://www.w3.org/2000/01/rdf-schema#subPropertyOf> <http://www.geneontology.org/formats/oboInOwl#SubsetProperty> .
+<http://purl.obolibrary.org/obo/RO_0002423> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#AnnotationProperty> .
+<http://purl.obolibrary.org/obo/RO_0002423> <http://www.w3.org/2000/01/rdf-schema#label> "logical macro assertion on an annotation property" .
+<http://purl.obolibrary.org/obo/RO_0002423> <http://www.w3.org/2000/01/rdf-schema#subPropertyOf> <http://purl.obolibrary.org/obo/RO_0002421> .
+<http://purl.obolibrary.org/obo/RO_0002575> <http://purl.obolibrary.org/obo/IAO_0000115> "relation p is the direct form of relation q iff p is a subPropertyOf q, p does not have the Transitive characteristic, q does have the Transitive characteristic, and for all x, y: x q y -> exists z1, z2, ..., zn such that x p z1 ... z2n y" .
+<http://purl.obolibrary.org/obo/RO_0002575> <http://purl.obolibrary.org/obo/IAO_0000116> "The general property hierarchy is: directly P SubPropertyOf P .   Transitive(P)  Where we have an annotation assertion    directly P is direct form of P" .
+<http://purl.obolibrary.org/obo/RO_0002575> <http://purl.obolibrary.org/obo/RO_0002423> "If we have the annotation P is-direct-form-of Q, and we have inverses P' and Q', then it follows that P' is-direct-form-of Q'" .
+<http://purl.obolibrary.org/obo/RO_0002575> <http://purl.org/dc/elements/1.1/creator> "Chris Mungall" .
+<http://purl.obolibrary.org/obo/RO_0002575> <http://purl.org/dc/terms/creator> "Chris Mungall" .
+<http://purl.obolibrary.org/obo/RO_0002575> <http://purl.org/dc/terms/creator> <https://orcid.org/0000-0002-6601-2165> .
+<http://purl.obolibrary.org/obo/RO_0002575> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#AnnotationProperty> .
+<http://purl.obolibrary.org/obo/RO_0002575> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <http://purl.obolibrary.org/obo/ro.owl> .
+<http://purl.obolibrary.org/obo/RO_0002575> <http://www.w3.org/2000/01/rdf-schema#label> "is direct form of" .
+<http://purl.obolibrary.org/obo/RO_0002575> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://purl.obolibrary.org/obo/ro/docs/direct-and-indirect-relations/> .
+<http://purl.obolibrary.org/obo/RO_0002575> <http://www.w3.org/2000/01/rdf-schema#subPropertyOf> <http://purl.obolibrary.org/obo/RO_0002422> .
+<http://purl.obolibrary.org/obo/RO_0002579> <http://purl.obolibrary.org/obo/IAO_0000115> "Relation p is the indirect form of relation q iff p is a subPropertyOf q, and there exists some p' such that p' is the direct form of q, p' o p' -> p, and forall x,y : x q y -> either (1) x p y or (2) x p' y" .
+<http://purl.obolibrary.org/obo/RO_0002579> <http://purl.obolibrary.org/obo/IAO_0000115> "relation p is the indirect form of relation q iff p is a subPropertyOf q, and there exists some p' such that p' is the direct form of q, p' o p' -> p, and forall x,y : x q y -> either (1) x p y or (2) x p' y" .
+<http://purl.obolibrary.org/obo/RO_0002579> <http://purl.org/dc/elements/1.1/creator> "Chris Mungall" .
+<http://purl.obolibrary.org/obo/RO_0002579> <http://purl.org/dc/terms/creator> "Chris Mungall" .
+<http://purl.obolibrary.org/obo/RO_0002579> <http://purl.org/dc/terms/creator> <https://orcid.org/0000-0002-6601-2165> .
+<http://purl.obolibrary.org/obo/RO_0002579> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#AnnotationProperty> .
+<http://purl.obolibrary.org/obo/RO_0002579> <http://www.w3.org/2000/01/rdf-schema#label> "is indirect form of" .
+<http://purl.obolibrary.org/obo/RO_0002579> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://purl.obolibrary.org/obo/ro/docs/direct-and-indirect-relations/> .
+<http://purl.obolibrary.org/obo/RO_0002579> <http://www.w3.org/2000/01/rdf-schema#subPropertyOf> <http://purl.obolibrary.org/obo/RO_0002422> .
+<http://purl.obolibrary.org/obo/RO_0002582> <http://purl.obolibrary.org/obo/IAO_0000115> "If R <- P o Q is a defining property chain axiom, then (1) R -> P o Q holds and (2) Q is either reflexive or locally reflexive. A corollary of this is that P SubPropertyOf R." .
+<http://purl.obolibrary.org/obo/RO_0002582> <http://purl.obolibrary.org/obo/IAO_0000412> <http://purl.obolibrary.org/obo/ro/releases/2016-10-28/ro.owl> .
+<http://purl.obolibrary.org/obo/RO_0002582> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#AnnotationProperty> .
+<http://purl.obolibrary.org/obo/RO_0002582> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <http://purl.obolibrary.org/obo/ro.owl> .
+<http://purl.obolibrary.org/obo/RO_0002582> <http://www.w3.org/2000/01/rdf-schema#label> "is a defining property chain axiom where second argument is reflexive" .
+<http://purl.obolibrary.org/obo/RO_0002582> <http://www.w3.org/2000/01/rdf-schema#subPropertyOf> <http://purl.obolibrary.org/obo/RO_0002581> .
+<http://purl.obolibrary.org/obo/RO_0004049> <http://www.geneontology.org/formats/oboInOwl#created_by> "cjm" .
+<http://purl.obolibrary.org/obo/RO_0004049> <http://www.geneontology.org/formats/oboInOwl#created_by> <https://orcid.org/0000-0002-6601-2165> .
+<http://purl.obolibrary.org/obo/RO_0004049> <http://www.geneontology.org/formats/oboInOwl#creation_date> "2018-03-14T00:03:16Z" .
+<http://purl.obolibrary.org/obo/RO_0004049> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#AnnotationProperty> .
+<http://purl.obolibrary.org/obo/RO_0004049> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <http://purl.obolibrary.org/obo/ro.owl> .
+<http://purl.obolibrary.org/obo/RO_0004049> <http://www.w3.org/2000/01/rdf-schema#label> "is positive form of" .
+<http://purl.obolibrary.org/obo/RO_0004049> <http://www.w3.org/2000/01/rdf-schema#subPropertyOf> <http://purl.obolibrary.org/obo/RO_0004048> .
+<http://purl.obolibrary.org/obo/RO_0004050> <http://www.geneontology.org/formats/oboInOwl#created_by> "cjm" .
+<http://purl.obolibrary.org/obo/RO_0004050> <http://www.geneontology.org/formats/oboInOwl#created_by> <https://orcid.org/0000-0002-6601-2165> .
+<http://purl.obolibrary.org/obo/RO_0004050> <http://www.geneontology.org/formats/oboInOwl#creation_date> "2018-03-14T00:03:24Z" .
+<http://purl.obolibrary.org/obo/RO_0004050> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#AnnotationProperty> .
+<http://purl.obolibrary.org/obo/RO_0004050> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <http://purl.obolibrary.org/obo/ro.owl> .
+<http://purl.obolibrary.org/obo/RO_0004050> <http://www.w3.org/2000/01/rdf-schema#label> "is negative form of" .
+<http://purl.obolibrary.org/obo/RO_0004050> <http://www.w3.org/2000/01/rdf-schema#subPropertyOf> <http://purl.obolibrary.org/obo/RO_0004048> .
+<http://purl.obolibrary.org/obo/chebi#1_STAR> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#AnnotationProperty> .
+<http://purl.obolibrary.org/obo/chebi#1_STAR> <http://www.w3.org/2000/01/rdf-schema#comment> "Preliminary entries" .
+<http://purl.obolibrary.org/obo/chebi#1_STAR> <http://www.w3.org/2000/01/rdf-schema#subPropertyOf> <http://www.geneontology.org/formats/oboInOwl#SubsetProperty> .
+<http://purl.obolibrary.org/obo/chebi#2_STAR> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#AnnotationProperty> .
+<http://purl.obolibrary.org/obo/chebi#2_STAR> <http://www.w3.org/2000/01/rdf-schema#comment> "Annotated by 3rd party" .
+<http://purl.obolibrary.org/obo/chebi#2_STAR> <http://www.w3.org/2000/01/rdf-schema#subPropertyOf> <http://www.geneontology.org/formats/oboInOwl#SubsetProperty> .
+<http://purl.obolibrary.org/obo/chebi#3_STAR> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#AnnotationProperty> .
+<http://purl.obolibrary.org/obo/chebi#3_STAR> <http://www.w3.org/2000/01/rdf-schema#comment> "Manually annotated by ChEBI Team" .
+<http://purl.obolibrary.org/obo/chebi#3_STAR> <http://www.w3.org/2000/01/rdf-schema#subPropertyOf> <http://www.geneontology.org/formats/oboInOwl#SubsetProperty> .
+<http://purl.obolibrary.org/obo/chebi#IUPAC_NAME> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#AnnotationProperty> .
+<http://purl.obolibrary.org/obo/chebi#IUPAC_NAME> <http://www.w3.org/2000/01/rdf-schema#label> "IUPAC NAME" .
+<http://purl.obolibrary.org/obo/chebi#IUPAC_NAME> <http://www.w3.org/2000/01/rdf-schema#subPropertyOf> <http://www.geneontology.org/formats/oboInOwl#SynonymTypeProperty> .
+<http://purl.obolibrary.org/obo/chebi/charge> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#AnnotationProperty> .
+<http://purl.obolibrary.org/obo/chebi/formula> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#AnnotationProperty> .
+<http://purl.obolibrary.org/obo/chebi/formula> <http://www.w3.org/2000/01/rdf-schema#label> "formula" .
+<http://purl.obolibrary.org/obo/chebi/inchi> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#AnnotationProperty> .
+<http://purl.obolibrary.org/obo/chebi/inchikey> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#AnnotationProperty> .
+<http://purl.obolibrary.org/obo/chebi/mass> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#AnnotationProperty> .
+<http://purl.obolibrary.org/obo/chebi/monoisotopicmass> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#AnnotationProperty> .
+<http://purl.obolibrary.org/obo/chebi/smiles> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#AnnotationProperty> .
+<http://purl.obolibrary.org/obo/chebi/smiles> <http://www.w3.org/2000/01/rdf-schema#label> "smiles" .
+<http://purl.obolibrary.org/obo/ro/subsets#ro-eco> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#AnnotationProperty> .
+<http://purl.obolibrary.org/obo/ro/subsets#ro-eco> <http://www.w3.org/2000/01/rdf-schema#label> "eco subset" .
+<http://purl.obolibrary.org/obo/ro/subsets#ro-eco> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://purl.obolibrary.org/obo/ro/docs/subsets/> .
+<http://purl.obolibrary.org/obo/ro/subsets#ro-eco> <http://www.w3.org/2000/01/rdf-schema#subPropertyOf> <http://www.geneontology.org/formats/oboInOwl#SubsetProperty> .
+<http://purl.obolibrary.org/obo/valid_for_go_annotation_extension> <http://www.geneontology.org/formats/oboInOwl#created_by> "pg" .
+<http://purl.obolibrary.org/obo/valid_for_go_annotation_extension> <http://www.geneontology.org/formats/oboInOwl#created_by> <https://orcid.org/0000-0003-1813-6857> .
+<http://purl.obolibrary.org/obo/valid_for_go_annotation_extension> <http://www.geneontology.org/formats/oboInOwl#creation_date> "2020-09-22T11:05:29Z" .
+<http://purl.obolibrary.org/obo/valid_for_go_annotation_extension> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#AnnotationProperty> .
+<http://purl.obolibrary.org/obo/valid_for_go_annotation_extension> <http://www.w3.org/2000/01/rdf-schema#label> "valid_for_go_annotation_extension" .
+<http://purl.obolibrary.org/obo/valid_for_go_annotation_extension> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://purl.obolibrary.org/obo/ro/docs/subsets/> .
+<http://purl.obolibrary.org/obo/valid_for_go_annotation_extension> <http://www.w3.org/2000/01/rdf-schema#subPropertyOf> <http://www.geneontology.org/formats/oboInOwl#SubsetProperty> .
+<http://purl.obolibrary.org/obo/valid_for_go_gp2term> <http://www.geneontology.org/formats/oboInOwl#created_by> "pg" .
+<http://purl.obolibrary.org/obo/valid_for_go_gp2term> <http://www.geneontology.org/formats/oboInOwl#created_by> <https://orcid.org/0000-0003-1813-6857> .
+<http://purl.obolibrary.org/obo/valid_for_go_gp2term> <http://www.geneontology.org/formats/oboInOwl#creation_date> "2020-09-22T11:05:18Z" .
+<http://purl.obolibrary.org/obo/valid_for_go_gp2term> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#AnnotationProperty> .
+<http://purl.obolibrary.org/obo/valid_for_go_gp2term> <http://www.w3.org/2000/01/rdf-schema#label> "valid_for_go_gp2term" .
+<http://purl.obolibrary.org/obo/valid_for_go_gp2term> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://purl.obolibrary.org/obo/ro/docs/subsets/> .
+<http://purl.obolibrary.org/obo/valid_for_go_gp2term> <http://www.w3.org/2000/01/rdf-schema#subPropertyOf> <http://www.geneontology.org/formats/oboInOwl#SubsetProperty> .
+<http://purl.obolibrary.org/obo/valid_for_go_ontology> <http://www.geneontology.org/formats/oboInOwl#created_by> "pg" .
+<http://purl.obolibrary.org/obo/valid_for_go_ontology> <http://www.geneontology.org/formats/oboInOwl#created_by> <https://orcid.org/0000-0003-1813-6857> .
+<http://purl.obolibrary.org/obo/valid_for_go_ontology> <http://www.geneontology.org/formats/oboInOwl#creation_date> "2020-09-22T11:04:12Z" .
+<http://purl.obolibrary.org/obo/valid_for_go_ontology> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#AnnotationProperty> .
+<http://purl.obolibrary.org/obo/valid_for_go_ontology> <http://www.w3.org/2000/01/rdf-schema#label> "valid_for_go_ontology" .
+<http://purl.obolibrary.org/obo/valid_for_go_ontology> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://purl.obolibrary.org/obo/ro/docs/subsets/> .
+<http://purl.obolibrary.org/obo/valid_for_go_ontology> <http://www.w3.org/2000/01/rdf-schema#subPropertyOf> <http://www.geneontology.org/formats/oboInOwl#SubsetProperty> .
+<http://purl.obolibrary.org/obo/valid_for_gocam> <http://www.geneontology.org/formats/oboInOwl#created_by> "pg" .
+<http://purl.obolibrary.org/obo/valid_for_gocam> <http://www.geneontology.org/formats/oboInOwl#created_by> <https://orcid.org/0000-0003-1813-6857> .
+<http://purl.obolibrary.org/obo/valid_for_gocam> <http://www.geneontology.org/formats/oboInOwl#creation_date> "2020-09-22T11:05:45Z" .
+<http://purl.obolibrary.org/obo/valid_for_gocam> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#AnnotationProperty> .
+<http://purl.obolibrary.org/obo/valid_for_gocam> <http://www.w3.org/2000/01/rdf-schema#label> "valid_for_gocam" .
+<http://purl.obolibrary.org/obo/valid_for_gocam> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://purl.obolibrary.org/obo/ro/docs/subsets/> .
+<http://purl.obolibrary.org/obo/valid_for_gocam> <http://www.w3.org/2000/01/rdf-schema#subPropertyOf> <http://www.geneontology.org/formats/oboInOwl#SubsetProperty> .
+<http://purl.org/dc/elements/1.1/contributor> <http://purl.obolibrary.org/obo/hasDbXref> <http://purl.org/dc/elements/1.1/contributor> .
+<http://purl.org/dc/elements/1.1/contributor> <http://purl.obolibrary.org/obo/hasOBONamespace> "uberon" .
+<http://purl.org/dc/elements/1.1/contributor> <http://purl.obolibrary.org/obo/id> "dc-contributor" .
+<http://purl.org/dc/elements/1.1/contributor> <http://purl.obolibrary.org/obo/id> "dc-贡献者" .
+<http://purl.org/dc/elements/1.1/contributor> <http://purl.obolibrary.org/obo/is_metadata_tag> "1" .
+<http://purl.org/dc/elements/1.1/contributor> <http://purl.obolibrary.org/obo/shorthand> "dc-contributor" .
+<http://purl.org/dc/elements/1.1/contributor> <http://purl.obolibrary.org/obo/shorthand> "dc-贡献者" .
+<http://purl.org/dc/elements/1.1/contributor> <http://purl.org/dc/elements/1.1/description> "Examples of a Contributor include a person, an   organisation, or a service.  Typically, the name of a           Contributor should be used to indicate the entity." .
+<http://purl.org/dc/elements/1.1/contributor> <http://purl.org/dc/elements/1.1/description> "Examples of a Contributor include a person, an  organisation, or a service.  Typically, the name of a          Contributor should be used to indicate the entity." .
+<http://purl.org/dc/elements/1.1/contributor> <http://purl.org/dc/elements/1.1/description> "Examples of a Contributor include a person, an organisation, or a service. Typically, the name of a Contributor should be used to indicate the entity." .
+<http://purl.org/dc/elements/1.1/contributor> <http://purl.org/dc/elements/1.1/description> "贡献者的例子包括一个人，一个  组织或者一个服务。  典型地， 一个贡献者的名字          应该用于指示这个实体." .
+<http://purl.org/dc/elements/1.1/contributor> <http://purl.org/dc/elements/1.1/identifier> "contributor" .
+<http://purl.org/dc/elements/1.1/contributor> <http://purl.org/dc/terms/description> "Examples of a Contributor include a person, an    organisation, or a service.  Typically, the name of a           Contributor should be used to indicate the entity." .
+<http://purl.org/dc/elements/1.1/contributor> <http://www.geneontology.org/formats/oboInOwl#hasDbXref> <http://purl.org/dc/elements/1.1/contributor> .
+<http://purl.org/dc/elements/1.1/contributor> <http://www.geneontology.org/formats/oboInOwl#hasOBONamespace> "oba" .
+<http://purl.org/dc/elements/1.1/contributor> <http://www.geneontology.org/formats/oboInOwl#hasOBONamespace> "uberon" .
+<http://purl.org/dc/elements/1.1/contributor> <http://www.geneontology.org/formats/oboInOwl#id> "dc-contributor" .
+<http://purl.org/dc/elements/1.1/contributor> <http://www.geneontology.org/formats/oboInOwl#id> <http://purl.org/dc/elements/1.1/contributor> .
+<http://purl.org/dc/elements/1.1/contributor> <http://www.geneontology.org/formats/oboInOwl#is_metadata_tag> "1" .
+<http://purl.org/dc/elements/1.1/contributor> <http://www.geneontology.org/formats/oboInOwl#shorthand> "dc-contributor" .
+<http://purl.org/dc/elements/1.1/contributor> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#AnnotationProperty> .
+<http://purl.org/dc/elements/1.1/contributor> <http://www.w3.org/2000/01/rdf-schema#comment> "An entity responsible for making contributions to the content of the resource." .
+<http://purl.org/dc/elements/1.1/contributor> <http://www.w3.org/2000/01/rdf-schema#comment> "一个实体应该有助于 资源的内容" .
+<http://purl.org/dc/elements/1.1/contributor> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <http://purl.org/dc/elements/1.1.owl> .
+<http://purl.org/dc/elements/1.1/contributor> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <http://purl.org/dc/elements/1.1/> .
+<http://purl.org/dc/elements/1.1/contributor> <http://www.w3.org/2000/01/rdf-schema#label> "Contributor" .
+<http://purl.org/dc/elements/1.1/contributor> <http://www.w3.org/2000/01/rdf-schema#label> "contributor" .
+<http://purl.org/dc/elements/1.1/contributor> <http://www.w3.org/2000/01/rdf-schema#label> "贡献者" .
+<http://purl.org/dc/elements/1.1/creator> <http://purl.obolibrary.org/obo/IAO_0000115> "An entity primarily responsible for making the resource. (This property is used in the SCDO when a term was created by the SCDO Working Group or a curator.) The SCDO uses this especially to apply to term descriptions." .
+<http://purl.org/dc/elements/1.1/creator> <http://purl.obolibrary.org/obo/IAO_0000412> <http://purl.obolibrary.org/obo/bco/releases/2016-12-14/bco.owl> .
+<http://purl.org/dc/elements/1.1/creator> <http://purl.obolibrary.org/obo/SCDO_0000340> <http://purl.org/dc/terms/creator> .
+<http://purl.org/dc/elements/1.1/creator> <http://purl.obolibrary.org/obo/SCDO_0000363> "no" .
+<http://purl.org/dc/elements/1.1/creator> <http://purl.obolibrary.org/obo/SCDO_0000929> "ready for release" .
+<http://purl.org/dc/elements/1.1/creator> <http://purl.org/dc/elements/1.1/description> "Examples of a Creator include a person, an organisation, or a service.  Typically, the name of a Creator should           be used to indicate the entity." .
+<http://purl.org/dc/elements/1.1/creator> <http://purl.org/dc/elements/1.1/description> "Examples of a Creator include a person, an organisation, or a service.  Typically, the name of a Creator should          be used to indicate the entity." .
+<http://purl.org/dc/elements/1.1/creator> <http://purl.org/dc/elements/1.1/description> "Examples of a Creator include a person, an organisation, or a service. Typically, the name of a Creator should be used to indicate the entity." .
+<http://purl.org/dc/elements/1.1/creator> <http://purl.org/dc/elements/1.1/identifier> "creator" .
+<http://purl.org/dc/elements/1.1/creator> <http://purl.org/dc/terms/description> "Examples of a Creator include a person, an organisation,  or a service.  Typically, the name of a Creator should           be used to indicate the entity." .
+<http://purl.org/dc/elements/1.1/creator> <http://www.geneontology.org/formats/oboInOwl#hasDbXref> <http://purl.org/dc/elements/1.1/creator> .
+<http://purl.org/dc/elements/1.1/creator> <http://www.geneontology.org/formats/oboInOwl#hasOBONamespace> "uberon" .
+<http://purl.org/dc/elements/1.1/creator> <http://www.geneontology.org/formats/oboInOwl#id> "dc-creator" .
+<http://purl.org/dc/elements/1.1/creator> <http://www.geneontology.org/formats/oboInOwl#is_metadata_tag> "1" .
+<http://purl.org/dc/elements/1.1/creator> <http://www.geneontology.org/formats/oboInOwl#shorthand> "dc-creator" .
+<http://purl.org/dc/elements/1.1/creator> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#AnnotationProperty> .
+<http://purl.org/dc/elements/1.1/creator> <http://www.w3.org/2000/01/rdf-schema#comment> "An entity primarily responsible for making the content  of the resource." .
+<http://purl.org/dc/elements/1.1/creator> <http://www.w3.org/2000/01/rdf-schema#comment> "An entity primarily responsible for making the content of the resource." .
+<http://purl.org/dc/elements/1.1/creator> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <http://purl.obolibrary.org/obo/ohd/imports/iao_import.owl> .
+<http://purl.org/dc/elements/1.1/creator> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <http://purl.org/dc/elements/1.1.owl> .
+<http://purl.org/dc/elements/1.1/creator> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <http://purl.org/dc/elements/1.1/> .
+<http://purl.org/dc/elements/1.1/creator> <http://www.w3.org/2000/01/rdf-schema#label> "Creator" .
+<http://purl.org/dc/elements/1.1/creator> <http://www.w3.org/2000/01/rdf-schema#label> "creator" .
+<http://purl.org/dc/elements/1.1/creator> <http://www.w3.org/2000/01/rdf-schema#label> "dc:creator" .
+<http://purl.org/dc/elements/1.1/creator> <http://www.w3.org/2004/02/skos/core#prefLabel> "Creator" .
+<http://purl.org/dc/elements/1.1/date> <http://purl.org/dc/elements/1.1/description> "Typically, Date will be associated with the creation or availability of the resource.  Recommended best practice          for encoding the date value is defined in a profile of          ISO 8601 [W3CDTF] and follows the YYYY-MM-DD format." .
+<http://purl.org/dc/elements/1.1/date> <http://purl.org/dc/elements/1.1/description> "Typically, Date will be associated with the creation or availability of the resource. Recommended best practice for encoding the date value is defined in a profile of ISO 8601 [W3CDTF] and follows the YYYY-MM-DD format." .
+<http://purl.org/dc/elements/1.1/date> <http://purl.org/dc/terms/description> "Typically, Date will be associated with the creation or availability of the resource.  Recommended best practice          for encoding the date value is defined in a profile of          ISO 8601 [W3CDTF] and follows the YYYY-MM-DD format." .
+<http://purl.org/dc/elements/1.1/date> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#AnnotationProperty> .
+<http://purl.org/dc/elements/1.1/date> <http://www.w3.org/2000/01/rdf-schema#comment> "A date associated with an event in the life cycle of the resource." .
+<http://purl.org/dc/elements/1.1/date> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <http://purl.org/dc/elements/1.1.owl> .
+<http://purl.org/dc/elements/1.1/date> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <http://purl.org/dc/elements/1.1/> .
+<http://purl.org/dc/elements/1.1/date> <http://www.w3.org/2000/01/rdf-schema#label> "Date" .
+<http://purl.org/dc/elements/1.1/date> <http://www.w3.org/2000/01/rdf-schema#label> "date" .
+<http://purl.org/dc/elements/1.1/date> <http://www.w3.org/2000/01/rdf-schema#label> "dc:date" .
+<http://purl.org/dc/elements/1.1/description> <http://purl.obolibrary.org/obo/IAO_0000115> "An account of a resource." .
+<http://purl.org/dc/elements/1.1/description> <http://purl.obolibrary.org/obo/IAO_0000115> "Description of the ontology." .
+<http://purl.org/dc/elements/1.1/description> <http://purl.obolibrary.org/obo/IAO_0000115> "Description." .
+<http://purl.org/dc/elements/1.1/description> <http://purl.obolibrary.org/obo/IAO_0000412> <http://purl.obolibrary.org/obo/obi/2017-02-22/obi.owl> .
+<http://purl.org/dc/elements/1.1/description> <http://purl.org/dc/elements/1.1/description> "Description may include but is not limited to: an abstract,  table of contents, reference to a graphical representation          of content or a free-text account of the content." .
+<http://purl.org/dc/elements/1.1/description> <http://purl.org/dc/elements/1.1/description> "Description may include but is not limited to: an abstract, table of contents, reference to a graphical representation of content or a free-text account of the content." .
+<http://purl.org/dc/elements/1.1/description> <http://purl.org/dc/elements/1.1/description> "描述应该包含但不限于一个摘要，  内容表格, 内容的图形表示          或内容的自由文本描述" .
+<http://purl.org/dc/elements/1.1/description> <http://purl.org/dc/elements/1.1/identifier> "description" .
+<http://purl.org/dc/elements/1.1/description> <http://purl.org/dc/terms/description> "Description may include but is not limited to: an abstract, table of contents, reference to a graphical representation          of content or a free-text account of the content." .
+<http://purl.org/dc/elements/1.1/description> <http://www.geneontology.org/formats/oboInOwl#hasDbXref> <http://purl.org/dc/elements/1.1/description> .
+<http://purl.org/dc/elements/1.1/description> <http://www.geneontology.org/formats/oboInOwl#hasOBONamespace> "uberon" .
+<http://purl.org/dc/elements/1.1/description> <http://www.geneontology.org/formats/oboInOwl#id> "dc-description" .
+<http://purl.org/dc/elements/1.1/description> <http://www.geneontology.org/formats/oboInOwl#is_metadata_tag> "1" .
+<http://purl.org/dc/elements/1.1/description> <http://www.geneontology.org/formats/oboInOwl#shorthand> "dc-description" .
+<http://purl.org/dc/elements/1.1/description> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#AnnotationProperty> .
+<http://purl.org/dc/elements/1.1/description> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#DatatypeProperty> .
+<http://purl.org/dc/elements/1.1/description> <http://www.w3.org/2000/01/rdf-schema#comment> "An account of the content of the resource." .
+<http://purl.org/dc/elements/1.1/description> <http://www.w3.org/2000/01/rdf-schema#comment> "资源内容的说明。" .
+<http://purl.org/dc/elements/1.1/description> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <http://purl.org/dc/elements/1.1.owl> .
+<http://purl.org/dc/elements/1.1/description> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <http://purl.org/dc/elements/1.1/> .
+<http://purl.org/dc/elements/1.1/description> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <http://purl.org/dc/elements/1.1> .
+<http://purl.org/dc/elements/1.1/description> <http://www.w3.org/2000/01/rdf-schema#label> "Description" .
+<http://purl.org/dc/elements/1.1/description> <http://www.w3.org/2000/01/rdf-schema#label> "description" .
+<http://purl.org/dc/elements/1.1/description> <http://www.w3.org/2000/01/rdf-schema#label> "描述" .
+<http://purl.org/dc/elements/1.1/description> <http://www.w3.org/2000/01/rdf-schema#range> <http://www.w3.org/2001/XMLSchema#string> .
+<http://purl.org/dc/elements/1.1/language> <http://purl.obolibrary.org/obo/IAO_0000115> "A language of the resource." .
+<http://purl.org/dc/elements/1.1/language> <http://purl.obolibrary.org/obo/SCDO_0000340> <http://purl.org/dc/terms/language> .
+<http://purl.org/dc/elements/1.1/language> <http://purl.obolibrary.org/obo/SCDO_0000363> "no" .
+<http://purl.org/dc/elements/1.1/language> <http://purl.obolibrary.org/obo/SCDO_0000929> "ontology annotation property" .
+<http://purl.org/dc/elements/1.1/language> <http://purl.org/dc/elements/1.1/description> "Recommended best practice is to use RFC 3066 [RFC3066],    which, in conjunction with ISO 639 [ISO639], defines two-          and three-letter primary language tags with optional          subtags.  Examples include en or eng for English,          akk for Akkadian, and en-GB for English used in the          United Kingdom." .
+<http://purl.org/dc/elements/1.1/language> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#AnnotationProperty> .
+<http://purl.org/dc/elements/1.1/language> <http://www.w3.org/2000/01/rdf-schema#comment> "A language of the intellectual content of the resource." .
+<http://purl.org/dc/elements/1.1/language> <http://www.w3.org/2000/01/rdf-schema#comment> "Recommended best practice is to use a controlled vocabulary such as RFC 4646 [RFC4646]." .
+<http://purl.org/dc/elements/1.1/language> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <http://purl.org/dc/elements/1.1/> .
+<http://purl.org/dc/elements/1.1/language> <http://www.w3.org/2000/01/rdf-schema#label> "Language" .
+<http://purl.org/dc/elements/1.1/language> <http://www.w3.org/2000/01/rdf-schema#label> "dc:language" .
+<http://purl.org/dc/elements/1.1/language> <http://www.w3.org/2000/01/rdf-schema#label> "language" .
+<http://purl.org/dc/elements/1.1/language> <http://www.w3.org/2004/02/skos/core#prefLabel> "Language" .
+<http://purl.org/dc/elements/1.1/source> <http://purl.obolibrary.org/obo/IAO_0000115> "A related resource from which the described class/term's annotations are derived." .
+<http://purl.org/dc/elements/1.1/source> <http://purl.obolibrary.org/obo/IAO_0000412> <http://purl.obolibrary.org/obo/obi/2017-02-22/obi.owl> .
+<http://purl.org/dc/elements/1.1/source> <http://purl.obolibrary.org/obo/IAO_0000412> <http://purl.obolibrary.org/obo/ro/releases/2016-10-28/ro.owl> .
+<http://purl.org/dc/elements/1.1/source> <http://purl.obolibrary.org/obo/SCDO_0000340> <http://purl.org/dc/terms/source> .
+<http://purl.org/dc/elements/1.1/source> <http://purl.obolibrary.org/obo/SCDO_0000363> "yes" .
+<http://purl.org/dc/elements/1.1/source> <http://purl.obolibrary.org/obo/SCDO_0000929> "pending vetting by the SCDO developers" .
+<http://purl.org/dc/elements/1.1/source> <http://purl.org/dc/elements/1.1/description> "The present resource may be derived from the Source resource  in whole or in part.  Recommended best practice is to reference          the resource by means of a string or number conforming to a          formal identification system." .
+<http://purl.org/dc/elements/1.1/source> <http://purl.org/dc/elements/1.1/description> "The present resource may be derived from the Source resource in whole or in part. Recommended best practice is to reference the resource by means of a string or number conforming to a formal identification system." .
+<http://purl.org/dc/elements/1.1/source> <http://purl.org/dc/terms/description> "The present resource may be derived from the Source resource   in whole or in part.  Recommended best practice is to reference          the resource by means of a string or number conforming to a          formal identification system." .
+<http://purl.org/dc/elements/1.1/source> <http://www.geneontology.org/formats/oboInOwl#hasDbXref> <http://purl.org/dc/elements/1.1/source> .
+<http://purl.org/dc/elements/1.1/source> <http://www.geneontology.org/formats/oboInOwl#hasOBONamespace> "uberon" .
+<http://purl.org/dc/elements/1.1/source> <http://www.geneontology.org/formats/oboInOwl#id> "dc-source" .
+<http://purl.org/dc/elements/1.1/source> <http://www.geneontology.org/formats/oboInOwl#is_metadata_tag> "1" .
+<http://purl.org/dc/elements/1.1/source> <http://www.geneontology.org/formats/oboInOwl#shorthand> "dc-source" .
+<http://purl.org/dc/elements/1.1/source> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#AnnotationProperty> .
+<http://purl.org/dc/elements/1.1/source> <http://www.w3.org/2000/01/rdf-schema#comment> "A reference to a resource from which the present resource  is derived." .
+<http://purl.org/dc/elements/1.1/source> <http://www.w3.org/2000/01/rdf-schema#comment> "A reference to a resource from which the present resource is derived." .
+<http://purl.org/dc/elements/1.1/source> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <http://purl.obolibrary.org/obo/ohd/imports/ro_import.owl> .
+<http://purl.org/dc/elements/1.1/source> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <http://purl.org/dc/elements/1.1.owl> .
+<http://purl.org/dc/elements/1.1/source> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <http://purl.org/dc/elements/1.1/> .
+<http://purl.org/dc/elements/1.1/source> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <http://purl.org/dc/elements/1.1> .
+<http://purl.org/dc/elements/1.1/source> <http://www.w3.org/2000/01/rdf-schema#label> "Source" .
+<http://purl.org/dc/elements/1.1/source> <http://www.w3.org/2000/01/rdf-schema#label> "dc:source" .
+<http://purl.org/dc/elements/1.1/source> <http://www.w3.org/2000/01/rdf-schema#label> "derived from resource" .
+<http://purl.org/dc/elements/1.1/source> <http://www.w3.org/2000/01/rdf-schema#label> "source" .
+<http://purl.org/dc/terms/bibliographicCitation> <http://purl.allotrope.org/ontologies/property#AFX_0002865> <http://purl.org/dc/terms/> .
+<http://purl.org/dc/terms/bibliographicCitation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#AnnotationProperty> .
+<http://purl.org/dc/terms/bibliographicCitation> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <http://purl.allotrope.org/voc/afo/REC/2023/09/curation> .
+<http://purl.org/dc/terms/bibliographicCitation> <http://www.w3.org/2000/01/rdf-schema#label> "bibliographic citation" .
+<http://purl.org/dc/terms/bibliographicCitation> <http://www.w3.org/2000/01/rdf-schema#subPropertyOf> <http://purl.org/dc/elements/1.1/identifier> .
+<http://purl.org/dc/terms/bibliographicCitation> <http://www.w3.org/2004/02/skos/core#prefLabel> "bibliographic citation" .
+<http://purl.org/dc/terms/contributor> <http://purl.allotrope.org/ontologies/property#AFX_0002865> <http://purl.org/dc/terms/> .
+<http://purl.org/dc/terms/contributor> <http://purl.obolibrary.org/obo/IAO_0000115> "An entity responsible for making contributions to the resource." .
+<http://purl.org/dc/terms/contributor> <http://purl.org/dc/elements/1.1/identifier> "contributor" .
+<http://purl.org/dc/terms/contributor> <http://www.geneontology.org/formats/oboInOwl#hasDbXref> <http://purl.org/dc/terms/contributor> .
+<http://purl.org/dc/terms/contributor> <http://www.geneontology.org/formats/oboInOwl#hasOBONamespace> "uberon" .
+<http://purl.org/dc/terms/contributor> <http://www.geneontology.org/formats/oboInOwl#id> "dc-contributor" .
+<http://purl.org/dc/terms/contributor> <http://www.geneontology.org/formats/oboInOwl#is_metadata_tag> "1" .
+<http://purl.org/dc/terms/contributor> <http://www.geneontology.org/formats/oboInOwl#shorthand> "dc-contributor" .
+<http://purl.org/dc/terms/contributor> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#AnnotationProperty> .
+<http://purl.org/dc/terms/contributor> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <http://purl.allotrope.org/voc/afo/REC/2023/09/curation> .
+<http://purl.org/dc/terms/contributor> <http://www.w3.org/2000/01/rdf-schema#label> "contributor" .
+<http://purl.org/dc/terms/contributor> <http://www.w3.org/2000/01/rdf-schema#subPropertyOf> <http://purl.org/dc/elements/1.1/contributor> .
+<http://purl.org/dc/terms/contributor> <http://www.w3.org/2004/02/skos/core#prefLabel> "contributor" .
+<http://purl.org/dc/terms/created> <http://purl.allotrope.org/ontologies/property#AFX_0002865> <http://purl.org/dc/terms/> .
+<http://purl.org/dc/terms/created> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#AnnotationProperty> .
+<http://purl.org/dc/terms/created> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <http://purl.allotrope.org/voc/afo/REC/2023/09/curation> .
+<http://purl.org/dc/terms/created> <http://www.w3.org/2000/01/rdf-schema#label> "created" .
+<http://purl.org/dc/terms/created> <http://www.w3.org/2000/01/rdf-schema#label> "date created" .
+<http://purl.org/dc/terms/created> <http://www.w3.org/2000/01/rdf-schema#subPropertyOf> <http://purl.org/dc/elements/1.1/date> .
+<http://purl.org/dc/terms/created> <http://www.w3.org/2000/01/rdf-schema#subPropertyOf> <http://purl.org/dc/terms/date> .
+<http://purl.org/dc/terms/created> <http://www.w3.org/2004/02/skos/core#prefLabel> "created" .
+<http://purl.org/dc/terms/creator> <http://purl.allotrope.org/ontologies/property#AFX_0002865> <http://purl.org/dc/terms/> .
+<http://purl.org/dc/terms/creator> <http://purl.org/dc/elements/1.1/identifier> "creator" .
+<http://purl.org/dc/terms/creator> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#AnnotationProperty> .
+<http://purl.org/dc/terms/creator> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <http://purl.allotrope.org/voc/afo/REC/2023/09/curation> .
+<http://purl.org/dc/terms/creator> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <http://purl.org/dc/terms.owl> .
+<http://purl.org/dc/terms/creator> <http://www.w3.org/2000/01/rdf-schema#label> "creator" .
+<http://purl.org/dc/terms/creator> <http://www.w3.org/2000/01/rdf-schema#subPropertyOf> <http://purl.org/dc/elements/1.1/creator> .
+<http://purl.org/dc/terms/creator> <http://www.w3.org/2000/01/rdf-schema#subPropertyOf> <http://purl.org/dc/terms/contributor> .
+<http://purl.org/dc/terms/creator> <http://www.w3.org/2004/02/skos/core#prefLabel> "creator" .
+<http://purl.org/dc/terms/description> <http://purl.allotrope.org/ontologies/property#AFX_0002865> <http://purl.org/dc/terms/> .
+<http://purl.org/dc/terms/description> <http://purl.obolibrary.org/obo/IAO_0000115> "An account of the resource." .
+<http://purl.org/dc/terms/description> <http://purl.obolibrary.org/obo/IAO_0000412> <http://purl.obolibrary.org/obo/bco/releases/2016-12-14/bco.owl> .
+<http://purl.org/dc/terms/description> <http://purl.org/dc/elements/1.1/identifier> "description" .
+<http://purl.org/dc/terms/description> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#AnnotationProperty> .
+<http://purl.org/dc/terms/description> <http://www.w3.org/2000/01/rdf-schema#comment> "Description may include but is not limited to: an abstract, a table of contents, a graphical representation, or a free-text account of the resource." .
+<http://purl.org/dc/terms/description> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <http://purl.allotrope.org/voc/afo/REC/2023/09/curation> .
+<http://purl.org/dc/terms/description> <http://www.w3.org/2000/01/rdf-schema#label> "description" .
+<http://purl.org/dc/terms/description> <http://www.w3.org/2000/01/rdf-schema#subPropertyOf> <http://purl.org/dc/elements/1.1/description> .
+<http://purl.org/dc/terms/description> <http://www.w3.org/2004/02/skos/core#prefLabel> "description" .
+<http://purl.org/dc/terms/format> <http://purl.allotrope.org/ontologies/property#AFX_0002865> <http://purl.org/dc/terms/> .
+<http://purl.org/dc/terms/format> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#AnnotationProperty> .
+<http://purl.org/dc/terms/format> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <http://purl.allotrope.org/voc/afo/REC/2023/09/curation> .
+<http://purl.org/dc/terms/format> <http://www.w3.org/2000/01/rdf-schema#label> "format" .
+<http://purl.org/dc/terms/format> <http://www.w3.org/2000/01/rdf-schema#subPropertyOf> <http://purl.org/dc/elements/1.1/format> .
+<http://purl.org/dc/terms/format> <http://www.w3.org/2004/02/skos/core#prefLabel> "format" .
+<http://purl.org/dc/terms/identifier> <http://purl.allotrope.org/ontologies/property#AFX_0002865> <http://purl.org/dc/terms/> .
+<http://purl.org/dc/terms/identifier> <http://www.lesfleursdunormal.fr/static/_downloads/owlready_ontology.owl#python_name> "identifier_dc_terms" .
+<http://purl.org/dc/terms/identifier> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#AnnotationProperty> .
+<http://purl.org/dc/terms/identifier> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#DatatypeProperty> .
+<http://purl.org/dc/terms/identifier> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <http://purl.allotrope.org/voc/afo/REC/2023/09/curation> .
+<http://purl.org/dc/terms/identifier> <http://www.w3.org/2000/01/rdf-schema#label> "identifier" .
+<http://purl.org/dc/terms/identifier> <http://www.w3.org/2000/01/rdf-schema#subPropertyOf> <http://purl.org/dc/elements/1.1/identifier> .
+<http://purl.org/dc/terms/identifier> <http://www.w3.org/2004/02/skos/core#prefLabel> "identifier" .
+<http://purl.org/dc/terms/license> <http://purl.allotrope.org/ontologies/property#AFX_0002865> <http://purl.org/dc/terms/> .
+<http://purl.org/dc/terms/license> <http://purl.obolibrary.org/obo/IAO_0000115> "A legal document giving official permission to do something with the resource." .
+<http://purl.org/dc/terms/license> <http://purl.obolibrary.org/obo/IAO_0000115> "License of the ontology." .
+<http://purl.org/dc/terms/license> <http://purl.obolibrary.org/obo/IAO_0000115> "License." .
+<http://purl.org/dc/terms/license> <http://purl.obolibrary.org/obo/IAO_0000117> "Mark Miller" .
+<http://purl.org/dc/terms/license> <http://purl.org/dc/elements/1.1/date> "2018-05-11T13:47:29Z" .
+<http://purl.org/dc/terms/license> <http://purl.org/dc/elements/1.1/identifier> "license" .
+<http://purl.org/dc/terms/license> <http://www.geneontology.org/formats/oboInOwl#hasDbXref> <http://purl.org/dc/terms/license> .
+<http://purl.org/dc/terms/license> <http://www.geneontology.org/formats/oboInOwl#hasOBONamespace> "uberon" .
+<http://purl.org/dc/terms/license> <http://www.geneontology.org/formats/oboInOwl#id> "dcterms-license" .
+<http://purl.org/dc/terms/license> <http://www.geneontology.org/formats/oboInOwl#is_metadata_tag> "1" .
+<http://purl.org/dc/terms/license> <http://www.geneontology.org/formats/oboInOwl#shorthand> "dcterms-license" .
+<http://purl.org/dc/terms/license> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#AnnotationProperty> .
+<http://purl.org/dc/terms/license> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <http://purl.allotrope.org/voc/afo/REC/2023/09/curation> .
+<http://purl.org/dc/terms/license> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <http://purl.org/dc/terms.owl> .
+<http://purl.org/dc/terms/license> <http://www.w3.org/2000/01/rdf-schema#label> "license" .
+<http://purl.org/dc/terms/license> <http://www.w3.org/2000/01/rdf-schema#subPropertyOf> <http://purl.org/dc/elements/1.1/rights> .
+<http://purl.org/dc/terms/license> <http://www.w3.org/2000/01/rdf-schema#subPropertyOf> <http://purl.org/dc/terms/rights> .
+<http://purl.org/dc/terms/license> <http://www.w3.org/2004/02/skos/core#prefLabel> "license" .
+<http://purl.org/dc/terms/modified> <http://purl.allotrope.org/ontologies/property#AFX_0002865> <http://purl.org/dc/terms/> .
+<http://purl.org/dc/terms/modified> <http://purl.obolibrary.org/obo/IAO_0000115> "Date on which the resource was changed." .
+<http://purl.org/dc/terms/modified> <http://purl.obolibrary.org/obo/IAO_0000412> <http://purl.obolibrary.org/obo/bco/releases/2016-12-14/bco.owl> .
+<http://purl.org/dc/terms/modified> <http://purl.org/dc/elements/1.1/identifier> "modified" .
+<http://purl.org/dc/terms/modified> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#AnnotationProperty> .
+<http://purl.org/dc/terms/modified> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <http://purl.allotrope.org/voc/afo/REC/2023/09/curation> .
+<http://purl.org/dc/terms/modified> <http://www.w3.org/2000/01/rdf-schema#label> "date modified" .
+<http://purl.org/dc/terms/modified> <http://www.w3.org/2000/01/rdf-schema#label> "date_modified" .
+<http://purl.org/dc/terms/modified> <http://www.w3.org/2000/01/rdf-schema#label> "modified" .
+<http://purl.org/dc/terms/modified> <http://www.w3.org/2000/01/rdf-schema#subPropertyOf> <http://purl.org/dc/elements/1.1/date> .
+<http://purl.org/dc/terms/modified> <http://www.w3.org/2000/01/rdf-schema#subPropertyOf> <http://purl.org/dc/terms/date> .
+<http://purl.org/dc/terms/modified> <http://www.w3.org/2004/02/skos/core#prefLabel> "modified" .
+<http://purl.org/dc/terms/references> <http://purl.allotrope.org/ontologies/property#AFX_0002865> <http://purl.org/dc/terms/> .
+<http://purl.org/dc/terms/references> <http://www.geneontology.org/formats/oboInOwl#hasDbXref> <http://purl.org/dc/terms/references> .
+<http://purl.org/dc/terms/references> <http://www.geneontology.org/formats/oboInOwl#id> "dcterms-references" .
+<http://purl.org/dc/terms/references> <http://www.geneontology.org/formats/oboInOwl#is_metadata_tag> "1" .
+<http://purl.org/dc/terms/references> <http://www.geneontology.org/formats/oboInOwl#shorthand> "dcterms-references" .
+<http://purl.org/dc/terms/references> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#AnnotationProperty> .
+<http://purl.org/dc/terms/references> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#ObjectProperty> .
+<http://purl.org/dc/terms/references> <http://www.w3.org/2000/01/rdf-schema#comment> "For MIAPA reporting, recommended for referencing sequence and other identifiers for a TU as applicable." .
+<http://purl.org/dc/terms/references> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <http://purl.allotrope.org/voc/afo/REC/2023/09/curation> .
+<http://purl.org/dc/terms/references> <http://www.w3.org/2000/01/rdf-schema#label> "references" .
+<http://purl.org/dc/terms/references> <http://www.w3.org/2000/01/rdf-schema#subPropertyOf> <http://purl.org/dc/elements/1.1/relation> .
+<http://purl.org/dc/terms/references> <http://www.w3.org/2000/01/rdf-schema#subPropertyOf> <http://purl.org/dc/terms/relation> .
+<http://purl.org/dc/terms/references> <http://www.w3.org/2004/02/skos/core#prefLabel> "references" .
+<http://purl.org/dc/terms/source> <http://purl.allotrope.org/ontologies/property#AFX_0002865> <http://purl.org/dc/terms/> .
+<http://purl.org/dc/terms/source> <http://purl.obolibrary.org/obo/IAO_0000115> "A related resource from which the described resource is derived." .
+<http://purl.org/dc/terms/source> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#AnnotationProperty> .
+<http://purl.org/dc/terms/source> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#ObjectProperty> .
+<http://purl.org/dc/terms/source> <http://www.w3.org/2000/01/rdf-schema#comment> "The described resource may be derived from the related resource in whole or in part. Recommended best practice is to identify the related resource by means of a string conforming to a formal identification system." .
+<http://purl.org/dc/terms/source> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <http://purl.allotrope.org/voc/afo/REC/2023/09/curation> .
+<http://purl.org/dc/terms/source> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <http://purl.org/dc/terms.owl> .
+<http://purl.org/dc/terms/source> <http://www.w3.org/2000/01/rdf-schema#label> "source" .
+<http://purl.org/dc/terms/source> <http://www.w3.org/2000/01/rdf-schema#range> <http://purl.obolibrary.org/obo/IAO_0000030> .
+<http://purl.org/dc/terms/source> <http://www.w3.org/2000/01/rdf-schema#subPropertyOf> <http://purl.org/dc/elements/1.1/source> .
+<http://purl.org/dc/terms/source> <http://www.w3.org/2000/01/rdf-schema#subPropertyOf> <http://purl.org/dc/terms/relation> .
+<http://purl.org/dc/terms/source> <http://www.w3.org/2004/02/skos/core#prefLabel> "source" .
+<http://purl.org/dc/terms/subject> <http://purl.allotrope.org/ontologies/property#AFX_0002865> <http://purl.org/dc/terms/> .
+<http://purl.org/dc/terms/subject> <http://www.lesfleursdunormal.fr/static/_downloads/owlready_ontology.owl#python_name> "subject_dc_terms" .
+<http://purl.org/dc/terms/subject> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#AnnotationProperty> .
+<http://purl.org/dc/terms/subject> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <http://purl.allotrope.org/voc/afo/REC/2023/09/curation> .
+<http://purl.org/dc/terms/subject> <http://www.w3.org/2000/01/rdf-schema#label> "subject" .
+<http://purl.org/dc/terms/subject> <http://www.w3.org/2000/01/rdf-schema#subPropertyOf> <http://purl.org/dc/elements/1.1/subject> .
+<http://purl.org/dc/terms/subject> <http://www.w3.org/2004/02/skos/core#prefLabel> "subject" .
+<http://purl.org/dc/terms/title> <http://purl.allotrope.org/ontologies/property#AFX_0002865> <http://purl.org/dc/terms/> .
+<http://purl.org/dc/terms/title> <http://purl.org/dc/elements/1.1/identifier> "title" .
+<http://purl.org/dc/terms/title> <http://www.lesfleursdunormal.fr/static/_downloads/owlready_ontology.owl#python_name> "title_dc_terms" .
+<http://purl.org/dc/terms/title> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#AnnotationProperty> .
+<http://purl.org/dc/terms/title> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#DatatypeProperty> .
+<http://purl.org/dc/terms/title> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <http://purl.allotrope.org/voc/afo/REC/2023/09/curation> .
+<http://purl.org/dc/terms/title> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <http://purl.org/dc/terms.owl> .
+<http://purl.org/dc/terms/title> <http://www.w3.org/2000/01/rdf-schema#label> "title" .
+<http://purl.org/dc/terms/title> <http://www.w3.org/2000/01/rdf-schema#subPropertyOf> <http://purl.org/dc/elements/1.1/title> .
+<http://purl.org/dc/terms/title> <http://www.w3.org/2004/02/skos/core#prefLabel> "title" .
+<http://purl.org/vocab/vann/preferredNamespacePrefix> <http://purl.org/dc/elements/1.1/identifier> "preferredNamespacePrefix" .
+<http://purl.org/vocab/vann/preferredNamespacePrefix> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#AnnotationProperty> .
+<http://swrl.stanford.edu/ontologies/3.3/swrla.owl#isRuleEnabled> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#AnnotationProperty> .
+<http://swrl.stanford.edu/ontologies/3.3/swrla.owl#isRuleEnabled> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <http://swrl.stanford.edu/ontologies/3.3/swrla.owl> .
+<http://usefulinc.com/ns/doap#bug-database> <http://www.geneontology.org/formats/oboInOwl#hasDbXref> <http://usefulinc.com/ns/doap#bug-database> .
+<http://usefulinc.com/ns/doap#bug-database> <http://www.geneontology.org/formats/oboInOwl#hasOBONamespace> "uberon" .
+<http://usefulinc.com/ns/doap#bug-database> <http://www.geneontology.org/formats/oboInOwl#id> "doap-bug-database" .
+<http://usefulinc.com/ns/doap#bug-database> <http://www.geneontology.org/formats/oboInOwl#is_metadata_tag> "1" .
+<http://usefulinc.com/ns/doap#bug-database> <http://www.geneontology.org/formats/oboInOwl#shorthand> "doap-bug-database" .
+<http://usefulinc.com/ns/doap#bug-database> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#AnnotationProperty> .
+<http://usefulinc.com/ns/doap#bug-database> <http://www.w3.org/2000/01/rdf-schema#label> "bug database" .
+<http://www.geneontology.org/formats/oboInOwl#SubsetProperty> <http://purl.obolibrary.org/obo/IAO_0000115> "Subset property, name of subet." .
+<http://www.geneontology.org/formats/oboInOwl#SubsetProperty> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#AnnotationProperty> .
+<http://www.geneontology.org/formats/oboInOwl#SubsetProperty> <http://www.w3.org/2000/01/rdf-schema#label> "subset property" .
+<http://www.geneontology.org/formats/oboInOwl#SubsetProperty> <http://www.w3.org/2000/01/rdf-schema#label> "subset_property" .
+<http://www.geneontology.org/formats/oboInOwl#SynonymTypeProperty> <http://www.geneontology.org/formats/oboInOwl#hasDbXref> "IAO:0100001" .
+<http://www.geneontology.org/formats/oboInOwl#SynonymTypeProperty> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#AnnotationProperty> .
+<http://www.geneontology.org/formats/oboInOwl#SynonymTypeProperty> <http://www.w3.org/2000/01/rdf-schema#label> "synonym_type_property" .
+<http://www.geneontology.org/formats/oboInOwl#created_by> <http://purl.obolibrary.org/obo/IAO_0000115> "Author of the class." .
+<http://www.geneontology.org/formats/oboInOwl#created_by> <http://purl.obolibrary.org/obo/IAO_0000412> <http://purl.obolibrary.org/obo/go/releases/2017-01-24/go.owl> .
+<http://www.geneontology.org/formats/oboInOwl#created_by> <http://purl.obolibrary.org/obo/IAO_0000412> <http://purl.obolibrary.org/obo/po/releases/2017-01-06/po.owl> .
+<http://www.geneontology.org/formats/oboInOwl#created_by> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#AnnotationProperty> .
+<http://www.geneontology.org/formats/oboInOwl#created_by> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <http://purl.obolibrary.org/obo/ohd/imports/ecto_import.owl> .
+<http://www.geneontology.org/formats/oboInOwl#created_by> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <http://purl.obolibrary.org/obo/ohd/imports/ro_import.owl> .
+<http://www.geneontology.org/formats/oboInOwl#created_by> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <http://www.geneontology.org/formats/oboinowl.owl> .
+<http://www.geneontology.org/formats/oboInOwl#created_by> <http://www.w3.org/2000/01/rdf-schema#label> "created by" .
+<http://www.geneontology.org/formats/oboInOwl#created_by> <http://www.w3.org/2000/01/rdf-schema#label> "created_by" .
+<http://www.geneontology.org/formats/oboInOwl#created_by> <http://www.w3.org/2000/01/rdf-schema#subPropertyOf> <http://purl.org/dc/elements/1.1/creator> .
+<http://www.geneontology.org/formats/oboInOwl#creation_date> <http://purl.obolibrary.org/obo/IAO_0000115> "Date class was created." .
+<http://www.geneontology.org/formats/oboInOwl#creation_date> <http://purl.obolibrary.org/obo/IAO_0000412> <http://purl.obolibrary.org/obo/go/releases/2017-01-24/go.owl> .
+<http://www.geneontology.org/formats/oboInOwl#creation_date> <http://purl.obolibrary.org/obo/IAO_0000412> <http://purl.obolibrary.org/obo/po/releases/2017-01-06/po.owl> .
+<http://www.geneontology.org/formats/oboInOwl#creation_date> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#AnnotationProperty> .
+<http://www.geneontology.org/formats/oboInOwl#creation_date> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <http://purl.obolibrary.org/obo/ohd/imports/ecto_import.owl> .
+<http://www.geneontology.org/formats/oboInOwl#creation_date> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <http://purl.obolibrary.org/obo/ohd/imports/ro_import.owl> .
+<http://www.geneontology.org/formats/oboInOwl#creation_date> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <http://www.geneontology.org/formats/oboinowl.owl> .
+<http://www.geneontology.org/formats/oboInOwl#creation_date> <http://www.w3.org/2000/01/rdf-schema#label> "creation date" .
+<http://www.geneontology.org/formats/oboInOwl#creation_date> <http://www.w3.org/2000/01/rdf-schema#label> "creation_date" .
+<http://www.geneontology.org/formats/oboInOwl#date> <http://purl.obolibrary.org/obo/IAO_0000115> "Date." .
+<http://www.geneontology.org/formats/oboInOwl#date> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#AnnotationProperty> .
+<http://www.geneontology.org/formats/oboInOwl#date> <http://www.w3.org/2000/01/rdf-schema#label> "date" .
+<http://www.geneontology.org/formats/oboInOwl#hasAlternativeId> <http://purl.obolibrary.org/obo/IAO_0000115> "ID of merged class." .
+<http://www.geneontology.org/formats/oboInOwl#hasAlternativeId> <http://purl.obolibrary.org/obo/IAO_0000412> <http://purl.obolibrary.org/obo/go/releases/2017-01-24/go.owl> .
+<http://www.geneontology.org/formats/oboInOwl#hasAlternativeId> <http://purl.obolibrary.org/obo/IAO_0000412> <http://purl.obolibrary.org/obo/pato/releases/2017-03-22/pato.owl> .
+<http://www.geneontology.org/formats/oboInOwl#hasAlternativeId> <http://purl.obolibrary.org/obo/IAO_0000412> <http://purl.obolibrary.org/obo/po/releases/2017-01-06/po.owl> .
+<http://www.geneontology.org/formats/oboInOwl#hasAlternativeId> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#AnnotationProperty> .
+<http://www.geneontology.org/formats/oboInOwl#hasAlternativeId> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <http://www.geneontology.org/formats/oboinowl.owl> .
+<http://www.geneontology.org/formats/oboInOwl#hasAlternativeId> <http://www.w3.org/2000/01/rdf-schema#label> "has alternative identifier" .
+<http://www.geneontology.org/formats/oboInOwl#hasAlternativeId> <http://www.w3.org/2000/01/rdf-schema#label> "has_alternative_id" .
+<http://www.geneontology.org/formats/oboInOwl#hasAlternativeId> <http://www.w3.org/2000/01/rdf-schema#label> "有_可替代的_id" .
+<http://www.geneontology.org/formats/oboInOwl#hasDbXref> <http://purl.obolibrary.org/obo/IAO_0000115> "A database cross-reference. An annotation which directs one to information contained within a database." .
+<http://www.geneontology.org/formats/oboInOwl#hasDbXref> <http://purl.obolibrary.org/obo/IAO_0000115> "A property representing a reference to an identical or very similar object in another database." .
+<http://www.geneontology.org/formats/oboInOwl#hasDbXref> <http://purl.obolibrary.org/obo/IAO_0000115> "Reference database or publication source." .
+<http://www.geneontology.org/formats/oboInOwl#hasDbXref> <http://purl.obolibrary.org/obo/IAO_0000412> <http://purl.obolibrary.org/obo/go/releases/2017-01-24/go.owl> .
+<http://www.geneontology.org/formats/oboInOwl#hasDbXref> <http://purl.obolibrary.org/obo/IAO_0000412> <http://purl.obolibrary.org/obo/pato/releases/2017-03-22/pato.owl> .
+<http://www.geneontology.org/formats/oboInOwl#hasDbXref> <http://purl.obolibrary.org/obo/IAO_0000412> <http://purl.obolibrary.org/obo/po/releases/2017-01-06/po.owl> .
+<http://www.geneontology.org/formats/oboInOwl#hasDbXref> <http://purl.obolibrary.org/obo/IAO_0000412> <http://purl.obolibrary.org/obo/uberon/releases/2017-05-29/uberon.owl> .
+<http://www.geneontology.org/formats/oboInOwl#hasDbXref> <http://purl.obolibrary.org/obo/NCIT_P106> "Conceptual Entity" .
+<http://www.geneontology.org/formats/oboInOwl#hasDbXref> <http://purl.obolibrary.org/obo/NCIT_P108> "xRef" .
+<http://www.geneontology.org/formats/oboInOwl#hasDbXref> <http://purl.obolibrary.org/obo/SCDO_0000340> <http://www.ebi.ac.uk/sbo/main/SBO:0000554> .
+<http://www.geneontology.org/formats/oboInOwl#hasDbXref> <http://purl.obolibrary.org/obo/SCDO_0000929> "metadata complete - requires restrictions and relationships" .
+<http://www.geneontology.org/formats/oboInOwl#hasDbXref> <http://www.geneontology.org/formats/oboInOwl#hasDbXref> "IAO:0100001" .
+<http://www.geneontology.org/formats/oboInOwl#hasDbXref> <http://www.geneontology.org/formats/oboInOwl#hasDbXref> "SBO:0000554" .
+<http://www.geneontology.org/formats/oboInOwl#hasDbXref> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "DbXref" .
+<http://www.geneontology.org/formats/oboInOwl#hasDbXref> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "Xref" .
+<http://www.geneontology.org/formats/oboInOwl#hasDbXref> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "database cross-reference" .
+<http://www.geneontology.org/formats/oboInOwl#hasDbXref> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "database_cross_reference" .
+<http://www.geneontology.org/formats/oboInOwl#hasDbXref> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "db xref" .
+<http://www.geneontology.org/formats/oboInOwl#hasDbXref> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "hasDbXref" .
+<http://www.geneontology.org/formats/oboInOwl#hasDbXref> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#AnnotationProperty> .
+<http://www.geneontology.org/formats/oboInOwl#hasDbXref> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <http://purl.obolibrary.org/obo/ohd/imports/caro_import.owl> .
+<http://www.geneontology.org/formats/oboInOwl#hasDbXref> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <http://purl.obolibrary.org/obo/ohd/imports/ecto_import.owl> .
+<http://www.geneontology.org/formats/oboInOwl#hasDbXref> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <http://purl.obolibrary.org/obo/ohd/imports/ro_import.owl> .
+<http://www.geneontology.org/formats/oboInOwl#hasDbXref> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <http://www.geneontology.org/formats/oboinowl.owl> .
+<http://www.geneontology.org/formats/oboInOwl#hasDbXref> <http://www.w3.org/2000/01/rdf-schema#label> "database cross reference" .
+<http://www.geneontology.org/formats/oboInOwl#hasDbXref> <http://www.w3.org/2000/01/rdf-schema#label> "database_cross_reference" .
+<http://www.geneontology.org/formats/oboInOwl#hasDbXref> <http://www.w3.org/2000/01/rdf-schema#label> "has database cross reference" .
+<http://www.geneontology.org/formats/oboInOwl#hasDbXref> <http://www.w3.org/2000/01/rdf-schema#label> "hasDbXref" .
+<http://www.geneontology.org/formats/oboInOwl#hasDbXref> <http://www.w3.org/2000/01/rdf-schema#label> "xRef" .
+<http://www.geneontology.org/formats/oboInOwl#hasDbXref> <http://www.w3.org/2000/01/rdf-schema#label> "数据库_交叉_引用" .
+<http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> <http://purl.obolibrary.org/obo/IAO_0000115> "A property representing a fully qualified synonym, contains the string, term type, source, and an optional source code if appropriate. Each subfield is deliniated to facilitate interpretation by software." .
+<http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> <http://purl.obolibrary.org/obo/IAO_0000115> "An alias in which the alias exhibits true synonymy. Example: ornithine cycle is an exact synonym of urea cycle." .
+<http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> <http://purl.obolibrary.org/obo/IAO_0000115> "An alternative label for a class or property which has the exact same meaning than the preferred name/primary label." .
+<http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> <http://purl.obolibrary.org/obo/IAO_0000115> "An alternative label for a given entity such as a commonly used abbreviation or synonym. " .
+<http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> <http://purl.obolibrary.org/obo/IAO_0000115> "Exact synonym." .
+<http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> <http://purl.obolibrary.org/obo/IAO_0000115> "Fully qualified synonym, contains the string, term type, source, and an optional source code if appropriate. Each subfield is deliniated to facilitate interpretation by software." .
+<http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> <http://purl.obolibrary.org/obo/IAO_0000115> "Synonym of the term." .
+<http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> <http://purl.obolibrary.org/obo/IAO_0000117> <http://orcid.org/0000-0001-5208-3432> .
+<http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> <http://purl.obolibrary.org/obo/IAO_0000233> <https://github.com/information-artifact-ontology/ontology-metadata/issues/20> .
+<http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> <http://purl.obolibrary.org/obo/IAO_0000412> <http://purl.obolibrary.org/obo/go/releases/2017-01-24/go.owl> .
+<http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> <http://purl.obolibrary.org/obo/IAO_0000412> <http://purl.obolibrary.org/obo/pato/releases/2017-03-22/pato.owl> .
+<http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> <http://purl.obolibrary.org/obo/IAO_0000412> <http://purl.obolibrary.org/obo/po/releases/2017-01-06/po.owl> .
+<http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> <http://purl.obolibrary.org/obo/SCDO_0000340> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> .
+<http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> <http://purl.obolibrary.org/obo/SCDO_0000363> "no" .
+<http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> <http://purl.obolibrary.org/obo/SCDO_0000929> "pending vetting by the SCDO developers" .
+<http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> <http://www.geneontology.org/formats/oboInOwl#hasDbXref> "IAO:0100001" .
+<http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "FULL_SYN" .
+<http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "Synonym with Source Data" .
+<http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#AnnotationProperty> .
+<http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <http://purl.obolibrary.org/obo/ohd/imports/caro_import.owl> .
+<http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <http://purl.obolibrary.org/obo/ohd/imports/ecto_import.owl> .
+<http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <http://www.geneontology.org/formats/oboInOwl#> .
+<http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <http://www.geneontology.org/formats/oboinowl.owl> .
+<http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> <http://www.w3.org/2000/01/rdf-schema#label> "alternative_term" .
+<http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> <http://www.w3.org/2000/01/rdf-schema#label> "has exact synonym" .
+<http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> <http://www.w3.org/2000/01/rdf-schema#label> "hasExactSynonym" .
+<http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> <http://www.w3.org/2000/01/rdf-schema#label> "has_exact_synonym" .
+<http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> <http://www.w3.org/2000/01/rdf-schema#label> "有_精确的_同义词" .
+<http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <https://github.com/information-artifact-ontology/ontology-metadata/issues/20> .
+<http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> <http://www.w3.org/2000/01/rdf-schema#subPropertyOf> <http://purl.obolibrary.org/obo/IAO_0000118> .
+<http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> <http://www.w3.org/2000/01/rdf-schema#subPropertyOf> <http://www.geneontology.org/formats/oboInOwl#hasSynonym> .
+<http://www.geneontology.org/formats/oboInOwl#hasOBONamespace> <http://purl.obolibrary.org/obo/IAO_0000115> "A relation between a class and an OBO namespace string. OBO namespaces are to be distinguished from IDspaces; for example, biological_process is a namespace, GO is an idspace." .
+<http://www.geneontology.org/formats/oboInOwl#hasOBONamespace> <http://purl.obolibrary.org/obo/IAO_0000115> "Name space of the ontology." .
+<http://www.geneontology.org/formats/oboInOwl#hasOBONamespace> <http://purl.obolibrary.org/obo/IAO_0000412> <http://purl.obolibrary.org/obo/go/releases/2017-01-24/go.owl> .
+<http://www.geneontology.org/formats/oboInOwl#hasOBONamespace> <http://purl.obolibrary.org/obo/IAO_0000412> <http://purl.obolibrary.org/obo/pato/releases/2017-03-22/pato.owl> .
+<http://www.geneontology.org/formats/oboInOwl#hasOBONamespace> <http://purl.obolibrary.org/obo/IAO_0000412> <http://purl.obolibrary.org/obo/po/releases/2017-01-06/po.owl> .
+<http://www.geneontology.org/formats/oboInOwl#hasOBONamespace> <http://purl.obolibrary.org/obo/IAO_0000412> <http://purl.obolibrary.org/obo/uberon/releases/2017-05-29/uberon.owl> .
+<http://www.geneontology.org/formats/oboInOwl#hasOBONamespace> <http://www.geneontology.org/formats/oboInOwl#hasDbXref> "IAO:0100001" .
+<http://www.geneontology.org/formats/oboInOwl#hasOBONamespace> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#AnnotationProperty> .
+<http://www.geneontology.org/formats/oboInOwl#hasOBONamespace> <http://www.w3.org/2000/01/rdf-schema#comment> "disease_ontology" .
+<http://www.geneontology.org/formats/oboInOwl#hasOBONamespace> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <http://purl.obolibrary.org/obo/ohd/imports/caro_import.owl> .
+<http://www.geneontology.org/formats/oboInOwl#hasOBONamespace> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <http://purl.obolibrary.org/obo/ohd/imports/ecto_import.owl> .
+<http://www.geneontology.org/formats/oboInOwl#hasOBONamespace> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <http://www.geneontology.org/formats/oboinowl.owl> .
+<http://www.geneontology.org/formats/oboInOwl#hasOBONamespace> <http://www.w3.org/2000/01/rdf-schema#label> "has OBO namespace" .
+<http://www.geneontology.org/formats/oboInOwl#hasOBONamespace> <http://www.w3.org/2000/01/rdf-schema#label> "has_obo_namespace" .
+<http://www.geneontology.org/formats/oboInOwl#hasOBONamespace> <http://www.w3.org/2000/01/rdf-schema#label> "有_obo_命名空间" .
+<http://www.geneontology.org/formats/oboInOwl#hasRelatedSynonym> <http://purl.obolibrary.org/obo/IAO_0000115> "An alias in which the alias is related the primary class name, but not necessarily broader or narrower. Example: cytochrome bc1 complex is a related synonym of ubiquinol-cytochrome-c reductase activity; virulence is a related synonym of pathogenesis" .
+<http://www.geneontology.org/formats/oboInOwl#hasRelatedSynonym> <http://purl.obolibrary.org/obo/IAO_0000115> "An alias in which the alias is related to the primary class name, but not necessarily broader or narrower. Example: cytochrome bc1 complex is a related synonym of ubiquinol-cytochrome-c reductase activity; virulence is a related synonym of pathogenesis." .
+<http://www.geneontology.org/formats/oboInOwl#hasRelatedSynonym> <http://purl.obolibrary.org/obo/IAO_0000115> "An alternative label for a class or property that has been used synonymously with the primary term name, but the usage is not strictly correct." .
+<http://www.geneontology.org/formats/oboInOwl#hasRelatedSynonym> <http://purl.obolibrary.org/obo/IAO_0000115> "Has related synonym." .
+<http://www.geneontology.org/formats/oboInOwl#hasRelatedSynonym> <http://purl.obolibrary.org/obo/IAO_0000117> <http://orcid.org/0000-0001-5208-3432> .
+<http://www.geneontology.org/formats/oboInOwl#hasRelatedSynonym> <http://purl.obolibrary.org/obo/IAO_0000233> <https://github.com/information-artifact-ontology/ontology-metadata/issues/21> .
+<http://www.geneontology.org/formats/oboInOwl#hasRelatedSynonym> <http://purl.obolibrary.org/obo/IAO_0000412> <http://purl.obolibrary.org/obo/go/releases/2017-01-24/go.owl> .
+<http://www.geneontology.org/formats/oboInOwl#hasRelatedSynonym> <http://purl.obolibrary.org/obo/IAO_0000412> <http://purl.obolibrary.org/obo/po/releases/2017-01-06/po.owl> .
+<http://www.geneontology.org/formats/oboInOwl#hasRelatedSynonym> <http://purl.obolibrary.org/obo/IAO_0000412> <http://purl.obolibrary.org/obo/uberon/releases/2017-05-29/uberon.owl> .
+<http://www.geneontology.org/formats/oboInOwl#hasRelatedSynonym> <http://purl.obolibrary.org/obo/SCDO_0000340> <http://www.geneontology.org/formats/oboInOwl#hasRelatedSynonym> .
+<http://www.geneontology.org/formats/oboInOwl#hasRelatedSynonym> <http://purl.obolibrary.org/obo/SCDO_0000363> "no" .
+<http://www.geneontology.org/formats/oboInOwl#hasRelatedSynonym> <http://purl.obolibrary.org/obo/SCDO_0000929> "pending vetting by the SCDO developers" .
+<http://www.geneontology.org/formats/oboInOwl#hasRelatedSynonym> <http://www.geneontology.org/formats/oboInOwl#hasDbXref> "IAO:0100001" .
+<http://www.geneontology.org/formats/oboInOwl#hasRelatedSynonym> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#AnnotationProperty> .
+<http://www.geneontology.org/formats/oboInOwl#hasRelatedSynonym> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <http://www.geneontology.org/formats/oboinowl.owl> .
+<http://www.geneontology.org/formats/oboInOwl#hasRelatedSynonym> <http://www.w3.org/2000/01/rdf-schema#label> "has related synonym" .
+<http://www.geneontology.org/formats/oboInOwl#hasRelatedSynonym> <http://www.w3.org/2000/01/rdf-schema#label> "hasRelatedSynonym" .
+<http://www.geneontology.org/formats/oboInOwl#hasRelatedSynonym> <http://www.w3.org/2000/01/rdf-schema#label> "has_related_synonym" .
+<http://www.geneontology.org/formats/oboInOwl#hasRelatedSynonym> <http://www.w3.org/2000/01/rdf-schema#label> "oboInOwl:hasRelatedSynonym" .
+<http://www.geneontology.org/formats/oboInOwl#hasRelatedSynonym> <http://www.w3.org/2000/01/rdf-schema#label> "有_相关的_同义词" .
+<http://www.geneontology.org/formats/oboInOwl#hasRelatedSynonym> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <https://github.com/information-artifact-ontology/ontology-metadata/issues/21> .
+<http://www.geneontology.org/formats/oboInOwl#hasRelatedSynonym> <http://www.w3.org/2000/01/rdf-schema#subPropertyOf> <http://purl.obolibrary.org/obo/IAO_0000118> .
+<http://www.geneontology.org/formats/oboInOwl#hasRelatedSynonym> <http://www.w3.org/2000/01/rdf-schema#subPropertyOf> <http://www.geneontology.org/formats/oboInOwl#hasSynonym> .
+<http://www.geneontology.org/formats/oboInOwl#hasSynonymType> <http://purl.obolibrary.org/obo/IAO_0000115> "An annotation property used to further annotate synonym axioms." .
+<http://www.geneontology.org/formats/oboInOwl#hasSynonymType> <http://purl.obolibrary.org/obo/IAO_0000412> <http://purl.obolibrary.org/obo/po/releases/2017-01-06/po.owl> .
+<http://www.geneontology.org/formats/oboInOwl#hasSynonymType> <http://www.geneontology.org/formats/oboInOwl#hasDbXref> "IAO:0100001" .
+<http://www.geneontology.org/formats/oboInOwl#hasSynonymType> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#AnnotationProperty> .
+<http://www.geneontology.org/formats/oboInOwl#hasSynonymType> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <http://www.geneontology.org/formats/oboinowl.owl> .
+<http://www.geneontology.org/formats/oboInOwl#hasSynonymType> <http://www.w3.org/2000/01/rdf-schema#label> "has synonym type" .
+<http://www.geneontology.org/formats/oboInOwl#hasSynonymType> <http://www.w3.org/2000/01/rdf-schema#label> "has_synonym_type" .
+<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/IAO_0000115> "An identifier for an individual entity." .
+<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/IAO_0000115> "An identifier is an information content entity that is the outcome of a dubbing process and is used to refer to one instance of entity shared by a group of people to refer to that individual entity." .
+<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/IAO_0000412> <http://purl.obolibrary.org/obo/go/releases/2017-01-24/go.owl> .
+<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/IAO_0000412> <http://purl.obolibrary.org/obo/pato/releases/2017-03-22/pato.owl> .
+<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/IAO_0000412> <http://purl.obolibrary.org/obo/po/releases/2017-01-06/po.owl> .
+<http://www.geneontology.org/formats/oboInOwl#id> <http://purl.obolibrary.org/obo/IAO_0000412> <http://purl.obolibrary.org/obo/uberon/releases/2017-05-29/uberon.owl> .
+<http://www.geneontology.org/formats/oboInOwl#id> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#AnnotationProperty> .
+<http://www.geneontology.org/formats/oboInOwl#id> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <http://purl.obolibrary.org/obo/ohd/imports/caro_import.owl> .
+<http://www.geneontology.org/formats/oboInOwl#id> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <http://purl.obolibrary.org/obo/ohd/imports/ecto_import.owl> .
+<http://www.geneontology.org/formats/oboInOwl#id> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <http://www.geneontology.org/formats/oboinowl.owl> .
+<http://www.geneontology.org/formats/oboInOwl#id> <http://www.w3.org/2000/01/rdf-schema#label> "id" .
+<http://www.geneontology.org/formats/oboInOwl#inSubset> <http://purl.obolibrary.org/obo/IAO_0000115> "An association that connects the concept defining a particular terminology subset with concepts that belong to this subset." .
+<http://www.geneontology.org/formats/oboInOwl#inSubset> <http://purl.obolibrary.org/obo/IAO_0000115> "In subset." .
+<http://www.geneontology.org/formats/oboInOwl#inSubset> <http://purl.obolibrary.org/obo/IAO_0000115> "Used to associate the concept defining a particular terminology subset with concepts that belong to this subset." .
+<http://www.geneontology.org/formats/oboInOwl#inSubset> <http://purl.obolibrary.org/obo/IAO_0000412> <http://purl.obolibrary.org/obo/go/releases/2017-01-24/go.owl> .
+<http://www.geneontology.org/formats/oboInOwl#inSubset> <http://purl.obolibrary.org/obo/IAO_0000412> <http://purl.obolibrary.org/obo/po/releases/2017-01-06/po.owl> .
+<http://www.geneontology.org/formats/oboInOwl#inSubset> <http://purl.obolibrary.org/obo/IAO_0000412> <http://purl.obolibrary.org/obo/ro/releases/2016-10-28/ro.owl> .
+<http://www.geneontology.org/formats/oboInOwl#inSubset> <http://purl.obolibrary.org/obo/IAO_0000412> <http://purl.obolibrary.org/obo/uberon/releases/2017-05-29/uberon.owl> .
+<http://www.geneontology.org/formats/oboInOwl#inSubset> <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "Concept_In_Subset" .
+<http://www.geneontology.org/formats/oboInOwl#inSubset> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#AnnotationProperty> .
+<http://www.geneontology.org/formats/oboInOwl#inSubset> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <http://purl.obolibrary.org/obo/ohd/imports/ro_import.owl> .
+<http://www.geneontology.org/formats/oboInOwl#inSubset> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <http://www.geneontology.org/formats/oboinowl.owl> .
+<http://www.geneontology.org/formats/oboInOwl#inSubset> <http://www.w3.org/2000/01/rdf-schema#label> "in subset" .
+<http://www.geneontology.org/formats/oboInOwl#inSubset> <http://www.w3.org/2000/01/rdf-schema#label> "in_subset" .
+<http://www.geneontology.org/formats/oboInOwl#inSubset> <http://www.w3.org/2000/01/rdf-schema#label> "在_子集" .
+<http://www.geneontology.org/formats/oboInOwl#source> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#AnnotationProperty> .
+<http://www.geneontology.org/formats/oboInOwl#source> <http://www.w3.org/2000/01/rdf-schema#label> "obo-source" .
+<http://www.w3.org/2004/02/skos/core#closeMatch> <http://purl.obolibrary.org/obo/IAO_0000115> "A skos concept mapping used to link two concepts that are sufficiently similar that they can be used interchangeably." .
+<http://www.w3.org/2004/02/skos/core#closeMatch> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#AnnotationProperty> .
+<http://www.w3.org/2004/02/skos/core#closeMatch> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#ObjectProperty> .
+<http://www.w3.org/2004/02/skos/core#closeMatch> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#SymmetricProperty> .
+<http://www.w3.org/2004/02/skos/core#closeMatch> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <http://purl.allotrope.org/voc/skos/REC/2018/10/skos> .
+<http://www.w3.org/2004/02/skos/core#closeMatch> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <http://www.w3.org/2004/02/skos/core> .
+<http://www.w3.org/2004/02/skos/core#closeMatch> <http://www.w3.org/2000/01/rdf-schema#label> "has close match" .
+<http://www.w3.org/2004/02/skos/core#closeMatch> <http://www.w3.org/2000/01/rdf-schema#subPropertyOf> <http://www.w3.org/2004/02/skos/core#mappingRelation> .
+<http://www.w3.org/2004/02/skos/core#closeMatch> <http://www.w3.org/2004/02/skos/core#definition> "skos:closeMatch is used to link two concepts that are sufficiently similar that they can be used interchangeably in some information retrieval applications. In order to avoid the possibility of compound errors when combining mappings across more than two concept schemes, skos:closeMatch is not declared to be a transitive property." .
+<http://purl.org/dc/terms/description> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#AnnotationProperty> . 
