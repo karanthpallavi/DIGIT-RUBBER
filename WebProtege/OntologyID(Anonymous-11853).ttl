@@ -1,43 +1,46 @@
-@prefix : <http://purl.obolibrary.org/obo/digitrubber/digitrubber-full.owl#> .
 @prefix owl: <http://www.w3.org/2002/07/owl#> .
 @prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
 @prefix xml: <http://www.w3.org/XML/1998/namespace> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
-@base <http://purl.obolibrary.org/obo/digitrubber/digitrubber-full.owl> .
+@base <http://www.w3.org/2002/07/owl#> .
 
-<http://purl.obolibrary.org/obo/digitrubber/digitrubber-full.owl> rdf:type owl:Ontology ;
-                                                                   owl:versionIRI <http://purl.obolibrary.org/obo/digitrubber/releases/2023-06-01/digitrubber-full.owl> ;
-                                                                   <http://omv.ontoware.org/2005/05/ontology#hasOntologySyntax> <http://www.w3.org/ns/formats/RDF_XML> ;
-                                                                   <http://purl.obolibrary.org/obo/IAO_0000700> <http://www.purl.org/OntoMeta/DigitRubber#1> ;
-                                                                   <http://purl.org/dc/elements/1.1/creator> <https://orcid.org/0000-0000-0000-0000> ;
-                                                                   <http://purl.org/dc/terms/bibliographicCitation> "TIB (2023): DigitRubber Ontology. An ontology demonstrating rich ontology for rubber extrusion. PURL: http://www.purl.org/OntoMeta/DigitRubberOntology."@en ;
-                                                                   <http://purl.org/dc/terms/contributor> <http://purl.obolibrary.org/obo/digitrubber/0000-0000-0000-0000> ;
-                                                                   <http://purl.org/dc/terms/created> "2023-06-01T08:05:00"^^xsd:dateTime ;
-                                                                   <http://purl.org/dc/terms/description> "DigitRubber Ontology"@en ;
-                                                                   <http://purl.org/dc/terms/format> <https://www.iana.org/assignments/media-types/application/rdf+xml> ;
-                                                                   <http://purl.org/dc/terms/license> <https://creativecommons.org/licenses/unspecified> ;
-                                                                   <http://purl.org/dc/terms/modified> "2023-09-26T10:19:00"^^xsd:dateTime ;
-                                                                   <http://purl.org/dc/terms/references> <https://zenodo.org/record/0000000> ;
-                                                                   <http://purl.org/dc/terms/subject> <https://purl.org/linsearch/fer> ;
-                                                                   <http://purl.org/dc/terms/title> "DigitRubber Ontology"@en ;
-                                                                   <http://purl.org/ontology/bibo/status> "active"@en ;
-                                                                   <http://purl.org/pav/derivedFrom> <http://www.purl.org/DigitRubberOntology/0.0.1> ;
-                                                                   <http://purl.org/vocab/vann/preferredNamespacePrefix> "DRO"^^xsd:string ;
-                                                                   <http://schema.org/funder> <https://ror.org/> ;
-                                                                   <http://schema.org/inLanguage> <https://id.loc.gov/vocabulary/iso639-2/eng> ;
-                                                                   <http://usefulinc.com/ns/doap#audience> "DigitRubber ontology has been developed for rubber extrusion"@en ;
-                                                                   <http://usefulinc.com/ns/doap#bug-database> <https://github.com/TIBHannover/DIGIT-RUBBER/issues> ;
-                                                                   <http://usefulinc.com/ns/doap#repository> <https://github.com/TIBHannover/DIGIT-RUBBER> ;
-                                                                   <http://www.geneontology.org/formats/oboInOwl#date> "01:06:2023 08:05" ;
-                                                                   <http://www.loc.gov/premis/rdf/v3/documentation> <https://tibhannover.github.io/DIGIT-RUBBER/> ;
-                                                                   owl:versionInfo "v2023-Sep-26" ;
-                                                                   <http://www.w3.org/ns/adms#versionNotes> "A description of changes between last version and current version of the ontology."@en ;
-                                                                   <http://www.w3.org/ns/dcat#distribution> <http://www.purl.org/OntoMeta/DigitRubber.owl> ;
-                                                                   <https://vocab.org/vann/example> <http://www.purl.org/OntoMeta/DigitRubber/docs/descriptionOfUse> ;
-                                                                   <https://w3id.org/mod#acronym> "DRO"^^xsd:string ;
-                                                                   <https://w3id.org/mod#competencyQuestion> <https://github.com/TIBHannover/DIGIT-RUBBER/tree/main/preliminary_data/Competeny%20Questions> ;
-                                                                   <https://w3id.org/mod#hasFormalityLevel> "The DigitRubber ontology aplies OWL2 EL (cf. https://www.w3.org/TR/2012/REC-owl2-profiles-20121211/#OWL_2_EL)"@en .
+[ rdf:type owl:Ontology ;
+   <http://omv.ontoware.org/2005/05/ontology#hasOntologySyntax> <http://www.w3.org/ns/formats/RDF_XML> ;
+   <http://purl.obolibrary.org/obo/IAO_0000700> <http://www.purl.org/OntoMeta/DigitRubber#1> ;
+   <http://purl.org/dc/elements/1.1/creator> <https://orcid.org/0000-0000-0000-0000> ;
+   <http://purl.org/dc/terms/bibliographicCitation> "TIB (2023): DigitRubber Ontology. An ontology demonstrating rich ontology for rubber extrusion. PURL: http://www.purl.org/OntoMeta/DigitRubberOntology."@en ;
+   <http://purl.org/dc/terms/contributor> <http://purl.obolibrary.org/obo/digitrubber/0000-0000-0000-0000> ;
+   <http://purl.org/dc/terms/created> "2023-06-01T08:05:00"^^xsd:dateTime ;
+   <http://purl.org/dc/terms/description> "DigitRubber Ontology" ,
+                                          "DigitRubber Ontology"@en ;
+   <http://purl.org/dc/terms/format> <https://www.iana.org/assignments/media-types/application/rdf+xml> ;
+   <http://purl.org/dc/terms/issued> "2003-09-26T10:19:00"^^xsd:dateTime ;
+   <http://purl.org/dc/terms/license> <https://creativecommons.org/licenses/unspecified> ;
+   <http://purl.org/dc/terms/modified> "2023-09-26T10:19:00"^^xsd:dateTime ;
+   <http://purl.org/dc/terms/references> <https://zenodo.org/record/0000000> ;
+   <http://purl.org/dc/terms/subject> <https://purl.org/linsearch/fer> ;
+   <http://purl.org/dc/terms/title> "DigitRubber Ontology" ,
+                                    "DigitRubber Ontology"@en ;
+   <http://purl.org/ontology/bibo/status> "active"@en ;
+   <http://purl.org/pav/derivedFrom> <http://www.purl.org/DigitRubberOntology/0.0.1> ;
+   <http://purl.org/vocab/vann/preferredNamespacePrefix> "DRO"^^xsd:string ;
+   <http://schema.org/funder> <https://ror.org/> ;
+   <http://schema.org/inLanguage> <https://id.loc.gov/vocabulary/iso639-2/eng> ;
+   <http://usefulinc.com/ns/doap#audience> "DigitRubber ontology has been developed for rubber extrusion"@en ;
+   <http://usefulinc.com/ns/doap#bug-database> <https://github.com/TIBHannover/DIGIT-RUBBER/issues> ;
+   <http://usefulinc.com/ns/doap#repository> <https://github.com/TIBHannover/DIGIT-RUBBER> ;
+   <http://www.geneontology.org/formats/oboInOwl#date> "01:06:2023 08:05" ;
+   <http://www.loc.gov/premis/rdf/v3/documentation> <https://tibhannover.github.io/DIGIT-RUBBER/> ;
+   owl:versionInfo "2023-06-01" ,
+                   "v2023-Sep-26" ;
+   <http://www.w3.org/ns/adms#versionNotes> "A description of changes between last version and current version of the ontology."@en ;
+   <http://www.w3.org/ns/dcat#distribution> <http://www.purl.org/OntoMeta/DigitRubber.owl> ;
+   <https://vocab.org/vann/example> <http://www.purl.org/OntoMeta/DigitRubber/docs/descriptionOfUse> ;
+   <https://w3id.org/mod#acronym> "DRO"^^xsd:string ;
+   <https://w3id.org/mod#competencyQuestion> <https://github.com/TIBHannover/DIGIT-RUBBER/tree/main/preliminary_data/Competeny%20Questions> ;
+   <https://w3id.org/mod#hasFormalityLevel> "The DigitRubber ontology aplies OWL2 EL (cf. https://www.w3.org/TR/2012/REC-owl2-profiles-20121211/#OWL_2_EL)"@en
+ ] .
 
 #################################################################
 #    Annotation properties
@@ -48,15 +51,18 @@
 
 
 ###  http://purl.obolibrary.org/obo/BFO_0000179
-<http://purl.obolibrary.org/obo/BFO_0000179> rdf:type owl:AnnotationProperty .
+<http://purl.obolibrary.org/obo/BFO_0000179> rdf:type owl:AnnotationProperty ;
+                                             rdfs:label "BFO OWL specification label"@en .
 
 
 ###  http://purl.obolibrary.org/obo/BFO_0000180
-<http://purl.obolibrary.org/obo/BFO_0000180> rdf:type owl:AnnotationProperty .
+<http://purl.obolibrary.org/obo/BFO_0000180> rdf:type owl:AnnotationProperty ;
+                                             rdfs:label "BFO CLIF specification label"@en .
 
 
 ###  http://purl.obolibrary.org/obo/IAO_0000111
-<http://purl.obolibrary.org/obo/IAO_0000111> rdf:type owl:AnnotationProperty .
+<http://purl.obolibrary.org/obo/IAO_0000111> rdf:type owl:AnnotationProperty ;
+                                             rdfs:label "editor preferred term"@en .
 
 
 ###  http://purl.obolibrary.org/obo/IAO_0000112
@@ -116,11 +122,13 @@ We also have the outstanding issue of how to aim different definitions to differ
 
 
 ###  http://purl.obolibrary.org/obo/IAO_0000116
-<http://purl.obolibrary.org/obo/IAO_0000116> rdf:type owl:AnnotationProperty .
+<http://purl.obolibrary.org/obo/IAO_0000116> rdf:type owl:AnnotationProperty ;
+                                             rdfs:label "editor note"@en .
 
 
 ###  http://purl.obolibrary.org/obo/IAO_0000117
-<http://purl.obolibrary.org/obo/IAO_0000117> rdf:type owl:AnnotationProperty .
+<http://purl.obolibrary.org/obo/IAO_0000117> rdf:type owl:AnnotationProperty ;
+                                             rdfs:label "term editor"@en .
 
 
 ###  http://purl.obolibrary.org/obo/IAO_0000118
@@ -147,15 +155,18 @@ We also have the outstanding issue of how to aim different definitions to differ
 
 
 ###  http://purl.obolibrary.org/obo/IAO_0000232
-<http://purl.obolibrary.org/obo/IAO_0000232> rdf:type owl:AnnotationProperty .
+<http://purl.obolibrary.org/obo/IAO_0000232> rdf:type owl:AnnotationProperty ;
+                                             rdfs:label "curator note"@en .
 
 
 ###  http://purl.obolibrary.org/obo/IAO_0000233
-<http://purl.obolibrary.org/obo/IAO_0000233> rdf:type owl:AnnotationProperty .
+<http://purl.obolibrary.org/obo/IAO_0000233> rdf:type owl:AnnotationProperty ;
+                                             rdfs:label "term tracker item"@en .
 
 
 ###  http://purl.obolibrary.org/obo/IAO_0000234
-<http://purl.obolibrary.org/obo/IAO_0000234> rdf:type owl:AnnotationProperty .
+<http://purl.obolibrary.org/obo/IAO_0000234> rdf:type owl:AnnotationProperty ;
+                                             rdfs:label "ontology term requester"@en .
 
 
 ###  http://purl.obolibrary.org/obo/IAO_0000412
@@ -171,31 +182,38 @@ We also have the outstanding issue of how to aim different definitions to differ
 
 
 ###  http://purl.obolibrary.org/obo/IAO_0000424
-<http://purl.obolibrary.org/obo/IAO_0000424> rdf:type owl:AnnotationProperty .
+<http://purl.obolibrary.org/obo/IAO_0000424> rdf:type owl:AnnotationProperty ;
+                                             rdfs:label "expand expression to"@en .
 
 
 ###  http://purl.obolibrary.org/obo/IAO_0000589
-<http://purl.obolibrary.org/obo/IAO_0000589> rdf:type owl:AnnotationProperty .
+<http://purl.obolibrary.org/obo/IAO_0000589> rdf:type owl:AnnotationProperty ;
+                                             rdfs:label "OBO foundry unique label"@en .
 
 
 ###  http://purl.obolibrary.org/obo/IAO_0000600
-<http://purl.obolibrary.org/obo/IAO_0000600> rdf:type owl:AnnotationProperty .
+<http://purl.obolibrary.org/obo/IAO_0000600> rdf:type owl:AnnotationProperty ;
+                                             rdfs:label "elucidation"@en .
 
 
 ###  http://purl.obolibrary.org/obo/IAO_0000601
-<http://purl.obolibrary.org/obo/IAO_0000601> rdf:type owl:AnnotationProperty .
+<http://purl.obolibrary.org/obo/IAO_0000601> rdf:type owl:AnnotationProperty ;
+                                             rdfs:label "has associated axiom(nl)"@en .
 
 
 ###  http://purl.obolibrary.org/obo/IAO_0000602
-<http://purl.obolibrary.org/obo/IAO_0000602> rdf:type owl:AnnotationProperty .
+<http://purl.obolibrary.org/obo/IAO_0000602> rdf:type owl:AnnotationProperty ;
+                                             rdfs:label "has associated axiom(fol)"@en .
 
 
 ###  http://purl.obolibrary.org/obo/IAO_0000700
-<http://purl.obolibrary.org/obo/IAO_0000700> rdf:type owl:AnnotationProperty .
+<http://purl.obolibrary.org/obo/IAO_0000700> rdf:type owl:AnnotationProperty ;
+                                             rdfs:label "has ontology root term"@en .
 
 
 ###  http://purl.obolibrary.org/obo/IAO_0010000
-<http://purl.obolibrary.org/obo/IAO_0010000> rdf:type owl:AnnotationProperty .
+<http://purl.obolibrary.org/obo/IAO_0010000> rdf:type owl:AnnotationProperty ;
+                                             rdfs:label "has axiom label"@en .
 
 
 ###  http://purl.obolibrary.org/obo/OBI_0001847
@@ -230,6 +248,7 @@ https://sourceforge.net/tracker/?func=detail&aid=3603413&group_id=177891&atid=88
 
 ###  http://purl.obolibrary.org/obo/RO_0002259
 <http://purl.obolibrary.org/obo/RO_0002259> rdf:type owl:AnnotationProperty ;
+                                            rdfs:label "defined by inverse"@en ;
                                             rdfs:subPropertyOf <http://www.geneontology.org/formats/oboInOwl#SubsetProperty> .
 
 
@@ -256,7 +275,8 @@ Where we have an annotation assertion
 
 
 ###  http://purl.obolibrary.org/obo/RO_0002579
-<http://purl.obolibrary.org/obo/RO_0002579> rdf:type owl:AnnotationProperty .
+<http://purl.obolibrary.org/obo/RO_0002579> rdf:type owl:AnnotationProperty ;
+                                            rdfs:label "is indirect form of"@en .
 
 
 ###  http://purl.obolibrary.org/obo/RO_0002582
@@ -281,11 +301,13 @@ Where we have an annotation assertion
 
 ###  http://purl.obolibrary.org/obo/valid_for_go_annotation_extension
 <http://purl.obolibrary.org/obo/valid_for_go_annotation_extension> rdf:type owl:AnnotationProperty ;
+                                                                   rdfs:label "valid_for_go_annotation_extension"@en ;
                                                                    rdfs:subPropertyOf <http://www.geneontology.org/formats/oboInOwl#SubsetProperty> .
 
 
 ###  http://purl.obolibrary.org/obo/valid_for_go_gp2term
 <http://purl.obolibrary.org/obo/valid_for_go_gp2term> rdf:type owl:AnnotationProperty ;
+                                                      rdfs:label "valid_for_go_gp2term"@en ;
                                                       rdfs:subPropertyOf <http://www.geneontology.org/formats/oboInOwl#SubsetProperty> .
 
 
@@ -301,21 +323,25 @@ Where we have an annotation assertion
 
 ###  http://purl.obolibrary.org/obo/chebi#IUPAC_NAME
 <http://purl.obolibrary.org/obo/chebi#IUPAC_NAME> rdf:type owl:AnnotationProperty ;
+                                                  rdfs:label "IUPAC NAME"@en ;
                                                   rdfs:subPropertyOf <http://www.geneontology.org/formats/oboInOwl#SynonymTypeProperty> .
 
 
 ###  http://purl.obolibrary.org/obo/chebi#1_STAR
 <http://purl.obolibrary.org/obo/chebi#1_STAR> rdf:type owl:AnnotationProperty ;
+                                              rdfs:comment "Preliminary entries"@en ;
                                               rdfs:subPropertyOf <http://www.geneontology.org/formats/oboInOwl#SubsetProperty> .
 
 
 ###  http://purl.obolibrary.org/obo/chebi#2_STAR
 <http://purl.obolibrary.org/obo/chebi#2_STAR> rdf:type owl:AnnotationProperty ;
+                                              rdfs:comment "Annotated by 3rd party"@en ;
                                               rdfs:subPropertyOf <http://www.geneontology.org/formats/oboInOwl#SubsetProperty> .
 
 
 ###  http://purl.obolibrary.org/obo/chebi#3_STAR
 <http://purl.obolibrary.org/obo/chebi#3_STAR> rdf:type owl:AnnotationProperty ;
+                                              rdfs:comment "Manually annotated by ChEBI Team"@en ;
                                               rdfs:subPropertyOf <http://www.geneontology.org/formats/oboInOwl#SubsetProperty> .
 
 
@@ -344,7 +370,8 @@ Where we have an annotation assertion
 
 
 ###  http://purl.obolibrary.org/obo/chebi/smiles
-<http://purl.obolibrary.org/obo/chebi/smiles> rdf:type owl:AnnotationProperty .
+<http://purl.obolibrary.org/obo/chebi/smiles> rdf:type owl:AnnotationProperty ;
+                                              rdfs:label "smile"@en .
 
 
 ###  http://purl.obolibrary.org/obo/ro/subsets#ro-eco
@@ -359,19 +386,23 @@ Where we have an annotation assertion
          Contributor should be used to indicate the entity."""@en-us ;
                                               rdfs:comment """An entity responsible for making contributions to the
          content of the resource."""@en-us ;
-                                              rdfs:isDefinedBy <http://purl.org/dc/elements/1.1/> .
+                                              rdfs:isDefinedBy <http://purl.org/dc/elements/1.1/> ;
+                                              rdfs:label "Contributor"@en .
 
 
 ###  http://purl.org/dc/elements/1.1/creator
-<http://purl.org/dc/elements/1.1/creator> rdf:type owl:AnnotationProperty .
+<http://purl.org/dc/elements/1.1/creator> rdf:type owl:AnnotationProperty ;
+                                          rdfs:label "creator"@en .
 
 
 ###  http://purl.org/dc/elements/1.1/date
-<http://purl.org/dc/elements/1.1/date> rdf:type owl:AnnotationProperty .
+<http://purl.org/dc/elements/1.1/date> rdf:type owl:AnnotationProperty ;
+                                       rdfs:label "date"@en .
 
 
 ###  http://purl.org/dc/elements/1.1/description
-<http://purl.org/dc/elements/1.1/description> rdf:type owl:AnnotationProperty .
+<http://purl.org/dc/elements/1.1/description> rdf:type owl:AnnotationProperty ;
+                                              rdfs:label "description"@en .
 
 
 ###  http://purl.org/dc/elements/1.1/language
@@ -419,6 +450,10 @@ Where we have an annotation assertion
 
 ###  http://purl.org/dc/terms/identifier
 <http://purl.org/dc/terms/identifier> rdf:type owl:AnnotationProperty .
+
+
+###  http://purl.org/dc/terms/issued
+<http://purl.org/dc/terms/issued> rdf:type owl:AnnotationProperty .
 
 
 ###  http://purl.org/dc/terms/license
@@ -506,7 +541,8 @@ Where we have an annotation assertion
 
 
 ###  http://www.geneontology.org/formats/oboInOwl#date
-<http://www.geneontology.org/formats/oboInOwl#date> rdf:type owl:AnnotationProperty .
+<http://www.geneontology.org/formats/oboInOwl#date> rdf:type owl:AnnotationProperty ;
+                                                    rdfs:label "date"@en .
 
 
 ###  http://www.geneontology.org/formats/oboInOwl#hasAlternativeId
@@ -515,7 +551,8 @@ Where we have an annotation assertion
 
 
 ###  http://www.geneontology.org/formats/oboInOwl#hasDbXref
-<http://www.geneontology.org/formats/oboInOwl#hasDbXref> rdf:type owl:AnnotationProperty .
+<http://www.geneontology.org/formats/oboInOwl#hasDbXref> rdf:type owl:AnnotationProperty ;
+                                                         rdfs:label "database cross reference"@en .
 
 
 ###  http://www.geneontology.org/formats/oboInOwl#hasExactSynonym
@@ -538,7 +575,9 @@ Where we have an annotation assertion
 
 
 ###  http://www.geneontology.org/formats/oboInOwl#id
-<http://www.geneontology.org/formats/oboInOwl#id> rdf:type owl:AnnotationProperty .
+<http://www.geneontology.org/formats/oboInOwl#id> rdf:type owl:AnnotationProperty ;
+                                                  <http://purl.obolibrary.org/obo/IAO_0000115> "An identifier for an individual entity"^^xsd:string ;
+                                                  rdfs:label "id"@en .
 
 
 ###  http://www.geneontology.org/formats/oboInOwl#inSubset
@@ -547,7 +586,8 @@ Where we have an annotation assertion
 
 
 ###  http://www.geneontology.org/formats/oboInOwl#source
-<http://www.geneontology.org/formats/oboInOwl#source> rdf:type owl:AnnotationProperty .
+<http://www.geneontology.org/formats/oboInOwl#source> rdf:type owl:AnnotationProperty ;
+                                                      rdfs:label "obo-source"@en .
 
 
 ###  http://www.loc.gov/premis/rdf/v3/documentation
@@ -555,15 +595,30 @@ Where we have an annotation assertion
 
 
 ###  http://www.w3.org/2000/01/rdf-schema#comment
-rdfs:comment rdf:type owl:AnnotationProperty .
+rdfs:comment rdf:type owl:AnnotationProperty ;
+             rdfs:label "comment"@en .
+
+
+###  http://www.w3.org/2000/01/rdf-schema#isDefinedBy
+rdfs:isDefinedBy rdfs:label "is defined by"@en .
 
 
 ###  http://www.w3.org/2000/01/rdf-schema#label
-rdfs:label rdf:type owl:AnnotationProperty .
+rdfs:label rdf:type owl:AnnotationProperty ;
+           rdfs:label "label"@en .
+
+
+###  http://www.w3.org/2000/01/rdf-schema#seeAlso
+rdfs:seeAlso rdfs:label "see also"@en .
+
+
+###  http://www.w3.org/2002/07/owl#versionInfo
+owl:versionInfo rdfs:label "versionInfo"@en .
 
 
 ###  http://www.w3.org/2004/02/skos/core#closeMatch
-<http://www.w3.org/2004/02/skos/core#closeMatch> rdf:type owl:AnnotationProperty .
+<http://www.w3.org/2004/02/skos/core#closeMatch> rdf:type owl:AnnotationProperty ;
+                                                 rdfs:label "has close match"@en .
 
 
 ###  http://www.w3.org/ns/adms#versionNotes
@@ -3665,7 +3720,8 @@ For example, A and B may be gene products and binding of B by A positively regul
                                              <http://www.geneontology.org/formats/oboInOwl#hasOBONamespace> "chebi_ontology" ;
                                              <http://www.geneontology.org/formats/oboInOwl#hasRelatedSynonym> "thiazole" ;
                                              <http://www.geneontology.org/formats/oboInOwl#id> "CHEBI:48901" ;
-                                             <http://www.geneontology.org/formats/oboInOwl#inSubset> <http://purl.obolibrary.org/obo/chebi#3_STAR> .
+                                             <http://www.geneontology.org/formats/oboInOwl#inSubset> <http://purl.obolibrary.org/obo/chebi#3_STAR> ;
+                                             rdfs:label "thiazoles [chebi]"^^xsd:string .
 
 [ rdf:type owl:Axiom ;
    owl:annotatedSource <http://purl.obolibrary.org/obo/CHEBI_48901> ;
@@ -3836,7 +3892,12 @@ For example, A and B may be gene products and binding of B by A positively regul
 ###  http://purl.obolibrary.org/obo/CHEBI_51446
 <http://purl.obolibrary.org/obo/CHEBI_51446> rdf:type owl:Class ;
                                              rdfs:subClassOf <https://www.tib.eu/digitrubber#DIGITRUBBER_000604> ;
-                                             <http://www.geneontology.org/formats/oboInOwl#id> "CHEBI:51446" .
+                                             <http://purl.org/dc/elements/1.1/contributor> "Lars Vogt"^^xsd:string ;
+                                             <http://purl.org/dc/elements/1.1/language> "English"^^xsd:string ;
+                                             <http://www.geneontology.org/formats/oboInOwl#creation_date> "23.10.2023"^^xsd:string ;
+                                             <http://www.geneontology.org/formats/oboInOwl#id> "CHEBI:51446" ;
+                                             rdfs:isDefinedBy "CHEBI"^^xsd:string ;
+                                             rdfs:label "organic divalent group [chebi]"@en .
 
 
 ###  http://purl.obolibrary.org/obo/CHEBI_5686
@@ -4187,6 +4248,9 @@ JAR: A data item is an approximately justified approximately true approximate be
                                                                                           "PlanAndPlannedProcess Branch"@en ;
                                              <http://purl.obolibrary.org/obo/IAO_0000119> "OBI_0000270"@en ,
                                                                                           "adapted from discussion on OBI list (Matthew Pocock, Christian Cocos, Alan Ruttenberg)"@en ;
+                                             <http://purl.obolibrary.org/obo/IAO_0000412> <http://purl.obolibrary.org/obo/IAO_0000064> ;
+                                             <http://www.geneontology.org/formats/oboInOwl#id> "IAO:0000064"^^xsd:string ;
+                                             rdfs:isDefinedBy "OBI"^^xsd:string ;
                                              rdfs:label "algorithm"@en .
 
 
@@ -6433,6 +6497,7 @@ members of a group differ from the mean
                                                     <http://purl.org/pav/lastUpdateOn> "23.08.2022" ;
                                                     <http://www.geneontology.org/formats/oboInOwl#creation_date> "23.08.2022"^^xsd:Date ;
                                                     rdfs:comment "http://purl.obolibrary.org/obo/ncit.owl"@en ;
+                                                    rdfs:isDefinedBy "NCIT"^^xsd:string ;
                                                     rdfs:label "Artificial Intelligence (AI) [ncti]"@en ;
                                                     <https://www.tib.eu/digitrubber#coarseClassification> "plan specification" .
 
@@ -7531,6 +7596,9 @@ members of a group differ from the mean
 ###  https://www.tib.eu/digitrubber#DIGITRUBBER_000147
 <https://www.tib.eu/digitrubber#DIGITRUBBER_000147> rdf:type owl:Class ;
                                                     <http://purl.obolibrary.org/obo/IAO_0000114> "uncurated"^^xsd:string ;
+                                                    <http://purl.obolibrary.org/obo/IAO_0000115> "A particle in the physical sciences is a small localized object to which can be ascribed physical properties."@en ;
+                                                    <http://purl.obolibrary.org/obo/IAO_0000119> <https://en.wikipedia.org/wiki/Particle> ,
+                                                                                                 <https://ws680.nist.gov/publication/get_pdf.cfm?pub_id=850489> ;
                                                     <http://purl.obolibrary.org/obo/IAO_0000412> <http://purl.allotrope.org/ontologies/material#AFM_0000435> ;
                                                     <http://purl.org/dc/elements/1.1/contributor> "Lars M Vogt"^^xsd:string ;
                                                     <http://purl.org/dc/elements/1.1/language> "English"^^xsd:string ;
@@ -7556,6 +7624,13 @@ members of a group differ from the mean
                                                     rdfs:label "Gebäude"@de ,
                                                                "building"@en ;
                                                     <https://www.tib.eu/digitrubber#coarseClassification> "material entity" .
+
+
+###  https://www.tib.eu/digitrubber#DIGITRUBBER_000149
+<https://www.tib.eu/digitrubber#DIGITRUBBER_000149> rdf:type owl:Class ;
+                                                    <http://www.geneontology.org/formats/oboInOwl#created_by> "Lars M Vogt"^^xsd:string ;
+                                                    <http://www.geneontology.org/formats/oboInOwl#creation_date> "2023-10-23T12:02:15.836531Z"^^xsd:string ;
+                                                    rdfs:label "deprecated class" .
 
 
 ###  https://www.tib.eu/digitrubber#DIGITRUBBER_000150
@@ -8796,8 +8871,11 @@ members of a group differ from the mean
 <https://www.tib.eu/digitrubber#DIGITRUBBER_000260> rdf:type owl:Class ;
                                                     <http://purl.obolibrary.org/obo/IAO_0000114> "uncurated" ;
                                                     <http://purl.obolibrary.org/obo/IAO_0000115> "A single undivided thing (unit) based on or subject to individual judgment or preference, and not by necessity, reason, or principle."@en ;
+                                                    <http://purl.obolibrary.org/obo/IAO_0000119> <http://purl.obolibrary.org/obo/ncit.owl> ;
+                                                    <http://purl.obolibrary.org/obo/IAO_0000412> <http://purl.obolibrary.org/obo/NCIT_C75765> ;
                                                     <http://purl.org/dc/elements/1.1/language> "English" ;
                                                     <http://purl.org/pav/lastUpdateOn> "19.08.2022" ;
+                                                    <http://www.geneontology.org/formats/oboInOwl#id> "NCIT:C75765"^^xsd:string ;
                                                     rdfs:comment "http://purl.obolibrary.org/obo/ncit.owl"@en ;
                                                     rdfs:isDefinedBy "NCIT" ;
                                                     rdfs:label "arbitrary units"@en ,
@@ -8943,6 +9021,7 @@ sequence of additional like or unlike molecules under the conditions of the rele
 
 ###  https://www.tib.eu/digitrubber#DIGITRUBBER_000272
 <https://www.tib.eu/digitrubber#DIGITRUBBER_000272> rdf:type owl:Class ;
+                                                    rdfs:subClassOf <https://www.tib.eu/digitrubber#DIGITRUBBER_000149> ;
                                                     <http://purl.obolibrary.org/obo/IAO_0000115> """a substance consisting of molecules characterised by the sequence of one or more
 types of monomer unit. Such molecules must be distributed over a range of molecular weights."""@en ;
                                                     <http://purl.org/dc/elements/1.1/contributor> "Yamen Alsalka"^^xsd:string ;
@@ -9113,7 +9192,8 @@ types of monomer unit. Such molecules must be distributed over a range of molecu
                                                     <http://www.geneontology.org/formats/oboInOwl#creation_date> "03.05.2022"^^xsd:Date ;
                                                     rdfs:comment "It is normally free from compounding ingredients but may also, for example, take the form of a masterbatch with oil and/or filler."@en ,
                                                                  "Rohkautschuk ist normalerweise frei von Mischungsbestandteilen, kann jedoch zum Beispiel auch als Masterbatch mit Öl und/oder Füllstoff vorliegen."@de ;
-                                                    rdfs:label "Rohkautschuk [dik]"@de .
+                                                    rdfs:label "Rohkautschuk [dik]"@de ,
+                                                               "raw rubber [dik]"@en .
 
 
 ###  https://www.tib.eu/digitrubber#DIGITRUBBER_000290
@@ -9126,7 +9206,8 @@ types of monomer unit. Such molecules must be distributed over a range of molecu
                                                     <http://purl.org/dc/elements/1.1/language> "English" ;
                                                     <http://purl.org/dc/terms/identifier> "DIN ISO 1382:2016-07" ;
                                                     <http://www.geneontology.org/formats/oboInOwl#creation_date> "03.05.2022"^^xsd:Date ;
-                                                    rdfs:label "Synthesekautschuk [dik]"@de .
+                                                    rdfs:label "Synthesekautschuk [dik]"@de ,
+                                                               "synthetic rubber [dik]"@en .
 
 
 ###  https://www.tib.eu/digitrubber#DIGITRUBBER_000291
@@ -9139,7 +9220,8 @@ types of monomer unit. Such molecules must be distributed over a range of molecu
                                                     <http://purl.org/dc/elements/1.1/language> "English" ;
                                                     <http://purl.org/dc/terms/identifier> "ISO 1629:2013(E)" ;
                                                     <http://www.geneontology.org/formats/oboInOwl#creation_date> "04.05.2022"^^xsd:Date ;
-                                                    rdfs:label "M-Gruppe Kautschuk [dik]"@de .
+                                                    rdfs:label "M-Gruppe Kautschuk [dik]"@de ,
+                                                               "M-group rubber [dik]"@en .
 
 
 ###  https://www.tib.eu/digitrubber#DIGITRUBBER_000292
@@ -9153,7 +9235,8 @@ types of monomer unit. Such molecules must be distributed over a range of molecu
                                                     <http://purl.org/dc/terms/identifier> "ISO 1629:2013(E)" ;
                                                     <http://www.geneontology.org/formats/oboInOwl#creation_date> "03.05.2022"^^xsd:Date ;
                                                     <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "EPDM" ;
-                                                    rdfs:label "Ethylen-Propylen-Dien-‎Kautschuk ‎[dik]"@de .
+                                                    rdfs:label "Ethylen-Propylen-Dien-‎Kautschuk ‎[dik]"@de ,
+                                                               "ethylene propylene diene rubber [dik]"@en .
 
 
 ###  https://www.tib.eu/digitrubber#DIGITRUBBER_000293
@@ -9166,7 +9249,8 @@ types of monomer unit. Such molecules must be distributed over a range of molecu
                                                     <http://purl.org/dc/elements/1.1/language> "English" ;
                                                     <http://purl.org/dc/terms/identifier> "DIN ISO 1382:2016-07" ;
                                                     <http://www.geneontology.org/formats/oboInOwl#creation_date> "03.05.2022"^^xsd:Date ;
-                                                    rdfs:label "Dienkautschuk [dik]"@de .
+                                                    rdfs:label "Dienkautschuk [dik]"@de ,
+                                                               "diene rubber [dik]"@en .
 
 
 ###  https://www.tib.eu/digitrubber#DIGITRUBBER_000294
@@ -9207,7 +9291,8 @@ types of monomer unit. Such molecules must be distributed over a range of molecu
                                                     <http://www.geneontology.org/formats/oboInOwl#creation_date> "03.05.2022"^^xsd:Date ;
                                                     rdfs:comment "Carbon black is produced by incomplete burning or thermal decomposition of hydrocarbons."@en ,
                                                                  "Ruß wird durch unvollständige Verbrennung oder thermische Zersetzung von Kohlenwasserstoffen produziert."@de ;
-                                                    rdfs:label "Ruß [dik]"@de .
+                                                    rdfs:label "Ruß [dik]"@de ,
+                                                               "carbon black [dik]"@en .
 
 
 ###  https://www.tib.eu/digitrubber#DIGITRUBBER_000297
@@ -9216,11 +9301,22 @@ types of monomer unit. Such molecules must be distributed over a range of molecu
                                                     <http://purl.obolibrary.org/obo/IAO_0000114> "uncurated" ;
                                                     <http://purl.obolibrary.org/obo/IAO_0000115> "An elemental carbon in the form of virtually pure colloidal particles that are produced by incomplete combustion or thermal decomposition of gaseous or liquid hydrocarbons under controlled conditions. A black, finely divided pellet or powder, its properties of specific surface area, particle size and structure, conductivity and colour can be varied by varying the exact conditions for its production. It is used in tyres, rubber and plastic products, printing inks and coatings."@en ;
                                                     <http://purl.obolibrary.org/obo/IAO_0000119> "http://purl.obolibrary.org/obo/chebi.owl" ;
-                                                    <http://purl.org/dc/elements/1.1/contributor> "Luis Ramos" ;
+                                                    <http://purl.org/dc/elements/1.1/contributor> "Lars Vogt"^^xsd:string ,
+                                                                                                  "Luis Ramos" ;
                                                     <http://purl.org/dc/elements/1.1/language> "English" ;
+                                                    <http://purl.org/pav/lastUpdateOn> "23.10.2023"^^xsd:string ;
                                                     <http://www.geneontology.org/formats/oboInOwl#creation_date> "24.08.2022"^^xsd:Date ;
+                                                    <http://www.geneontology.org/formats/oboInOwl#hasDbXref> "CAS:1333-86-4"^^xsd:string ,
+                                                                                                             "KEGG:C19202"^^xsd:string ,
+                                                                                                             "PMID:24291665"^^xsd:string ,
+                                                                                                             "PMID:24669321"^^xsd:string ,
+                                                                                                             "PMID:25071917"^^xsd:string ,
+                                                                                                             "PMID:26803751"^^xsd:string ,
+                                                                                                             "Wikipedia:Carbon_black"^^xsd:string ;
+                                                    <http://www.geneontology.org/formats/oboInOwl#id> "CHEBI:82297"^^xsd:string ;
                                                     rdfs:isDefinedBy "CHEBI" ;
-                                                    rdfs:label "Ruß [chebi]"@de .
+                                                    rdfs:label "Ruß [chebi]"@de ,
+                                                               "carbon black [chebi]"@en .
 
 
 ###  https://www.tib.eu/digitrubber#DIGITRUBBER_000298
@@ -9233,7 +9329,8 @@ types of monomer unit. Such molecules must be distributed over a range of molecu
                                                     <http://purl.org/dc/elements/1.1/language> "English" ;
                                                     <http://purl.org/dc/terms/identifier> "ASTM D1765-10" ;
                                                     <http://www.geneontology.org/formats/oboInOwl#creation_date> "05.05.2022"^^xsd:Date ;
-                                                    rdfs:label "N-Ruß [dik]"@de .
+                                                    rdfs:label "N-Ruß [dik]"@de ,
+                                                               "N-carbon black [dik]"@en .
 
 
 ###  https://www.tib.eu/digitrubber#DIGITRUBBER_000299
@@ -9246,7 +9343,8 @@ types of monomer unit. Such molecules must be distributed over a range of molecu
                                                     <http://purl.org/dc/elements/1.1/language> "English" ;
                                                     <http://purl.org/dc/terms/identifier> "ASTM D1765-10" ;
                                                     <http://www.geneontology.org/formats/oboInOwl#creation_date> "05.05.2022"^^xsd:Date ;
-                                                    rdfs:label "S-Ruß [dik]"@de .
+                                                    rdfs:label "S-Ruß [dik]"@de ,
+                                                               "S-carbon black [dik]"@en .
 
 
 ###  https://www.tib.eu/digitrubber#DIGITRUBBER_000300
@@ -9385,11 +9483,13 @@ types of monomer unit. Such molecules must be distributed over a range of molecu
 <https://www.tib.eu/digitrubber#DIGITRUBBER_000310> rdf:type owl:Class ;
                                                     <http://purl.obolibrary.org/obo/IAO_0000114> "uncurated" ;
                                                     <http://purl.obolibrary.org/obo/IAO_0000115> "A class of substances that binds to, activates and increases the activity of a target."@en ;
+                                                    <http://purl.obolibrary.org/obo/IAO_0000119> <http://purl.obolibrary.org/obo/ncit.owl> ;
                                                     <http://purl.obolibrary.org/obo/IAO_0000412> <http://purl.obolibrary.org/obo/NCIT_C154897> ;
                                                     <http://purl.org/dc/elements/1.1/contributor> "Luis Ramos" ;
                                                     <http://purl.org/dc/elements/1.1/language> "English" ;
                                                     <http://purl.org/pav/lastUpdateOn> "24.08.2022" ;
                                                     <http://www.geneontology.org/formats/oboInOwl#creation_date> "24.08.2022"^^xsd:Date ;
+                                                    <http://www.geneontology.org/formats/oboInOwl#id> "NCIT:C154897"^^xsd:string ;
                                                     rdfs:isDefinedBy "NCIT" ;
                                                     rdfs:label "Aktivator [ncit]"@de ,
                                                                "activator [ncit]"@en .
@@ -9504,7 +9604,8 @@ types of monomer unit. Such molecules must be distributed over a range of molecu
                                                     <http://purl.org/dc/elements/1.1/contributor> "Alexander Aschemann" ;
                                                     <http://purl.org/dc/elements/1.1/language> "English" ;
                                                     <http://www.geneontology.org/formats/oboInOwl#creation_date> "05.05.2022"^^xsd:Date ;
-                                                    rdfs:label "Thiazol [dik]"@de .
+                                                    rdfs:label "Thiazol [dik]"@de ,
+                                                               "thiazole [dik]"@en .
 
 
 ###  https://www.tib.eu/digitrubber#DIGITRUBBER_000320
@@ -9555,7 +9656,10 @@ types of monomer unit. Such molecules must be distributed over a range of molecu
                                                     <http://purl.obolibrary.org/obo/IAO_0000114> "uncurated" ;
                                                     <http://purl.org/dc/elements/1.1/contributor> "Alexander Aschemann" ;
                                                     <http://purl.org/dc/elements/1.1/language> "English" ;
-                                                    <http://www.geneontology.org/formats/oboInOwl#creation_date> "05.05.2022"^^xsd:Date .
+                                                    <http://purl.org/pav/lastUpdateOn> "20.10.2023"^^xsd:string ;
+                                                    <http://www.geneontology.org/formats/oboInOwl#creation_date> "05.05.2022"^^xsd:Date ;
+                                                    rdfs:label "Thiuram [dik]"@de ,
+                                                               "thiuram [dik]"@en .
 
 
 ###  https://www.tib.eu/digitrubber#DIGITRUBBER_000324
@@ -9615,9 +9719,11 @@ types of monomer unit. Such molecules must be distributed over a range of molecu
                                                     <http://purl.obolibrary.org/obo/IAO_0000114> "uncurated" ;
                                                     <http://purl.org/dc/elements/1.1/contributor> "Alexander Aschemann" ;
                                                     <http://purl.org/dc/elements/1.1/language> "English" ;
+                                                    <http://purl.org/pav/lastUpdateOn> "20.10.2023"^^xsd:string ;
                                                     <http://www.geneontology.org/formats/oboInOwl#creation_date> "05.05.2022"^^xsd:Date ;
                                                     <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "ZBDC" ;
-                                                    rdfs:label "Zink-Dibenzyldithiocarbamat [dik]"@de .
+                                                    rdfs:label "Zink-Dibenzyldithiocarbamat [dik]"@de ,
+                                                               "zinc dibenzyldithiocarbamate [dik]"@en .
 
 
 ###  https://www.tib.eu/digitrubber#DIGITRUBBER_000329
@@ -11508,7 +11614,8 @@ types of monomer unit. Such molecules must be distributed over a range of molecu
                                                     <http://purl.org/pav/lastUpdateOn> "25.08.2022" ;
                                                     <http://www.geneontology.org/formats/oboInOwl#creation_date> "25.08.2022"^^xsd:Date ;
                                                     rdfs:isDefinedBy "OBI" ;
-                                                    rdfs:label "Autoklav [obi]"@de .
+                                                    rdfs:label "Autoklav [obi]"@de ,
+                                                               "autoclave [obi]"@en .
 
 
 ###  https://www.tib.eu/digitrubber#DIGITRUBBER_000484
@@ -13000,7 +13107,8 @@ types of monomer unit. Such molecules must be distributed over a range of molecu
                                                     <http://purl.org/dc/elements/1.1/contributor> "Alexander Aschemann" ;
                                                     <http://purl.org/dc/elements/1.1/language> "English" ;
                                                     <http://purl.org/pav/lastUpdateOn> "26.08.2022" ;
-                                                    <http://www.geneontology.org/formats/oboInOwl#creation_date> "21.05.2022"^^xsd:Date .
+                                                    <http://www.geneontology.org/formats/oboInOwl#creation_date> "21.05.2022"^^xsd:Date ;
+                                                    rdfs:label "ethylene group [dik]"@en .
 
 
 ###  https://www.tib.eu/digitrubber#DIGITRUBBER_000598
@@ -13009,7 +13117,8 @@ types of monomer unit. Such molecules must be distributed over a range of molecu
                                                     <http://purl.obolibrary.org/obo/IAO_0000114> "uncurated" ;
                                                     <http://purl.org/dc/elements/1.1/contributor> "Alexander Aschemann" ;
                                                     <http://purl.org/dc/elements/1.1/language> "English" ;
-                                                    <http://www.geneontology.org/formats/oboInOwl#creation_date> "21.05.2022"^^xsd:Date .
+                                                    <http://www.geneontology.org/formats/oboInOwl#creation_date> "21.05.2022"^^xsd:Date ;
+                                                    rdfs:label "hydrocarbylene group [dik]"@en .
 
 
 ###  https://www.tib.eu/digitrubber#DIGITRUBBER_000599
@@ -13018,10 +13127,19 @@ types of monomer unit. Such molecules must be distributed over a range of molecu
                                                     <http://purl.obolibrary.org/obo/IAO_0000114> "uncurated" ;
                                                     <http://purl.obolibrary.org/obo/IAO_0000115> "A bivalent group formed by removing two hydrogen atoms from a hydrocarbon, the free valencies of which are not engaged in a double bond."@en ;
                                                     <http://purl.obolibrary.org/obo/IAO_0000119> "http://purl.obolibrary.org/obo/chebi.owl" ;
-                                                    <http://purl.org/dc/elements/1.1/contributor> "Luis Ramos" ;
+                                                    <http://purl.org/dc/elements/1.1/contributor> "Lars Vogt"^^xsd:string ,
+                                                                                                  "Luis Ramos" ;
                                                     <http://purl.org/dc/elements/1.1/language> "English" ;
+                                                    <http://purl.org/pav/lastUpdateOn> "23.10.2023"^^xsd:string ;
                                                     <http://www.geneontology.org/formats/oboInOwl#creation_date> "26.08.2022"^^xsd:Date ;
-                                                    rdfs:isDefinedBy "CHEBI" .
+                                                    <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> "hydrocarbylene group"^^xsd:string ,
+                                                                                                                   "hydrocarbylene groups"^^xsd:string ;
+                                                    <http://www.geneontology.org/formats/oboInOwl#hasRelatedSynonym> "groupe hydrocarbylene"^^xsd:string ,
+                                                                                                                     "grupo hidrocarbileno"^^xsd:string ,
+                                                                                                                     "grupos hidrocarbileno"^^xsd:string ;
+                                                    <http://www.geneontology.org/formats/oboInOwl#id> "CHEBI:33471"^^xsd:string ;
+                                                    rdfs:isDefinedBy "CHEBI" ;
+                                                    rdfs:label "hydrocarbylene group [chebi]"@en .
 
 
 ###  https://www.tib.eu/digitrubber#DIGITRUBBER_000600
@@ -13040,9 +13158,13 @@ types of monomer unit. Such molecules must be distributed over a range of molecu
                                                     <http://purl.obolibrary.org/obo/IAO_0000114> "uncurated" ;
                                                     <http://purl.obolibrary.org/obo/IAO_0000115> "Any organic substituent group, regardless of functional type, having two free valences at carbon atom(s)."@en ;
                                                     <http://purl.obolibrary.org/obo/IAO_0000119> "http://purl.obolibrary.org/obo/chebi.owl" ;
-                                                    <http://purl.org/dc/elements/1.1/contributor> "Luis Ramos" ;
+                                                    <http://purl.org/dc/elements/1.1/contributor> "Lars Vogt"^^xsd:string ,
+                                                                                                  "Luis Ramos" ;
                                                     <http://purl.org/dc/elements/1.1/language> "English" ;
+                                                    <http://purl.org/pav/lastUpdateOn> "23.10.2023"^^xsd:string ;
                                                     <http://www.geneontology.org/formats/oboInOwl#creation_date> "26.08.2022"^^xsd:Date ;
+                                                    <http://www.geneontology.org/formats/oboInOwl#hasRelatedSynonym> "organodiyl groups"^^xsd:string ;
+                                                    <http://www.geneontology.org/formats/oboInOwl#id> "CHEBI:51422"^^xsd:string ;
                                                     rdfs:isDefinedBy "CHEBI" ;
                                                     rdfs:label "organodiyl group [chebi]"@en .
 
@@ -13064,7 +13186,8 @@ types of monomer unit. Such molecules must be distributed over a range of molecu
                                                     <http://purl.org/dc/elements/1.1/contributor> "Alexander Aschemann" ;
                                                     <http://purl.org/dc/elements/1.1/language> "English" ;
                                                     <http://www.geneontology.org/formats/oboInOwl#creation_date> "21.05.2022"^^xsd:Date ;
-                                                    rdfs:label "Organik-Gruppe [dik]"@de .
+                                                    rdfs:label "Organik-Gruppe [dik]"@de ,
+                                                               "organic group [dik]"@en .
 
 
 ###  https://www.tib.eu/digitrubber#DIGITRUBBER_000604
@@ -13465,7 +13588,8 @@ types of monomer unit. Such molecules must be distributed over a range of molecu
                                                     <http://purl.org/dc/elements/1.1/contributor> "Alexander Aschemann" ;
                                                     <http://purl.org/dc/elements/1.1/language> "English" ;
                                                     <http://www.geneontology.org/formats/oboInOwl#creation_date> "21.05.2022"^^xsd:Date ;
-                                                    rdfs:label "Ethylidengruppe [dik]"@de .
+                                                    rdfs:label "Ethylidengruppe [dik]"@de ,
+                                                               "ethylidene group [dik]"@en .
 
 
 ###  https://www.tib.eu/digitrubber#DIGITRUBBER_000634
@@ -14269,7 +14393,7 @@ types of monomer unit. Such molecules must be distributed over a range of molecu
                                                       <http://purl.obolibrary.org/obo/OBI_0000835> ;
                                              <http://purl.obolibrary.org/obo/IAO_0000111> "Sysmex Corporation, Kobe, Japan" ;
                                              <http://purl.obolibrary.org/obo/IAO_0000114> <http://purl.obolibrary.org/obo/IAO_0000120> ;
-                                             <http://purl.obolibrary.org/obo/IAO_0000119> "WEB:http://www.sysmex.com/" ;
+                                             <http://purl.obolibrary.org/obo/IAO_0000119> "WEB:http://www.sysmex.com/"^^xsd:string ;
                                              rdfs:label "Sysmex Corporation, Kobe, Japan" .
 
 
@@ -14325,7 +14449,7 @@ types of monomer unit. Such molecules must be distributed over a range of molecu
                                              <http://purl.obolibrary.org/obo/IAO_0000111> "eBioscience" ;
                                              <http://purl.obolibrary.org/obo/IAO_0000114> <http://purl.obolibrary.org/obo/IAO_0000123> ;
                                              <http://purl.obolibrary.org/obo/IAO_0000117> "Karin Breuer" ;
-                                             <http://purl.obolibrary.org/obo/IAO_0000119> "WEB:http://www.ebioscience.com/" ;
+                                             <http://purl.obolibrary.org/obo/IAO_0000119> "WEB:http://www.ebioscience.com/"^^xsd:string ;
                                              rdfs:label "eBioscience" .
 
 
@@ -14335,7 +14459,7 @@ types of monomer unit. Such molecules must be distributed over a range of molecu
                                              <http://purl.obolibrary.org/obo/IAO_0000111> "Cytopeia" ;
                                              <http://purl.obolibrary.org/obo/IAO_0000114> <http://purl.obolibrary.org/obo/IAO_0000123> ;
                                              <http://purl.obolibrary.org/obo/IAO_0000117> "Karin Breuer" ;
-                                             <http://purl.obolibrary.org/obo/IAO_0000119> "WEB:http://www.cytopeia.com/" ;
+                                             <http://purl.obolibrary.org/obo/IAO_0000119> "WEB:http://www.cytopeia.com/"@2011/04/11 ;
                                              rdfs:label "Cytopeia" .
 
 
@@ -14345,7 +14469,7 @@ types of monomer unit. Such molecules must be distributed over a range of molecu
                                              <http://purl.obolibrary.org/obo/IAO_0000111> "Exalpha Biological" ;
                                              <http://purl.obolibrary.org/obo/IAO_0000114> <http://purl.obolibrary.org/obo/IAO_0000123> ;
                                              <http://purl.obolibrary.org/obo/IAO_0000117> "Karin Breuer" ;
-                                             <http://purl.obolibrary.org/obo/IAO_0000119> "WEB:http://www.exalpha.com/" ;
+                                             <http://purl.obolibrary.org/obo/IAO_0000119> "WEB:http://www.exalpha.com/"@2011/04/11 ;
                                              rdfs:label "Exalpha Biological" .
 
 
@@ -14355,7 +14479,7 @@ types of monomer unit. Such molecules must be distributed over a range of molecu
                                              <http://purl.obolibrary.org/obo/IAO_0000111> "Apogee Flow Systems" ;
                                              <http://purl.obolibrary.org/obo/IAO_0000114> <http://purl.obolibrary.org/obo/IAO_0000123> ;
                                              <http://purl.obolibrary.org/obo/IAO_0000117> "Karin Breuer" ;
-                                             <http://purl.obolibrary.org/obo/IAO_0000119> "WEB:http://www.apogeeflow.com/" ;
+                                             <http://purl.obolibrary.org/obo/IAO_0000119> "WEB:http://www.apogeeflow.com/"@2011/04/11 ;
                                              rdfs:label "Apogee Flow Systems" .
 
 
@@ -14365,7 +14489,7 @@ types of monomer unit. Such molecules must be distributed over a range of molecu
                                              <http://purl.obolibrary.org/obo/IAO_0000111> "Exbio Antibodies" ;
                                              <http://purl.obolibrary.org/obo/IAO_0000114> <http://purl.obolibrary.org/obo/IAO_0000123> ;
                                              <http://purl.obolibrary.org/obo/IAO_0000117> "Karin Breuer" ;
-                                             <http://purl.obolibrary.org/obo/IAO_0000119> "WEB:http://www.exbio.cz/" ;
+                                             <http://purl.obolibrary.org/obo/IAO_0000119> "WEB:http://www.exbio.cz/"@2011/04/11 ;
                                              rdfs:label "Exbio Antibodies" .
 
 
@@ -14375,7 +14499,7 @@ types of monomer unit. Such molecules must be distributed over a range of molecu
                                              <http://purl.obolibrary.org/obo/IAO_0000111> "Becton Dickinson (BD Biosciences)" ;
                                              <http://purl.obolibrary.org/obo/IAO_0000114> <http://purl.obolibrary.org/obo/IAO_0000123> ;
                                              <http://purl.obolibrary.org/obo/IAO_0000117> "Karin Breuer" ;
-                                             <http://purl.obolibrary.org/obo/IAO_0000119> "WEB:http://www.bdbiosciences.com/" ;
+                                             <http://purl.obolibrary.org/obo/IAO_0000119> "WEB:http://www.bdbiosciences.com/"@2011/04/11 ;
                                              rdfs:label "Becton Dickinson (BD Biosciences)" .
 
 
@@ -14385,7 +14509,7 @@ types of monomer unit. Such molecules must be distributed over a range of molecu
                                              <http://purl.obolibrary.org/obo/IAO_0000111> "Dako Cytomation" ;
                                              <http://purl.obolibrary.org/obo/IAO_0000114> <http://purl.obolibrary.org/obo/IAO_0000123> ;
                                              <http://purl.obolibrary.org/obo/IAO_0000117> "Karin Breuer" ;
-                                             <http://purl.obolibrary.org/obo/IAO_0000119> "WEB:http://www.dakousa.com/" ;
+                                             <http://purl.obolibrary.org/obo/IAO_0000119> "WEB:http://www.dakousa.com/"@2011/04/11 ;
                                              rdfs:label "Dako Cytomation" .
 
 
@@ -14395,7 +14519,7 @@ types of monomer unit. Such molecules must be distributed over a range of molecu
                                              <http://purl.obolibrary.org/obo/IAO_0000111> "Millipore" ;
                                              <http://purl.obolibrary.org/obo/IAO_0000114> <http://purl.obolibrary.org/obo/IAO_0000123> ;
                                              <http://purl.obolibrary.org/obo/IAO_0000117> "Karin Breuer" ;
-                                             <http://purl.obolibrary.org/obo/IAO_0000119> "WEB:http://www.guavatechnologies.com/" ;
+                                             <http://purl.obolibrary.org/obo/IAO_0000119> "WEB:http://www.guavatechnologies.com/"@2011/04/11 ;
                                              rdfs:label "Millipore" .
 
 
@@ -14405,7 +14529,7 @@ types of monomer unit. Such molecules must be distributed over a range of molecu
                                              <http://purl.obolibrary.org/obo/IAO_0000111> "Antigenix" ;
                                              <http://purl.obolibrary.org/obo/IAO_0000114> <http://purl.obolibrary.org/obo/IAO_0000123> ;
                                              <http://purl.obolibrary.org/obo/IAO_0000117> "Karin Breuer" ;
-                                             <http://purl.obolibrary.org/obo/IAO_0000119> "WEB:http://www.antigenix.com/" ;
+                                             <http://purl.obolibrary.org/obo/IAO_0000119> "WEB:http://www.antigenix.com/"@2011/04/11 ;
                                              rdfs:label "Antigenix" .
 
 
@@ -14415,7 +14539,7 @@ types of monomer unit. Such molecules must be distributed over a range of molecu
                                              <http://purl.obolibrary.org/obo/IAO_0000111> "Partec" ;
                                              <http://purl.obolibrary.org/obo/IAO_0000114> <http://purl.obolibrary.org/obo/IAO_0000123> ;
                                              <http://purl.obolibrary.org/obo/IAO_0000117> "Karin Breuer" ;
-                                             <http://purl.obolibrary.org/obo/IAO_0000119> "WEB:http://www.partec.de/" ;
+                                             <http://purl.obolibrary.org/obo/IAO_0000119> "WEB:http://www.partec.de/"@2011/04/11 ;
                                              rdfs:label "Partec" .
 
 
@@ -14425,7 +14549,7 @@ types of monomer unit. Such molecules must be distributed over a range of molecu
                                              <http://purl.obolibrary.org/obo/IAO_0000111> "Beckman Coulter" ;
                                              <http://purl.obolibrary.org/obo/IAO_0000114> <http://purl.obolibrary.org/obo/IAO_0000123> ;
                                              <http://purl.obolibrary.org/obo/IAO_0000117> "Karin Breuer" ;
-                                             <http://purl.obolibrary.org/obo/IAO_0000119> "WEB:http://www.beckmancoulter.com/" ;
+                                             <http://purl.obolibrary.org/obo/IAO_0000119> "WEB:http://www.beckmancoulter.com/"@2011/04/11 ;
                                              rdfs:label "Beckman Coulter" .
 
 
@@ -14435,7 +14559,7 @@ types of monomer unit. Such molecules must be distributed over a range of molecu
                                              <http://purl.obolibrary.org/obo/IAO_0000111> "Advanced Instruments Inc. (AI Companies)" ;
                                              <http://purl.obolibrary.org/obo/IAO_0000114> <http://purl.obolibrary.org/obo/IAO_0000123> ;
                                              <http://purl.obolibrary.org/obo/IAO_0000117> "Karin Breuer" ;
-                                             <http://purl.obolibrary.org/obo/IAO_0000119> "WEB:http://www.aicompanies.com/" ;
+                                             <http://purl.obolibrary.org/obo/IAO_0000119> "WEB:http://www.aicompanies.com/"@2011/04/11 ;
                                              rdfs:label "Advanced Instruments Inc. (AI Companies)" .
 
 
@@ -14445,7 +14569,7 @@ types of monomer unit. Such molecules must be distributed over a range of molecu
                                              <http://purl.obolibrary.org/obo/IAO_0000111> "Miltenyi Biotec" ;
                                              <http://purl.obolibrary.org/obo/IAO_0000114> <http://purl.obolibrary.org/obo/IAO_0000123> ;
                                              <http://purl.obolibrary.org/obo/IAO_0000117> "Karin Breuer" ;
-                                             <http://purl.obolibrary.org/obo/IAO_0000119> "WEB:http://www.miltenyibiotec.com/" ;
+                                             <http://purl.obolibrary.org/obo/IAO_0000119> "WEB:http://www.miltenyibiotec.com/"@2011/04/11 ;
                                              rdfs:label "Miltenyi Biotec" .
 
 
@@ -14455,7 +14579,7 @@ types of monomer unit. Such molecules must be distributed over a range of molecu
                                              <http://purl.obolibrary.org/obo/IAO_0000111> "AES Chemunex" ;
                                              <http://purl.obolibrary.org/obo/IAO_0000114> <http://purl.obolibrary.org/obo/IAO_0000123> ;
                                              <http://purl.obolibrary.org/obo/IAO_0000117> "Karin Breuer" ;
-                                             <http://purl.obolibrary.org/obo/IAO_0000119> "WEB:http://www.aeschemunex.com/" ;
+                                             <http://purl.obolibrary.org/obo/IAO_0000119> "WEB:http://www.aeschemunex.com/"@2011/04/11 ;
                                              rdfs:label "AES Chemunex" .
 
 
@@ -14465,7 +14589,7 @@ types of monomer unit. Such molecules must be distributed over a range of molecu
                                              <http://purl.obolibrary.org/obo/IAO_0000111> "Bentley Instruments" ;
                                              <http://purl.obolibrary.org/obo/IAO_0000114> <http://purl.obolibrary.org/obo/IAO_0000123> ;
                                              <http://purl.obolibrary.org/obo/IAO_0000117> "Karin Breuer" ;
-                                             <http://purl.obolibrary.org/obo/IAO_0000119> "WEB:http://bentleyinstruments.com/" ;
+                                             <http://purl.obolibrary.org/obo/IAO_0000119> "WEB:http://bentleyinstruments.com/"@2011/04/11 ;
                                              rdfs:label "Bentley Instruments" .
 
 
@@ -14475,7 +14599,7 @@ types of monomer unit. Such molecules must be distributed over a range of molecu
                                              <http://purl.obolibrary.org/obo/IAO_0000111> "Invitrogen" ;
                                              <http://purl.obolibrary.org/obo/IAO_0000114> <http://purl.obolibrary.org/obo/IAO_0000123> ;
                                              <http://purl.obolibrary.org/obo/IAO_0000117> "Karin Breuer" ;
-                                             <http://purl.obolibrary.org/obo/IAO_0000119> "WEB:http://www.invitrogen.com/" ;
+                                             <http://purl.obolibrary.org/obo/IAO_0000119> "WEB:http://www.invitrogen.com/"@2011/04/11 ;
                                              rdfs:label "Invitrogen" .
 
 
@@ -14485,7 +14609,7 @@ types of monomer unit. Such molecules must be distributed over a range of molecu
                                              <http://purl.obolibrary.org/obo/IAO_0000111> "Luminex" ;
                                              <http://purl.obolibrary.org/obo/IAO_0000114> <http://purl.obolibrary.org/obo/IAO_0000123> ;
                                              <http://purl.obolibrary.org/obo/IAO_0000117> "Karin Breuer" ;
-                                             <http://purl.obolibrary.org/obo/IAO_0000119> "WEB:http://www.luminexcorp.com/" ;
+                                             <http://purl.obolibrary.org/obo/IAO_0000119> "WEB:http://www.luminexcorp.com/"@2011/04/11 ;
                                              rdfs:label "Luminex" .
 
 
@@ -14495,7 +14619,7 @@ types of monomer unit. Such molecules must be distributed over a range of molecu
                                              <http://purl.obolibrary.org/obo/IAO_0000111> "CytoBuoy" ;
                                              <http://purl.obolibrary.org/obo/IAO_0000114> <http://purl.obolibrary.org/obo/IAO_0000123> ;
                                              <http://purl.obolibrary.org/obo/IAO_0000117> "Karin Breuer" ;
-                                             <http://purl.obolibrary.org/obo/IAO_0000119> "WEB:http://www.cytobuoy.com/" ;
+                                             <http://purl.obolibrary.org/obo/IAO_0000119> "WEB:http://www.cytobuoy.com/"@2011/04/11 ;
                                              rdfs:label "CytoBuoy" .
 
 
@@ -16847,6 +16971,25 @@ types of monomer unit. Such molecules must be distributed over a range of molecu
 
 ###  http://purl.obolibrary.org/obo/obi.owl
 <http://purl.obolibrary.org/obo/obi.owl> rdf:type owl:NamedIndividual .
+
+
+#################################################################
+#    Annotations
+#################################################################
+
+<http://purl.obolibrary.org/obo/RO_0040042> rdfs:label "is homeomorphic for"@en .
+
+
+<http://www.geneontology.org/formats/oboInOwl#hasOBOFormatVersion> rdfs:label "has_obo_format_version"@en .
+
+
+<http://www.geneontology.org/formats/oboInOwl#saved-by> rdfs:label "saved-by"@en .
+
+
+owl:incompatibleWith rdfs:label "incompatible with"@en .
+
+
+owl:priorVersion rdfs:label "prior version"@en .
 
 
 #################################################################
