@@ -1,0 +1,669 @@
+,Class,Label,Definition
+0,APOLLO_SV_00000008,software development,A planned process that has specified output a software product and that involves the creation of source code.
+1,APOLLO_SV_00000796,dataset creating,A planned process that has a data set as its specified output.
+2,BFO_0000023,role,"A realizable entity  the manifestation of which brings about some result or end that is not essential to a continuant  in virtue of the kind of thing that it is but that can be served or participated in by that kind of continuant  in some kinds of natural, social or institutional contexts."
+3,CHEBI_133602,carbon black nanoparticle,Any form of carbon black which has a particle size of less than 100 nm in each dimension.
+4,CHEBI_17514,cyanide,A pseudohalide anion that is the conjugate base of hydrogen cyanide.
+5,CHEBI_22563,anion,A monoatomic or polyatomic species having one or more elementary charges of the electron.
+6,CHEBI_23367,molecular entity,"Any constitutionally or isotopically distinct atom, molecule, ion, ion pair, radical, radical ion, complex, conformer etc., identifiable as a separately distinguishable entity."
+7,CHEBI_24431,chemical entity,"A chemical entity is a physical entity of interest in chemistry including molecular entities, parts thereof, and chemical substances."
+8,CHEBI_24532,organic heterocyclic compound,A cyclic compound having as ring members atoms of carbon and at least of one other element.
+9,CHEBI_24870,ion,A molecular entity having a net electric charge.
+10,CHEBI_25367,molecule,Any polyatomic entity that is an electrically neutral entity consisting of more than one atom.
+11,CHEBI_25696,organic anion,Any organic ion with a net negative charge.
+12,CHEBI_28798,rubber particle  [chebi],A polymer consisting of cis-linked prenyl units.
+13,CHEBI_33259,elemental molecular entity,A molecular entity all atoms of which have the same atomic number.
+14,CHEBI_33261,organosulfur compound,An organosulfur compound is a compound containing at least one carbon-sulfur bond.
+15,CHEBI_33273,polyatomic anion,An anion consisting of more than one atom.
+16,CHEBI_33285,heteroorganic entity,A heteroorganic entity is an organic molecular entity in which carbon atoms or organic groups are bonded directly to one or more heteroatoms.
+17,CHEBI_33302,pnictogen molecular entity,A p-block molecular entity containing any pnictogen.
+18,CHEBI_33304,chalcogen molecular entity,Any p-block molecular entity containing a chalcogen.
+19,CHEBI_33579,main group molecular entity,"A molecular entity containing one or more atoms from any of groups 1, 2, 13, 14, 15, 16, 17, and 18 of the periodic table."
+20,CHEBI_33595,cyclic compound,Any molecule that consists of a series of atoms joined together to form a ring.
+21,CHEBI_33655,aromatic compound,A cyclically conjugated molecular entity with a stability (due to delocalization) significantly greater than that of a hypothetical localized structure (e.g. Kekule structure) is said to possess aromatic character.
+22,CHEBI_33675,p-block molecular entity,A main group molecular entity that contains one or more atoms of a p-block element.
+23,CHEBI_33832,organic cyclic compound,Any organic molecule that consists of atoms connected in the form of a ring.
+24,CHEBI_33833,heteroarene,"A heterocyclic compound formally derived from an arene by replacement of one or more methine (-C=) and/or vinylene (-CH=CH-) groups by trivalent or divalent heteroatoms, respectively, in such a way as to maintain the continuous pi-electron system characteristic of aromatic systems and a number of out-of-plane pi-electrons corresponding to the Hueckel rule (4n+2)."
+25,CHEBI_35352,organonitrogen compound,Any heteroorganic entity containing at least one carbon-nitrogen bond.
+26,CHEBI_35489,organic disulfide,Compounds of structure RSSR in which R and R' are organic groups.
+27,CHEBI_36357,polyatomic entity,Any molecular entity consisting of more than one atom.
+28,CHEBI_36358,polyatomic ion,An ion consisting of more than one atom.
+29,CHEBI_36962,organochalcogen compound,An organochalcogen compound is a compound containing at least one carbon-chalcogen bond.
+30,CHEBI_38101,organonitrogen heterocyclic compound,Any organonitrogen compound containing a cyclic component with nitrogen and at least one other element as ring member atoms.
+31,CHEBI_48343,disulfide,Compounds of structure RSSR'.
+32,CHEBI_50795,nanostructure,A nanometre sized object.
+33,CHEBI_50803,nanoparticle,A nanosized spherical or capsule-shaped structure.
+34,CHEBI_50860,organic molecular entity,Any molecular entity that contains carbon.
+35,CHEBI_5686,heterocyclic compound,A cyclic compound having as ring members atoms of at least two different elements.
+36,CHEBI_59999,chemical substance,"A chemical substance is a portion of matter of constant composition, composed of molecular entities of the same type or of different types."
+37,CHEBI_60004,mixture,"A mixture is a chemical substance composed of multiple molecules, at least two of which are of a different kind."
+38,CHEBI_68452,azole,"Any monocyclic heteroarene consisting of a five-membered ring containing nitrogen. Azoles can also contain one or more other non-carbon atoms, such as nitrogen, sulfur or oxygen."
+39,CHEBI_72695,organic molecule,Any molecule that consists of at least one carbon atom as part of the electrically neutral entity.
+40,CHEBI_84291,organic sulfur anion,An organic anion in which the charge resides on a sulfur atom.
+41,CHEBI_84292,dithiocarbamate anions,Any organic sulfur anion resulting from the removal of a proton from any N-substituted dithiocarbamic acid.
+42,GO_0003674,molecular_function,"A molecular process that can be carried out by the action of a single macromolecular machine, usually via direct physical interactions with other molecular entities. Function in this sense denotes an action, or activity, that a gene product (or a complex) performs. These actions are described from two distinct but related perspectives: (1) biochemical activity, and (2) role as a component in a larger system/process."
+43,GO_0016301,kinase activity,"Catalysis of the transfer of a phosphate group, usually from ATP, to a substrate molecule."
+44,IAO_0000003,measurement unit label,A measurement unit label is as a label that is part of a scalar measurement datum and denotes a unit of measure.
+45,IAO_0000009,datum label,A label is a symbol that is part of some other datum and is used to either partially define  the denotation of that datum or to provide a means for identifying the datum as a member of the set of data with the same label
+46,IAO_0000010,software,"Software is a plan specification composed of a series of instructions that can be 
+interpreted by or directly executed by a processing unit."
+47,IAO_0000015,information carrier,A quality of an information bearer that imparts the information content
+48,IAO_0000027,data item,"An information content entity that is intended to be a truthful statement about something (modulo, e.g., measurement precision or other systematic errors) and is constructed/acquired by a method which reliably tends to produce (approximately) truthful statements."
+49,IAO_0000037,dot plot,A dot plot is a report graph which is a graphical representation of data where each data point is represented by a single dot placed on coordinates corresponding to data point values in particular dimensions.
+50,IAO_0000038,graph,A diagram that presents one or more tuples of information by mapping those tuples in to a two dimensional space in a non arbitrary way.
+51,IAO_0000064,algorithm,A plan specification which describes the inputs and output of mathematical functions as well as workflow of execution for achieving an predefined objective. Algorithms are realized usually by means of implementation as computer programs for execution by automata.
+52,IAO_0000078,curation status specification,The curation status of the term. The allowed values come from an enumerated list of predefined terms. See the specification of these instances for more detailed definitions of each enumerated value.
+53,IAO_0000100,data set,A data item that is an aggregate of other data items of the same type that have something in common. Averages and distributions can be determined for data sets.
+54,IAO_0000101,image,"An image is an affine projection to a two dimensional surface, of measurements of some quality of an entity or entities repeated at regular intervals across a spatial range, where the measurements are represented as color and luminosity on the projected on surface."
+55,IAO_0000102,data about an ontology part,"Data about an ontology part is a data item about a part of an ontology, for example a term"
+56,IAO_0000109,measurement datum,A measurement datum is an information content entity that is a recording of the output of a measurement such as produced by a device.
+57,IAO_0000178,material information bearer,A material entity in which a concretization of an information content entity inheres.
+58,IAO_0000179,histogram,"A histogram is a report graph which is a statistical description of a
+distribution in terms of occurrence frequencies of different event classes."
+59,IAO_0000180,heatmap,"A heatmap is a report graph which is a graphical representation of data
+where the values taken by a variable(s) are shown as colors in a
+two-dimensional map."
+60,IAO_0000183,dendrogram,"A dendrogram is a report graph which is a tree diagram
+frequently used to illustrate the arrangement of the clusters produced by a
+clustering algorithm."
+61,IAO_0000184,scatter plot,"A scatterplot is a graph which uses Cartesian coordinates to display values for two variables for a set of data. The data is displayed as a collection of points, each having the value of one variable determining the position on the horizontal axis and the value of the other variable determining the position on the vertical axis."
+62,IAO_0000225,obsolescence reason specification,The reason for which a term has been deprecated. The allowed values come from an enumerated list of predefined terms. See the specification of these instances for more detailed definitions of each enumerated value.
+63,IAO_0000308,figure,An information content entity consisting of a two dimensional arrangement of information content entities such that the arrangement itself is about something.
+64,IAO_0000309,diagram,A figure that expresses one or more propositions
+65,IAO_0000310,document,A collection of information content entities intended to be understood together as a whole
+66,IAO_0000409,denotator type,A denotator type indicates how a term should be interpreted from an ontological perspective.
+67,OBI_0000011,planned process,A process that realizes a plan which is the concretization of a plan specification.
+68,OBI_0000014,regulator role,a regulatory role involved with making and/or enforcing relevant legislation and governmental orders
+69,OBI_0000017,regulatory role,"a role which inheres in material entities and is realized in the processes of making, enforcing or being defined by legislation or orders issued by a governmental body."
+70,OBI_0000018,material supplier role,"a role realized through the process of supplying materials such as animal subjects, reagents or other materials used in an investigation."
+71,OBI_0000023,classified data set,A data set that is produced as the output of a class prediction data transformation and consists of a data set with assigned class labels.
+72,OBI_0000047,processed material,Is a material entity that is created or changed during material processing.
+73,OBI_0000067,evaluant role,a role that inheres in a material entity that is realized in an assay in which data is generated about the bearer of the evaluant role
+74,OBI_0000070,assay,"A planned process with the objective to produce information about the material entity that is the evaluant, by physically examining it or its proxies."
+75,OBI_0000094,material processing,A planned process which results in physical changes in a specified input material
+76,OBI_0000112,specimen role,a role borne by a material entity that is gained during a specimen collection process and that can be realized by use of the specimen in an investigation
+77,OBI_0000245,organization,"An entity that can bear roles, has members, and has a set of organization rules. Members of organizations are either organizations themselves or individual people. Members can bear specific organization member roles that are determined in the organization rules. The organization rules also determine how decisions are made on behalf of the organization by the organization members."
+78,OBI_0000272,protocol,"A plan specification which has sufficient level of detail and quantitative information to communicate it between investigation agents, so that different investigation agents will reliably be able to independently reproduce the process."
+79,OBI_0000371,heat function,A heat function is a function that increases the internal kinetic energy of a material
+80,OBI_0000379,mechanical function,A mechanical function is a function that is realised via mechanical work (through an certain amount of energy transferred by some force).
+81,OBI_0000387,cool function,A cool function is a function to decrease the internal kinetic energy of a material below the initial kinetic energy of that type of material.
+82,OBI_0000401,environment control function,"An environmental control function is a function that regulates a contained environment within specified parameter ranges. For example the control of light exposure, humidity and temperature."
+83,OBI_0000450,regulatory agency,A regulatory agency is a organization that has responsibility over or for  the legislation (acts and regulations) for a given sector of the government.
+84,OBI_0000453,measure function,Measure function is a function that is borne by a processed material  and realized in a process in which information about some entity is expressed relative to some reference.
+85,OBI_0000457,manufacturing,Manufacturing is a process with the intent to produce a processed material which will have a function for future use. A person or organization (having manufacturer role) is a participant in this process
+86,OBI_0000571,manufacturer role,Manufacturer role is a role which inheres in a person or organization and which is realized by a manufacturing process.
+87,OBI_0000648,clustered data set,A data set that is produced as the output of a class discovery data transformation and consists of a data set with assigned discovered class labels.
+88,OBI_0000659,specimen collection process,A planned process with the objective of collecting a specimen.
+89,OBI_0000663,class prediction data transformation,A class prediction data transformation (sometimes called supervised classification) is a data transformation that has objective class prediction.
+90,OBI_0000700,support vector machine,A support vector machine is a data transformation with a class prediction objective based on the construction of a separating hyperplane that maximizes the margin between two data sets of vectors in n-dimensional space.
+91,OBI_0000707,decision tree building data transformation,A decision tree building data transformation is a data transformation that has objective decision tree induction.
+92,OBI_0000713,GenePattern software,"a software that provides access to more than 100 tools for gene expression analysis, proteomics, SNP analysis and common data processing tasks."
+93,OBI_0000726,peak matching,Peak matching is a data transformation performed on a dataset of a graph of ordered data points (e.g. a spectrum) with the objective of pattern matching local maxima above a noise threshold
+94,OBI_0000727,k-nearest neighbors,"A k-nearest neighbors is a data transformation which achieves a class discovery or partitioning objective, in which an input data object with vector y is assigned to a class label based upon the k closest training data set points to y; where k is the largest value that class label is assigned."
+95,OBI_0000749,CART,A CART (classification and regression trees) is a data transformation method for producing a classification or regression model with a tree-based structure.
+96,OBI_0000792,statistical model validation,A data transformation which assesses how the results of a statistical analysis will generalize to an independent data set.
+97,OBI_0000832,measurement device,A device in which a measure function inheres.
+98,OBI_0000835,manufacturer,A person or organization that has a manufacturer role
+99,OBI_0000946,sterilization function,a function to remove viable organisms from an input material
+100,OBI_0000947,service provider role,"is a role which inheres in a person or organization and is realized in in a planned process which provides access to training, materials or execution of protocols for an organization or person"
+101,OBI_0000953,processed specimen,A specimen that has been intentionally physically modified.
+102,OBI_0000963,categorical label,A label that is part of a categorical datum and that indicates the value of the data item on the categorical scale.
+103,OBI_0000968,device,"A material entity that is designed to perform a function in a scientific investigation, but is not a reagent."
+104,OBI_0001000,questionnaire,"A document with a set of printed or written questions with a choice of answers, devised for the purposes of a survey or statistical study."
+105,OBI_0001034,environmental control device,"An environmental control device is a device which has the function to control some aspect of the environment such as temperature, or humidity."
+106,OBI_0001112,autoclave,"A device that is used to sterilize equipment and supplies by subjecting them to high pressure steam at 121 C or more, typically for 15 to 20 minutes depending on the size of the load and the contents."
+107,OBI_0001930,categorical value specification,A value specification that is specifies one category out of a fixed number of nominal categories
+108,OBI_0001933,value specification,An information content entity that specifies a value within a classification scheme or on a quantitative scale.
+109,OBI_0002076,collection of specimens,A material entity that has two or more specimens as its parts.
+110,OBI_0002205,histologic grade according to AJCC 7th edition,A categorical value specification that is a histologic grade assigned to a tumor slide specimen according to the American Joint Committee on Cancer (AJCC) 7th Edition grading system.
+111,OBI_0002210,histologic grade according to the Fuhrman Nuclear Grading System,A categorical value specification that is a histologic grade assigned to a tumor slide specimen according to the Fuhrman Nuclear Grading System.
+112,OBI_0002215,histologic grade for ovarian tumor,A categorical value specification that is a histologic grade assigned to a ovarian tumor.
+113,OBI_0002216,histologic grade for ovarian tumor according to a two-tier grading system,A histologic grade for ovarian tumor that is from a two-tier histological classification of tumors.
+114,OBI_0002219,histologic grade for ovarian tumor according to the World Health Organization,A histologic grade for ovarian tumor that is from a histological classification by the World Health Organization (WHO).
+115,OBI_0002224,pathologic primary tumor stage for colon and rectum according to AJCC 7th edition,A categorical value specification that is a pathologic finding about one or more characteristics of colorectal cancer following the rules of the TNM American Joint Committee on Cancer (AJCC) version 7 classification system as they pertain to staging of the primary tumor. TNM pathologic primary tumor findings are based on clinical findings supplemented by histopathologic examination of one or more tissue specimens acquired during surgery.
+116,OBI_0002232,pathologic primary tumor stage for lung according to AJCC 7th edition,A categorical value specification that is a pathologic finding about one or more characteristics of lung cancer following the rules of the TNM American Joint Committee on Cancer (AJCC) version 7 classification system as they pertain to staging of the primary tumor. TNM pathologic primary tumor findings are based on clinical findings supplemented by histopathologic examination of one or more tissue specimens acquired during surgery.
+117,OBI_0002243,pathologic primary tumor stage for kidney according to AJCC 7th edition,A categorical value specification that is a pathologic finding about one or more characteristics of renal cancer following the rules of the TNM AJCC v7 classification system as they pertain to staging of the primary tumor. TNM pathologic primary tumor findings are based on clinical findings supplemented by histopathologic examination of one or more tissue specimens acquired during surgery.
+118,OBI_0002256,pathologic primary tumor stage for ovary according to AJCC 7th edition,A categorical value specification that is a pathologic finding about one or more characteristics of ovarian cancer following the rules of the TNM AJCC v7 classification system as they pertain to staging of the primary tumor. TNM pathologic primary tumor findings are based on clinical findings supplemented by histopathologic examination of one or more tissue specimens acquired during surgery.
+119,OBI_0002270,pathologic lymph node stage for colon and rectum according to AJCC 7th edition,A categorical value specification that is a pathologic finding about one or more characteristics of colorectal cancer following the rules of the TNM AJCC v7 classification system as they pertain to staging of regional lymph nodes.
+120,OBI_0002279,pathologic lymph node stage for lung according to AJCC 7th edition,A categorical value specification that is a pathologic finding about one or more characteristics of lung cancer following the rules of the TNM AJCC v7 classification system as they pertain to staging of regional lymph nodes.
+121,OBI_0002284,pathologic lymph node stage for kidney according to AJCC 7th edition,A categorical value specification that is a pathologic finding about one or more characteristics of renal cancer following the rules of the TNM AJCC v7 classification system as they pertain to staging of regional lymph nodes.
+122,OBI_0002287,pathologic lymph node stage for ovary according to AJCC 7th edition,A categorical value specification that is a pathologic finding about one or more characteristics of ovarian cancer following the rules of the TNM AJCC v7 classification system as they pertain to staging of regional lymph nodes.
+123,OBI_0002290,pathologic distant metastases stage for colon according to AJCC 7th edition,A categorical value specification that is a pathologic finding about one or more characteristics of colon cancer following the rules of the TNM AJCC v7 classification system as they pertain to distant metastases. TNM pathologic distant metastasis findings are based on clinical findings supplemented by histopathologic examination of one or more tissue specimens acquired during surgery.
+124,OBI_0002298,pathologic distant metastases stage for lung according to AJCC 7th edition,A categorical value specification that is a pathologic finding about one or more characteristics of lung cancer following the rules of the TNM AJCC v7 classification system as they pertain to distant metastases. TNM pathologic distant metastasis findings are based on clinical findings supplemented by histopathologic examination of one or more tissue specimens acquired during surgery.
+125,OBI_0002306,pathologic distant metastases stage for kidney according to AJCC 7th edition,A categorical value specification that is a pathologic finding about one or more characteristics of renal cancer following the rules of the TNM AJCC v7 classification system as they pertain to distant metastases. TNM pathologic distant metastasis findings are based on clinical findings supplemented by histopathologic examination of one or more tissue specimens acquired during surgery.
+126,OBI_0002310,pathologic distant metastases stage for ovary according to AJCC 7th edition,A categorical value specification that is a  pathologic finding about one or more characteristics of ovarian cancer following the rules of the TNM AJCC v7 classification system as they pertain to distant metastases. TNM pathologic distant metastasis findings are based on clinical findings supplemented by histopathologic examination of one or more tissue specimens acquired during surgery.
+127,OBI_0002314,clinical tumor stage group according to AJCC 7th edition,A categorical value specification that is an assessment of the stage of a cancer according to the American Joint Committee on Cancer (AJCC) v7 staging systems.
+128,OBI_0002326,International Federation of Gynecology and Obstetrics cervical cancer stage value specification,A categorical value specification that is an assessment of the stage of a gynecologic cancer according to the International Federation of Gynecology and Obstetrics (FIGO) staging systems.
+129,OBI_0002341,International Federation of Gynecology and Obstetrics ovarian cancer stage value specification,A categorical value specification that is a pathologic finding about one or more characteristics of ovarian cancer following the rules of the FIGO classification system.
+130,OBI_0002356,performance status value specification,A categorical value specification that is an assessment of a participant's performance status (general well-being and activities of daily life).
+131,OBI_0002357,Eastern Cooperative Oncology Group score value specification,A performance status value specification designed by the Eastern Cooperative Oncology Group to assess disease progression and its affect on the daily living abilities of the patient.
+132,OBI_0002363,Karnofsky score vaue specification,A performance status value specification designed for classifying patients 16 years of age or older by their functional impairment.
+133,OBI_0002989,material supplier,A person or organization that provides material supplies to other people or organizations.
+134,OBI_0100051,specimen,A material entity that has the specimen role.
+135,OBI_0200000,data transformation,A planned process that produces output data from input data.
+136,OBI_0200033,leave one out cross validation method,"is a data transformation :  leave-one-out cross-validation (LOOCV) involves using a single observation from the original sample as the validation data, and the remaining observations as the training data. This is repeated such that each observation in the sample is used once as the validation data"
+137,OBI_0200041,k-means clustering,"A k-means clustering is a data transformation which achieves a class discovery or partitioning objective, which takes as input a collection of objects (represented as points in multidimensional space) and which partitions them into a specified number k of clusters. The algorithm attempts to find the centers of natural clusters in the data. The most common form of the algorithm starts by partitioning the input points into k initial sets, either at random or using some heuristic data. It then calculates the mean point, or centroid, of each set. It constructs a new partition by associating each point with the closest centroid. Then the centroids are recalculated for the new clusters, and the algorithm repeated by alternate applications of these two steps until convergence, which is obtained when the points no longer switch clusters (or alternatively centroids are no longer changed)."
+138,OBI_0200042,hierarchical clustering,"A hierarchical clustering is a data transformation which achieves a class discovery objective, which takes as input data item and builds a hierarchy of clusters. The traditional representation of this hierarchy is a tree (visualized by a dendrogram), with the individual input objects at one end (leaves) and a single cluster containing every object at the other (root)."
+139,OBI_0200050,dimensionality reduction,"A dimensionality reduction is data partitioning which transforms each input m-dimensional vector (x_1, x_2, ..., x_m) into an output n-dimensional vector (y_1, y_2, ..., y_n), where n is smaller than m."
+140,OBI_0200051,principal components analysis dimensionality reduction,A principal components analysis dimensionality reduction is a dimensionality reduction achieved by applying principal components analysis and by keeping low-order principal components and excluding higher-order ones.
+141,OBI_0200111,data visualization,"An planned process that creates images, diagrams or animations from the input data."
+142,OBI_0200171,partitioning data transformation,A partitioning data transformation is a data transformation that has objective partitioning.
+143,OBI_0200175,class discovery data transformation,A class discovery data transformation (sometimes called unsupervised classification) is a data transformation that has objective class discovery.
+144,OBI_0200190,clustered data visualization,A data visualization which has input of a clustered data set and produces an output of a report graph which is capable of rendering data of this type.
+145,PATO_0000033,concentration of,A quality inhering in a substance by virtue of the amount of the bearer's there is mixed with another substance.
+146,PATO_0000051,morphology,A quality of a single physical entity inhering in the bearer by virtue of the bearer's size or shape or structure.
+147,PATO_0000122,length,A 1-D extent quality which is equal to the distance between two points.
+148,PATO_0000146,temperature,A physical quality of the thermal energy of a system.
+149,PATO_0001018,physical quality,A quality of a physical entity that exists through action of continuants at the physical level of organisation in relation to other entities.
+150,PATO_0001025,pressure,A physical quality that inheres in a bearer by virtue of the bearer's amount of force per unit area it exerts.
+151,PATO_0001241,physical object quality,A quality which inheres in a continuant.
+152,PATO_0001291,electromagnetic (EM) radiation quality,A physical quality that inheres in an bearer by virtue of how that bearer interacts with electromagnetic radiation.
+153,PATO_0001300,optical quality,An EM radiation quality in which the EM radiation is within the fiat range of the spectrum visible deemed to be light.
+154,PATO_0001546,quality of a solid,A physical quality inhering in a bearer by virtue of the bearer's exhibiting the physical characteristics of an entity characterized by particles arranged such that their shape and volume are relatively stable.
+155,PATO_0001548,quality of a liquid,"A physical quality inhering in an entity exhibiting the physical characteristics of an amorphous (non-crystalline) form of matter between a gas and a solid that has a definite volume, but no definite shape."
+156,PATO_0001739,radiation quality,A quality that inheres in an bearer by virtue of how that bearer interacts with radiation.
+157,PATO_0002182,molecular quality,"A quality which inheres in a molecular entity, a single molecule, atom, ion, radical etc."
+158,PATO_0002198,quality of a substance,A quality inhering in a bearer by virtue of its constitution.
+159,UO_0000001,length unit,A unit which is a standard measure of the distance between two points.
+160,UO_0000002,mass unit,A unit which is a standard measure of the amount of matter/energy of a physical object.
+161,UO_0000003,time unit,A unit which is a standard measure of the dimension in which events occur in sequence.
+162,digitrubber#DIGITRUBBER_000001,measurement quality [imr],"In relation to optical measuring methods a 
+rating for the precision of a reconstructed
+measurement object"
+163,digitrubber#DIGITRUBBER_000002,extrudate [imr],"definded rigid Object based as result of an 
+extrusion process"
+164,digitrubber#DIGITRUBBER_000004,geometry [geosparql],A coherent set of direct positions in space. The positions are held within a Spatial Reference System (SRS).
+165,digitrubber#DIGITRUBBER_000005,point cloud [imr],"A gathering of individual points with an 
+with an unstructured spatial structure"
+166,digitrubber#DIGITRUBBER_000006,triangulation [imr],"geometrical method to determine distances 
+between to points"
+167,digitrubber#DIGITRUBBER_000008,millimeter [nist],"""A length unit which is equal to one thousandth of a meter or 10^[-3] m."" [NIST:NIST]"
+168,digitrubber#DIGITRUBBER_000009,surface of extrudate [imr],uppermost layer of the extrudate
+169,digitrubber#DIGITRUBBER_000010,line in the surface of extrudate [imr],cutout of a single line of the extrudate surface
+170,digitrubber#DIGITRUBBER_000012,shape [ncit],The spatial arrangement of something as distinct from its substance.
+171,digitrubber#DIGITRUBBER_000013,shape [pato],"A morphological quality inhering in a bearer by virtue of the bearer's ratios of distances between its features (points, edges, surfaces and also holes etc)."
+172,digitrubber#DIGITRUBBER_000014,stitching process [imr],"use of different algorithms to determine the 
+exact allignment respectively the characteristik shared edges"
+173,digitrubber#DIGITRUBBER_000015,stitching method [imr],"alligning of single measurements to form a 
+connected/combined measurement"
+174,digitrubber#DIGITRUBBER_000017,extrudate norm [imr],"ideal dimensions and shape of the
+extrudate defined by the manufacturer"
+175,digitrubber#DIGITRUBBER_000018,standard deviation [imr],"a quantity expressing by how much the
+members of a group differ from the mean
+ value for the group"
+176,digitrubber#DIGITRUBBER_000019,standard deviation [Wikipedia],The standard deviation is a measure of the amount of variation or dispersion of a set of values. [Wikipedia]
+177,digitrubber#DIGITRUBBER_000020,standard deviation [ncit],"A measure of the range of values in a set of numbers. Standard deviation is a statistic used as a measure of the dispersion or variation in a distribution, equal to the square root of the arithmetic mean of the squares of the deviations from the arithmetic mean."
+178,digitrubber#DIGITRUBBER_000021,interior orientation [jade],"""The interior (intrinsic) orientation of a camera comprises all instrumental and mathematical elements which completely describe the imaging model within the camera. By taking proper account of the interior orientation, the real camera conforms to the pinhole camera model. It is a requirement of the model that there exists a reproducible image coordinate system so that geometric image values, such as measured image coordinates, can be transformed into the physical-mathematical imaging model."" (Luhmann et al. 2020: 162). A standard model of describing the interior orientation was proposed by D.C. Brown (1971)"
+179,digitrubber#DIGITRUBBER_000022,camera coordinate system [jade],"""The camera coordinate system has its origin at the perspective centre of the image. It is further defined by reference features fixed in the camera (fiducial marks, réseau, sensor system). It can therefore be reconstructed from the image and related to an image measuring device"" (Luhmann et al. 2020: 278)"
+180,digitrubber#DIGITRUBBER_000023,exterior orientation [jade],"""The exterior orientation consists of six parameters which describe the spatial position and orientation of the camera coordinate system with respect to the global object coordinate system"" (Luhmann et al. 2020: 277)"
+181,digitrubber#DIGITRUBBER_000024,camera calibration [jade],"""The photogrammetric determination of the parameters of interior orientation is usually referred to as calibration. This is based on the idea that once a mechanically stable camera is calibrated, it may be moved from one image taking location to another whilst retaining its calibration."" (Luhmann, Robson et al. 2020: 170)"
+182,digitrubber#DIGITRUBBER_000025,bundle adjustment [jade],"""Bundle adjustment [...] is a method for the simultaneous numerical fit of an unlimited number of spatially distributed images (bundles of rays). It makes use of photogrammetric observations (measured image points), survey observations and an object coordinate system. Using tie points, single images are merged into a global model in which the object surface can be reconstructed in three dimensions."" (Luhmann et al. 2020: 349f.)"
+183,digitrubber#DIGITRUBBER_000026,agent [ita],An agent is a system that perceives its environment through sensors and can interact with it through actions.
+184,digitrubber#DIGITRUBBER_000027,agent [ncti],"An active power or cause (as principle, substance, physical or biological factor, etc.) that produces a specific effect."
+185,digitrubber#DIGITRUBBER_000028,approximation [ita],Approximation is a technique for approximating a value using historical or available observations from the domain.
+186,digitrubber#DIGITRUBBER_000029,function approximation [ita],Function approximation is a technique for estimating an unknown underlying function using historical or available observations from the domain.
+187,digitrubber#DIGITRUBBER_000030,reinforcement learning [ita],"Reinforcement learning is a set of machine learning methods in which an agent autonomously learns a strategy to maximize a reward. Algorithms follow the trail-and-error principle, thus try several strategies and repeat those with a higher reward. During the training the agent produces an input, while the target output is only known to a teacher. The teacher gives feedback to the agent in form of a reward."
+188,digitrubber#DIGITRUBBER_000031,library [ita],Libraries in programming languages are collections of prewritten code that users can use to optimize tasks.
+189,digitrubber#DIGITRUBBER_000032,cluster analysis [ita],"Clustering or cluster analysis is a unsupervised machine learning technique, which groups the unlabelled dataset. It can be defined as a way of grouping the data points into different clusters, consisting of similar data points."
+190,digitrubber#DIGITRUBBER_000033,cluster analysis [ncti],Methods for grouping objects into subsets such that those within each cluster are more closely related to one another than objects assigned to different clusters.
+191,digitrubber#DIGITRUBBER_000034,data mining [ita],"A Database is a System for describing, storing and retrieving large amounts of data."
+192,digitrubber#DIGITRUBBER_000035,data mining [edam],"An information set with a regular structure. Although it can be applied to any set of information the term was invented to refer to computerized data, and is used almost exclusively in computing."
+193,digitrubber#DIGITRUBBER_000036,database [ita],"A Database is a System for describing, storing and retrieving large amounts of data."
+194,digitrubber#DIGITRUBBER_000037,database [ncti],"An information set with a regular structure. Although it can be applied to any set of information the term was invented to refer to computerized data, and is used almost exclusively in computing."
+195,digitrubber#DIGITRUBBER_000038,deep learning [ita],"Deep learning is a class of machine learning algorithms that uses multiple layers to progressively extract higher-level features from the raw input. There is no universally agreed-upon threshold of depth that divides shallow learning from deep learning, but most researchers agree that deep learning involves CAP depth higher than 2. The CAP (credit assignment path) is the chain of transformations from input to output. CAPs describe potentially causal connections between input and output. For simple neural networks (feedforward neural networks) this treshhold is reached with at least two hidden layers."
+196,digitrubber#DIGITRUBBER_000039,deep learning [ncti],A subset of machine learning that is part of the broader family of machine learning methodologies based on artificial neural networks. A deep neural network has multiple layers between input and output layers to progressively extract higher level features from the raw input. (After DeepAI Machine Learning Glossary and Terms) [ NCI ]
+197,digitrubber#DIGITRUBBER_000040,input layer [ita],"The input layer of a neural network is composed of artificial input neurons, and brings the initial data into the system for further processing by subsequent layers of artificial neurons. The input layer is the very beginning of the workflow for the artificial neural network."
+198,digitrubber#DIGITRUBBER_000041,elastomers [ita],Elastomers are dimensionally stable but elastically deformable plastics. They are producest by vulcanization of rubber.
+199,digitrubber#DIGITRUBBER_000042,output layer [ita],The output layer in an artificial neural network is the last layer of neurons that produces given outputs for the program.
+200,digitrubber#DIGITRUBBER_000043,extrusion [ita],Extrusion is a process used to create objects of a fixed cross-sectional profile by pushing material through a die of the desired cross-section.
+201,digitrubber#DIGITRUBBER_000044,extrusion [rex],"A transformation in which an atom or group Y connected to two other atoms or groups X and Z is lost from a molecule, leading to a product in which X is bonded to Z, e.g. X-Y-Z --> X-Z + Y."
+202,digitrubber#DIGITRUBBER_000045,extrusion [chmo],A process used to create objects of a fixed cross-sectional profile by forcing or drawing a material through a die.
+203,digitrubber#DIGITRUBBER_000046,hidden layer [ita],"In neural networks, a hidden layer is located between the input and output of the algorithm, in which the function applies weights to the inputs and directs them through an activation function as the output. In short, the hidden layers perform nonlinear transformations of the inputs entered into the network."
+204,digitrubber#DIGITRUBBER_000047,Industrie 4.0 [ita],"Industrie 4.0 is the intelligent networking of machines and processes in the industrial environment, with the help of information and communication technology and thus digitization of the industrial production."
+205,digitrubber#DIGITRUBBER_000048,rubber [ita],Rubber is an elastic substance made either from the juice of particular tropical trees or artificially. It is raw material for car tires and other technical products.
+206,digitrubber#DIGITRUBBER_000049,Artificial Intelligence (AI) [ita],Artifical intelligence is a branch of computer science dealing with the automation of intelligent behavior. Can be used in technical areas as methods of machine learning.
+207,digitrubber#DIGITRUBBER_000050,Artificial Intelligence (AI) [ncti],Artificial intelligence is the branch of computer science that deals with writing computer programs that can solve problems creatively.
+208,digitrubber#DIGITRUBBER_000051,machine learning [ita],"Machine learning is a sub-area of ​​artificial intelligence that deals with artificial systems that adapt their actions to external conditions so that their output is improved according to defined standards. For this purpose, algorithms build a model based on training data. The algorithms does not learn to memorize, but uses patterns and laws, so the systems can also process unknown data. The learning algorithms are divided into supervised learning, unsupervised learning and reinforcement learning."
+209,digitrubber#DIGITRUBBER_000052,machine learning [ncti],A computing system (inspired by biological neural networks) that learns (progressively improves its ability) to do tasks by considering examples without task-specific programming. (After DeepAI Machine Learning Glossary and Terms)
+210,digitrubber#DIGITRUBBER_000053,machine learning [obi],"A planned process in which statistical techniques are used to give computers the ability to learn about patterns in data, without being explicitly programmed. Learning is defined in this case as progressively improving performance on a specific task."
+211,digitrubber#DIGITRUBBER_000054,machine learning [edam],"A topic concerning the application of artificial intelligence methods to algorithms, in order to create methods that can learn from data in order to generate an ouput, rather than relying on explicitly encoded information only."
+212,digitrubber#DIGITRUBBER_000055,microcontroller [ita],"Microcontrollers are compact integrated circuits designed to govern a specific operation in an embedded system. Typically a microcontroller includes a processor, memory and input/output peripherals on a single chip."
+213,digitrubber#DIGITRUBBER_000056,mixing [ita],"Mixing is the first of the three areas of an extrusion line, where the input material is homogenized and mixed. This occurs within a screw element through shearing and mixing of the input material."
+214,digitrubber#DIGITRUBBER_000057,mixing [chmo],"The combining of components, particles or layers into a more homogeneous state. The mixing may be achieved manually or mechanically by shifting the material with stirrers or pumps or by revolving or shaking the container. The process μst not permit segregation of particles of different size or properties. Homogeneity may be considered to have been achieved in a practical sense when the sampling error of the processed portion is negligible compared to the total error of the measurement system."
+215,digitrubber#DIGITRUBBER_000058,mixing [ncti],To bring or combine together or with something else; add as an additional element or part.
+216,digitrubber#DIGITRUBBER_000059,pattern recognition [ita],"Pattern recognition is the automated recognition of patterns and regularities in data. Pattern recognition has its origins in statistics and engineering; some modern approches include the use of machine learning, due to the increased availability of big data and a new abundance of processing power."
+217,digitrubber#DIGITRUBBER_000060,pattern recognition [ncti],"A branch of artificial intelligence concerned with the identification of visual or audio patterns by computers.For the computer to recognize the patterns, the patterns must be converted into digital signals and compared with patterns already stored in memory.Some uses of this technology are in character recognition, voice recognition, handwriting recognition, and robotics. (High-Tech Dictionary) [ NCI ]"
+218,digitrubber#DIGITRUBBER_000061,neural network [ita],"Artificial neural networks (ANNs) are based on a reduced set of concepts from biological neural systems. It is composed of different Layeres, an input layer, one or more hidden layers and an output layer. Each layer consists of several artificial neurons. The connections of the biological neuron are modeled in artificial neural networks as weights between the artificial neurons. A positive weight reflects an excitatory connection, while negative values mean inhibitory connections. An activation function controls the amplitude of the output. They can be used to model complex relationships between inputs and outputs or to find patterns in data. Thereby ANNs can be trained by machine learning techniques to approximate a function, when the complexity of the data or task makes the design of such function by hand impractical. Other tasks in which ANNs can be trained are classification, including pattern recognition, clustering and Data processing, including clustering."
+219,digitrubber#DIGITRUBBER_000062,neural network [ncti],"A computer algorithm to solve non-linear optimization problems. The algorithm was derived in analogy to the way the densely interconnected, parallel structure of the brain processes information."
+220,digitrubber#DIGITRUBBER_000063,online characterisation [ita],Online characterisation is the characterization of the material properties during the process and on the real process line in order to be able to react to fluctuations during production.
+221,digitrubber#DIGITRUBBER_000064,online optimization [ita],In online optimization decisions are made directly in the real process section and without knowledge of future results. Also often the data of the problem instance is not complete.
+222,digitrubber#DIGITRUBBER_000065,optimization [ita],Optimizers are algorithms or methods used to solve optimization problems by minimize an error function (loss function) or to maximize the efficiency of production. Optimizers are mathematical functions which are dependent on model's learnable parameters i.e Weights & Biases.
+223,digitrubber#DIGITRUBBER_000066,optimization [ncti],An activity that attempts to find the best solution to a problem.
+224,digitrubber#DIGITRUBBER_000067,Production-in-the-Loop [ita],"Production-in-the-Loop describes a method, in which information from the production process is continuously recorded and the process is adapted to the changing framework conditions on the basis of this information."
+225,digitrubber#DIGITRUBBER_000068,regression analysis [ita],"Regression analysis consists of a set of machine learning methods that allow us to predict a continuous outcome variable (y) based on the value of one or multiple predictor variables (x). Regression is a supervised learning technique, in which Algorithems build a mathematical Modell or equation that defines y as a funktion of x."
+226,digitrubber#DIGITRUBBER_000069,simulation environment [ita],"A simulation environment is a virtual environment that maps/models the real process. A simulation model thus makes it possible to train control tasks using learning algorithms offline, i.e. not on the real system but on the computer. Neural networks can be used to create such model."
+227,digitrubber#DIGITRUBBER_000070,test dataset [ita],The test dataset is a subset of the dataset that is held back from training the model and given to the learning algorithm to test the trained model. Typically it consists of 20% to 30% of the original dataset. It is the sample of data used to provide an unbiased evaluation of a final model fit on the training dataset.
+228,digitrubber#DIGITRUBBER_000071,train dataset [ita],The train dataset is a subset of the dataset that is given to the learning algorithm to train a model. Typically it consists of 70% to 80% of the original dataset. It is the sample of data used to fit the model.
+229,digitrubber#DIGITRUBBER_000072,supervised learning [ita],"Supervised learning is the machine learning task of learning a function that maps an input to an output based on example input-output pairs. It infers a function from labeled training data consisting of a set of training examples. In supervised learning, each example is a pair consisting of an input object (typically a vector) and a desired output value (target)."
+230,digitrubber#DIGITRUBBER_000073,supervised learning [obi],A machine learning process using a function that maps an input to an output based on example input-output pairs. It infers a function from labeled training data consisting of a set of training examples.
+231,digitrubber#DIGITRUBBER_000074,unsupervised learning [ita],"Unsupervised learning is a type of algorithm that learns patterns from untagged data. The hope is that through mimicry, which is an important mode of learning in people, the machine is forced to build a compact internal representation of its world and then generate imaginative content from it. Unsupervised methods exhibit self-organization that captures patterns as probability densities or a combination of neural feature preferences."
+232,digitrubber#DIGITRUBBER_000075,unsupervised learning [obi],"A machine learning process that infers a function describing the structure of ""unlabeled"" data (i.e. data that has not been classified or categorized)."
+233,digitrubber#DIGITRUBBER_000076,validation dataset [ita],The validation dataset is the sample of data used to provide an unbiased evaluation of a model fit on the training dataset while tuning model hyperparameters. The evaluation becomes more biased as skill on the validation dataset is incorporated into the model configuration.
+234,digitrubber#DIGITRUBBER_000077,validation [ita],"Validation data is to ""validate"" that your neural network hasn't rather memorized your training data and has thus actually learned some meaningful aspects of the data so that the model can be later used (generalized) to unseen, held-out ""test dataset""."
+235,digitrubber#DIGITRUBBER_000078,validation [ncti],The act of validating; finding or testing the truth of something.
+236,digitrubber#DIGITRUBBER_000079,validation [obi],a planned process with objective to check that the accuracy or the quality of a claim or prediction satisfies some criteria and which is assessed by comparing with independent results
+237,digitrubber#DIGITRUBBER_000080,validation [edam],Validate some data.
+238,digitrubber#DIGITRUBBER_000081,rolling [ita],Rolling is the second of the three areas of the extrusion line. Where the material is homogenised.
+239,digitrubber#DIGITRUBBER_000082,twin screw extruder [ita],"Twin screw extruders have two screws, which have more shear and mixing capability than the single screw in a singel screw extruder. Depending on the direction of rotation of the screws, a distinction is made between counter-rotating and co-rotating twin-screw extruders."
+240,digitrubber#DIGITRUBBER_000083,Mixing temperature [ita],Control variable that specifies at which temperature mixing takes place.
+241,digitrubber#DIGITRUBBER_000084,Stamp pressure [ita],Rücksprache DIK
+242,digitrubber#DIGITRUBBER_000085,rotation speed (Mixer) [ita],Control value that specifies at which speed mixing takes place
+243,digitrubber#DIGITRUBBER_000086,Mixing time [ita],Control value that specifies how long mixing takes place
+244,digitrubber#DIGITRUBBER_000087,Torque (mixer) [ita],Measured variable that indicates how high the torque is during mixing.
+245,digitrubber#DIGITRUBBER_000088,Torque (mixer) [om],"Torque is the effectiveness of a force to produce rotation about an axis, measured by the product of the force and the perpendicular distance from the line of action of the force to the axis."
+246,digitrubber#DIGITRUBBER_000089,Screw speed [ita],Control variable that indicates how high the speed of the screw is during extrusion.
+247,digitrubber#DIGITRUBBER_000090,Screw torque [ita],Measured variable that indicates how high the torque of the screw is during extrusion.
+248,digitrubber#DIGITRUBBER_000091,Tempering screw [ita],Control variable that indicates how high the temperature of the screw is during extrusion.
+249,digitrubber#DIGITRUBBER_000092,Tempering Feed roller [ita],Control variable that indicates how high the temperature of the feed roller is during extrusion.
+250,digitrubber#DIGITRUBBER_000093,Tempering cylinder [ita],Control variable that indicates how high the temperature of the cylinder is during extrusion.
+251,digitrubber#DIGITRUBBER_000094,Cylinder pressure [ita],Measured variable that indicates how high the pressure in the cylinder is during extrusion.
+252,digitrubber#DIGITRUBBER_000095,Tempering Tool [ita],Control variable that indicates how high the temperature of the tool is during extrusion.
+253,digitrubber#DIGITRUBBER_000096,Tool pressure [ita],Measured variable that indicates how high the pressure in the tool is during extrusion.
+254,digitrubber#DIGITRUBBER_000097,Near-surface mass temperature in the tool [ita],Measured variable that indicates what the temperature is at the surface of the material.
+255,digitrubber#DIGITRUBBER_000098,Radial temperature profile of the mixture in the screw channel [ita],Measured variable that indicates how the temperature is distributed radially over the screw channel.
+256,digitrubber#DIGITRUBBER_000099,Outlet surface [ita],System parameter that indicates how large the outlet surface of the rubber is.
+257,digitrubber#DIGITRUBBER_000100,Throughput [ita],The throughput indicates how many kilograms of rubber are extruded in a given unit of time.
+258,digitrubber#DIGITRUBBER_000101,collection of material entities [hsh],"A class of units in the system under study (e.g, machines, spare parts)"
+259,digitrubber#DIGITRUBBER_000102,factor [hsh],"A circumstance, fact, or influence that contributes to the costs associated with an entity (e.g., wages, number)"
+260,digitrubber#DIGITRUBBER_000103,factor [ncti],Anything that contributes causally to a result.
+261,digitrubber#DIGITRUBBER_000104,factor [proco],A data item that is a member of a minimal set of independent variables that can be used to model the dependent reponses in a set of related experiments.
+262,digitrubber#DIGITRUBBER_000105,factor [allotrope],A multiplicand in a mathematical product expression. [Allotrope]
+263,digitrubber#DIGITRUBBER_000106,cost [hsh],Cumulative expression for the value of all costs groups within the system under study
+264,digitrubber#DIGITRUBBER_000107,cost [ncti],"The amount paid, charged, or engaged to be paid, for purchasing goods, services and financial instruments."
+265,digitrubber#DIGITRUBBER_000108,cost group [hsh],"Cumulative expression for the value of overarching entity groups (e.g., human ressource, maintenance) within the system under study"
+266,digitrubber#DIGITRUBBER_000109,human ressource cost [hsh],A cost group for all cost values occuring from entity sub-groups in the human ressource cost group and the associated factors
+267,digitrubber#DIGITRUBBER_000110,maintenance cost [hsh],A cost group for all cost values occuring from entity sub-groups in the maintenance cost group and the associated factors
+268,digitrubber#DIGITRUBBER_000111,energy cost [hsh],A cost group for all cost values occuring from entity sub-groups in the energy cost group and the associated factors
+269,digitrubber#DIGITRUBBER_000112,material cost [hsh],A cost group for all cost values occuring from entity sub-groups in the material cost group and the associated factors
+270,digitrubber#DIGITRUBBER_000113,storage cost [hsh],A cost group for all cost values occuring from entity sub-groups in the storage cost group and the associated factors
+271,digitrubber#DIGITRUBBER_000114,production cost [hsh],A cost group for all cost values occuring from entity sub-groups in the production cost group and the associated factors
+272,digitrubber#DIGITRUBBER_000115,investment cost [hsh],A cost group for all cost values occuring from entity sub-groups in the investment cost group and the associated factors
+273,digitrubber#DIGITRUBBER_000116,waste management cost [hsh],A cost group for all cost values occuring from entity sub-groups in the waste management cost group and the associated factors
+274,digitrubber#DIGITRUBBER_000117,turnover [hsh],A cost group for the total sales value generated in a time period X by the system under investigation
+275,digitrubber#DIGITRUBBER_000118,machine [hsh],"An apparatus using mechanical power and having several parts, each with a definite function and together performing a particular task, required for operations in the system under investigation. Constitutes an entity in the maintenance cost, energy cost, production cost, investment cost and turnover cost group."
+276,digitrubber#DIGITRUBBER_000119,Operating status [hsh],"The state of an unit within an individual entity sub-group with regard to its working order (e.g., good, defective, not working)."
+277,digitrubber#DIGITRUBBER_000120,condition [ncti],"A state of being, such as a state of health."
+278,digitrubber#DIGITRUBBER_000121,condition [shacl],The shapes that the focus nodes need to conform to before a rule is executed on them.
+279,digitrubber#DIGITRUBBER_000122,condition [ssn],"Used to specify ranges for qualities that act as conditions on a system/sensor's operation. For example, wind speed of 10-60m/s may be used as the condition on a SystemProperty, for example, to state that a sensor has a particular accuracy in that"
+280,digitrubber#DIGITRUBBER_000123,raw material [hsh],The basic materials from which a finished product is made in the system under investigation. Constitutes an entity in the material cost and waste management cost group.
+281,digitrubber#DIGITRUBBER_000124,semi-finished product [hsh],Processed raw materials that are not used for final consumption but as input for the production of finished goods in the system under investigation. Constitutes an entity in the material cost and waste management cost group.
+282,digitrubber#DIGITRUBBER_000125,finished product [hsh],"The product that emerges at the end of the production process of the system under study.  Constitutes an entity in the material cost, production cost, and waste management cost group."
+283,digitrubber#DIGITRUBBER_000126,spare parts [hsh],A duplicate part to replace a lost or damaged part of a machine entity unit in the system under investigation. Constitutes an entity sub-group of the wear parts entity.
+284,digitrubber#DIGITRUBBER_000127,wear parts [hsh],Parts pf a machine entity unit that are bound to wear out with repetitive use and will require periodic repair or replacement based on maintenance interval in the system under investigation. Constitutes an entity of the maintenance cost and material cost group.
+285,digitrubber#DIGITRUBBER_000128,packaging [hsh],"Materials used to wrap or protect raw materials, semi-finished products, and finished products."
+286,digitrubber#DIGITRUBBER_000129,operator [hsh],A person who operates a machine entity unit in the system under investigation. Constitutes an entity of the human resource and the production cost group.
+287,digitrubber#DIGITRUBBER_000130,operator [ncti],A person that operates some apparatus or machine.
+288,digitrubber#DIGITRUBBER_000131,supervisor [hsh],A person who supervises and coordinates the work of employees who set up and operate machine entity units in the system under investigation. Constitutes an entity of the human ressource and the production cost group.
+289,digitrubber#DIGITRUBBER_000132,supervisor [ncti],"An individual who is responsible for managing or operating a business, organization, team or department."
+290,digitrubber#DIGITRUBBER_000133,supervisor [m4i],"Designated administrator over one or more groups/teams working to produce a resource, or over one or more steps of a development process"
+291,digitrubber#DIGITRUBBER_000134,operational assistant [hsh],A person who supports an operator in the system under investigation. Constitutes an entity of the human ressource and the production cost group.
+292,digitrubber#DIGITRUBBER_000135,warehouse clerk [hsh],"A person who handles a company's incoming and outgoing raw materials, semi-finished prodcuts as well as finished products, and who manages stocks in the system under investigation. Constitutes an entity of the human ressource and the storage cost group."
+293,digitrubber#DIGITRUBBER_000136,quality inspector [hsh],A person who monitors the quality of incoming and outgoing products or materials in the system under investigation. Constitutes an entity of the human ressource and the production cost group.
+294,digitrubber#DIGITRUBBER_000137,conveyor vehicle [hsh],"A mode of transport that is employed to transport raw materials, semi-finished goods and finished goods within the system under investigation."
+295,digitrubber#DIGITRUBBER_000138,mean time to failure [hsh],A maintenance metric that measures the average amount of time a non-repairable asset operates before it fails in the system under investigation. Constitutes a factor of the maintenance cost group.
+296,digitrubber#DIGITRUBBER_000139,mean time to repair [hsh],A maintenance metric that measures the average time required to troubleshoot and repair failed equipment. Constitutes a factor of the maintenance cost group.
+297,digitrubber#DIGITRUBBER_000140,maintenance interval [hsh],The schedule for all anticipated maintenance activities regarding machine entites within the system under investigation. Constitutes a factor of the maintenance cost group.
+298,digitrubber#DIGITRUBBER_000141,maintenance interval [iirds],Type of planning time: Fixed time interval for the scheduled maintenance of a technical system or its parts.
+299,digitrubber#DIGITRUBBER_000142,maintenance duration [hsh],The averafe time that is required to conduct scheduled maintenance activities for a machine entity unit. Constitutes a factor of the maintenance cost group.
+300,digitrubber#DIGITRUBBER_000143,energy consumption [hsh],"The amount of electricity (kw/h) that is consumed by all entities in the system under investigation. Constitutes a factor of the energy cost, storage cost and production cost group."
+301,digitrubber#DIGITRUBBER_000144,unit cost [hsh],"The expenditure that incurs for acquiring a single unit of an entity sub-group in the system under investigation. Constitutes a factor of the maintenance cost, material cost, and storage cost group."
+302,digitrubber#DIGITRUBBER_000145,aggregate [enm],"A composite particle, comprising of strongly bound or fused smaller particles, where the resulting external surface area may be significantly smaller than the sum of calculated surface areas of the individual components."
+303,digitrubber#DIGITRUBBER_000146,agglomerate [enm],A collection of weakly bound particles or aggregates where the resulting surface area is similar to the sum of the surface areas of the individual components.
+304,digitrubber#DIGITRUBBER_000148,building,A structure that has a roof and walls and stands more or less permanently in one place.
+305,digitrubber#DIGITRUBBER_000150,throughput [hsh],"The amount of raw materials, semi-finisehd products or finished products passing through a machine entity in the time X in the system under investigation."
+306,digitrubber#DIGITRUBBER_000151,indirect cost [hsh],All costs that are derived from costs groups encompassing overhead charges or subsidiary work.
+307,digitrubber#DIGITRUBBER_000152,direct cost [hsh],All costs that are derived from costs groups that are directly related to the production of goods in the system under study.
+308,digitrubber#DIGITRUBBER_000153,direct cost,Costs that can be identified with a particular project or program.
+309,digitrubber#DIGITRUBBER_000154,unit [hsh],"A single system element (e.g., extruder 1, tool 1) within an entity sub-group in the system under investigation."
+310,digitrubber#DIGITRUBBER_000155,unit [ncti],"A property representing the unit of measure in which a nutrient or food component is typically expressed, ex., gram (g), minigram (mg), microgram (mcg), joule, or kilojoule."
+311,digitrubber#DIGITRUBBER_000156,unit [ncti],"The property used in conjunction with a nutrient or food component, typically expressed in gram (g), milligram (mg), microgram (mcg), joule, or kilojoule."
+312,digitrubber#DIGITRUBBER_000157,unit [ncti],A single undivided thing occurring in the composition of something else.
+313,digitrubber#DIGITRUBBER_000158,unit [sd],Class designed to distinguish the different types of units that are available in variables from datasets or parameters
+314,digitrubber#DIGITRUBBER_000159,unit [uo],"""A unit of measurement is a standardized quantity of a physical quality."" [Wikipedia:Wikipedia]"
+315,digitrubber#DIGITRUBBER_000160,extruder [hsh],A machine that pushes unvulcanized rubber compounds through an extrusion die under pressure. Constitutes an entity sub-group of the machine entity.
+316,digitrubber#DIGITRUBBER_000161,banbury mixer [hsh],A machine that mixes polymers and additives in the manufacture of plastic and rubber products. Constitutes an entity sub-group of the machine entity.
+317,digitrubber#DIGITRUBBER_000162,tire building machine [hsh],A machine that assembles assembles all components and semi-finished products to produce a tyre. Constitutes an entity sub-group of the machine entity.
+318,digitrubber#DIGITRUBBER_000163,cutter [hsh],A pneumtaic machine that cuts rubber materials. Constitutes an entity sub-group of the machine entity.
+319,digitrubber#DIGITRUBBER_000164,calandar [hsh],A machine that combines a series of hard pressure rollers used to finish or smooth a sheet of rubber material. Constitutes an entity sub-group of the machine entity.
+320,digitrubber#DIGITRUBBER_000165,storage robot [hsh],"An automated system that transports good to, within and from storage areas. Constitutes an entity sub-group of the machine entity."
+321,digitrubber#DIGITRUBBER_000166,gantry crane [hsh],An overhead crane with a girder configuration supported by freestanding legs that move on wheels to transport goods. Constitutes an entity sub-group of the machine entity.
+322,digitrubber#DIGITRUBBER_000167,uniformity grading machine [hsh],A machine that is measures the tire uniformity for complete vehicle wheels and determines the radial and lateral force fluctuations of the rolling wheel. Constitutes an entity sub-group of the machine entity.
+323,digitrubber#DIGITRUBBER_000168,forklift [hsh],A powered industrial truck used to lift and move materials over short distances. Constitutes an entity sub-group of the conveyor vehicle entity.
+324,digitrubber#DIGITRUBBER_000169,conveyor [hsh],A continuous moving strip or surface that is used for transporting objects between different destinations. Constitutes an entity sub-group of the conveyor vehicle entity.
+325,digitrubber#DIGITRUBBER_000170,lift truck [hsh],A small truck for lifting and transporting loads. Constitutes an entity sub-group of the conveyor vehicle entity.
+326,digitrubber#DIGITRUBBER_000171,tools [hsh],"An object shaped for repair and installation purposes, with the help of which something is processed or manufactured.Constitutes an entity sub-group of the wear parts entity."
+327,digitrubber#DIGITRUBBER_000172,small parts [hsh],A set of small wear parts required to maintain and repair a machine entity. Constitutes an entity sub-group of the wear parts entity.
+328,digitrubber#DIGITRUBBER_000173,whole components [hsh],Components required to maintain and repair a machine entity. Constitutes an entity sub-group of the wear parts entity.
+329,digitrubber#DIGITRUBBER_000174,lighting [hsh],Equipment that is employed for producing light in the system under investigation. Constitutes an entity sub-group of the building entity.
+330,digitrubber#DIGITRUBBER_000175,air conditioning [hsh],Equipment that is employed for cooling and heating in the system under investigation. Constitutes an entity sub-group of the building entity.
+331,digitrubber#DIGITRUBBER_000176,office equipment [hsh],Equipment that is employed for managerial purposes in the system under investigation.
+332,digitrubber#DIGITRUBBER_000177,narural rubber [hsh],An elastic material obtained from the latex sap of trees. Constitutes an entity sub-group of the raw material entity.
+333,digitrubber#DIGITRUBBER_000178,narural rubber [ncti],The natural extract of tropical rubber plants.
+334,digitrubber#DIGITRUBBER_000179,Synthetic rubber [hsh],"Any of several substances similar to natural rubber in properties and uses, produced synthetically. Constitutes an entity sub-group of the raw material entity."
+335,digitrubber#DIGITRUBBER_000180,filling material [hsh],Material that is required to manipulate the properties of rubber products. Constitutes an entity sub-group of the raw material entity.
+336,digitrubber#DIGITRUBBER_000181,reinforcing materials [hsh],"Material that is used to support the structure of rubber based products (e.g., steel cords). Constitutes an entity sub-group of the raw material entity."
+337,digitrubber#DIGITRUBBER_000182,plasticizer [hsh],A substance added to a synthetic resin to produce or promote plasticity and flexibility and to reduce brittleness. Constitutes an entity sub-group of the raw material entity.
+338,digitrubber#DIGITRUBBER_000183,plasticizer [ncti],A substance added to plastics or other materials to make or keep them soft or pliable.
+339,digitrubber#DIGITRUBBER_000184,plasticizer [chebi],"Any compound that is used as an additive to increase the plasticity or fluidity of a substance, particularly but not exclusively to synthetic polymers."
+340,digitrubber#DIGITRUBBER_000185,vulcanization chemicals [hsh],Chemicals added to rubber to alter its physical properties. Constitutes an entity sub-group of the raw material entity.
+341,digitrubber#DIGITRUBBER_000186,other additives [hsh],Additional substances that are employed to product rubber-based products. Constitutes an entity sub-group of the raw material entity.
+342,digitrubber#DIGITRUBBER_000187,Raman spectroscopy [ifnano],"A non-destructive light scattering technique that provides detailed information about the chemical structure upon the interaction of light with the chemical bonds within a material based on periodic changes of polarizabilities, usually manifested as energy loss (gain) with respect to the incident light."
+343,digitrubber#DIGITRUBBER_000188,Raman spectroscopy [allotrope],"Any type of vibrational spectroscopy where the Raman scattering of monochromatic light, usually from a laser in the visible, near infrared, or near ultraviolet range by a sample is detected. [CHMO]"
+344,digitrubber#DIGITRUBBER_000189,Raman spectroscopy [ncit],Emission of electromagnetic energy with a shorter frequency (longer wavelength) than that of the incident monochromatic light. Arises from the low probability absorption of quanta with a higher energy than that required for a transition: the difference in energy is emitted as a lower frequency (energy) photon. Allows analysis of vibrational and rotational energy levels using visible incident light. [ NCI ]
+345,digitrubber#DIGITRUBBER_000190,Spectrum [ifnano],A graph that shows the intensity of radiation at different wavelengths or the response of the atomic or molecular system to different wavelengths of the radiation
+346,digitrubber#DIGITRUBBER_000191,Spectrum [allotrope],A spectrum is a data distribution function of a measured quantity in a spectroscopy against some experimental parameter. [Allotrope]
+347,digitrubber#DIGITRUBBER_000192,Spectrum [ncit],"An array of entities, such as light waves or particles, ordered in accordance with the magnitudes of a common physical property, such as wavelength or mass."
+348,digitrubber#DIGITRUBBER_000193,Raman spectrum [ifnano],"A graph presents a number of peaks, showing the intensity and wavelength position of the Raman scattered light, in which each peak corresponds to a specific molecular bond vibration."
+349,digitrubber#DIGITRUBBER_000194,Raman spectrum [allotrope],A plot of intensity vs. Raman shift (cm-1) obtained by measuring the Raman scattering of monochromatic light from a sample. [CHMO]
+350,digitrubber#DIGITRUBBER_000195,FTIR spectroscopy [ifnano],Fourier transform infrared involves the probing of matter with infrared radiation. It is based on periodic changes in dipole moments caused by molecular vibrations during the absorption of IR radiation and gives spectroscopic fingerprints.
+351,digitrubber#DIGITRUBBER_000196,ATR-FTIR [ifnano],An attenuated total reflection accessory operates by measuring the changes that occur in a totally internally reflected infrared beam when the beam comes into contact with a sample.
+352,digitrubber#DIGITRUBBER_000197,Statistical discrimination [ifnano],It arises when groups differ statistically in their distributions on characteristics relevant to a given situation.
+353,digitrubber#DIGITRUBBER_000198,Chemometrics [ifnano],"The chemical discipline that uses mathematical and statistical methods, (a) to design or select optimal measurement procedures and experiments, and (b) to provide maximum chemical information by analyzing chemical data."
+354,digitrubber#DIGITRUBBER_000199,Raw rubber samples [ifnano],Natural and synthetic rubber materials that are modified and shaped into rubber products through the rubber extrusion process.
+355,digitrubber#DIGITRUBBER_000200,Correlation [ifnano],"The degree to which two or more quantities or events are associated, a statistical relation between two or more variables such that systematic changes in the value of one variable are accompanied by systematic changes in the others. The collelation can be described by mathematical functions  (often a linear function is used). It’s a common tool for describing simple relationships without making a statement about cause and effect."
+356,digitrubber#DIGITRUBBER_000201,Correlation [ncit],"The degree to which two or more quantities or events are linearly associated, a statistical relation between two or more variables such that systematic changes in the value of one variable are accompanied by systematic changes in the others."
+357,digitrubber#DIGITRUBBER_000202,concentration [ifnano],A quality of a substance in terms of its amount per unit volume in a mixture.
+358,digitrubber#DIGITRUBBER_000203,concentration [bwmd],The quantity kind concentration
+359,digitrubber#DIGITRUBBER_000204,concentration [allotrope],A concentration (datum) is a quantification facet that quantifies a quality inhering in a substance by virtue of the amount of the bearer's there is mixed with another substance. [Allotrope]
+360,digitrubber#DIGITRUBBER_000205,concentration [ncit],"The quantity of a substance per unit volume or weight; a measure of the amount of substance present in a unit amount of mixture, particularly, the amount of solute dissolved in a solvent. The amounts can be expressed as moles, masses, volumes, or parts."
+361,digitrubber#DIGITRUBBER_000206,concentration [edam],The concentration of a chemical compound.
+362,digitrubber#DIGITRUBBER_000207,concentration [chmo],Experimental method output expressing the contribution of one constituent to the composition of a mixture.
+363,digitrubber#DIGITRUBBER_000208,concentration [ecso],the strength of a solution; number of molecules of a substance in a given volume
+364,digitrubber#DIGITRUBBER_000209,extrudate [ifnano],Product of the process of Extrusion
+365,digitrubber#DIGITRUBBER_000210,extrusion [ifnano],Extrusion is a process used to create objects of a fixed cross-sectional profile by pushing material through a die of the desired cross-section.
+366,digitrubber#DIGITRUBBER_000211,extrusion [rex],"A transformation in which an atom or group Y connected to two other atoms or groups X and Z is lost from a molecule, leading to a product in which X is bonded to Z, e.g. X-Y-Z --> X-Z + Y."
+367,digitrubber#DIGITRUBBER_000212,extrusion [chmo],A process used to create objects of a fixed cross-sectional profile by forcing or drawing a material through a die.
+368,digitrubber#DIGITRUBBER_000213,Laser induced breakdown spectroscopy [ifnano],"Laser induced breakdown spectroscopy is a type of atomic emission spectroscopy which uses a highly energetic laser pulse as the excitation source. The laser is focused to form a plasma, which atomizes and excites samples. The Emission of these excited species is analyzed to identify and quantify the elements contained in the sample."
+369,digitrubber#DIGITRUBBER_000214,Laser induced breakdown spectroscopy [chmo],A type of atomic emission spectrometry where a high energy laser pulse is used to generate a plasma which acts as the excitation source.
+370,digitrubber#DIGITRUBBER_000215,distribution quality [ifnano],"A quality of a sample in terms of homogenity, or the distribution of concentration of a specific component in a mixture, in a macroscopic body."
+371,digitrubber#DIGITRUBBER_000216,peak[ifnano],"In Spectroscopy, peaks are features of a spectrum. A peak comprise a restricted region of a spectrum, which is absorbed or emitted with high intensity. It is defined as a local maximum in the spectrum."
+372,digitrubber#DIGITRUBBER_000217,peak [allotrope],A peak describes a part of a data distribution function at a definite range of the experimental parameter (independent variable) of the distribution function. This definition includes a single data point of the distribution function. [Allotrope]
+373,digitrubber#DIGITRUBBER_000218,peak [ncit],The most extreme possible amount or value; the highest point.
+374,digitrubber#DIGITRUBBER_000219,Classification [ifnano],Is to reliably assign new samples to existing classes in a given population.
+375,digitrubber#DIGITRUBBER_000220,peak [ms],"A localized region of relatively large ion signal in a mass spectrum. Although peaks are often associated with particular ions, the terms peak and ion should not be used interchangeably."
+376,digitrubber#DIGITRUBBER_000221,raw spectrum [ifnano],Unprocessed data obtained from spectrometric devices
+377,digitrubber#DIGITRUBBER_000222,processed spectrum [ifnano],Result of different mathematical processes conducted on raw Spectra. Processing steps include e.g. normalization and baseline correction
+378,digitrubber#DIGITRUBBER_000223,principal component analysis [ifnano],Principal component analysis (PCA) is the process of computing the principal components and using them to perform a change of basis on the data.
+379,digitrubber#DIGITRUBBER_000224,principal component analysis [ncit],A vector space transform used to reduce the dimensionality in a dataset while retaining those characteristics of the dataset that contribute most to its variance.
+380,digitrubber#DIGITRUBBER_000225,principal component analysis [edam],A statistical procedure that uses an orthogonal transformation to convert a set of observations of possibly correlated variables into a set of values of linearly uncorrelated variables called principal components.
+381,digitrubber#DIGITRUBBER_000226,Photometric Measurement Process [ifnano],Measurement using photometry
+382,digitrubber#DIGITRUBBER_000227,Metadata [ifnano],"Metadata are data, which belong to a measurement. They complete the measurment data providing information about the condition under which the measurements have been taken place."
+383,digitrubber#DIGITRUBBER_000228,Metadata [ncit],Data about data; information that describes another set of data.
+384,digitrubber#DIGITRUBBER_000229,Photometry [ifnano],Measurement method using visible light to analyse the property of a substance
+385,digitrubber#DIGITRUBBER_000230,Photometry [ncit],"Measurement of the properties of light, especially luminous intensity."
+386,digitrubber#DIGITRUBBER_000231,Colorimetry (chemical method) [ifnano],Determination concentrations using a color chart
+387,digitrubber#DIGITRUBBER_000232,Colorimetry [allotrope],The determination of the spectral absorbance of a solution. This method is often used to determine the concentration of a chemical in a solution. [CHMO]
+388,digitrubber#DIGITRUBBER_000233,Colorimetry [ncit],An assessment used to quantify and describe the colors within the visible spectrum of light.
+389,digitrubber#DIGITRUBBER_000234,Image data [ifnano],Digital representation of an image. Images are represented in natural numbers.
+390,digitrubber#DIGITRUBBER_000235,RGB image data [ifnano],"Digital representation of an image using a natural number defining the red, green and blue proportion for each pixel"
+391,digitrubber#DIGITRUBBER_000236,Picture grid [ifnano],Commen form of representing a digital picture: The picture is represented as a XY-Grid of Data-Points containing the color and brightness information.
+392,digitrubber#DIGITRUBBER_000237,Pixel [ifnano],Element of the picture grid
+393,digitrubber#DIGITRUBBER_000238,Pixel [ncit],"The smallest resolvable rectangular area of an image, either on a screen or stored in memory."
+394,digitrubber#DIGITRUBBER_000239,Digital image processing [ifnano],The use of a digital computer to process digital images through an algorithm.
+395,digitrubber#DIGITRUBBER_000240,Image analysis (Chemometrics) [ifnano],Using image data and eventually digital image processing in order to generate a corellation between this data and an analytical target.
+396,digitrubber#DIGITRUBBER_000241,Image analysis [allotrope],Image analysis is the discovering of patterns in an image that are correlated to qualities of the material entity the image represents or of abstract patterns. [Allotrope]
+397,digitrubber#DIGITRUBBER_000242,Image analysis [edam],The analysis of a image (typically a digital image) of some type in order to extract information from it.
+398,digitrubber#DIGITRUBBER_000243,analytical target [ifnano],"The information represented by one or more variables, which has to be predicted by data analysis in instrumental analytics"
+399,digitrubber#DIGITRUBBER_000244,Geometry correction [ifnano],In terms of digtal image procession: correction methods to compensate image errors caused by lense distorsion or perspective.
+400,digitrubber#DIGITRUBBER_000245,Linear discriminant analysis [ifnano],"Linear discriminant analysis (LDA), normal discriminant analysis (NDA), or discriminant function analysis is a generalization of Fisher's linear discriminant, a method used in statistics and other fields, to find a linear combination of features that characterizes or separates two or more classes of objects or events."
+401,digitrubber#DIGITRUBBER_000246,Supervised learning [ifnano],Machine learning task of learning a function that maps an input to an output based on example input-output pairs.
+402,digitrubber#DIGITRUBBER_000247,Supervised learning [obi],A machine learning process using a function that maps an input to an output based on example input-output pairs. It infers a function from labeled training data consisting of a set of training examples.
+403,digitrubber#DIGITRUBBER_000248,Unsupervised learning [ifnano],A type of algorithm that learns patterns from untagged data
+404,digitrubber#DIGITRUBBER_000249,Unsupervised learning [obi],"A machine learning process that infers a function describing the structure of ""unlabeled"" data (i.e. data that has not been classified or categorized)."
+405,digitrubber#DIGITRUBBER_000250,Image histogramm / histogramm [ifnano],A type of histogram that acts as a graphical representation of the tonal distribution in a digital image. It plots the number of pixels for each tonal value.
+406,digitrubber#DIGITRUBBER_000251,Color histogramm [ifnano],A multidimensional histogram of the distribution of color in an image
+407,digitrubber#DIGITRUBBER_000254,count [ifnano],counting events
+408,digitrubber#DIGITRUBBER_000255,count [allotrope],The number of objects counted. [Allotrope]
+409,digitrubber#DIGITRUBBER_000256,count [allotrope],A datum that has non-negative integer values that is about the number of discrete things. [Allotrope]
+410,digitrubber#DIGITRUBBER_000257,count [ncit],Determining the number or amount of something.
+411,digitrubber#DIGITRUBBER_000258,count [ms],a count is a data item denoted by an integer and represented the number of instances or occurences of an entity
+412,digitrubber#DIGITRUBBER_000260,arbitrary units,"A single undivided thing (unit) based on or subject to individual judgment or preference, and not by necessity, reason, or principle."
+413,digitrubber#DIGITRUBBER_000261,zinc [ifnano],The chemical element zinc
+414,digitrubber#DIGITRUBBER_000262,zinc [bwmd],The chemical element zinc
+415,digitrubber#DIGITRUBBER_000263,zinc [ncit],"An element with atomic symbol Zn, atomic number 30, and atomic weight 65.39."
+416,digitrubber#DIGITRUBBER_000264,zinc [efo],A zinc group element atom that has formula Zn.
+417,digitrubber#DIGITRUBBER_000265,Standard deviation [ifnano],A measure of the amount of variation of a set of values.
+418,digitrubber#DIGITRUBBER_000266,Standard deviation [allotrope],The standard deviation is a measure of the amount of variation or dispersion of a set of values. [Wikipedia]
+419,digitrubber#DIGITRUBBER_000267,baseline correction [ifnano],"A pre-processing technique used to separate true spectroscopic signals from interference effects or remove background effects, stains, or traces of compounds. It adjusts the spectral offset."
+420,digitrubber#DIGITRUBBER_000268,Standard deviation [ms],"The standard deviation of a random variable, statistical population, data set, or probability distribution is a measure of variation which correspond to the average distance from the mean of the data set to any given point of that dataset. It also corresponds to the square root of its variance."
+421,digitrubber#DIGITRUBBER_000269,Mooney viscosity [ifnano],The viscosity of rubber using a standard test method and Mooney Viscometer.
+422,digitrubber#DIGITRUBBER_000270,Monomer [ifnano],"Asubstance which is capable of forming covalent bonds with a
+sequence of additional like or unlike molecules under the conditions of the relevant polymerforming reaction used for the particular process"
+423,digitrubber#DIGITRUBBER_000271,Monomer [ncit],A chemical subunit that can undergo polymerization by bonding to other subunits.
+424,digitrubber#DIGITRUBBER_000272,polymer [ifnano],"a substance consisting of molecules characterised by the sequence of one or more
+types of monomer unit. Such molecules must be distributed over a range of molecular weights."
+425,digitrubber#DIGITRUBBER_000273,polymer [chebi],"A polymer is a mixture, which is composed of macromolecules of different kinds and which may be differentiated by composition, length, degree of branching etc.."
+426,digitrubber#DIGITRUBBER_000276,Polymer Composition [ifnano],The relative proportions of monomers that make up a particular chemical polymer (raw rubber).
+427,digitrubber#DIGITRUBBER_000277,Composition [fso],Composition of the material or substance.
+428,digitrubber#DIGITRUBBER_000278,Composition [pato],A single physical entity inhering in an bearer by virtue of the bearer's quantities or relative ratios of subparts. [PATO]
+429,digitrubber#DIGITRUBBER_000279,Composition [ncit],"The way in which something is made, especially in terms of its different parts; its constituents."
+430,digitrubber#DIGITRUBBER_000280,sample [ifnano],"A material entity, which is part of a larger set of the same material entity"
+431,digitrubber#DIGITRUBBER_000281,agglomerate [dik],Group of interlocked aggregates that are easily separated by normal rubber processing
+432,digitrubber#DIGITRUBBER_000282,aggregate [dik],Rigid group of coalesced particles which is the smallest entity that can be dispersed by normal rubber processing
+433,digitrubber#DIGITRUBBER_000283,particle [dik],Smallest discernible spherical or nearly spherical unit which can exist separately
+434,digitrubber#DIGITRUBBER_000284,particle [ncit],An object with finite mass and size parameters.
+435,digitrubber#DIGITRUBBER_000285,Polymer [dik],substance composed of molecules characterized by the multiple repetition of one or more species of atoms or groups of atoms (constitutional units) linked to each other in amounts sufficient to provide a set of properties that do not vary markedly with the addition or removal of one or a few of the constitutional units
+436,digitrubber#DIGITRUBBER_000294,Keltan 5470C [dik],Trade name for a specific EPDM rubber
+437,digitrubber#DIGITRUBBER_000295,Filler [dik],"solid compounding ingredient, in particulate form, which may be added in relatively large proportions to a rubber or rubber latex for technical or economic purposes"
+438,digitrubber#DIGITRUBBER_000300,N600-Carbon Black [dik],An N carbon black with an average nitrogen surface area of 33 to 39 m²/g.
+439,digitrubber#DIGITRUBBER_000301,Corax N660 [dik],Trade name for a specific N600-carbon black
+440,digitrubber#DIGITRUBBER_000302,Softener [dik],compounding ingredient used in small proportions to reduce the viscosity of an unvulcanized rubber mix or the hardness of a vulcanizate
+441,digitrubber#DIGITRUBBER_000303,Paraffinic Oil [dik],"hydrocarbon process oil, most or all of which is composed of alkanes"
+442,digitrubber#DIGITRUBBER_000304,‎P460 [dik],Trade name for a specific paraffinic oil
+443,digitrubber#DIGITRUBBER_000305,Process Oil [dik],hydrocarbon oil derived from petroleum or other sources and used as an extender or processing aid
+444,digitrubber#DIGITRUBBER_000306,Processing Aid [dik],compounding ingredient which improves the processability of a rubber compound or mix
+445,digitrubber#DIGITRUBBER_000307,antidegradant [dik],compounding ingredient used to retard deterioration by ageing
+446,digitrubber#DIGITRUBBER_000308,Antilux 500‎ [dik],Trade name for a specific antidegradant
+447,digitrubber#DIGITRUBBER_000309,activator [dik],compounding ingredient used in small proportions to increase the effectiveness of an accelerator
+448,digitrubber#DIGITRUBBER_000310,activator [ncit],"A class of substances that binds to, activates and increases the activity of a target."
+449,digitrubber#DIGITRUBBER_000312,Zinkoxid Rotsiegel [dik],Trade name for a specific zinc oxide
+450,digitrubber#DIGITRUBBER_000314,Stearic Acid [ncit],"A saturated long-chain fatty acid with an 18-carbon backbone. Stearic acid is found in various animal and plant fats, and is a major component of cocoa butter and shea butter."
+451,digitrubber#DIGITRUBBER_000315,PALMERA B 1802-CG [dik],Trade name for a specific stearic acid
+452,digitrubber#DIGITRUBBER_000316,accelerator [dik],compounding ingredient used in small amounts with a vulcanizing agent to increase the speed of vulcanization and/or enhance the physical properties of the vulcanizate
+453,digitrubber#DIGITRUBBER_000317,primary accelerator [dik],principal accelerator used in a vulcanizing system
+454,digitrubber#DIGITRUBBER_000318,secondary accelerator [dik],accelerator used in low concentrations with the primary accelerator to optimize cure rate and vulcanizate properties
+455,digitrubber#DIGITRUBBER_000321,di(benzothiazol-2-yl)disulfide [chebi],"An organic disulfide resulting from the formal oxidative coupling of the thiol groups of two molecules of 1,3-benzothiazole-2-thiol. It is used as an accelerator in the rubber industry."
+456,digitrubber#DIGITRUBBER_000322,Vulkacit MBTS [dik],Trade name for a specific di(benzothiazol-2-yl)disulfide
+457,digitrubber#DIGITRUBBER_000325,Luvomaxx TbzTD [dik],Trade name for a specific tetrabenzylthiuramdisulfide
+458,digitrubber#DIGITRUBBER_000327,dithiocarbamate [chebi],A member of the class of dithiocarbamate anions resulting from the deprotonation of both of the dithiocarbamic acid moieties of ethylenebis(dithiocarbamic acid). The major species at pH 7.3.
+459,digitrubber#DIGITRUBBER_000329,Rhenogran ‎ZBDC 80‎ [dik],Trade name for a specific zinc dibenzyldithiocarbamate
+460,digitrubber#DIGITRUBBER_000330,Vulcanizing Agent [dik],compounding ingredient that produces crosslinking in rubber
+461,digitrubber#DIGITRUBBER_000331,Vulcanizing System [dik],"combination of vulcanizing agent and, as required, accelerators, activators, retarders, etc., used to produce the desired vulcanization characteristics and vulcanizate properties"
+462,digitrubber#DIGITRUBBER_000332,Cure Rate [dik],rate at which a rubber compound vulcanizes after having reached the point of incipient vulcanization
+463,digitrubber#DIGITRUBBER_000333,Retarder [dik],compounding ingredient used to reduce the tendency of a rubber compound to vulcanize prematurely
+464,digitrubber#DIGITRUBBER_000335,PHR [dik],mass of compounding ingredient added to one hundred mass units of elastomer
+465,digitrubber#DIGITRUBBER_000336,Formulation [dik],"list of compounding ingredients and their proportions, used in the preparation of a compound"
+466,digitrubber#DIGITRUBBER_000337,Compounding Ingredient [dik],substance added to a rubber or rubber latex to form a mix
+467,digitrubber#DIGITRUBBER_000338,Compound [dik],intimate mixture of a rubber or rubbers or other polymer-forming materials with all the ingredients necessary for the finished product
+468,digitrubber#DIGITRUBBER_000341,Mill [dik],"machine with two counter-rotating rolls, frequently heated or cooled, usually driven at different speeds, and having an adjustable nip for mastication, mixing, blending, warm-up or sheeting"
+469,digitrubber#DIGITRUBBER_000342,Roll [dik],"cylinder forming a major, rotating member of a calender or mill"
+470,digitrubber#DIGITRUBBER_000345,Rotational Frequency [dik],A physical quality which inheres in a bearer by virtue of its speed rotating around itself.
+471,digitrubber#DIGITRUBBER_000347,Rotational Frequency Unit [uo],"""A unit which is a standard measure of the number of rotations in a given time."" [NIST:NIST]"
+472,digitrubber#DIGITRUBBER_000349,Frequency Unit [uo],"""A unit which is a standard measure of the number of repetitive actions in a particular time."" [NIST:NIST]"
+473,digitrubber#DIGITRUBBER_000350,Frequency Unit [ncit],An indication of the type of unit of measure being used to express a number of regular events in a given time per unit of time.
+474,digitrubber#DIGITRUBBER_000351,Turns per Second [dik],A rotational frequency unit which is equal to the number of completed turns in a period of time that equals to 1 second.
+475,digitrubber#DIGITRUBBER_000352,Turns per Second [uo],"""A rotational frequency unit which is equal to the number complete turn in a period of time that equals to 1 second."" [NIST:NIST]"
+476,digitrubber#DIGITRUBBER_000353,Turns per Minute [dik],A rotational frequency unit which is equal to the number of completed turns in a period of time that equals to 1 minute.
+477,digitrubber#DIGITRUBBER_000354,Discriminant analysis [ifnano],Is a supervised classification method and it is used to build classification rules of a number of prespecified clases.
+478,digitrubber#DIGITRUBBER_000358,Temperature [ncit],"A measure of the average kinetic energy of a system of particles. Temperature may be quantified, in the context of thermodynamics, as the potential of one system to transfer thermal energy to another system until both systems reach a state of thermal equilibrium."
+479,digitrubber#DIGITRUBBER_000359,Temperature [pato],A physical quality of the thermal energy of a system.
+480,digitrubber#DIGITRUBBER_000360,Temperature [om],Temperature is the extent to which an object is hot.
+481,digitrubber#DIGITRUBBER_000361,Temperature [efo],Temperature is a physical quality of the thermal energy of a system.
+482,digitrubber#DIGITRUBBER_000363,Temperature Unit [uo],"""A unit which is a standard measure of the average kinetic energy of the particles in a sample of matter."" [Wikipedia:Wikipedia]"
+483,digitrubber#DIGITRUBBER_000364,Temperature Unit [ncit],An indication of the type of unit of measure being used to express a temperature.
+484,digitrubber#DIGITRUBBER_000370,NIP [dik],radial clearance between the roll surfaces of a mill or calender on a line of centres
+485,digitrubber#DIGITRUBBER_000371,Sheeting [dik],"Process of converting a rubber or rubber mix, rubber dough or coagulated latex into a form in which the thickness is small in proportion to the length"
+486,digitrubber#DIGITRUBBER_000372,Dispersion [dik],"Distribution of one or more ingredients into a rubber, a rubber blend or a continuum material, by the application of shearing forces, in order to confer optimum and uniform properties"
+487,digitrubber#DIGITRUBBER_000373,Mastication [dik],"the molecular mass of a rubber, in either the raw or the mixed state, by the action of mechanical work (shear) and atmospheric oxygen, sometimes assisted by peptizers and heat"
+488,digitrubber#DIGITRUBBER_000374,Mastication [ncit],The process by which food is torn or crushed by the teeth.
+489,digitrubber#DIGITRUBBER_000375,Mastication [hp],The process of biting and mashing food with the teeth prior to swallowing.
+490,digitrubber#DIGITRUBBER_000376,Processability [dik],relative ease with which raw or compounded rubbers can be handled in rubber-processing machinery
+491,digitrubber#DIGITRUBBER_000377,Mixer Device [dik],A device for mixing/blending materials or signals.
+492,digitrubber#DIGITRUBBER_000378,Mixer Device [ncit],A mechanical device designed to blend materials or an electronic device designed to blend signals.
+493,digitrubber#DIGITRUBBER_000379,Mechanical Mixer [dik],A mixer device designed for mechanically mixing/blending materials.
+494,digitrubber#DIGITRUBBER_000380,Mechanical Mixer [ncit],A mechanical component designed to blend materials.
+495,digitrubber#DIGITRUBBER_000381,Internal Mixer [dik],machine with temperature controls containing one or more rotors operating in a closed cavity used to masticate and/or to incorporate and disperse compounding ingredients into the rubber
+496,digitrubber#DIGITRUBBER_000396,Torque [om],"Torque is the effectiveness of a force to produce rotation about an axis, measured by the product of the force and the perpendicular distance from the line of action of the force to the axis."
+497,digitrubber#DIGITRUBBER_000402,Length [ncit],"The linear extent in space from one end of something to the other end, or the extent of something from beginning to end."
+498,digitrubber#DIGITRUBBER_000403,Length [pato],A 1-D extent quality which is equal to the distance between two points.
+499,digitrubber#DIGITRUBBER_000404,Length [om],"Length is the amount of space between two geographical points along a curve. It is a base quantity in the International System of Units and other systems of units. Length is speed times time. The metre, a base unit of length in the International System of Units, is defined in terms of speed of light during a certain time interval."
+500,digitrubber#DIGITRUBBER_000405,Length [ms],PEFF keyword for the sequence length.
+501,digitrubber#DIGITRUBBER_000407,Length Unit [uo],"""A unit which is a standard measure of the distance between two points."" [Wikipedia:Wikipedia]"
+502,digitrubber#DIGITRUBBER_000408,Length Unit [ncit],An indication of the type of unit of measure being used to express a length or distance.
+503,digitrubber#DIGITRUBBER_000410,millimeter [ncit],A metric unit of length equal to one thousandth of a meter (10E-3 meter) or approximately 0.03937 inch.
+504,digitrubber#DIGITRUBBER_000411,millimeter [uo],"""A length unit which is equal to one thousandth of a meter or 10^[-3] m."" [NIST:NIST]"
+505,digitrubber#DIGITRUBBER_000416,Power [pato],A physical quality inhering in a bearer by virtue of the bearer's rate of doing work.
+506,digitrubber#DIGITRUBBER_000417,Power [om],Power is the time rate at which work is done. It is a derived quantity in the International System of Units. Power is energy divided by time.
+507,digitrubber#DIGITRUBBER_000420,Filling Ratio [dik],A physical quality which inheres in a bearer by virtue of the ratio of the volume of a substance contained in the bearer and the bearer's own volume.
+508,digitrubber#DIGITRUBBER_000422,batch [dik],Product of one mixing operation
+509,digitrubber#DIGITRUBBER_000423,batch [ncit],"A quantity of people or things treated or regarded as a group, especially when subdivided from a larger group."
+510,digitrubber#DIGITRUBBER_000424,Extruder [dik],"machine which, through the use of a screw or a hydraulic ram, continuously shapes a material by forcing it through a die or dies"
+511,digitrubber#DIGITRUBBER_000428,Screw [dik],"rotating member with one or more helical grooves, used to propel rubber along the barrel of an extruder"
+512,digitrubber#DIGITRUBBER_000429,Die [dik],"that part of an extruder through which material is forced, forming a profile of the extrudate"
+513,digitrubber#DIGITRUBBER_000430,Extrudate [dik],product of an extrusion process
+514,digitrubber#DIGITRUBBER_000431,Extruder Head [dik],that part of an extruder which houses the die and die holder
+515,digitrubber#DIGITRUBBER_000432,Extrusion [dik],continuous shaping of a material by passage through a die
+516,digitrubber#DIGITRUBBER_000433,Extrusion [rex],"A transformation in which an atom or group Y connected to two other atoms or groups X and Z is lost from a molecule, leading to a product in which X is bonded to Z, e.g. X-Y-Z --> X-Z + Y."
+517,digitrubber#DIGITRUBBER_000434,Extrusion [chmo],A process used to create objects of a fixed cross-sectional profile by forcing or drawing a material through a die.
+518,digitrubber#DIGITRUBBER_000435,Die Swell [dik],"difference between the dimensions of the cross-section of an extrudate and the corresponding dimensions of the die orifice, usually quantified as the percentage increase in the crosssectional area"
+519,digitrubber#DIGITRUBBER_000442,Surface [ncit],The extended two-dimensional outer boundary of a three-dimensional object.
+520,digitrubber#DIGITRUBBER_000447,Pressure [pato],A physical quality that inheres in a bearer by virtue of the bearer's amount of force per unit area it exerts.
+521,digitrubber#DIGITRUBBER_000448,Pressure [om],Pressure is the force applied to or distributed over a surface. It is a derived quantity in the International System of Units. Pressure is force divided by area.
+522,digitrubber#DIGITRUBBER_000452,Sensor [sosa],"Device, agent (including humans), or software (simulation) involved in, or implementing, a Procedure. Sensors respond to a stimulus, e.g., a change in the environment, or input data composed from the results of prior Observations, and generate a Result. Sensors can be hosted by Platforms."
+523,digitrubber#DIGITRUBBER_000453,Sensor [chmo],A piece of apparatus that is used to measure a physical quantity.
+524,digitrubber#DIGITRUBBER_000475,Crosslink Density [dik],number of crosslinks per unit volume or unit mass of vulcanizate
+525,digitrubber#DIGITRUBBER_000476,Vulcanizate [dik],product of the vulcanization of a rubber compound
+526,digitrubber#DIGITRUBBER_000477,Crosslink [dik],chemical bond or atom(s) joining two rubber chains or two parts of the same rubber chain as a result of vulcanization
+527,digitrubber#DIGITRUBBER_000478,Crosslink [ncit],Any covalent linkage between two polymers or between two different regions of the same polymer.
+528,digitrubber#DIGITRUBBER_000479,Crosslinking [dik],〈act of〉 insertion of crosslinks between or within rubber chains to give a network structure
+529,digitrubber#DIGITRUBBER_000480,State of Cure [dik],"condition of a vulcanizate during the course of vulcanization, measured in terms of its structure or properties"
+530,digitrubber#DIGITRUBBER_000481,Vulcanization [dik],"process, usually involving heat, in which rubber, through a change in its chemical structure (for example, crosslinking), is converted to a condition in which the elastic properties are conferred or re-established or improved or extended over a greater range of temperatures"
+531,digitrubber#DIGITRUBBER_000482,autoclave [dik],pressurized vessel used for vulcanizing rubber in a vapour or gas
+532,digitrubber#DIGITRUBBER_000484,autoclave [chmo],A thick-walled steel vessel used during synthesis methods that require both high pressures and high temperatures.
+533,digitrubber#DIGITRUBBER_000485,Plateau Cure [dik],type of vulcanization during which the modulus of the vulcanizate proceeds to a maximum and then remains essentially constant for a substantial period at the vulcanization temperature
+534,digitrubber#DIGITRUBBER_000486,Optimum Cure [dik],condition of vulcanization required to achieve an acceptable compromise among a number of desired vulcanizate properties or the optimum value of a selected property
+535,digitrubber#DIGITRUBBER_000487,Overcure [dik],state of vulcanization beyond the optimum cure
+536,digitrubber#DIGITRUBBER_000488,Undercure [dik],state of vulcanization less than the optimum cure
+537,digitrubber#DIGITRUBBER_000489,Sample [dik],one or more items taken from a lot and intended to provide information on the lot and possibly to serve as a basis for a decision on the lot or on the process which had produced it
+538,digitrubber#DIGITRUBBER_000490,Sample [sosa],Feature which is intended to be representative of a FeatureOfInterest on which Observations may be made.
+539,digitrubber#DIGITRUBBER_000491,Sample [nmrcv],tempdef: A sample is a role that is played by an object of interest in an investigation used to obtain generalizable information about the sample source. defprov: Daniel Schober
+540,digitrubber#DIGITRUBBER_000492,Test Piece [dik],"piece of material of appropriate shape and size, prepared so that it is ready for use in a test"
+541,digitrubber#DIGITRUBBER_000493,Scrap Rubber [dik],"raw, compounded, vulcanized or partially vulcanized rubber in the form of end-of-life rubber products or factory scrap"
+542,digitrubber#DIGITRUBBER_000494,Factory Scrap [dik],"raw, compounded, vulcanized or partially vulcanized rubber rejected or generated as waste during product manufacture and found unsuitable for further use unless recycled"
+543,digitrubber#DIGITRUBBER_000496,Physical Object Quality [pato],A quality of a physical entity that exists through action of continuants at the physical level of organisation in relation to other entities.
+544,digitrubber#DIGITRUBBER_000498,Physical Quality [pato],A quality which inheres in a continuant.
+545,digitrubber#DIGITRUBBER_000500,Measurement Unit Label [pato],A measurement unit label is as a label that is part of a scalar measurement datum and denotes a unit of measure.
+546,digitrubber#DIGITRUBBER_000502,Datum Label [iao],A label is a symbol that is part of some other datum and is used to either partially define the denotation of that datum or to provide a means for identifying the datum as a member of the set of data with the same label
+547,digitrubber#DIGITRUBBER_000504,assay [ncit],A qualitative or quantitative analysis performed to determine the amount of a particular constituent in a sample or the biological or pharmacological properties of a drug.
+548,digitrubber#DIGITRUBBER_000505,assay [obi],"A planned process with the objective to produce information about the material entity that is the evaluant, by physically examining it or its proxies."
+549,digitrubber#DIGITRUBBER_000506,Density Measurement Assay [dik],"An assay with the objective to produce information about the density of the material entity that is the evaluant, by physically examining it or its proxies."
+550,digitrubber#DIGITRUBBER_000507,Mass Density [dik],"mass per unit volume of a material, including any voids present"
+551,digitrubber#DIGITRUBBER_000508,Mass Density [ncit],"A measure of the compactness of a substance, expressed as its mass per unit volume."
+552,digitrubber#DIGITRUBBER_000509,Mass Density [pato],A physical quality which inheres in a bearer by virtue of some influence is exerted by the bearer's mass per unit size.
+553,digitrubber#DIGITRUBBER_000511,Mass Density Unit [uo],"""A density unit which is a standard measure of the mass of a substance in a given volume."" [UOC:GVG]"
+554,digitrubber#DIGITRUBBER_000512,Unit Of Mass Density [ncit],An indication of the type of unit of measure being used to express a mass density.
+555,digitrubber#DIGITRUBBER_000514,Gram Per Cubic Centimeter [uo],"""A mass unit density which is equal to mass of an object in grams divided by the volume in cubic centimeters."" [UOC:GVG]"
+556,digitrubber#DIGITRUBBER_000515,Viscosity Measurement Assay [dik],"An assay with the objective to produce information about the viscosity of the material entity that is the evaluant, by physically examining it or its proxies."
+557,digitrubber#DIGITRUBBER_000516,Mooney Viscosity Measurement Assay [dik],"An assay with the objective to produce information about the Mooney viscosity of the material entity that is the evaluant, by physically examining it or its proxies."
+558,digitrubber#DIGITRUBBER_000518,Viscosity [ncit],The resistance of a liquid to sheer forces and flow.
+559,digitrubber#DIGITRUBBER_000519,Viscosity [pato],A physical quality of a fluid inhering in a bearer by virtue of the bearer's disposition to internal resistance to flow.
+560,digitrubber#DIGITRUBBER_000520,Mooney Viscosity [dik],"measure of the viscosity of a raw rubber or rubber compound, determined using a Mooney shearing-disc viscometer"
+561,digitrubber#DIGITRUBBER_000522,Viscosity Unit [uo],"""A unit which is a standard measure of the internal resistance of fluids to flow."" [UOC:GVG]"
+562,digitrubber#DIGITRUBBER_000523,Mooney Viscosity Unit [dik],A viscosity unit which is a standard measure of the Mooney viscosity.
+563,digitrubber#DIGITRUBBER_000526,Quality of a Substance [pato],A quality inhering in a bearer by virtue of its constitution.
+564,digitrubber#DIGITRUBBER_000528,Quality of a Liquid [pato],"A physical quality inhering in an entity exhibiting the physical characteristics of an amorphous (non-crystalline) form of matter between a gas and a solid that has a definite volume, but no definite shape."
+565,digitrubber#DIGITRUBBER_000530,Protocol [ncit],A rule which guides how an activity should be performed.
+566,digitrubber#DIGITRUBBER_000531,Protocol [obi],"A plan specification which has sufficient level of detail and quantitative information to communicate it between investigation agents, so that different investigation agents will reliably be able to independently reproduce the process."
+567,digitrubber#DIGITRUBBER_000532,Protocol [edam],A human-readable collection of information about about how a scientific experiment or analysis was carried out that results in a specific set of data or results used for further analysis or to test a specific hypothesis.
+568,digitrubber#DIGITRUBBER_000533,Measurement Protocol [dik],"A protocol which specifies the conditions, procedures, and instruments used for conducting a measurement assay in a sufficient level of detail to communicate it between investigation agents, so that different investigation agents will reliably be able to independently reproduce the measurement assay."
+569,digitrubber#DIGITRUBBER_000534,Material Processing Protocol [dik],"A protocol which specifies the conditions, procedures, and instruments used for conducting a material processing in a sufficient level of detail to communicate it between investigation agents, so that different investigation agents will reliably be able to independently reproduce the material processing."
+570,digitrubber#DIGITRUBBER_000536,Density Measurement Protocol [dik],A measurement protocol for reliably reproducing the density measurement assay.
+571,digitrubber#DIGITRUBBER_000537,Viscosity Measurement Protocol [dik],A measurement protocol for reliably reproducing the viscosity measurement assay.
+572,digitrubber#DIGITRUBBER_000538,Mooney Viscosity Measurement Protocol [dik],A viscosity measurement protocol for reliably reproducing the Mooney viscosity measurement assay.
+573,digitrubber#DIGITRUBBER_000540,Degree Celsius [ncit],A unit of temperature of the temperature scale designed so that the freezing point of water is 0 degrees and the boiling point is 100 degrees at standard atmospheric pressure. The current official definition of the Celsius sets 0.01 C to be at the triple point of water and a degree to be 1/273.16 of the difference in temperature between the triple point of water and absolute zero. One degree Celsius represents the same temperature difference as one Kelvin. [ NCI ]
+574,digitrubber#DIGITRUBBER_000541,Degree Celsius [uo],"""A temperature unit which is equal to one kelvin degree. However, they have their zeros at different points. The centigrade scale has its zero at 273.15 K."" [NIST:NIST]"
+575,digitrubber#DIGITRUBBER_000542,Degree Celsius [om],The degree Celsius is a unit of temperature defined as 1 kelvin. The degree Celsius is a derived unit in the International System of Units.
+576,digitrubber#DIGITRUBBER_000544,Material Processing [obi],A planned process which results in physical changes in a specified input material
+577,digitrubber#DIGITRUBBER_000546,Function [ncit],The normal action performed by a structure or device.
+578,digitrubber#DIGITRUBBER_000547,Function [mi],Biological function of a participant or of an interaction.
+579,digitrubber#DIGITRUBBER_000549,Device [ncit],An object contrived for a specific purpose.
+580,digitrubber#DIGITRUBBER_000550,Device [obi],"A material entity that is designed to perform a function in a scientific investigation, but is not a reagent."
+581,digitrubber#DIGITRUBBER_000552,Measurement Device [ncit],Any device used to determine the dimension of an object.
+582,digitrubber#DIGITRUBBER_000553,Measurement Device [obi],A device in which a measure function inheres.
+583,digitrubber#DIGITRUBBER_000555,Processed Material [obi],Is a material entity that is created or changed during material processing.
+584,digitrubber#DIGITRUBBER_000557,Mixing [chmo],"The combining of components, particles or layers into a more homogeneous state. The mixing may be achieved manually or mechanically by shifting the material with stirrers or pumps or by revolving or shaking the container. The process μst not permit segregation of particles of different size or properties. Homogeneity may be considered to have been achieved in a practical sense when the sampling error of the processed portion is negligible compared to the total error of the measurement system. [ https://doi.org/10.1351/goldbook.M03945 ]"
+585,digitrubber#DIGITRUBBER_000558,mix,To bring or combine together or with something else; add as an additional element or part.
+586,digitrubber#DIGITRUBBER_000559,Iodine Adsorption Number [dik],Number of grams of iodine adsorbed per kilogram of carbon black under specified conditions
+587,digitrubber#DIGITRUBBER_000563,Oil Absorption Number [dik],The oil absorption number of a carbon black is related to the processing and vulcanizate properties of rubber compounds containing the carbon black
+588,digitrubber#DIGITRUBBER_000564,Kinematic Viscosity [dik],Kinematic viscosity is the quotient of the dynamic viscosity of the medium and its density.
+589,digitrubber#DIGITRUBBER_000565,Kinematic Viscosity [uo],"The ratio of the dynamic viscosity (μ) over the density of the fluid (ρ), which is noted as (length)^2/time. https://en.wikipedia.org/wiki/Viscosity#Kinematic_viscosity"
+590,digitrubber#DIGITRUBBER_000568,Molecular Weight [mi],"Molecular weight in g/mol, determined from molecular formula or sequence."
+591,digitrubber#DIGITRUBBER_000572,Complex Shear Modulus [dik],"ratio of the shear stress to the shear strain, where each can be represented by a complex number"
+592,digitrubber#DIGITRUBBER_000573,Complex Young’s Modulus [dik],"ratio of the normal stress to the normal strain, where each can be represented by a complex number"
+593,digitrubber#DIGITRUBBER_000574,Elastic Shear Modulus [dik],"that component of an applied shear stress which is in phase with the shear strain, divided by the strain"
+594,digitrubber#DIGITRUBBER_000575,Elastic Young’s Modulus [dik],"that component of an applied normal stress which is in phase with the normal strain, divided by the strain"
+595,digitrubber#DIGITRUBBER_000576,Loss Shear Modulus [dik],"that component of an applied shear stress which is in quadrature (90° out of phase) with the shear strain, divided by the strain"
+596,digitrubber#DIGITRUBBER_000577,Loss Young’s Modulus [dik],"that component of an applied normal stress which is in quadrature (90° out of phase) with the normal strain, divided by the strain"
+597,digitrubber#DIGITRUBBER_000578,Modulus [dik],measure of stiffness under specified conditions of deformation
+598,digitrubber#DIGITRUBBER_000579,Tan Delta [dik],ratio of the viscous modulus to the elastic modulus
+599,digitrubber#DIGITRUBBER_000583,Oscillating-Disc Curemeter [dik],type of curemeter in which the force applied to the rubber compound is produced by an oscillating disc embedded in a test sample which is contained under pressure in a sealed cavity
+600,digitrubber#DIGITRUBBER_000584,Rotorless Curemeter [dik],type of curemeter in which the force applied to the rubber compound is produced by the oscillation of one of the two dies forming the cavity in which the test sample is enclosed
+601,digitrubber#DIGITRUBBER_000585,Vulcameter [dik],device that measures the progress of vulcanization in a test sample at the vulcanizing temperature
+602,digitrubber#DIGITRUBBER_000586,Platen Press [dik],press having two or more super-imposed heated platens between which moulds are pressed
+603,digitrubber#DIGITRUBBER_000587,Platen [dik],flat metal plate (or chest) which applies heat and pressure to one or more mould(s) in a press
+604,digitrubber#DIGITRUBBER_000589,Concentration Measurement Assay [dik],"An assay with the objective to produce information about the concentration of a specific substance in the material entity that is the evaluant, by physically examining it or its proxies."
+605,digitrubber#DIGITRUBBER_000590,Ethylene Concentration Measurement Assay [dik],"A concentration measurement assay with the objective to produce information about the concentration of ethylene in the material entity that is the evaluant, by physically examining it or its proxies."
+606,digitrubber#DIGITRUBBER_000591,Ethylidene Norbornene Concentration Measurement Assay [dik],"A concentration measurement assay with the objective to produce information about the concentration of ethylidene norbornene in the material entity that is the evaluant, by physically examining it or its proxies."
+607,digitrubber#DIGITRUBBER_000592,Molecular Weight Distribution Measurement Assay [dik],"An assay with the objective to produce information about the molecular weight distribution of the material entity that is the evaluant, by physically examining it or its proxies."
+608,digitrubber#DIGITRUBBER_000593,Concentration Measurement Protocol [dik],A measurement protocol for reliably reproducing the concentration measurement assay.
+609,digitrubber#DIGITRUBBER_000594,Ethylene Concentration Measurement Protocol [dik],A concentration measurement protocol for reliably reproducing the ethylene concentration measurement assay.
+610,digitrubber#DIGITRUBBER_000595,Ethylidene Norbornene Concentration Measurement Protocol [dik],A concentration measurement protocol for reliably reproducing the ethylidene norbornene concentration measurement assay.
+611,digitrubber#DIGITRUBBER_000596,Molecular Weight Distribution Measurement Protocol [dik],A measurement protocol for reliably reproducing the molecular weight distribution measurement assay.
+612,digitrubber#DIGITRUBBER_000601,organodiyl group [chebi],"Any organic substituent group, regardless of functional type, having two free valences at carbon atom(s)."
+613,digitrubber#DIGITRUBBER_000604,organic group [chebi],Any substituent group or skeleton containing carbon.
+614,digitrubber#DIGITRUBBER_000606,group [ncit],Any number of entities (members) considered as a unit.
+615,digitrubber#DIGITRUBBER_000607,group [chebi],A defined linked collection of atoms or a single atom within a molecular entity.
+616,digitrubber#DIGITRUBBER_000610,Percent [uo],"""A dimensionless ratio unit which denotes numbers as fractions of 100."" [Wikipedia:Wikipedia]"
+617,digitrubber#DIGITRUBBER_000611,Percent [om],The percent is a unit of dimension one defined as 1/100.
+618,digitrubber#DIGITRUBBER_000613,Ratio [ncit],Quotient of quantities of the same kind for different components within the same system.
+619,digitrubber#DIGITRUBBER_000614,Ratio [uo],"""A dimensionless ratio unit which, given a pair of quantities a and b, for which b is a multiple of a, denotes b by giving the multiplier (coefficient) c for a to result in b."" [UOB:LKSR]"
+620,digitrubber#DIGITRUBBER_000615,Ratio [uo],"""A dimensionless unit which denotes an amount or magnitude of one quantity relative to another."" [Wikipedia:Wikipedia]"
+621,digitrubber#DIGITRUBBER_000616,Ratio [ms],"A ratio is a data item which is formed with two numbers r and s is written r/s, where r is the numerator and s is the denominator. The ratio of r to s is equivalent to the quotient r/s."
+622,digitrubber#DIGITRUBBER_000618,Dimensionless Unit [ms],"""A unit which is a standard measure of physical quantity consisting of only a numerical number without any units."" [Wikipedia:Wikipedia]"
+623,digitrubber#DIGITRUBBER_000620,Mass Percentage [uo],"""A dimensionless concentration unit which denotes the mass of a substance in a mixture as a percentage of the mass of the entire mixture."" [Wikipedia:Wikipedia]"
+624,digitrubber#DIGITRUBBER_000622,Volume Percentage [uo],"""A dimensionless concentration unit which denotes the volume of the solute in mL per 100 mL of the resulting solution."" [UOC:GVG]"
+625,digitrubber#DIGITRUBBER_000624,Concrentration [pato],A quality inhering in a substance by virtue of the amount of the bearer's there is mixed with another substance.
+626,digitrubber#DIGITRUBBER_000625,Concrentration [edam],The concentration of a chemical compound.
+627,digitrubber#DIGITRUBBER_000626,Concrentration [chmo],Experimental method output expressing the contribution of one constituent to the composition of a mixture.
+628,digitrubber#DIGITRUBBER_000627,Concrentration [ncit],"The quantity of a substance per unit volume or weight; a measure of the amount of substance present in a unit amount of mixture, particularly, the amount of solute dissolved in a solvent. The amounts can be expressed as moles, masses, volumes, or parts."
+629,digitrubber#DIGITRUBBER_000628,Concrentration [ecso],the strength of a solution; number of molecules of a substance in a given volume
+630,digitrubber#DIGITRUBBER_000630,Molecular Quality [pato],"A quality which inheres in a molecular entity, a single molecule, atom, ion, radical etc."
+631,digitrubber#DIGITRUBBER_000631,Ethylene Concentration [dik],A concentration of ethylene inhering in a substance by virtue of the amount of the bearer's there is mixed with ethylene.
+632,digitrubber#DIGITRUBBER_000632,Ethylidene Norbornene Concentration [dik],A concentration of ethylidene norbornene inhering in a substance by virtue of the amount of the bearer's there is mixed with ethylidene norbornene.
+633,digitrubber#DIGITRUBBER_000635,Quality of a Solid [pato],A physical quality inhering in a bearer by virtue of the bearer's exhibiting the physical characteristics of an entity characterized by particles arranged such that their shape and volume are relatively stable.
+634,digitrubber#DIGITRUBBER_000637,Optical Quality [pato],An EM radiation quality in which the EM radiation is within the fiat range of the spectrum visible deemed to be light.
+635,digitrubber#DIGITRUBBER_000638,Standard Normal Variate (SNV) [ifnano],Is a transformation applied to spectroscopic data to remove scatter effects by centering and scalling each individual spectrum.
+636,digitrubber#DIGITRUBBER_000639,Smmothing [ifnano],Removing noise or spikes in correlated data such as spectroscopic data using a row-oriented transformation.
+637,digitrubber#DIGITRUBBER_000640,Normalization [ifnano],Scaling spectra in order to get all data on approximately the same scale.
+638,digitrubber#DIGITRUBBER_000641,Prediction [ifnano],Estimation of unknown response values using a regression model.
+639,digitrubber#DIGITRUBBER_000642,Butadiene rubber BR [ifnano],"Polybutadiene [butadiene rubber BR] is a synthetic rubber. Polybutadiene rubber is a polymer formed from the polymerization of the monomer 1,3-butadiene. Polybutadiene has a high resistance to wear and is used especially in the manufacture of tires."
+640,digitrubber#DIGITRUBBER_000643,Functional group [ifnano],"An atom or group of atoms within a molecule that has similar chemical properties whenever it appears in various compounds. Even if other parts of the molecule are quite different, certain functional groups tend to react in certain ways."
+641,digitrubber#DIGITRUBBER_000644,Butyl rubber BIIR [ifnano],"Is a synthetic rubber, a copolymer of isobutylene with isoprene"
+642,digitrubber#DIGITRUBBER_000645,EPDM rubber [ifnano],"EPDM rubber (ethylene propylene diene monomer rubber) is a type of synthetic rubber that is composed of ethylidene norbornene (ENB), dicyclopentadiene (DCPD), and vinyl norbornene (VNB)."
+643,digitrubber#DIGITRUBBER_000646,Polyisoprene IR [ifnano],"A synthetic cis-1,4-polyisoprene, made by the industrial polymerisation of isoprene."
+644,digitrubber#DIGITRUBBER_000647,Nitrile rubber NBR [ifnano],"Known as nitrile butadiene rubber and acrylonitrile butadiene rubber, is a synthetic rubber derived from acrylonitrile (ACN) and butadiene."
+645,digitrubber#DIGITRUBBER_000648,Fluororubber FKM [ifnano],Is a family of fluorocarbon-based fluoroelastomer materials that contain vinylidene fluoride as a monomer.
+646,digitrubber#DIGITRUBBER_000649,Hydrogenated Nitrile rubber HNBR [ifnano],"Highly Saturated Nitrile. A Higher performance solid rubber material than NBR, achieved through adding Hydrogen Atoms to the Butadiene Segments."
+647,digitrubber#DIGITRUBBER_000650,Styrene-butadiene rubber SBR [ifnano],Families of synthetic rubbers derived from styrene and butadiene.
+648,digitrubber#DIGITRUBBER_000651,acidity [pato],A concentration quality inhering in a bearer by virtue of the bearer's containing acid (hydrogen ions).
+649,digitrubber#ROi3BNAY7lNum6bqHYNnKv,template class,provide a human-readable definition of the type of entity the class refers to

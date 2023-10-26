@@ -4,3 +4,4 @@ jupyterlab
 openpyxl
 nltk
 rdflib
+plotly
