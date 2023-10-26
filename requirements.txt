@@ -3,3 +3,4 @@ numpy
 jupyterlab
 openpyxl
 nltk
+rdflib
