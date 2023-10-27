@@ -1,0 +1,669 @@
+Label	Definition
+software development	A planned process that has specified output a software product and that involves the creation of source code.
+dataset creating	A planned process that has a data set as its specified output.
+role	A realizable entity  the manifestation of which brings about some result or end that is not essential to a continuant  in virtue of the kind of thing that it is but that can be served or participated in by that kind of continuant  in some kinds of natural, social or institutional contexts.
+carbon black nanoparticle	Any form of carbon black which has a particle size of less than 100 nm in each dimension.
+cyanide	A pseudohalide anion that is the conjugate base of hydrogen cyanide.
+anion	A monoatomic or polyatomic species having one or more elementary charges of the electron.
+molecular entity	Any constitutionally or isotopically distinct atom, molecule, ion, ion pair, radical, radical ion, complex, conformer etc., identifiable as a separately distinguishable entity.
+chemical entity	A chemical entity is a physical entity of interest in chemistry including molecular entities, parts thereof, and chemical substances.
+organic heterocyclic compound	A cyclic compound having as ring members atoms of carbon and at least of one other element.
+ion	A molecular entity having a net electric charge.
+molecule	Any polyatomic entity that is an electrically neutral entity consisting of more than one atom.
+organic anion	Any organic ion with a net negative charge.
+rubber particle  [chebi]	A polymer consisting of cis-linked prenyl units.
+elemental molecular entity	A molecular entity all atoms of which have the same atomic number.
+organosulfur compound	An organosulfur compound is a compound containing at least one carbon-sulfur bond.
+polyatomic anion	An anion consisting of more than one atom.
+heteroorganic entity	A heteroorganic entity is an organic molecular entity in which carbon atoms or organic groups are bonded directly to one or more heteroatoms.
+pnictogen molecular entity	A p-block molecular entity containing any pnictogen.
+chalcogen molecular entity	Any p-block molecular entity containing a chalcogen.
+main group molecular entity	A molecular entity containing one or more atoms from any of groups 1, 2, 13, 14, 15, 16, 17, and 18 of the periodic table.
+cyclic compound	Any molecule that consists of a series of atoms joined together to form a ring.
+aromatic compound	A cyclically conjugated molecular entity with a stability (due to delocalization) significantly greater than that of a hypothetical localized structure (e.g. Kekule structure) is said to possess aromatic character.
+p-block molecular entity	A main group molecular entity that contains one or more atoms of a p-block element.
+organic cyclic compound	Any organic molecule that consists of atoms connected in the form of a ring.
+heteroarene	A heterocyclic compound formally derived from an arene by replacement of one or more methine (-C=) and/or vinylene (-CH=CH-) groups by trivalent or divalent heteroatoms, respectively, in such a way as to maintain the continuous pi-electron system characteristic of aromatic systems and a number of out-of-plane pi-electrons corresponding to the Hueckel rule (4n+2).
+organonitrogen compound	Any heteroorganic entity containing at least one carbon-nitrogen bond.
+organic disulfide	Compounds of structure RSSR in which R and R' are organic groups.
+polyatomic entity	Any molecular entity consisting of more than one atom.
+polyatomic ion	An ion consisting of more than one atom.
+organochalcogen compound	An organochalcogen compound is a compound containing at least one carbon-chalcogen bond.
+organonitrogen heterocyclic compound	Any organonitrogen compound containing a cyclic component with nitrogen and at least one other element as ring member atoms.
+disulfide	Compounds of structure RSSR'.
+nanostructure	A nanometre sized object.
+nanoparticle	A nanosized spherical or capsule-shaped structure.
+organic molecular entity	Any molecular entity that contains carbon.
+heterocyclic compound	A cyclic compound having as ring members atoms of at least two different elements.
+chemical substance	A chemical substance is a portion of matter of constant composition, composed of molecular entities of the same type or of different types.
+mixture	A mixture is a chemical substance composed of multiple molecules, at least two of which are of a different kind.
+azole	Any monocyclic heteroarene consisting of a five-membered ring containing nitrogen. Azoles can also contain one or more other non-carbon atoms, such as nitrogen, sulfur or oxygen.
+organic molecule	Any molecule that consists of at least one carbon atom as part of the electrically neutral entity.
+organic sulfur anion	An organic anion in which the charge resides on a sulfur atom.
+dithiocarbamate anions	Any organic sulfur anion resulting from the removal of a proton from any N-substituted dithiocarbamic acid.
+molecular_function	A molecular process that can be carried out by the action of a single macromolecular machine, usually via direct physical interactions with other molecular entities. Function in this sense denotes an action, or activity, that a gene product (or a complex) performs. These actions are described from two distinct but related perspectives: (1) biochemical activity, and (2) role as a component in a larger system/process.
+kinase activity	Catalysis of the transfer of a phosphate group, usually from ATP, to a substrate molecule.
+measurement unit label	A measurement unit label is as a label that is part of a scalar measurement datum and denotes a unit of measure.
+datum label	A label is a symbol that is part of some other datum and is used to either partially define  the denotation of that datum or to provide a means for identifying the datum as a member of the set of data with the same label
+software	"Software is a plan specification composed of a series of instructions that can be 
+interpreted by or directly executed by a processing unit."
+information carrier	A quality of an information bearer that imparts the information content
+data item	An information content entity that is intended to be a truthful statement about something (modulo, e.g., measurement precision or other systematic errors) and is constructed/acquired by a method which reliably tends to produce (approximately) truthful statements.
+dot plot	A dot plot is a report graph which is a graphical representation of data where each data point is represented by a single dot placed on coordinates corresponding to data point values in particular dimensions.
+graph	A diagram that presents one or more tuples of information by mapping those tuples in to a two dimensional space in a non arbitrary way.
+algorithm	A plan specification which describes the inputs and output of mathematical functions as well as workflow of execution for achieving an predefined objective. Algorithms are realized usually by means of implementation as computer programs for execution by automata.
+curation status specification	The curation status of the term. The allowed values come from an enumerated list of predefined terms. See the specification of these instances for more detailed definitions of each enumerated value.
+data set	A data item that is an aggregate of other data items of the same type that have something in common. Averages and distributions can be determined for data sets.
+image	An image is an affine projection to a two dimensional surface, of measurements of some quality of an entity or entities repeated at regular intervals across a spatial range, where the measurements are represented as color and luminosity on the projected on surface.
+data about an ontology part	Data about an ontology part is a data item about a part of an ontology, for example a term
+measurement datum	A measurement datum is an information content entity that is a recording of the output of a measurement such as produced by a device.
+material information bearer	A material entity in which a concretization of an information content entity inheres.
+histogram	"A histogram is a report graph which is a statistical description of a
+distribution in terms of occurrence frequencies of different event classes."
+heatmap	"A heatmap is a report graph which is a graphical representation of data
+where the values taken by a variable(s) are shown as colors in a
+two-dimensional map."
+dendrogram	"A dendrogram is a report graph which is a tree diagram
+frequently used to illustrate the arrangement of the clusters produced by a
+clustering algorithm."
+scatter plot	A scatterplot is a graph which uses Cartesian coordinates to display values for two variables for a set of data. The data is displayed as a collection of points, each having the value of one variable determining the position on the horizontal axis and the value of the other variable determining the position on the vertical axis.
+obsolescence reason specification	The reason for which a term has been deprecated. The allowed values come from an enumerated list of predefined terms. See the specification of these instances for more detailed definitions of each enumerated value.
+figure	An information content entity consisting of a two dimensional arrangement of information content entities such that the arrangement itself is about something.
+diagram	A figure that expresses one or more propositions
+document	A collection of information content entities intended to be understood together as a whole
+denotator type	A denotator type indicates how a term should be interpreted from an ontological perspective.
+planned process	A process that realizes a plan which is the concretization of a plan specification.
+regulator role	a regulatory role involved with making and/or enforcing relevant legislation and governmental orders
+regulatory role	a role which inheres in material entities and is realized in the processes of making, enforcing or being defined by legislation or orders issued by a governmental body.
+material supplier role	a role realized through the process of supplying materials such as animal subjects, reagents or other materials used in an investigation.
+classified data set	A data set that is produced as the output of a class prediction data transformation and consists of a data set with assigned class labels.
+processed material	Is a material entity that is created or changed during material processing.
+evaluant role	a role that inheres in a material entity that is realized in an assay in which data is generated about the bearer of the evaluant role
+assay	A planned process with the objective to produce information about the material entity that is the evaluant, by physically examining it or its proxies.
+material processing	A planned process which results in physical changes in a specified input material
+specimen role	a role borne by a material entity that is gained during a specimen collection process and that can be realized by use of the specimen in an investigation
+organization	An entity that can bear roles, has members, and has a set of organization rules. Members of organizations are either organizations themselves or individual people. Members can bear specific organization member roles that are determined in the organization rules. The organization rules also determine how decisions are made on behalf of the organization by the organization members.
+protocol	A plan specification which has sufficient level of detail and quantitative information to communicate it between investigation agents, so that different investigation agents will reliably be able to independently reproduce the process.
+heat function	A heat function is a function that increases the internal kinetic energy of a material
+mechanical function	A mechanical function is a function that is realised via mechanical work (through an certain amount of energy transferred by some force).
+cool function	A cool function is a function to decrease the internal kinetic energy of a material below the initial kinetic energy of that type of material.
+environment control function	An environmental control function is a function that regulates a contained environment within specified parameter ranges. For example the control of light exposure, humidity and temperature.
+regulatory agency	A regulatory agency is a organization that has responsibility over or for  the legislation (acts and regulations) for a given sector of the government.
+measure function	Measure function is a function that is borne by a processed material  and realized in a process in which information about some entity is expressed relative to some reference.
+manufacturing	Manufacturing is a process with the intent to produce a processed material which will have a function for future use. A person or organization (having manufacturer role) is a participant in this process
+manufacturer role	Manufacturer role is a role which inheres in a person or organization and which is realized by a manufacturing process.
+clustered data set	A data set that is produced as the output of a class discovery data transformation and consists of a data set with assigned discovered class labels.
+specimen collection process	A planned process with the objective of collecting a specimen.
+class prediction data transformation	A class prediction data transformation (sometimes called supervised classification) is a data transformation that has objective class prediction.
+support vector machine	A support vector machine is a data transformation with a class prediction objective based on the construction of a separating hyperplane that maximizes the margin between two data sets of vectors in n-dimensional space.
+decision tree building data transformation	A decision tree building data transformation is a data transformation that has objective decision tree induction.
+GenePattern software	a software that provides access to more than 100 tools for gene expression analysis, proteomics, SNP analysis and common data processing tasks.
+peak matching	Peak matching is a data transformation performed on a dataset of a graph of ordered data points (e.g. a spectrum) with the objective of pattern matching local maxima above a noise threshold
+k-nearest neighbors	A k-nearest neighbors is a data transformation which achieves a class discovery or partitioning objective, in which an input data object with vector y is assigned to a class label based upon the k closest training data set points to y; where k is the largest value that class label is assigned.
+CART	A CART (classification and regression trees) is a data transformation method for producing a classification or regression model with a tree-based structure.
+statistical model validation	A data transformation which assesses how the results of a statistical analysis will generalize to an independent data set.
+measurement device	A device in which a measure function inheres.
+manufacturer	A person or organization that has a manufacturer role
+sterilization function	a function to remove viable organisms from an input material
+service provider role	is a role which inheres in a person or organization and is realized in in a planned process which provides access to training, materials or execution of protocols for an organization or person
+processed specimen	A specimen that has been intentionally physically modified.
+categorical label	A label that is part of a categorical datum and that indicates the value of the data item on the categorical scale.
+device	A material entity that is designed to perform a function in a scientific investigation, but is not a reagent.
+questionnaire	A document with a set of printed or written questions with a choice of answers, devised for the purposes of a survey or statistical study.
+environmental control device	An environmental control device is a device which has the function to control some aspect of the environment such as temperature, or humidity.
+autoclave	A device that is used to sterilize equipment and supplies by subjecting them to high pressure steam at 121 C or more, typically for 15 to 20 minutes depending on the size of the load and the contents.
+categorical value specification	A value specification that is specifies one category out of a fixed number of nominal categories
+value specification	An information content entity that specifies a value within a classification scheme or on a quantitative scale.
+collection of specimens	A material entity that has two or more specimens as its parts.
+histologic grade according to AJCC 7th edition	A categorical value specification that is a histologic grade assigned to a tumor slide specimen according to the American Joint Committee on Cancer (AJCC) 7th Edition grading system.
+histologic grade according to the Fuhrman Nuclear Grading System	A categorical value specification that is a histologic grade assigned to a tumor slide specimen according to the Fuhrman Nuclear Grading System.
+histologic grade for ovarian tumor	A categorical value specification that is a histologic grade assigned to a ovarian tumor.
+histologic grade for ovarian tumor according to a two-tier grading system	A histologic grade for ovarian tumor that is from a two-tier histological classification of tumors.
+histologic grade for ovarian tumor according to the World Health Organization	A histologic grade for ovarian tumor that is from a histological classification by the World Health Organization (WHO).
+pathologic primary tumor stage for colon and rectum according to AJCC 7th edition	A categorical value specification that is a pathologic finding about one or more characteristics of colorectal cancer following the rules of the TNM American Joint Committee on Cancer (AJCC) version 7 classification system as they pertain to staging of the primary tumor. TNM pathologic primary tumor findings are based on clinical findings supplemented by histopathologic examination of one or more tissue specimens acquired during surgery.
+pathologic primary tumor stage for lung according to AJCC 7th edition	A categorical value specification that is a pathologic finding about one or more characteristics of lung cancer following the rules of the TNM American Joint Committee on Cancer (AJCC) version 7 classification system as they pertain to staging of the primary tumor. TNM pathologic primary tumor findings are based on clinical findings supplemented by histopathologic examination of one or more tissue specimens acquired during surgery.
+pathologic primary tumor stage for kidney according to AJCC 7th edition	A categorical value specification that is a pathologic finding about one or more characteristics of renal cancer following the rules of the TNM AJCC v7 classification system as they pertain to staging of the primary tumor. TNM pathologic primary tumor findings are based on clinical findings supplemented by histopathologic examination of one or more tissue specimens acquired during surgery.
+pathologic primary tumor stage for ovary according to AJCC 7th edition	A categorical value specification that is a pathologic finding about one or more characteristics of ovarian cancer following the rules of the TNM AJCC v7 classification system as they pertain to staging of the primary tumor. TNM pathologic primary tumor findings are based on clinical findings supplemented by histopathologic examination of one or more tissue specimens acquired during surgery.
+pathologic lymph node stage for colon and rectum according to AJCC 7th edition	A categorical value specification that is a pathologic finding about one or more characteristics of colorectal cancer following the rules of the TNM AJCC v7 classification system as they pertain to staging of regional lymph nodes.
+pathologic lymph node stage for lung according to AJCC 7th edition	A categorical value specification that is a pathologic finding about one or more characteristics of lung cancer following the rules of the TNM AJCC v7 classification system as they pertain to staging of regional lymph nodes.
+pathologic lymph node stage for kidney according to AJCC 7th edition	A categorical value specification that is a pathologic finding about one or more characteristics of renal cancer following the rules of the TNM AJCC v7 classification system as they pertain to staging of regional lymph nodes.
+pathologic lymph node stage for ovary according to AJCC 7th edition	A categorical value specification that is a pathologic finding about one or more characteristics of ovarian cancer following the rules of the TNM AJCC v7 classification system as they pertain to staging of regional lymph nodes.
+pathologic distant metastases stage for colon according to AJCC 7th edition	A categorical value specification that is a pathologic finding about one or more characteristics of colon cancer following the rules of the TNM AJCC v7 classification system as they pertain to distant metastases. TNM pathologic distant metastasis findings are based on clinical findings supplemented by histopathologic examination of one or more tissue specimens acquired during surgery.
+pathologic distant metastases stage for lung according to AJCC 7th edition	A categorical value specification that is a pathologic finding about one or more characteristics of lung cancer following the rules of the TNM AJCC v7 classification system as they pertain to distant metastases. TNM pathologic distant metastasis findings are based on clinical findings supplemented by histopathologic examination of one or more tissue specimens acquired during surgery.
+pathologic distant metastases stage for kidney according to AJCC 7th edition	A categorical value specification that is a pathologic finding about one or more characteristics of renal cancer following the rules of the TNM AJCC v7 classification system as they pertain to distant metastases. TNM pathologic distant metastasis findings are based on clinical findings supplemented by histopathologic examination of one or more tissue specimens acquired during surgery.
+pathologic distant metastases stage for ovary according to AJCC 7th edition	A categorical value specification that is a  pathologic finding about one or more characteristics of ovarian cancer following the rules of the TNM AJCC v7 classification system as they pertain to distant metastases. TNM pathologic distant metastasis findings are based on clinical findings supplemented by histopathologic examination of one or more tissue specimens acquired during surgery.
+clinical tumor stage group according to AJCC 7th edition	A categorical value specification that is an assessment of the stage of a cancer according to the American Joint Committee on Cancer (AJCC) v7 staging systems.
+International Federation of Gynecology and Obstetrics cervical cancer stage value specification	A categorical value specification that is an assessment of the stage of a gynecologic cancer according to the International Federation of Gynecology and Obstetrics (FIGO) staging systems.
+International Federation of Gynecology and Obstetrics ovarian cancer stage value specification	A categorical value specification that is a pathologic finding about one or more characteristics of ovarian cancer following the rules of the FIGO classification system.
+performance status value specification	A categorical value specification that is an assessment of a participant's performance status (general well-being and activities of daily life).
+Eastern Cooperative Oncology Group score value specification	A performance status value specification designed by the Eastern Cooperative Oncology Group to assess disease progression and its affect on the daily living abilities of the patient.
+Karnofsky score vaue specification	A performance status value specification designed for classifying patients 16 years of age or older by their functional impairment.
+material supplier	A person or organization that provides material supplies to other people or organizations.
+specimen	A material entity that has the specimen role.
+data transformation	A planned process that produces output data from input data.
+leave one out cross validation method	is a data transformation :  leave-one-out cross-validation (LOOCV) involves using a single observation from the original sample as the validation data, and the remaining observations as the training data. This is repeated such that each observation in the sample is used once as the validation data
+k-means clustering	A k-means clustering is a data transformation which achieves a class discovery or partitioning objective, which takes as input a collection of objects (represented as points in multidimensional space) and which partitions them into a specified number k of clusters. The algorithm attempts to find the centers of natural clusters in the data. The most common form of the algorithm starts by partitioning the input points into k initial sets, either at random or using some heuristic data. It then calculates the mean point, or centroid, of each set. It constructs a new partition by associating each point with the closest centroid. Then the centroids are recalculated for the new clusters, and the algorithm repeated by alternate applications of these two steps until convergence, which is obtained when the points no longer switch clusters (or alternatively centroids are no longer changed).
+hierarchical clustering	A hierarchical clustering is a data transformation which achieves a class discovery objective, which takes as input data item and builds a hierarchy of clusters. The traditional representation of this hierarchy is a tree (visualized by a dendrogram), with the individual input objects at one end (leaves) and a single cluster containing every object at the other (root).
+dimensionality reduction	A dimensionality reduction is data partitioning which transforms each input m-dimensional vector (x_1, x_2, ..., x_m) into an output n-dimensional vector (y_1, y_2, ..., y_n), where n is smaller than m.
+principal components analysis dimensionality reduction	A principal components analysis dimensionality reduction is a dimensionality reduction achieved by applying principal components analysis and by keeping low-order principal components and excluding higher-order ones.
+data visualization	An planned process that creates images, diagrams or animations from the input data.
+partitioning data transformation	A partitioning data transformation is a data transformation that has objective partitioning.
+class discovery data transformation	A class discovery data transformation (sometimes called unsupervised classification) is a data transformation that has objective class discovery.
+clustered data visualization	A data visualization which has input of a clustered data set and produces an output of a report graph which is capable of rendering data of this type.
+concentration of	A quality inhering in a substance by virtue of the amount of the bearer's there is mixed with another substance.
+morphology	A quality of a single physical entity inhering in the bearer by virtue of the bearer's size or shape or structure.
+length	A 1-D extent quality which is equal to the distance between two points.
+temperature	A physical quality of the thermal energy of a system.
+physical quality	A quality of a physical entity that exists through action of continuants at the physical level of organisation in relation to other entities.
+pressure	A physical quality that inheres in a bearer by virtue of the bearer's amount of force per unit area it exerts.
+physical object quality	A quality which inheres in a continuant.
+electromagnetic (EM) radiation quality	A physical quality that inheres in an bearer by virtue of how that bearer interacts with electromagnetic radiation.
+optical quality	An EM radiation quality in which the EM radiation is within the fiat range of the spectrum visible deemed to be light.
+quality of a solid	A physical quality inhering in a bearer by virtue of the bearer's exhibiting the physical characteristics of an entity characterized by particles arranged such that their shape and volume are relatively stable.
+quality of a liquid	A physical quality inhering in an entity exhibiting the physical characteristics of an amorphous (non-crystalline) form of matter between a gas and a solid that has a definite volume, but no definite shape.
+radiation quality	A quality that inheres in an bearer by virtue of how that bearer interacts with radiation.
+molecular quality	A quality which inheres in a molecular entity, a single molecule, atom, ion, radical etc.
+quality of a substance	A quality inhering in a bearer by virtue of its constitution.
+length unit	A unit which is a standard measure of the distance between two points.
+mass unit	A unit which is a standard measure of the amount of matter/energy of a physical object.
+time unit	A unit which is a standard measure of the dimension in which events occur in sequence.
+measurement quality [imr]	"In relation to optical measuring methods a 
+rating for the precision of a reconstructed
+measurement object"
+extrudate [imr]	"definded rigid Object based as result of an 
+extrusion process"
+geometry [geosparql]	A coherent set of direct positions in space. The positions are held within a Spatial Reference System (SRS).
+point cloud [imr]	"A gathering of individual points with an 
+with an unstructured spatial structure"
+triangulation [imr]	"geometrical method to determine distances 
+between to points"
+millimeter [nist]	"""A length unit which is equal to one thousandth of a meter or 10^[-3] m."" [NIST:NIST]"
+surface of extrudate [imr]	uppermost layer of the extrudate
+line in the surface of extrudate [imr]	cutout of a single line of the extrudate surface
+shape [ncit]	The spatial arrangement of something as distinct from its substance.
+shape [pato]	A morphological quality inhering in a bearer by virtue of the bearer's ratios of distances between its features (points, edges, surfaces and also holes etc).
+stitching process [imr]	"use of different algorithms to determine the 
+exact allignment respectively the characteristik shared edges"
+stitching method [imr]	"alligning of single measurements to form a 
+connected/combined measurement"
+extrudate norm [imr]	"ideal dimensions and shape of the
+extrudate defined by the manufacturer"
+standard deviation [imr]	"a quantity expressing by how much the
+members of a group differ from the mean
+ value for the group"
+standard deviation [Wikipedia]	The standard deviation is a measure of the amount of variation or dispersion of a set of values. [Wikipedia]
+standard deviation [ncit]	A measure of the range of values in a set of numbers. Standard deviation is a statistic used as a measure of the dispersion or variation in a distribution, equal to the square root of the arithmetic mean of the squares of the deviations from the arithmetic mean.
+interior orientation [jade]	"""The interior (intrinsic) orientation of a camera comprises all instrumental and mathematical elements which completely describe the imaging model within the camera. By taking proper account of the interior orientation, the real camera conforms to the pinhole camera model. It is a requirement of the model that there exists a reproducible image coordinate system so that geometric image values, such as measured image coordinates, can be transformed into the physical-mathematical imaging model."" (Luhmann et al. 2020: 162). A standard model of describing the interior orientation was proposed by D.C. Brown (1971)"
+camera coordinate system [jade]	"""The camera coordinate system has its origin at the perspective centre of the image. It is further defined by reference features fixed in the camera (fiducial marks, réseau, sensor system). It can therefore be reconstructed from the image and related to an image measuring device"" (Luhmann et al. 2020: 278)"
+exterior orientation [jade]	"""The exterior orientation consists of six parameters which describe the spatial position and orientation of the camera coordinate system with respect to the global object coordinate system"" (Luhmann et al. 2020: 277)"
+camera calibration [jade]	"""The photogrammetric determination of the parameters of interior orientation is usually referred to as calibration. This is based on the idea that once a mechanically stable camera is calibrated, it may be moved from one image taking location to another whilst retaining its calibration."" (Luhmann, Robson et al. 2020: 170)"
+bundle adjustment [jade]	"""Bundle adjustment [...] is a method for the simultaneous numerical fit of an unlimited number of spatially distributed images (bundles of rays). It makes use of photogrammetric observations (measured image points), survey observations and an object coordinate system. Using tie points, single images are merged into a global model in which the object surface can be reconstructed in three dimensions."" (Luhmann et al. 2020: 349f.)"
+agent [ita]	An agent is a system that perceives its environment through sensors and can interact with it through actions.
+agent [ncti]	An active power or cause (as principle, substance, physical or biological factor, etc.) that produces a specific effect.
+approximation [ita]	Approximation is a technique for approximating a value using historical or available observations from the domain.
+function approximation [ita]	Function approximation is a technique for estimating an unknown underlying function using historical or available observations from the domain.
+reinforcement learning [ita]	Reinforcement learning is a set of machine learning methods in which an agent autonomously learns a strategy to maximize a reward. Algorithms follow the trail-and-error principle, thus try several strategies and repeat those with a higher reward. During the training the agent produces an input, while the target output is only known to a teacher. The teacher gives feedback to the agent in form of a reward.
+library [ita]	Libraries in programming languages are collections of prewritten code that users can use to optimize tasks.
+cluster analysis [ita]	Clustering or cluster analysis is a unsupervised machine learning technique, which groups the unlabelled dataset. It can be defined as a way of grouping the data points into different clusters, consisting of similar data points.
+cluster analysis [ncti]	Methods for grouping objects into subsets such that those within each cluster are more closely related to one another than objects assigned to different clusters.
+data mining [ita]	A Database is a System for describing, storing and retrieving large amounts of data.
+data mining [edam]	An information set with a regular structure. Although it can be applied to any set of information the term was invented to refer to computerized data, and is used almost exclusively in computing.
+database [ita]	A Database is a System for describing, storing and retrieving large amounts of data.
+database [ncti]	An information set with a regular structure. Although it can be applied to any set of information the term was invented to refer to computerized data, and is used almost exclusively in computing.
+deep learning [ita]	Deep learning is a class of machine learning algorithms that uses multiple layers to progressively extract higher-level features from the raw input. There is no universally agreed-upon threshold of depth that divides shallow learning from deep learning, but most researchers agree that deep learning involves CAP depth higher than 2. The CAP (credit assignment path) is the chain of transformations from input to output. CAPs describe potentially causal connections between input and output. For simple neural networks (feedforward neural networks) this treshhold is reached with at least two hidden layers.
+deep learning [ncti]	A subset of machine learning that is part of the broader family of machine learning methodologies based on artificial neural networks. A deep neural network has multiple layers between input and output layers to progressively extract higher level features from the raw input. (After DeepAI Machine Learning Glossary and Terms) [ NCI ]
+input layer [ita]	The input layer of a neural network is composed of artificial input neurons, and brings the initial data into the system for further processing by subsequent layers of artificial neurons. The input layer is the very beginning of the workflow for the artificial neural network.
+elastomers [ita]	Elastomers are dimensionally stable but elastically deformable plastics. They are producest by vulcanization of rubber.
+output layer [ita]	The output layer in an artificial neural network is the last layer of neurons that produces given outputs for the program.
+extrusion [ita]	Extrusion is a process used to create objects of a fixed cross-sectional profile by pushing material through a die of the desired cross-section.
+extrusion [rex]	A transformation in which an atom or group Y connected to two other atoms or groups X and Z is lost from a molecule, leading to a product in which X is bonded to Z, e.g. X-Y-Z --> X-Z + Y.
+extrusion [chmo]	A process used to create objects of a fixed cross-sectional profile by forcing or drawing a material through a die.
+hidden layer [ita]	In neural networks, a hidden layer is located between the input and output of the algorithm, in which the function applies weights to the inputs and directs them through an activation function as the output. In short, the hidden layers perform nonlinear transformations of the inputs entered into the network.
+Industrie 4.0 [ita]	Industrie 4.0 is the intelligent networking of machines and processes in the industrial environment, with the help of information and communication technology and thus digitization of the industrial production.
+rubber [ita]	Rubber is an elastic substance made either from the juice of particular tropical trees or artificially. It is raw material for car tires and other technical products.
+Artificial Intelligence (AI) [ita]	Artifical intelligence is a branch of computer science dealing with the automation of intelligent behavior. Can be used in technical areas as methods of machine learning.
+Artificial Intelligence (AI) [ncti]	Artificial intelligence is the branch of computer science that deals with writing computer programs that can solve problems creatively.
+machine learning [ita]	Machine learning is a sub-area of ​​artificial intelligence that deals with artificial systems that adapt their actions to external conditions so that their output is improved according to defined standards. For this purpose, algorithms build a model based on training data. The algorithms does not learn to memorize, but uses patterns and laws, so the systems can also process unknown data. The learning algorithms are divided into supervised learning, unsupervised learning and reinforcement learning.
+machine learning [ncti]	A computing system (inspired by biological neural networks) that learns (progressively improves its ability) to do tasks by considering examples without task-specific programming. (After DeepAI Machine Learning Glossary and Terms)
+machine learning [obi]	A planned process in which statistical techniques are used to give computers the ability to learn about patterns in data, without being explicitly programmed. Learning is defined in this case as progressively improving performance on a specific task.
+machine learning [edam]	A topic concerning the application of artificial intelligence methods to algorithms, in order to create methods that can learn from data in order to generate an ouput, rather than relying on explicitly encoded information only.
+microcontroller [ita]	Microcontrollers are compact integrated circuits designed to govern a specific operation in an embedded system. Typically a microcontroller includes a processor, memory and input/output peripherals on a single chip.
+mixing [ita]	Mixing is the first of the three areas of an extrusion line, where the input material is homogenized and mixed. This occurs within a screw element through shearing and mixing of the input material.
+mixing [chmo]	The combining of components, particles or layers into a more homogeneous state. The mixing may be achieved manually or mechanically by shifting the material with stirrers or pumps or by revolving or shaking the container. The process μst not permit segregation of particles of different size or properties. Homogeneity may be considered to have been achieved in a practical sense when the sampling error of the processed portion is negligible compared to the total error of the measurement system.
+mixing [ncti]	To bring or combine together or with something else; add as an additional element or part.
+pattern recognition [ita]	Pattern recognition is the automated recognition of patterns and regularities in data. Pattern recognition has its origins in statistics and engineering; some modern approches include the use of machine learning, due to the increased availability of big data and a new abundance of processing power.
+pattern recognition [ncti]	A branch of artificial intelligence concerned with the identification of visual or audio patterns by computers.For the computer to recognize the patterns, the patterns must be converted into digital signals and compared with patterns already stored in memory.Some uses of this technology are in character recognition, voice recognition, handwriting recognition, and robotics. (High-Tech Dictionary) [ NCI ]
+neural network [ita]	Artificial neural networks (ANNs) are based on a reduced set of concepts from biological neural systems. It is composed of different Layeres, an input layer, one or more hidden layers and an output layer. Each layer consists of several artificial neurons. The connections of the biological neuron are modeled in artificial neural networks as weights between the artificial neurons. A positive weight reflects an excitatory connection, while negative values mean inhibitory connections. An activation function controls the amplitude of the output. They can be used to model complex relationships between inputs and outputs or to find patterns in data. Thereby ANNs can be trained by machine learning techniques to approximate a function, when the complexity of the data or task makes the design of such function by hand impractical. Other tasks in which ANNs can be trained are classification, including pattern recognition, clustering and Data processing, including clustering.
+neural network [ncti]	A computer algorithm to solve non-linear optimization problems. The algorithm was derived in analogy to the way the densely interconnected, parallel structure of the brain processes information.
+online characterisation [ita]	Online characterisation is the characterization of the material properties during the process and on the real process line in order to be able to react to fluctuations during production.
+online optimization [ita]	In online optimization decisions are made directly in the real process section and without knowledge of future results. Also often the data of the problem instance is not complete.
+optimization [ita]	Optimizers are algorithms or methods used to solve optimization problems by minimize an error function (loss function) or to maximize the efficiency of production. Optimizers are mathematical functions which are dependent on model's learnable parameters i.e Weights & Biases.
+optimization [ncti]	An activity that attempts to find the best solution to a problem.
+Production-in-the-Loop [ita]	Production-in-the-Loop describes a method, in which information from the production process is continuously recorded and the process is adapted to the changing framework conditions on the basis of this information.
+regression analysis [ita]	Regression analysis consists of a set of machine learning methods that allow us to predict a continuous outcome variable (y) based on the value of one or multiple predictor variables (x). Regression is a supervised learning technique, in which Algorithems build a mathematical Modell or equation that defines y as a funktion of x.
+simulation environment [ita]	A simulation environment is a virtual environment that maps/models the real process. A simulation model thus makes it possible to train control tasks using learning algorithms offline, i.e. not on the real system but on the computer. Neural networks can be used to create such model.
+test dataset [ita]	The test dataset is a subset of the dataset that is held back from training the model and given to the learning algorithm to test the trained model. Typically it consists of 20% to 30% of the original dataset. It is the sample of data used to provide an unbiased evaluation of a final model fit on the training dataset.
+train dataset [ita]	The train dataset is a subset of the dataset that is given to the learning algorithm to train a model. Typically it consists of 70% to 80% of the original dataset. It is the sample of data used to fit the model.
+supervised learning [ita]	Supervised learning is the machine learning task of learning a function that maps an input to an output based on example input-output pairs. It infers a function from labeled training data consisting of a set of training examples. In supervised learning, each example is a pair consisting of an input object (typically a vector) and a desired output value (target).
+supervised learning [obi]	A machine learning process using a function that maps an input to an output based on example input-output pairs. It infers a function from labeled training data consisting of a set of training examples.
+unsupervised learning [ita]	Unsupervised learning is a type of algorithm that learns patterns from untagged data. The hope is that through mimicry, which is an important mode of learning in people, the machine is forced to build a compact internal representation of its world and then generate imaginative content from it. Unsupervised methods exhibit self-organization that captures patterns as probability densities or a combination of neural feature preferences.
+unsupervised learning [obi]	"A machine learning process that infers a function describing the structure of ""unlabeled"" data (i.e. data that has not been classified or categorized)."
+validation dataset [ita]	The validation dataset is the sample of data used to provide an unbiased evaluation of a model fit on the training dataset while tuning model hyperparameters. The evaluation becomes more biased as skill on the validation dataset is incorporated into the model configuration.
+validation [ita]	"Validation data is to ""validate"" that your neural network hasn't rather memorized your training data and has thus actually learned some meaningful aspects of the data so that the model can be later used (generalized) to unseen, held-out ""test dataset""."
+validation [ncti]	The act of validating; finding or testing the truth of something.
+validation [obi]	a planned process with objective to check that the accuracy or the quality of a claim or prediction satisfies some criteria and which is assessed by comparing with independent results
+validation [edam]	Validate some data.
+rolling [ita]	Rolling is the second of the three areas of the extrusion line. Where the material is homogenised.
+twin screw extruder [ita]	Twin screw extruders have two screws, which have more shear and mixing capability than the single screw in a singel screw extruder. Depending on the direction of rotation of the screws, a distinction is made between counter-rotating and co-rotating twin-screw extruders.
+Mixing temperature [ita]	Control variable that specifies at which temperature mixing takes place.
+Stamp pressure [ita]	Rücksprache DIK
+rotation speed (Mixer) [ita]	Control value that specifies at which speed mixing takes place
+Mixing time [ita]	Control value that specifies how long mixing takes place
+Torque (mixer) [ita]	Measured variable that indicates how high the torque is during mixing.
+Torque (mixer) [om]	Torque is the effectiveness of a force to produce rotation about an axis, measured by the product of the force and the perpendicular distance from the line of action of the force to the axis.
+Screw speed [ita]	Control variable that indicates how high the speed of the screw is during extrusion.
+Screw torque [ita]	Measured variable that indicates how high the torque of the screw is during extrusion.
+Tempering screw [ita]	Control variable that indicates how high the temperature of the screw is during extrusion.
+Tempering Feed roller [ita]	Control variable that indicates how high the temperature of the feed roller is during extrusion.
+Tempering cylinder [ita]	Control variable that indicates how high the temperature of the cylinder is during extrusion.
+Cylinder pressure [ita]	Measured variable that indicates how high the pressure in the cylinder is during extrusion.
+Tempering Tool [ita]	Control variable that indicates how high the temperature of the tool is during extrusion.
+Tool pressure [ita]	Measured variable that indicates how high the pressure in the tool is during extrusion.
+Near-surface mass temperature in the tool [ita]	Measured variable that indicates what the temperature is at the surface of the material.
+Radial temperature profile of the mixture in the screw channel [ita]	Measured variable that indicates how the temperature is distributed radially over the screw channel.
+Outlet surface [ita]	System parameter that indicates how large the outlet surface of the rubber is.
+Throughput [ita]	The throughput indicates how many kilograms of rubber are extruded in a given unit of time.
+collection of material entities [hsh]	A class of units in the system under study (e.g, machines, spare parts)
+factor [hsh]	A circumstance, fact, or influence that contributes to the costs associated with an entity (e.g., wages, number)
+factor [ncti]	Anything that contributes causally to a result.
+factor [proco]	A data item that is a member of a minimal set of independent variables that can be used to model the dependent reponses in a set of related experiments.
+factor [allotrope]	A multiplicand in a mathematical product expression. [Allotrope]
+cost [hsh]	Cumulative expression for the value of all costs groups within the system under study
+cost [ncti]	The amount paid, charged, or engaged to be paid, for purchasing goods, services and financial instruments.
+cost group [hsh]	Cumulative expression for the value of overarching entity groups (e.g., human ressource, maintenance) within the system under study
+human ressource cost [hsh]	A cost group for all cost values occuring from entity sub-groups in the human ressource cost group and the associated factors
+maintenance cost [hsh]	A cost group for all cost values occuring from entity sub-groups in the maintenance cost group and the associated factors
+energy cost [hsh]	A cost group for all cost values occuring from entity sub-groups in the energy cost group and the associated factors
+material cost [hsh]	A cost group for all cost values occuring from entity sub-groups in the material cost group and the associated factors
+storage cost [hsh]	A cost group for all cost values occuring from entity sub-groups in the storage cost group and the associated factors
+production cost [hsh]	A cost group for all cost values occuring from entity sub-groups in the production cost group and the associated factors
+investment cost [hsh]	A cost group for all cost values occuring from entity sub-groups in the investment cost group and the associated factors
+waste management cost [hsh]	A cost group for all cost values occuring from entity sub-groups in the waste management cost group and the associated factors
+turnover [hsh]	A cost group for the total sales value generated in a time period X by the system under investigation
+machine [hsh]	An apparatus using mechanical power and having several parts, each with a definite function and together performing a particular task, required for operations in the system under investigation. Constitutes an entity in the maintenance cost, energy cost, production cost, investment cost and turnover cost group.
+Operating status [hsh]	The state of an unit within an individual entity sub-group with regard to its working order (e.g., good, defective, not working).
+condition [ncti]	A state of being, such as a state of health.
+condition [shacl]	The shapes that the focus nodes need to conform to before a rule is executed on them.
+condition [ssn]	Used to specify ranges for qualities that act as conditions on a system/sensor's operation. For example, wind speed of 10-60m/s may be used as the condition on a SystemProperty, for example, to state that a sensor has a particular accuracy in that
+raw material [hsh]	The basic materials from which a finished product is made in the system under investigation. Constitutes an entity in the material cost and waste management cost group.
+semi-finished product [hsh]	Processed raw materials that are not used for final consumption but as input for the production of finished goods in the system under investigation. Constitutes an entity in the material cost and waste management cost group.
+finished product [hsh]	The product that emerges at the end of the production process of the system under study.  Constitutes an entity in the material cost, production cost, and waste management cost group.
+spare parts [hsh]	A duplicate part to replace a lost or damaged part of a machine entity unit in the system under investigation. Constitutes an entity sub-group of the wear parts entity.
+wear parts [hsh]	Parts pf a machine entity unit that are bound to wear out with repetitive use and will require periodic repair or replacement based on maintenance interval in the system under investigation. Constitutes an entity of the maintenance cost and material cost group.
+packaging [hsh]	Materials used to wrap or protect raw materials, semi-finished products, and finished products.
+operator [hsh]	A person who operates a machine entity unit in the system under investigation. Constitutes an entity of the human resource and the production cost group.
+operator [ncti]	A person that operates some apparatus or machine.
+supervisor [hsh]	A person who supervises and coordinates the work of employees who set up and operate machine entity units in the system under investigation. Constitutes an entity of the human ressource and the production cost group.
+supervisor [ncti]	An individual who is responsible for managing or operating a business, organization, team or department.
+supervisor [m4i]	Designated administrator over one or more groups/teams working to produce a resource, or over one or more steps of a development process
+operational assistant [hsh]	A person who supports an operator in the system under investigation. Constitutes an entity of the human ressource and the production cost group.
+warehouse clerk [hsh]	A person who handles a company's incoming and outgoing raw materials, semi-finished prodcuts as well as finished products, and who manages stocks in the system under investigation. Constitutes an entity of the human ressource and the storage cost group.
+quality inspector [hsh]	A person who monitors the quality of incoming and outgoing products or materials in the system under investigation. Constitutes an entity of the human ressource and the production cost group.
+conveyor vehicle [hsh]	A mode of transport that is employed to transport raw materials, semi-finished goods and finished goods within the system under investigation.
+mean time to failure [hsh]	A maintenance metric that measures the average amount of time a non-repairable asset operates before it fails in the system under investigation. Constitutes a factor of the maintenance cost group.
+mean time to repair [hsh]	A maintenance metric that measures the average time required to troubleshoot and repair failed equipment. Constitutes a factor of the maintenance cost group.
+maintenance interval [hsh]	The schedule for all anticipated maintenance activities regarding machine entites within the system under investigation. Constitutes a factor of the maintenance cost group.
+maintenance interval [iirds]	Type of planning time: Fixed time interval for the scheduled maintenance of a technical system or its parts.
+maintenance duration [hsh]	The averafe time that is required to conduct scheduled maintenance activities for a machine entity unit. Constitutes a factor of the maintenance cost group.
+energy consumption [hsh]	The amount of electricity (kw/h) that is consumed by all entities in the system under investigation. Constitutes a factor of the energy cost, storage cost and production cost group.
+unit cost [hsh]	The expenditure that incurs for acquiring a single unit of an entity sub-group in the system under investigation. Constitutes a factor of the maintenance cost, material cost, and storage cost group.
+aggregate [enm]	A composite particle, comprising of strongly bound or fused smaller particles, where the resulting external surface area may be significantly smaller than the sum of calculated surface areas of the individual components.
+agglomerate [enm]	A collection of weakly bound particles or aggregates where the resulting surface area is similar to the sum of the surface areas of the individual components.
+building	A structure that has a roof and walls and stands more or less permanently in one place.
+throughput [hsh]	The amount of raw materials, semi-finisehd products or finished products passing through a machine entity in the time X in the system under investigation.
+indirect cost [hsh]	All costs that are derived from costs groups encompassing overhead charges or subsidiary work.
+direct cost [hsh]	All costs that are derived from costs groups that are directly related to the production of goods in the system under study.
+direct cost	Costs that can be identified with a particular project or program.
+unit [hsh]	A single system element (e.g., extruder 1, tool 1) within an entity sub-group in the system under investigation.
+unit [ncti]	A property representing the unit of measure in which a nutrient or food component is typically expressed, ex., gram (g), minigram (mg), microgram (mcg), joule, or kilojoule.
+unit [ncti]	The property used in conjunction with a nutrient or food component, typically expressed in gram (g), milligram (mg), microgram (mcg), joule, or kilojoule.
+unit [ncti]	A single undivided thing occurring in the composition of something else.
+unit [sd]	Class designed to distinguish the different types of units that are available in variables from datasets or parameters
+unit [uo]	"""A unit of measurement is a standardized quantity of a physical quality."" [Wikipedia:Wikipedia]"
+extruder [hsh]	A machine that pushes unvulcanized rubber compounds through an extrusion die under pressure. Constitutes an entity sub-group of the machine entity.
+banbury mixer [hsh]	A machine that mixes polymers and additives in the manufacture of plastic and rubber products. Constitutes an entity sub-group of the machine entity.
+tire building machine [hsh]	A machine that assembles assembles all components and semi-finished products to produce a tyre. Constitutes an entity sub-group of the machine entity.
+cutter [hsh]	A pneumtaic machine that cuts rubber materials. Constitutes an entity sub-group of the machine entity.
+calandar [hsh]	A machine that combines a series of hard pressure rollers used to finish or smooth a sheet of rubber material. Constitutes an entity sub-group of the machine entity.
+storage robot [hsh]	An automated system that transports good to, within and from storage areas. Constitutes an entity sub-group of the machine entity.
+gantry crane [hsh]	An overhead crane with a girder configuration supported by freestanding legs that move on wheels to transport goods. Constitutes an entity sub-group of the machine entity.
+uniformity grading machine [hsh]	A machine that is measures the tire uniformity for complete vehicle wheels and determines the radial and lateral force fluctuations of the rolling wheel. Constitutes an entity sub-group of the machine entity.
+forklift [hsh]	A powered industrial truck used to lift and move materials over short distances. Constitutes an entity sub-group of the conveyor vehicle entity.
+conveyor [hsh]	A continuous moving strip or surface that is used for transporting objects between different destinations. Constitutes an entity sub-group of the conveyor vehicle entity.
+lift truck [hsh]	A small truck for lifting and transporting loads. Constitutes an entity sub-group of the conveyor vehicle entity.
+tools [hsh]	An object shaped for repair and installation purposes, with the help of which something is processed or manufactured.Constitutes an entity sub-group of the wear parts entity.
+small parts [hsh]	A set of small wear parts required to maintain and repair a machine entity. Constitutes an entity sub-group of the wear parts entity.
+whole components [hsh]	Components required to maintain and repair a machine entity. Constitutes an entity sub-group of the wear parts entity.
+lighting [hsh]	Equipment that is employed for producing light in the system under investigation. Constitutes an entity sub-group of the building entity.
+air conditioning [hsh]	Equipment that is employed for cooling and heating in the system under investigation. Constitutes an entity sub-group of the building entity.
+office equipment [hsh]	Equipment that is employed for managerial purposes in the system under investigation.
+narural rubber [hsh]	An elastic material obtained from the latex sap of trees. Constitutes an entity sub-group of the raw material entity.
+narural rubber [ncti]	The natural extract of tropical rubber plants.
+Synthetic rubber [hsh]	Any of several substances similar to natural rubber in properties and uses, produced synthetically. Constitutes an entity sub-group of the raw material entity.
+filling material [hsh]	Material that is required to manipulate the properties of rubber products. Constitutes an entity sub-group of the raw material entity.
+reinforcing materials [hsh]	Material that is used to support the structure of rubber based products (e.g., steel cords). Constitutes an entity sub-group of the raw material entity.
+plasticizer [hsh]	A substance added to a synthetic resin to produce or promote plasticity and flexibility and to reduce brittleness. Constitutes an entity sub-group of the raw material entity.
+plasticizer [ncti]	A substance added to plastics or other materials to make or keep them soft or pliable.
+plasticizer [chebi]	Any compound that is used as an additive to increase the plasticity or fluidity of a substance, particularly but not exclusively to synthetic polymers.
+vulcanization chemicals [hsh]	Chemicals added to rubber to alter its physical properties. Constitutes an entity sub-group of the raw material entity.
+other additives [hsh]	Additional substances that are employed to product rubber-based products. Constitutes an entity sub-group of the raw material entity.
+Raman spectroscopy [ifnano]	A non-destructive light scattering technique that provides detailed information about the chemical structure upon the interaction of light with the chemical bonds within a material based on periodic changes of polarizabilities, usually manifested as energy loss (gain) with respect to the incident light.
+Raman spectroscopy [allotrope]	Any type of vibrational spectroscopy where the Raman scattering of monochromatic light, usually from a laser in the visible, near infrared, or near ultraviolet range by a sample is detected. [CHMO]
+Raman spectroscopy [ncit]	Emission of electromagnetic energy with a shorter frequency (longer wavelength) than that of the incident monochromatic light. Arises from the low probability absorption of quanta with a higher energy than that required for a transition: the difference in energy is emitted as a lower frequency (energy) photon. Allows analysis of vibrational and rotational energy levels using visible incident light. [ NCI ]
+Spectrum [ifnano]	A graph that shows the intensity of radiation at different wavelengths or the response of the atomic or molecular system to different wavelengths of the radiation
+Spectrum [allotrope]	A spectrum is a data distribution function of a measured quantity in a spectroscopy against some experimental parameter. [Allotrope]
+Spectrum [ncit]	An array of entities, such as light waves or particles, ordered in accordance with the magnitudes of a common physical property, such as wavelength or mass.
+Raman spectrum [ifnano]	A graph presents a number of peaks, showing the intensity and wavelength position of the Raman scattered light, in which each peak corresponds to a specific molecular bond vibration.
+Raman spectrum [allotrope]	A plot of intensity vs. Raman shift (cm-1) obtained by measuring the Raman scattering of monochromatic light from a sample. [CHMO]
+FTIR spectroscopy [ifnano]	Fourier transform infrared involves the probing of matter with infrared radiation. It is based on periodic changes in dipole moments caused by molecular vibrations during the absorption of IR radiation and gives spectroscopic fingerprints.
+ATR-FTIR [ifnano]	An attenuated total reflection accessory operates by measuring the changes that occur in a totally internally reflected infrared beam when the beam comes into contact with a sample.
+Statistical discrimination [ifnano]	It arises when groups differ statistically in their distributions on characteristics relevant to a given situation.
+Chemometrics [ifnano]	The chemical discipline that uses mathematical and statistical methods, (a) to design or select optimal measurement procedures and experiments, and (b) to provide maximum chemical information by analyzing chemical data.
+Raw rubber samples [ifnano]	Natural and synthetic rubber materials that are modified and shaped into rubber products through the rubber extrusion process.
+Correlation [ifnano]	The degree to which two or more quantities or events are associated, a statistical relation between two or more variables such that systematic changes in the value of one variable are accompanied by systematic changes in the others. The collelation can be described by mathematical functions  (often a linear function is used). It’s a common tool for describing simple relationships without making a statement about cause and effect.
+Correlation [ncit]	The degree to which two or more quantities or events are linearly associated, a statistical relation between two or more variables such that systematic changes in the value of one variable are accompanied by systematic changes in the others.
+concentration [ifnano]	A quality of a substance in terms of its amount per unit volume in a mixture.
+concentration [bwmd]	The quantity kind concentration
+concentration [allotrope]	A concentration (datum) is a quantification facet that quantifies a quality inhering in a substance by virtue of the amount of the bearer's there is mixed with another substance. [Allotrope]
+concentration [ncit]	The quantity of a substance per unit volume or weight; a measure of the amount of substance present in a unit amount of mixture, particularly, the amount of solute dissolved in a solvent. The amounts can be expressed as moles, masses, volumes, or parts.
+concentration [edam]	The concentration of a chemical compound.
+concentration [chmo]	Experimental method output expressing the contribution of one constituent to the composition of a mixture.
+concentration [ecso]	the strength of a solution; number of molecules of a substance in a given volume
+extrudate [ifnano]	Product of the process of Extrusion
+extrusion [ifnano]	Extrusion is a process used to create objects of a fixed cross-sectional profile by pushing material through a die of the desired cross-section.
+extrusion [rex]	A transformation in which an atom or group Y connected to two other atoms or groups X and Z is lost from a molecule, leading to a product in which X is bonded to Z, e.g. X-Y-Z --> X-Z + Y.
+extrusion [chmo]	A process used to create objects of a fixed cross-sectional profile by forcing or drawing a material through a die.
+Laser induced breakdown spectroscopy [ifnano]	Laser induced breakdown spectroscopy is a type of atomic emission spectroscopy which uses a highly energetic laser pulse as the excitation source. The laser is focused to form a plasma, which atomizes and excites samples. The Emission of these excited species is analyzed to identify and quantify the elements contained in the sample.
+Laser induced breakdown spectroscopy [chmo]	A type of atomic emission spectrometry where a high energy laser pulse is used to generate a plasma which acts as the excitation source.
+distribution quality [ifnano]	A quality of a sample in terms of homogenity, or the distribution of concentration of a specific component in a mixture, in a macroscopic body.
+peak[ifnano]	In Spectroscopy, peaks are features of a spectrum. A peak comprise a restricted region of a spectrum, which is absorbed or emitted with high intensity. It is defined as a local maximum in the spectrum.
+peak [allotrope]	A peak describes a part of a data distribution function at a definite range of the experimental parameter (independent variable) of the distribution function. This definition includes a single data point of the distribution function. [Allotrope]
+peak [ncit]	The most extreme possible amount or value; the highest point.
+Classification [ifnano]	Is to reliably assign new samples to existing classes in a given population.
+peak [ms]	A localized region of relatively large ion signal in a mass spectrum. Although peaks are often associated with particular ions, the terms peak and ion should not be used interchangeably.
+raw spectrum [ifnano]	Unprocessed data obtained from spectrometric devices
+processed spectrum [ifnano]	Result of different mathematical processes conducted on raw Spectra. Processing steps include e.g. normalization and baseline correction
+principal component analysis [ifnano]	Principal component analysis (PCA) is the process of computing the principal components and using them to perform a change of basis on the data.
+principal component analysis [ncit]	A vector space transform used to reduce the dimensionality in a dataset while retaining those characteristics of the dataset that contribute most to its variance.
+principal component analysis [edam]	A statistical procedure that uses an orthogonal transformation to convert a set of observations of possibly correlated variables into a set of values of linearly uncorrelated variables called principal components.
+Photometric Measurement Process [ifnano]	Measurement using photometry
+Metadata [ifnano]	Metadata are data, which belong to a measurement. They complete the measurment data providing information about the condition under which the measurements have been taken place.
+Metadata [ncit]	Data about data; information that describes another set of data.
+Photometry [ifnano]	Measurement method using visible light to analyse the property of a substance
+Photometry [ncit]	Measurement of the properties of light, especially luminous intensity.
+Colorimetry (chemical method) [ifnano]	Determination concentrations using a color chart
+Colorimetry [allotrope]	The determination of the spectral absorbance of a solution. This method is often used to determine the concentration of a chemical in a solution. [CHMO]
+Colorimetry [ncit]	An assessment used to quantify and describe the colors within the visible spectrum of light.
+Image data [ifnano]	Digital representation of an image. Images are represented in natural numbers.
+RGB image data [ifnano]	Digital representation of an image using a natural number defining the red, green and blue proportion for each pixel
+Picture grid [ifnano]	Commen form of representing a digital picture: The picture is represented as a XY-Grid of Data-Points containing the color and brightness information.
+Pixel [ifnano]	Element of the picture grid
+Pixel [ncit]	The smallest resolvable rectangular area of an image, either on a screen or stored in memory.
+Digital image processing [ifnano]	The use of a digital computer to process digital images through an algorithm.
+Image analysis (Chemometrics) [ifnano]	Using image data and eventually digital image processing in order to generate a corellation between this data and an analytical target.
+Image analysis [allotrope]	Image analysis is the discovering of patterns in an image that are correlated to qualities of the material entity the image represents or of abstract patterns. [Allotrope]
+Image analysis [edam]	The analysis of a image (typically a digital image) of some type in order to extract information from it.
+analytical target [ifnano]	The information represented by one or more variables, which has to be predicted by data analysis in instrumental analytics
+Geometry correction [ifnano]	In terms of digtal image procession: correction methods to compensate image errors caused by lense distorsion or perspective.
+Linear discriminant analysis [ifnano]	Linear discriminant analysis (LDA), normal discriminant analysis (NDA), or discriminant function analysis is a generalization of Fisher's linear discriminant, a method used in statistics and other fields, to find a linear combination of features that characterizes or separates two or more classes of objects or events.
+Supervised learning [ifnano]	Machine learning task of learning a function that maps an input to an output based on example input-output pairs.
+Supervised learning [obi]	A machine learning process using a function that maps an input to an output based on example input-output pairs. It infers a function from labeled training data consisting of a set of training examples.
+Unsupervised learning [ifnano]	A type of algorithm that learns patterns from untagged data
+Unsupervised learning [obi]	"A machine learning process that infers a function describing the structure of ""unlabeled"" data (i.e. data that has not been classified or categorized)."
+Image histogramm / histogramm [ifnano]	A type of histogram that acts as a graphical representation of the tonal distribution in a digital image. It plots the number of pixels for each tonal value.
+Color histogramm [ifnano]	A multidimensional histogram of the distribution of color in an image
+count [ifnano]	counting events
+count [allotrope]	The number of objects counted. [Allotrope]
+count [allotrope]	A datum that has non-negative integer values that is about the number of discrete things. [Allotrope]
+count [ncit]	Determining the number or amount of something.
+count [ms]	a count is a data item denoted by an integer and represented the number of instances or occurences of an entity
+arbitrary units	A single undivided thing (unit) based on or subject to individual judgment or preference, and not by necessity, reason, or principle.
+zinc [ifnano]	The chemical element zinc
+zinc [bwmd]	The chemical element zinc
+zinc [ncit]	An element with atomic symbol Zn, atomic number 30, and atomic weight 65.39.
+zinc [efo]	A zinc group element atom that has formula Zn.
+Standard deviation [ifnano]	A measure of the amount of variation of a set of values.
+Standard deviation [allotrope]	The standard deviation is a measure of the amount of variation or dispersion of a set of values. [Wikipedia]
+baseline correction [ifnano]	A pre-processing technique used to separate true spectroscopic signals from interference effects or remove background effects, stains, or traces of compounds. It adjusts the spectral offset.
+Standard deviation [ms]	The standard deviation of a random variable, statistical population, data set, or probability distribution is a measure of variation which correspond to the average distance from the mean of the data set to any given point of that dataset. It also corresponds to the square root of its variance.
+Mooney viscosity [ifnano]	The viscosity of rubber using a standard test method and Mooney Viscometer.
+Monomer [ifnano]	"Asubstance which is capable of forming covalent bonds with a
+sequence of additional like or unlike molecules under the conditions of the relevant polymerforming reaction used for the particular process"
+Monomer [ncit]	A chemical subunit that can undergo polymerization by bonding to other subunits.
+polymer [ifnano]	"a substance consisting of molecules characterised by the sequence of one or more
+types of monomer unit. Such molecules must be distributed over a range of molecular weights."
+polymer [chebi]	A polymer is a mixture, which is composed of macromolecules of different kinds and which may be differentiated by composition, length, degree of branching etc..
+Polymer Composition [ifnano]	The relative proportions of monomers that make up a particular chemical polymer (raw rubber).
+Composition [fso]	Composition of the material or substance.
+Composition [pato]	A single physical entity inhering in an bearer by virtue of the bearer's quantities or relative ratios of subparts. [PATO]
+Composition [ncit]	The way in which something is made, especially in terms of its different parts; its constituents.
+sample [ifnano]	A material entity, which is part of a larger set of the same material entity
+agglomerate [dik]	Group of interlocked aggregates that are easily separated by normal rubber processing
+aggregate [dik]	Rigid group of coalesced particles which is the smallest entity that can be dispersed by normal rubber processing
+particle [dik]	Smallest discernible spherical or nearly spherical unit which can exist separately
+particle [ncit]	An object with finite mass and size parameters.
+Polymer [dik]	substance composed of molecules characterized by the multiple repetition of one or more species of atoms or groups of atoms (constitutional units) linked to each other in amounts sufficient to provide a set of properties that do not vary markedly with the addition or removal of one or a few of the constitutional units
+Keltan 5470C [dik]	Trade name for a specific EPDM rubber
+Filler [dik]	solid compounding ingredient, in particulate form, which may be added in relatively large proportions to a rubber or rubber latex for technical or economic purposes
+N600-Carbon Black [dik]	An N carbon black with an average nitrogen surface area of 33 to 39 m²/g.
+Corax N660 [dik]	Trade name for a specific N600-carbon black
+Softener [dik]	compounding ingredient used in small proportions to reduce the viscosity of an unvulcanized rubber mix or the hardness of a vulcanizate
+Paraffinic Oil [dik]	hydrocarbon process oil, most or all of which is composed of alkanes
+‎P460 [dik]	Trade name for a specific paraffinic oil
+Process Oil [dik]	hydrocarbon oil derived from petroleum or other sources and used as an extender or processing aid
+Processing Aid [dik]	compounding ingredient which improves the processability of a rubber compound or mix
+antidegradant [dik]	compounding ingredient used to retard deterioration by ageing
+Antilux 500‎ [dik]	Trade name for a specific antidegradant
+activator [dik]	compounding ingredient used in small proportions to increase the effectiveness of an accelerator
+activator [ncit]	A class of substances that binds to, activates and increases the activity of a target.
+Zinkoxid Rotsiegel [dik]	Trade name for a specific zinc oxide
+Stearic Acid [ncit]	A saturated long-chain fatty acid with an 18-carbon backbone. Stearic acid is found in various animal and plant fats, and is a major component of cocoa butter and shea butter.
+PALMERA B 1802-CG [dik]	Trade name for a specific stearic acid
+accelerator [dik]	compounding ingredient used in small amounts with a vulcanizing agent to increase the speed of vulcanization and/or enhance the physical properties of the vulcanizate
+primary accelerator [dik]	principal accelerator used in a vulcanizing system
+secondary accelerator [dik]	accelerator used in low concentrations with the primary accelerator to optimize cure rate and vulcanizate properties
+di(benzothiazol-2-yl)disulfide [chebi]	An organic disulfide resulting from the formal oxidative coupling of the thiol groups of two molecules of 1,3-benzothiazole-2-thiol. It is used as an accelerator in the rubber industry.
+Vulkacit MBTS [dik]	Trade name for a specific di(benzothiazol-2-yl)disulfide
+Luvomaxx TbzTD [dik]	Trade name for a specific tetrabenzylthiuramdisulfide
+dithiocarbamate [chebi]	A member of the class of dithiocarbamate anions resulting from the deprotonation of both of the dithiocarbamic acid moieties of ethylenebis(dithiocarbamic acid). The major species at pH 7.3.
+Rhenogran ‎ZBDC 80‎ [dik]	Trade name for a specific zinc dibenzyldithiocarbamate
+Vulcanizing Agent [dik]	compounding ingredient that produces crosslinking in rubber
+Vulcanizing System [dik]	combination of vulcanizing agent and, as required, accelerators, activators, retarders, etc., used to produce the desired vulcanization characteristics and vulcanizate properties
+Cure Rate [dik]	rate at which a rubber compound vulcanizes after having reached the point of incipient vulcanization
+Retarder [dik]	compounding ingredient used to reduce the tendency of a rubber compound to vulcanize prematurely
+PHR [dik]	mass of compounding ingredient added to one hundred mass units of elastomer
+Formulation [dik]	list of compounding ingredients and their proportions, used in the preparation of a compound
+Compounding Ingredient [dik]	substance added to a rubber or rubber latex to form a mix
+Compound [dik]	intimate mixture of a rubber or rubbers or other polymer-forming materials with all the ingredients necessary for the finished product
+Mill [dik]	machine with two counter-rotating rolls, frequently heated or cooled, usually driven at different speeds, and having an adjustable nip for mastication, mixing, blending, warm-up or sheeting
+Roll [dik]	cylinder forming a major, rotating member of a calender or mill
+Rotational Frequency [dik]	A physical quality which inheres in a bearer by virtue of its speed rotating around itself.
+Rotational Frequency Unit [uo]	"""A unit which is a standard measure of the number of rotations in a given time."" [NIST:NIST]"
+Frequency Unit [uo]	"""A unit which is a standard measure of the number of repetitive actions in a particular time."" [NIST:NIST]"
+Frequency Unit [ncit]	An indication of the type of unit of measure being used to express a number of regular events in a given time per unit of time.
+Turns per Second [dik]	A rotational frequency unit which is equal to the number of completed turns in a period of time that equals to 1 second.
+Turns per Second [uo]	"""A rotational frequency unit which is equal to the number complete turn in a period of time that equals to 1 second."" [NIST:NIST]"
+Turns per Minute [dik]	A rotational frequency unit which is equal to the number of completed turns in a period of time that equals to 1 minute.
+Discriminant analysis [ifnano]	Is a supervised classification method and it is used to build classification rules of a number of prespecified clases.
+Temperature [ncit]	A measure of the average kinetic energy of a system of particles. Temperature may be quantified, in the context of thermodynamics, as the potential of one system to transfer thermal energy to another system until both systems reach a state of thermal equilibrium.
+Temperature [pato]	A physical quality of the thermal energy of a system.
+Temperature [om]	Temperature is the extent to which an object is hot.
+Temperature [efo]	Temperature is a physical quality of the thermal energy of a system.
+Temperature Unit [uo]	"""A unit which is a standard measure of the average kinetic energy of the particles in a sample of matter."" [Wikipedia:Wikipedia]"
+Temperature Unit [ncit]	An indication of the type of unit of measure being used to express a temperature.
+NIP [dik]	radial clearance between the roll surfaces of a mill or calender on a line of centres
+Sheeting [dik]	Process of converting a rubber or rubber mix, rubber dough or coagulated latex into a form in which the thickness is small in proportion to the length
+Dispersion [dik]	Distribution of one or more ingredients into a rubber, a rubber blend or a continuum material, by the application of shearing forces, in order to confer optimum and uniform properties
+Mastication [dik]	the molecular mass of a rubber, in either the raw or the mixed state, by the action of mechanical work (shear) and atmospheric oxygen, sometimes assisted by peptizers and heat
+Mastication [ncit]	The process by which food is torn or crushed by the teeth.
+Mastication [hp]	The process of biting and mashing food with the teeth prior to swallowing.
+Processability [dik]	relative ease with which raw or compounded rubbers can be handled in rubber-processing machinery
+Mixer Device [dik]	A device for mixing/blending materials or signals.
+Mixer Device [ncit]	A mechanical device designed to blend materials or an electronic device designed to blend signals.
+Mechanical Mixer [dik]	A mixer device designed for mechanically mixing/blending materials.
+Mechanical Mixer [ncit]	A mechanical component designed to blend materials.
+Internal Mixer [dik]	machine with temperature controls containing one or more rotors operating in a closed cavity used to masticate and/or to incorporate and disperse compounding ingredients into the rubber
+Torque [om]	Torque is the effectiveness of a force to produce rotation about an axis, measured by the product of the force and the perpendicular distance from the line of action of the force to the axis.
+Length [ncit]	The linear extent in space from one end of something to the other end, or the extent of something from beginning to end.
+Length [pato]	A 1-D extent quality which is equal to the distance between two points.
+Length [om]	Length is the amount of space between two geographical points along a curve. It is a base quantity in the International System of Units and other systems of units. Length is speed times time. The metre, a base unit of length in the International System of Units, is defined in terms of speed of light during a certain time interval.
+Length [ms]	PEFF keyword for the sequence length.
+Length Unit [uo]	"""A unit which is a standard measure of the distance between two points."" [Wikipedia:Wikipedia]"
+Length Unit [ncit]	An indication of the type of unit of measure being used to express a length or distance.
+millimeter [ncit]	A metric unit of length equal to one thousandth of a meter (10E-3 meter) or approximately 0.03937 inch.
+millimeter [uo]	"""A length unit which is equal to one thousandth of a meter or 10^[-3] m."" [NIST:NIST]"
+Power [pato]	A physical quality inhering in a bearer by virtue of the bearer's rate of doing work.
+Power [om]	Power is the time rate at which work is done. It is a derived quantity in the International System of Units. Power is energy divided by time.
+Filling Ratio [dik]	A physical quality which inheres in a bearer by virtue of the ratio of the volume of a substance contained in the bearer and the bearer's own volume.
+batch [dik]	Product of one mixing operation
+batch [ncit]	A quantity of people or things treated or regarded as a group, especially when subdivided from a larger group.
+Extruder [dik]	machine which, through the use of a screw or a hydraulic ram, continuously shapes a material by forcing it through a die or dies
+Screw [dik]	rotating member with one or more helical grooves, used to propel rubber along the barrel of an extruder
+Die [dik]	that part of an extruder through which material is forced, forming a profile of the extrudate
+Extrudate [dik]	product of an extrusion process
+Extruder Head [dik]	that part of an extruder which houses the die and die holder
+Extrusion [dik]	continuous shaping of a material by passage through a die
+Extrusion [rex]	A transformation in which an atom or group Y connected to two other atoms or groups X and Z is lost from a molecule, leading to a product in which X is bonded to Z, e.g. X-Y-Z --> X-Z + Y.
+Extrusion [chmo]	A process used to create objects of a fixed cross-sectional profile by forcing or drawing a material through a die.
+Die Swell [dik]	difference between the dimensions of the cross-section of an extrudate and the corresponding dimensions of the die orifice, usually quantified as the percentage increase in the crosssectional area
+Surface [ncit]	The extended two-dimensional outer boundary of a three-dimensional object.
+Pressure [pato]	A physical quality that inheres in a bearer by virtue of the bearer's amount of force per unit area it exerts.
+Pressure [om]	Pressure is the force applied to or distributed over a surface. It is a derived quantity in the International System of Units. Pressure is force divided by area.
+Sensor [sosa]	Device, agent (including humans), or software (simulation) involved in, or implementing, a Procedure. Sensors respond to a stimulus, e.g., a change in the environment, or input data composed from the results of prior Observations, and generate a Result. Sensors can be hosted by Platforms.
+Sensor [chmo]	A piece of apparatus that is used to measure a physical quantity.
+Crosslink Density [dik]	number of crosslinks per unit volume or unit mass of vulcanizate
+Vulcanizate [dik]	product of the vulcanization of a rubber compound
+Crosslink [dik]	chemical bond or atom(s) joining two rubber chains or two parts of the same rubber chain as a result of vulcanization
+Crosslink [ncit]	Any covalent linkage between two polymers or between two different regions of the same polymer.
+Crosslinking [dik]	〈act of〉 insertion of crosslinks between or within rubber chains to give a network structure
+State of Cure [dik]	condition of a vulcanizate during the course of vulcanization, measured in terms of its structure or properties
+Vulcanization [dik]	process, usually involving heat, in which rubber, through a change in its chemical structure (for example, crosslinking), is converted to a condition in which the elastic properties are conferred or re-established or improved or extended over a greater range of temperatures
+autoclave [dik]	pressurized vessel used for vulcanizing rubber in a vapour or gas
+autoclave [chmo]	A thick-walled steel vessel used during synthesis methods that require both high pressures and high temperatures.
+Plateau Cure [dik]	type of vulcanization during which the modulus of the vulcanizate proceeds to a maximum and then remains essentially constant for a substantial period at the vulcanization temperature
+Optimum Cure [dik]	condition of vulcanization required to achieve an acceptable compromise among a number of desired vulcanizate properties or the optimum value of a selected property
+Overcure [dik]	state of vulcanization beyond the optimum cure
+Undercure [dik]	state of vulcanization less than the optimum cure
+Sample [dik]	one or more items taken from a lot and intended to provide information on the lot and possibly to serve as a basis for a decision on the lot or on the process which had produced it
+Sample [sosa]	Feature which is intended to be representative of a FeatureOfInterest on which Observations may be made.
+Sample [nmrcv]	tempdef: A sample is a role that is played by an object of interest in an investigation used to obtain generalizable information about the sample source. defprov: Daniel Schober
+Test Piece [dik]	piece of material of appropriate shape and size, prepared so that it is ready for use in a test
+Scrap Rubber [dik]	raw, compounded, vulcanized or partially vulcanized rubber in the form of end-of-life rubber products or factory scrap
+Factory Scrap [dik]	raw, compounded, vulcanized or partially vulcanized rubber rejected or generated as waste during product manufacture and found unsuitable for further use unless recycled
+Physical Object Quality [pato]	A quality of a physical entity that exists through action of continuants at the physical level of organisation in relation to other entities.
+Physical Quality [pato]	A quality which inheres in a continuant.
+Measurement Unit Label [pato]	A measurement unit label is as a label that is part of a scalar measurement datum and denotes a unit of measure.
+Datum Label [iao]	A label is a symbol that is part of some other datum and is used to either partially define the denotation of that datum or to provide a means for identifying the datum as a member of the set of data with the same label
+assay [ncit]	A qualitative or quantitative analysis performed to determine the amount of a particular constituent in a sample or the biological or pharmacological properties of a drug.
+assay [obi]	A planned process with the objective to produce information about the material entity that is the evaluant, by physically examining it or its proxies.
+Density Measurement Assay [dik]	An assay with the objective to produce information about the density of the material entity that is the evaluant, by physically examining it or its proxies.
+Mass Density [dik]	mass per unit volume of a material, including any voids present
+Mass Density [ncit]	A measure of the compactness of a substance, expressed as its mass per unit volume.
+Mass Density [pato]	A physical quality which inheres in a bearer by virtue of some influence is exerted by the bearer's mass per unit size.
+Mass Density Unit [uo]	"""A density unit which is a standard measure of the mass of a substance in a given volume."" [UOC:GVG]"
+Unit Of Mass Density [ncit]	An indication of the type of unit of measure being used to express a mass density.
+Gram Per Cubic Centimeter [uo]	"""A mass unit density which is equal to mass of an object in grams divided by the volume in cubic centimeters."" [UOC:GVG]"
+Viscosity Measurement Assay [dik]	An assay with the objective to produce information about the viscosity of the material entity that is the evaluant, by physically examining it or its proxies.
+Mooney Viscosity Measurement Assay [dik]	An assay with the objective to produce information about the Mooney viscosity of the material entity that is the evaluant, by physically examining it or its proxies.
+Viscosity [ncit]	The resistance of a liquid to sheer forces and flow.
+Viscosity [pato]	A physical quality of a fluid inhering in a bearer by virtue of the bearer's disposition to internal resistance to flow.
+Mooney Viscosity [dik]	measure of the viscosity of a raw rubber or rubber compound, determined using a Mooney shearing-disc viscometer
+Viscosity Unit [uo]	"""A unit which is a standard measure of the internal resistance of fluids to flow."" [UOC:GVG]"
+Mooney Viscosity Unit [dik]	A viscosity unit which is a standard measure of the Mooney viscosity.
+Quality of a Substance [pato]	A quality inhering in a bearer by virtue of its constitution.
+Quality of a Liquid [pato]	A physical quality inhering in an entity exhibiting the physical characteristics of an amorphous (non-crystalline) form of matter between a gas and a solid that has a definite volume, but no definite shape.
+Protocol [ncit]	A rule which guides how an activity should be performed.
+Protocol [obi]	A plan specification which has sufficient level of detail and quantitative information to communicate it between investigation agents, so that different investigation agents will reliably be able to independently reproduce the process.
+Protocol [edam]	A human-readable collection of information about about how a scientific experiment or analysis was carried out that results in a specific set of data or results used for further analysis or to test a specific hypothesis.
+Measurement Protocol [dik]	A protocol which specifies the conditions, procedures, and instruments used for conducting a measurement assay in a sufficient level of detail to communicate it between investigation agents, so that different investigation agents will reliably be able to independently reproduce the measurement assay.
+Material Processing Protocol [dik]	A protocol which specifies the conditions, procedures, and instruments used for conducting a material processing in a sufficient level of detail to communicate it between investigation agents, so that different investigation agents will reliably be able to independently reproduce the material processing.
+Density Measurement Protocol [dik]	A measurement protocol for reliably reproducing the density measurement assay.
+Viscosity Measurement Protocol [dik]	A measurement protocol for reliably reproducing the viscosity measurement assay.
+Mooney Viscosity Measurement Protocol [dik]	A viscosity measurement protocol for reliably reproducing the Mooney viscosity measurement assay.
+Degree Celsius [ncit]	A unit of temperature of the temperature scale designed so that the freezing point of water is 0 degrees and the boiling point is 100 degrees at standard atmospheric pressure. The current official definition of the Celsius sets 0.01 C to be at the triple point of water and a degree to be 1/273.16 of the difference in temperature between the triple point of water and absolute zero. One degree Celsius represents the same temperature difference as one Kelvin. [ NCI ]
+Degree Celsius [uo]	"""A temperature unit which is equal to one kelvin degree. However, they have their zeros at different points. The centigrade scale has its zero at 273.15 K."" [NIST:NIST]"
+Degree Celsius [om]	The degree Celsius is a unit of temperature defined as 1 kelvin. The degree Celsius is a derived unit in the International System of Units.
+Material Processing [obi]	A planned process which results in physical changes in a specified input material
+Function [ncit]	The normal action performed by a structure or device.
+Function [mi]	Biological function of a participant or of an interaction.
+Device [ncit]	An object contrived for a specific purpose.
+Device [obi]	A material entity that is designed to perform a function in a scientific investigation, but is not a reagent.
+Measurement Device [ncit]	Any device used to determine the dimension of an object.
+Measurement Device [obi]	A device in which a measure function inheres.
+Processed Material [obi]	Is a material entity that is created or changed during material processing.
+Mixing [chmo]	The combining of components, particles or layers into a more homogeneous state. The mixing may be achieved manually or mechanically by shifting the material with stirrers or pumps or by revolving or shaking the container. The process μst not permit segregation of particles of different size or properties. Homogeneity may be considered to have been achieved in a practical sense when the sampling error of the processed portion is negligible compared to the total error of the measurement system. [ https://doi.org/10.1351/goldbook.M03945 ]
+mix	To bring or combine together or with something else; add as an additional element or part.
+Iodine Adsorption Number [dik]	Number of grams of iodine adsorbed per kilogram of carbon black under specified conditions
+Oil Absorption Number [dik]	The oil absorption number of a carbon black is related to the processing and vulcanizate properties of rubber compounds containing the carbon black
+Kinematic Viscosity [dik]	Kinematic viscosity is the quotient of the dynamic viscosity of the medium and its density.
+Kinematic Viscosity [uo]	The ratio of the dynamic viscosity (μ) over the density of the fluid (ρ), which is noted as (length)^2/time. https://en.wikipedia.org/wiki/Viscosity#Kinematic_viscosity
+Molecular Weight [mi]	Molecular weight in g/mol, determined from molecular formula or sequence.
+Complex Shear Modulus [dik]	ratio of the shear stress to the shear strain, where each can be represented by a complex number
+Complex Young’s Modulus [dik]	ratio of the normal stress to the normal strain, where each can be represented by a complex number
+Elastic Shear Modulus [dik]	that component of an applied shear stress which is in phase with the shear strain, divided by the strain
+Elastic Young’s Modulus [dik]	that component of an applied normal stress which is in phase with the normal strain, divided by the strain
+Loss Shear Modulus [dik]	that component of an applied shear stress which is in quadrature (90° out of phase) with the shear strain, divided by the strain
+Loss Young’s Modulus [dik]	that component of an applied normal stress which is in quadrature (90° out of phase) with the normal strain, divided by the strain
+Modulus [dik]	measure of stiffness under specified conditions of deformation
+Tan Delta [dik]	ratio of the viscous modulus to the elastic modulus
+Oscillating-Disc Curemeter [dik]	type of curemeter in which the force applied to the rubber compound is produced by an oscillating disc embedded in a test sample which is contained under pressure in a sealed cavity
+Rotorless Curemeter [dik]	type of curemeter in which the force applied to the rubber compound is produced by the oscillation of one of the two dies forming the cavity in which the test sample is enclosed
+Vulcameter [dik]	device that measures the progress of vulcanization in a test sample at the vulcanizing temperature
+Platen Press [dik]	press having two or more super-imposed heated platens between which moulds are pressed
+Platen [dik]	flat metal plate (or chest) which applies heat and pressure to one or more mould(s) in a press
+Concentration Measurement Assay [dik]	An assay with the objective to produce information about the concentration of a specific substance in the material entity that is the evaluant, by physically examining it or its proxies.
+Ethylene Concentration Measurement Assay [dik]	A concentration measurement assay with the objective to produce information about the concentration of ethylene in the material entity that is the evaluant, by physically examining it or its proxies.
+Ethylidene Norbornene Concentration Measurement Assay [dik]	A concentration measurement assay with the objective to produce information about the concentration of ethylidene norbornene in the material entity that is the evaluant, by physically examining it or its proxies.
+Molecular Weight Distribution Measurement Assay [dik]	An assay with the objective to produce information about the molecular weight distribution of the material entity that is the evaluant, by physically examining it or its proxies.
+Concentration Measurement Protocol [dik]	A measurement protocol for reliably reproducing the concentration measurement assay.
+Ethylene Concentration Measurement Protocol [dik]	A concentration measurement protocol for reliably reproducing the ethylene concentration measurement assay.
+Ethylidene Norbornene Concentration Measurement Protocol [dik]	A concentration measurement protocol for reliably reproducing the ethylidene norbornene concentration measurement assay.
+Molecular Weight Distribution Measurement Protocol [dik]	A measurement protocol for reliably reproducing the molecular weight distribution measurement assay.
+organodiyl group [chebi]	Any organic substituent group, regardless of functional type, having two free valences at carbon atom(s).
+organic group [chebi]	Any substituent group or skeleton containing carbon.
+group [ncit]	Any number of entities (members) considered as a unit.
+group [chebi]	A defined linked collection of atoms or a single atom within a molecular entity.
+Percent [uo]	"""A dimensionless ratio unit which denotes numbers as fractions of 100."" [Wikipedia:Wikipedia]"
+Percent [om]	The percent is a unit of dimension one defined as 1/100.
+Ratio [ncit]	Quotient of quantities of the same kind for different components within the same system.
+Ratio [uo]	"""A dimensionless ratio unit which, given a pair of quantities a and b, for which b is a multiple of a, denotes b by giving the multiplier (coefficient) c for a to result in b."" [UOB:LKSR]"
+Ratio [uo]	"""A dimensionless unit which denotes an amount or magnitude of one quantity relative to another."" [Wikipedia:Wikipedia]"
+Ratio [ms]	A ratio is a data item which is formed with two numbers r and s is written r/s, where r is the numerator and s is the denominator. The ratio of r to s is equivalent to the quotient r/s.
+Dimensionless Unit [ms]	"""A unit which is a standard measure of physical quantity consisting of only a numerical number without any units."" [Wikipedia:Wikipedia]"
+Mass Percentage [uo]	"""A dimensionless concentration unit which denotes the mass of a substance in a mixture as a percentage of the mass of the entire mixture."" [Wikipedia:Wikipedia]"
+Volume Percentage [uo]	"""A dimensionless concentration unit which denotes the volume of the solute in mL per 100 mL of the resulting solution."" [UOC:GVG]"
+Concrentration [pato]	A quality inhering in a substance by virtue of the amount of the bearer's there is mixed with another substance.
+Concrentration [edam]	The concentration of a chemical compound.
+Concrentration [chmo]	Experimental method output expressing the contribution of one constituent to the composition of a mixture.
+Concrentration [ncit]	The quantity of a substance per unit volume or weight; a measure of the amount of substance present in a unit amount of mixture, particularly, the amount of solute dissolved in a solvent. The amounts can be expressed as moles, masses, volumes, or parts.
+Concrentration [ecso]	the strength of a solution; number of molecules of a substance in a given volume
+Molecular Quality [pato]	A quality which inheres in a molecular entity, a single molecule, atom, ion, radical etc.
+Ethylene Concentration [dik]	A concentration of ethylene inhering in a substance by virtue of the amount of the bearer's there is mixed with ethylene.
+Ethylidene Norbornene Concentration [dik]	A concentration of ethylidene norbornene inhering in a substance by virtue of the amount of the bearer's there is mixed with ethylidene norbornene.
+Quality of a Solid [pato]	A physical quality inhering in a bearer by virtue of the bearer's exhibiting the physical characteristics of an entity characterized by particles arranged such that their shape and volume are relatively stable.
+Optical Quality [pato]	An EM radiation quality in which the EM radiation is within the fiat range of the spectrum visible deemed to be light.
+Standard Normal Variate (SNV) [ifnano]	Is a transformation applied to spectroscopic data to remove scatter effects by centering and scalling each individual spectrum.
+Smmothing [ifnano]	Removing noise or spikes in correlated data such as spectroscopic data using a row-oriented transformation.
+Normalization [ifnano]	Scaling spectra in order to get all data on approximately the same scale.
+Prediction [ifnano]	Estimation of unknown response values using a regression model.
+Butadiene rubber BR [ifnano]	Polybutadiene [butadiene rubber BR] is a synthetic rubber. Polybutadiene rubber is a polymer formed from the polymerization of the monomer 1,3-butadiene. Polybutadiene has a high resistance to wear and is used especially in the manufacture of tires.
+Functional group [ifnano]	An atom or group of atoms within a molecule that has similar chemical properties whenever it appears in various compounds. Even if other parts of the molecule are quite different, certain functional groups tend to react in certain ways.
+Butyl rubber BIIR [ifnano]	Is a synthetic rubber, a copolymer of isobutylene with isoprene
+EPDM rubber [ifnano]	EPDM rubber (ethylene propylene diene monomer rubber) is a type of synthetic rubber that is composed of ethylidene norbornene (ENB), dicyclopentadiene (DCPD), and vinyl norbornene (VNB).
+Polyisoprene IR [ifnano]	A synthetic cis-1,4-polyisoprene, made by the industrial polymerisation of isoprene.
+Nitrile rubber NBR [ifnano]	Known as nitrile butadiene rubber and acrylonitrile butadiene rubber, is a synthetic rubber derived from acrylonitrile (ACN) and butadiene.
+Fluororubber FKM [ifnano]	Is a family of fluorocarbon-based fluoroelastomer materials that contain vinylidene fluoride as a monomer.
+Hydrogenated Nitrile rubber HNBR [ifnano]	Highly Saturated Nitrile. A Higher performance solid rubber material than NBR, achieved through adding Hydrogen Atoms to the Butadiene Segments.
+Styrene-butadiene rubber SBR [ifnano]	Families of synthetic rubbers derived from styrene and butadiene.
+acidity [pato]	A concentration quality inhering in a bearer by virtue of the bearer's containing acid (hydrogen ions).
+template class	provide a human-readable definition of the type of entity the class refers to
