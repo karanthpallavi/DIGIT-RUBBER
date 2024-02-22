@@ -11,9 +11,10 @@
                                                                    <http://omv.ontoware.org/2005/05/ontology#hasOntologySyntax> <http://www.w3.org/ns/formats/RDF_XML> ;
                                                                    <http://purl.obolibrary.org/obo/IAO_0000700> <http://www.purl.org/OntoMeta/DigitRubber#1> ;
                                                                    <http://purl.org/dc/elements/1.1/creator> <https://orcid.org/0000-0000-0000-0000> ;
+                                                                   <http://purl.org/dc/elements/1.1/date> "2023-06-01T00:00:00"^^xsd:dateTime ;
                                                                    <http://purl.org/dc/terms/bibliographicCitation> "TIB (2023): DigitRubber Ontology. An ontology demonstrating rich ontology for rubber extrusion. PURL: http://www.purl.org/OntoMeta/DigitRubberOntology."@en ;
                                                                    <http://purl.org/dc/terms/contributor> <http://purl.obolibrary.org/obo/digitrubber/0000-0000-0000-0000> ;
-                                                                   <http://purl.org/dc/terms/created> "2023-09-06T08:05:00"^^xsd:dateTime ;
+                                                                   <http://purl.org/dc/terms/created> "2023-06-01T00:00:00"^^xsd:dateTime ;
                                                                    <http://purl.org/dc/terms/description> "DigitRubber Ontology"@en ;
                                                                    <http://purl.org/dc/terms/format> <https://www.iana.org/assignments/media-types/application/rdf+xml> ;
                                                                    <http://purl.org/dc/terms/license> <https://creativecommons.org/licenses/unspecified> ;
@@ -29,7 +30,6 @@
                                                                    <http://usefulinc.com/ns/doap#audience> "DigitRubber ontology has been developed for rubber extrusion"@en ;
                                                                    <http://usefulinc.com/ns/doap#bug-database> <https://github.com/TIBHannover/DIGIT-RUBBER/issues> ;
                                                                    <http://usefulinc.com/ns/doap#repository> <https://github.com/TIBHannover/DIGIT-RUBBER> ;
-                                                                   <http://www.geneontology.org/formats/oboInOwl#date> "06:09:2023 08:05"^^xsd:string ;
                                                                    <http://www.loc.gov/premis/rdf/v3/documentation> <https://tibhannover.github.io/DIGIT-RUBBER/> ;
                                                                    owl:versionInfo "v2024-Feb-22"^^xsd:string ;
                                                                    <http://www.w3.org/ns/adms#versionNotes> "A description of changes between last version and current version of the ontology."@en ;
