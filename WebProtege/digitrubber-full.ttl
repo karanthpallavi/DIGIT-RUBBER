@@ -13,11 +13,11 @@
                                                                    <http://purl.org/dc/elements/1.1/creator> <https://orcid.org/0000-0000-0000-0000> ;
                                                                    <http://purl.org/dc/terms/bibliographicCitation> "TIB (2023): DigitRubber Ontology. An ontology demonstrating rich ontology for rubber extrusion. PURL: http://www.purl.org/OntoMeta/DigitRubberOntology."@en ;
                                                                    <http://purl.org/dc/terms/contributor> <http://purl.obolibrary.org/obo/digitrubber/0000-0000-0000-0000> ;
-                                                                   <http://purl.org/dc/terms/created> "2023-06-01T08:05:00"^^xsd:dateTime ;
+                                                                   <http://purl.org/dc/terms/created> "2023-09-06T08:05:00"^^xsd:dateTime ;
                                                                    <http://purl.org/dc/terms/description> "DigitRubber Ontology"@en ;
                                                                    <http://purl.org/dc/terms/format> <https://www.iana.org/assignments/media-types/application/rdf+xml> ;
                                                                    <http://purl.org/dc/terms/license> <https://creativecommons.org/licenses/unspecified> ;
-                                                                   <http://purl.org/dc/terms/modified> "2023-09-26T10:19:00"^^xsd:dateTime ;
+                                                                   <http://purl.org/dc/terms/modified> "2024-02-22T00:00:00"^^xsd:dateTime ;
                                                                    <http://purl.org/dc/terms/references> <https://zenodo.org/record/0000000> ;
                                                                    <http://purl.org/dc/terms/subject> <https://purl.org/linsearch/fer> ;
                                                                    <http://purl.org/dc/terms/title> "DigitRubber Ontology"@en ;
@@ -29,9 +29,9 @@
                                                                    <http://usefulinc.com/ns/doap#audience> "DigitRubber ontology has been developed for rubber extrusion"@en ;
                                                                    <http://usefulinc.com/ns/doap#bug-database> <https://github.com/TIBHannover/DIGIT-RUBBER/issues> ;
                                                                    <http://usefulinc.com/ns/doap#repository> <https://github.com/TIBHannover/DIGIT-RUBBER> ;
-                                                                   <http://www.geneontology.org/formats/oboInOwl#date> "01:06:2023 08:05" ;
+                                                                   <http://www.geneontology.org/formats/oboInOwl#date> "06:09:2023 08:05"^^xsd:string ;
                                                                    <http://www.loc.gov/premis/rdf/v3/documentation> <https://tibhannover.github.io/DIGIT-RUBBER/> ;
-                                                                   owl:versionInfo "v2023-Sep-26" ;
+                                                                   owl:versionInfo "v2024-Feb-22"^^xsd:string ;
                                                                    <http://www.w3.org/ns/adms#versionNotes> "A description of changes between last version and current version of the ontology."@en ;
                                                                    <http://www.w3.org/ns/dcat#distribution> <http://www.purl.org/OntoMeta/DigitRubber.owl> ;
                                                                    <https://vocab.org/vann/example> <http://www.purl.org/OntoMeta/DigitRubber/docs/descriptionOfUse> ;
@@ -42,6 +42,13 @@
 #################################################################
 #    Annotation properties
 #################################################################
+
+###  0000001
+<0000001> rdf:type owl:AnnotationProperty ;
+          <http://www.geneontology.org/formats/oboInOwl#created_by> "Sebastian Leineweber"^^xsd:string ;
+          <http://www.geneontology.org/formats/oboInOwl#creation_date> "2024-02-19T12:26:28.523038Z"^^xsd:string ;
+          rdfs:label "update" .
+
 
 ###  http://omv.ontoware.org/2005/05/ontology#hasOntologySyntax
 <http://omv.ontoware.org/2005/05/ontology#hasOntologySyntax> rdf:type owl:AnnotationProperty .
@@ -4656,6 +4663,9 @@ members of a group differ from the mean
 <https://www.tib.eu/digitrubber#DIGITRUBBER_000026> rdf:type owl:Class ;
                                                     rdfs:subClassOf <http://purl.obolibrary.org/obo/BFO_0000023> ;
                                                     <http://purl.obolibrary.org/obo/IAO_0000115> "An agent is a system that perceives its environment through sensors and can interact with it through actions."@en ;
+                                                    <http://purl.org/dc/elements/1.1/contributor> "Sebastian Leineweber"^^xsd:string ;
+                                                    <http://purl.org/pav/lastUpdateOn> "2024-02-19T00:00:00"^^xsd:dateTime ;
+                                                    <http://www.geneontology.org/formats/oboInOwl#creation_date> "2023-04-02T00:00:00"^^xsd:dateTime ;
                                                     rdfs:label "Agent"@de ,
                                                                "agent [ita]"@en ;
                                                     <https://www.tib.eu/digitrubber#coarseClassification> "role" .
@@ -4683,19 +4693,23 @@ members of a group differ from the mean
                                                     <http://purl.obolibrary.org/obo/IAO_0000115> "Approximation is a technique for approximating a value using historical or available observations from the domain."@en ;
                                                     <http://purl.org/dc/elements/1.1/contributor> "Luis Ramos" ;
                                                     <http://purl.org/dc/elements/1.1/language> "English" ;
+                                                    <http://purl.org/pav/lastUpdateOn> "2024-02-19T00:00:00"^^xsd:dateTime ;
+                                                    <http://www.geneontology.org/formats/oboInOwl#creation_date> "2023-04-02T00:00:00"^^xsd:dateTime ;
                                                     rdfs:label "Approximationsmethode"@de ,
-                                                               "approximation [ita]"@en ;
+                                                               "approximation method [ita]"@en ;
                                                     <https://www.tib.eu/digitrubber#coarseClassification> "plan specification" .
 
 
 ###  https://www.tib.eu/digitrubber#DIGITRUBBER_000029
 <https://www.tib.eu/digitrubber#DIGITRUBBER_000029> rdf:type owl:Class ;
                                                     <http://purl.obolibrary.org/obo/IAO_0000114> "uncurated" ;
-                                                    <http://purl.obolibrary.org/obo/IAO_0000115> "Function approximation is a technique for estimating an unknown underlying function using historical or available observations from the domain."@en ;
+                                                    <http://purl.obolibrary.org/obo/IAO_0000115> "Function approximation method  is a technique for estimating an unknown underlying function using historical or available observations from the domain."@en ;
                                                     <http://purl.org/dc/elements/1.1/contributor> "Luis Ramos" ;
                                                     <http://purl.org/dc/elements/1.1/language> "English" ;
+                                                    <http://purl.org/pav/lastUpdateOn> "2024-02-19T00:00:00"^^xsd:dateTime ;
+                                                    <http://www.geneontology.org/formats/oboInOwl#creation_date> "2023-04-02T00:00:00"^^xsd:dateTime ;
                                                     rdfs:label "Funktionsapproximationsmethode"@de ,
-                                                               "function approximation [ita]"@en ;
+                                                               "function approximation method [ita]"@en ;
                                                     <https://www.tib.eu/digitrubber#coarseClassification> "plan specification" .
 
 
@@ -4705,6 +4719,8 @@ members of a group differ from the mean
                                                     <http://purl.obolibrary.org/obo/IAO_0000115> "Reinforcement learning is a set of machine learning methods in which an agent autonomously learns a strategy to maximize a reward. Algorithms follow the trail-and-error principle, thus try several strategies and repeat those with a higher reward. During the training the agent produces an input, while the target output is only known to a teacher. The teacher gives feedback to the agent in form of a reward."@en ;
                                                     <http://purl.org/dc/elements/1.1/contributor> "Luis Ramos" ;
                                                     <http://purl.org/dc/elements/1.1/language> "English" ;
+                                                    <http://purl.org/pav/lastUpdateOn> "2024-02-19T00:00:00"^^xsd:dateTime ;
+                                                    <http://www.geneontology.org/formats/oboInOwl#creation_date> "2023-04-02T00:00:00"^^xsd:dateTime ;
                                                     rdfs:label "bestärkendes Lernen"@de ,
                                                                "reinforcement learning [ita]"@en ;
                                                     <https://www.tib.eu/digitrubber#coarseClassification> "plan specification" .
@@ -4713,20 +4729,25 @@ members of a group differ from the mean
 ###  https://www.tib.eu/digitrubber#DIGITRUBBER_000031
 <https://www.tib.eu/digitrubber#DIGITRUBBER_000031> rdf:type owl:Class ;
                                                     <http://purl.obolibrary.org/obo/IAO_0000114> "uncurated" ;
-                                                    <http://purl.obolibrary.org/obo/IAO_0000115> "Libraries in programming languages are collections of prewritten code that users can use to optimize tasks."@en ;
+                                                    <http://purl.obolibrary.org/obo/IAO_0000115> "Programming Library is a collection of prewritten code that users can use to optimize tasks."@en ;
                                                     <http://purl.org/dc/elements/1.1/contributor> "Luis Ramos" ;
                                                     <http://purl.org/dc/elements/1.1/language> "English" ;
-                                                    rdfs:label "Bibliothek"@de ,
-                                                               "library [ita]"@en ;
+                                                    <http://purl.org/pav/lastUpdateOn> "2024-02-19T00:00:00"^^xsd:dateTime ;
+                                                    <http://www.geneontology.org/formats/oboInOwl#creation_date> "2023-04-02T00:00:00"^^xsd:dateTime ;
+                                                    rdfs:label "Programmier Bibliothek"@de ,
+                                                               "programming library [ita]"@en ;
                                                     <https://www.tib.eu/digitrubber#coarseClassification> "information content entity" .
 
 
 ###  https://www.tib.eu/digitrubber#DIGITRUBBER_000032
 <https://www.tib.eu/digitrubber#DIGITRUBBER_000032> rdf:type owl:Class ;
                                                     <http://purl.obolibrary.org/obo/IAO_0000114> "uncurated" ;
-                                                    <http://purl.obolibrary.org/obo/IAO_0000115> "Clustering or cluster analysis is a unsupervised machine learning technique, which groups the unlabelled dataset. It can be defined as a way of grouping the data points into different clusters, consisting of similar data points."@en ;
-                                                    <http://purl.org/dc/elements/1.1/contributor> "Luis Ramos" ;
+                                                    <http://purl.obolibrary.org/obo/IAO_0000115> "Cluster analysis is a unsupervised machine learning technique, which groups the unlabelled dataset. It can be defined as a way of grouping the data points into different clusters, consisting of similar data points."@en ;
+                                                    <http://purl.org/dc/elements/1.1/contributor> "Luis Ramos" ,
+                                                                                                  "Sebastian Leineweber"^^xsd:string ;
                                                     <http://purl.org/dc/elements/1.1/language> "English" ;
+                                                    <http://purl.org/pav/lastUpdateOn> "2024-02-19T00:00:00"^^xsd:dateTime ;
+                                                    <http://www.geneontology.org/formats/oboInOwl#creation_date> "2023-04-02T00:00:00"^^xsd:dateTime ;
                                                     rdfs:label "Clusteranalyse"@de ,
                                                                "cluster analysis [ita]"@en ;
                                                     <https://www.tib.eu/digitrubber#coarseClassification> "plan specification" .
@@ -4750,9 +4771,12 @@ members of a group differ from the mean
 ###  https://www.tib.eu/digitrubber#DIGITRUBBER_000034
 <https://www.tib.eu/digitrubber#DIGITRUBBER_000034> rdf:type owl:Class ;
                                                     <http://purl.obolibrary.org/obo/IAO_0000114> "uncurated" ;
-                                                    <http://purl.obolibrary.org/obo/IAO_0000115> "A Database is a System for describing, storing and retrieving large amounts of data."@en ;
-                                                    <http://purl.org/dc/elements/1.1/contributor> "Luis Ramos" ;
+                                                    <http://purl.obolibrary.org/obo/IAO_0000115> "Data mining is the process of analyzing multivariate datasets using pattern recognition or other knowledge discovery techniques to identify potentially unknown and potentially meaningful data content, relationships, classification, or trends."@en ;
+                                                    <http://purl.org/dc/elements/1.1/contributor> "Luis Ramos" ,
+                                                                                                  "Sebastian Leineweber"^^xsd:string ;
                                                     <http://purl.org/dc/elements/1.1/language> "English" ;
+                                                    <http://purl.org/pav/lastUpdateOn> "2024-02-19T00:00:00"^^xsd:dateTime ;
+                                                    <http://www.geneontology.org/formats/oboInOwl#creation_date> "2023-04-02T00:00:00"^^xsd:dateTime ;
                                                     rdfs:label "Data Mining"@de ,
                                                                "data mining [ita]"@en ;
                                                     <https://www.tib.eu/digitrubber#coarseClassification> "plan specification" .
@@ -4777,8 +4801,11 @@ members of a group differ from the mean
 <https://www.tib.eu/digitrubber#DIGITRUBBER_000036> rdf:type owl:Class ;
                                                     <http://purl.obolibrary.org/obo/IAO_0000114> "uncurated" ;
                                                     <http://purl.obolibrary.org/obo/IAO_0000115> "A Database is a system for describing, storing and retrieving large amounts of data."@en ;
-                                                    <http://purl.org/dc/elements/1.1/contributor> "ITA" ;
+                                                    <http://purl.org/dc/elements/1.1/contributor> "ITA" ,
+                                                                                                  "Sebastian Leineweber"^^xsd:string ;
                                                     <http://purl.org/dc/elements/1.1/language> "English" ;
+                                                    <http://purl.org/pav/lastUpdateOn> "2024-02-19T00:00:00"^^xsd:dateTime ;
+                                                    <http://www.geneontology.org/formats/oboInOwl#creation_date> "2023-04-02T00:00:00"^^xsd:dateTime ;
                                                     rdfs:label "Datenbank"@de ,
                                                                "database [ita]"@en ;
                                                     <https://www.tib.eu/digitrubber#coarseClassification> "material entity" .
@@ -4803,7 +4830,10 @@ members of a group differ from the mean
 <https://www.tib.eu/digitrubber#DIGITRUBBER_000038> rdf:type owl:Class ;
                                                     <http://purl.obolibrary.org/obo/IAO_0000114> "uncurated" ;
                                                     <http://purl.obolibrary.org/obo/IAO_0000115> "Deep learning is a class of machine learning algorithms that uses multiple layers to progressively extract higher-level features from the raw input. There is no universally agreed-upon threshold of depth that divides shallow learning from deep learning, but most researchers agree that deep learning involves CAP depth higher than 2. The CAP (credit assignment path) is the chain of transformations from input to output. CAPs describe potentially causal connections between input and output. For simple neural networks (feedforward neural networks) this treshhold is reached with at least two hidden layers."@en ;
+                                                    <http://purl.org/dc/elements/1.1/contributor> "Sebastian Leineweber"^^xsd:string ;
                                                     <http://purl.org/dc/elements/1.1/language> "English" ;
+                                                    <http://purl.org/pav/lastUpdateOn> "2024-02-19T00:00:00"^^xsd:dateTime ;
+                                                    <http://www.geneontology.org/formats/oboInOwl#creation_date> "2023-04-02T00:00:00"^^xsd:dateTime ;
                                                     rdfs:label "Deep Learning"@de ,
                                                                "deep learning [ita]"@en ;
                                                     <https://www.tib.eu/digitrubber#coarseClassification> "plan specification" .
@@ -4828,7 +4858,10 @@ members of a group differ from the mean
 <https://www.tib.eu/digitrubber#DIGITRUBBER_000040> rdf:type owl:Class ;
                                                     <http://purl.obolibrary.org/obo/IAO_0000114> "uncurated" ;
                                                     <http://purl.obolibrary.org/obo/IAO_0000115> "The input layer of a neural network is composed of artificial input neurons, and brings the initial data into the system for further processing by subsequent layers of artificial neurons. The input layer is the very beginning of the workflow for the artificial neural network."@en ;
+                                                    <http://purl.org/dc/elements/1.1/contributor> "Sebastian Leineweber"^^xsd:string ;
                                                     <http://purl.org/dc/elements/1.1/language> "English" ;
+                                                    <http://purl.org/pav/lastUpdateOn> "2024-02-19T00:00:00"^^xsd:dateTime ;
+                                                    <http://www.geneontology.org/formats/oboInOwl#creation_date> "2023-04-02T00:00:00"^^xsd:dateTime ;
                                                     rdfs:label "Eingangsvektor"@de ,
                                                                "input layer [ita]"@en ;
                                                     <https://www.tib.eu/digitrubber#coarseClassification> "information content entity" .
@@ -4838,7 +4871,10 @@ members of a group differ from the mean
 <https://www.tib.eu/digitrubber#DIGITRUBBER_000041> rdf:type owl:Class ;
                                                     <http://purl.obolibrary.org/obo/IAO_0000114> "uncurated" ;
                                                     <http://purl.obolibrary.org/obo/IAO_0000115> "Elastomers are dimensionally stable but elastically deformable plastics. They are producest by vulcanization of rubber."@en ;
+                                                    <http://purl.org/dc/elements/1.1/contributor> "Sebastian Leineweber"^^xsd:string ;
                                                     <http://purl.org/dc/elements/1.1/language> "English" ;
+                                                    <http://purl.org/pav/lastUpdateOn> "2024-02-19T00:00:00"^^xsd:dateTime ;
+                                                    <http://www.geneontology.org/formats/oboInOwl#creation_date> "2023-04-02T00:00:00"^^xsd:dateTime ;
                                                     rdfs:label "Elastomere"@de ,
                                                                "elastomer [ita]"@en ;
                                                     <https://www.tib.eu/digitrubber#coarseClassification> "material entity" .
@@ -4848,7 +4884,10 @@ members of a group differ from the mean
 <https://www.tib.eu/digitrubber#DIGITRUBBER_000042> rdf:type owl:Class ;
                                                     <http://purl.obolibrary.org/obo/IAO_0000114> "uncurated" ;
                                                     <http://purl.obolibrary.org/obo/IAO_0000115> "The output layer in an artificial neural network is the last layer of neurons that produces given outputs for the program."@en ;
+                                                    <http://purl.org/dc/elements/1.1/contributor> "Sebastian Leineweber"^^xsd:string ;
                                                     <http://purl.org/dc/elements/1.1/language> "English" ;
+                                                    <http://purl.org/pav/lastUpdateOn> "2024-02-19T00:00:00"^^xsd:dateTime ;
+                                                    <http://www.geneontology.org/formats/oboInOwl#creation_date> "2023-04-02T00:00:00"^^xsd:dateTime ;
                                                     rdfs:label "Ergebnisvektor"@de ,
                                                                "output layer [ita]"@en ;
                                                     <https://www.tib.eu/digitrubber#coarseClassification> "information content entity" .
@@ -4859,7 +4898,10 @@ members of a group differ from the mean
                                                     rdfs:subClassOf <https://www.tib.eu/digitrubber#DIGITRUBBER_000149> ;
                                                     <http://purl.obolibrary.org/obo/IAO_0000114> "uncurated" ;
                                                     <http://purl.obolibrary.org/obo/IAO_0000115> "Extrusion is a process used to create objects of a fixed cross-sectional profile by pushing material through a die of the desired cross-section."@en ;
+                                                    <http://purl.org/dc/elements/1.1/contributor> "Sebastian Leineweber"^^xsd:string ;
                                                     <http://purl.org/dc/elements/1.1/language> "English" ;
+                                                    <http://purl.org/pav/lastUpdateOn> "2024-02-19T00:00:00"^^xsd:dateTime ;
+                                                    <http://www.geneontology.org/formats/oboInOwl#creation_date> "2023-04-02T00:00:00"^^xsd:dateTime ;
                                                     rdfs:label "Extrusion"@de ,
                                                                "extrusion [ita]"@en ;
                                                     <https://www.tib.eu/digitrubber#coarseClassification> "process" .
@@ -4869,7 +4911,10 @@ members of a group differ from the mean
 <https://www.tib.eu/digitrubber#DIGITRUBBER_000046> rdf:type owl:Class ;
                                                     <http://purl.obolibrary.org/obo/IAO_0000114> "uncurated" ;
                                                     <http://purl.obolibrary.org/obo/IAO_0000115> "In neural networks, a hidden layer is located between the input and output of the algorithm, in which the function applies weights to the inputs and directs them through an activation function as the output. In short, the hidden layers perform nonlinear transformations of the inputs entered into the network."@en ;
+                                                    <http://purl.org/dc/elements/1.1/contributor> "Sebastian Leineweber"^^xsd:string ;
                                                     <http://purl.org/dc/elements/1.1/language> "English" ;
+                                                    <http://purl.org/pav/lastUpdateOn> "2024-02-19T00:00:00"^^xsd:dateTime ;
+                                                    <http://www.geneontology.org/formats/oboInOwl#creation_date> "2023-04-02T00:00:00"^^xsd:dateTime ;
                                                     rdfs:label "hidden layer [ita]"@en ,
                                                                "hidden-layer"@de ;
                                                     <https://www.tib.eu/digitrubber#coarseClassification> "information content entity" .
@@ -4879,7 +4924,10 @@ members of a group differ from the mean
 <https://www.tib.eu/digitrubber#DIGITRUBBER_000047> rdf:type owl:Class ;
                                                     <http://purl.obolibrary.org/obo/IAO_0000114> "uncurated" ;
                                                     <http://purl.obolibrary.org/obo/IAO_0000115> "Industry 4.0 is the intelligent networking of machines and processes in the industrial environment, with the help of information and communication technology and thus digitization of the industrial production."@en ;
+                                                    <http://purl.org/dc/elements/1.1/contributor> "Sebastian Leineweber"^^xsd:string ;
                                                     <http://purl.org/dc/elements/1.1/language> "English" ;
+                                                    <http://purl.org/pav/lastUpdateOn> "2024-02-19T00:00:00"^^xsd:dateTime ;
+                                                    <http://www.geneontology.org/formats/oboInOwl#creation_date> "2023-04-02T00:00:00"^^xsd:dateTime ;
                                                     rdfs:label "Industrie 4.0"@de ,
                                                                "industry 4.0 [ita]"@en ;
                                                     <https://www.tib.eu/digitrubber#coarseClassification> "plan specification" .
@@ -4889,7 +4937,10 @@ members of a group differ from the mean
 <https://www.tib.eu/digitrubber#DIGITRUBBER_000048> rdf:type owl:Class ;
                                                     <http://purl.obolibrary.org/obo/IAO_0000114> "uncurated" ;
                                                     <http://purl.obolibrary.org/obo/IAO_0000115> "Rubber is an elastic substance made either from the juice of particular tropical trees or artificially. It is raw material for car tires and other technical products."@en ;
+                                                    <http://purl.org/dc/elements/1.1/contributor> "Sebastian Leineweber"^^xsd:string ;
                                                     <http://purl.org/dc/elements/1.1/language> "English" ;
+                                                    <http://purl.org/pav/lastUpdateOn> "2024-02-19T00:00:00"^^xsd:dateTime ;
+                                                    <http://www.geneontology.org/formats/oboInOwl#creation_date> "2023-04-02T00:00:00"^^xsd:dateTime ;
                                                     rdfs:label "Kautschuk"@de ,
                                                                "rubber [ita]"@en ;
                                                     <https://www.tib.eu/digitrubber#coarseClassification> "material entity" .
@@ -4899,7 +4950,10 @@ members of a group differ from the mean
 <https://www.tib.eu/digitrubber#DIGITRUBBER_000049> rdf:type owl:Class ;
                                                     <http://purl.obolibrary.org/obo/IAO_0000114> "uncurated" ;
                                                     <http://purl.obolibrary.org/obo/IAO_0000115> "Artifical intelligence is a branch of computer science dealing with the automation of intelligent behavior. Can be used in technical areas as methods of machine learning."@en ;
+                                                    <http://purl.org/dc/elements/1.1/contributor> "Sebastian Leineweber"^^xsd:string ;
                                                     <http://purl.org/dc/elements/1.1/language> "English" ;
+                                                    <http://purl.org/pav/lastUpdateOn> "2024-02-19T00:00:00"^^xsd:dateTime ;
+                                                    <http://www.geneontology.org/formats/oboInOwl#creation_date> "2023-04-02T00:00:00"^^xsd:dateTime ;
                                                     rdfs:label "Artificial Intelligence (AI) [ita]"@en ,
                                                                "Künstliche Intelligenz (KI)"@de ;
                                                     <https://www.tib.eu/digitrubber#coarseClassification> "plan specification" .
@@ -4924,7 +4978,10 @@ members of a group differ from the mean
 <https://www.tib.eu/digitrubber#DIGITRUBBER_000051> rdf:type owl:Class ;
                                                     <http://purl.obolibrary.org/obo/IAO_0000114> "uncurated" ;
                                                     <http://purl.obolibrary.org/obo/IAO_0000115> "Machine learning is a sub-area of ​​artificial intelligence that deals with artificial systems that adapt their actions to external conditions so that their output is improved according to defined standards. For this purpose, algorithms build a model based on training data. The algorithms does not learn to memorize, but uses patterns and laws, so the systems can also process unknown data. The learning algorithms are divided into supervised learning, unsupervised learning and reinforcement learning."@en ;
+                                                    <http://purl.org/dc/elements/1.1/contributor> "Sebastian Leineweber"^^xsd:string ;
                                                     <http://purl.org/dc/elements/1.1/language> "English" ;
+                                                    <http://purl.org/pav/lastUpdateOn> "2024-02-19T00:00:00"^^xsd:dateTime ;
+                                                    <http://www.geneontology.org/formats/oboInOwl#creation_date> "2023-04-02T00:00:00"^^xsd:dateTime ;
                                                     rdfs:label "machine learning [ita]"@en ,
                                                                "maschinelles Lernen"@de ;
                                                     <https://www.tib.eu/digitrubber#coarseClassification> "plan specification" .
@@ -4979,7 +5036,10 @@ members of a group differ from the mean
 <https://www.tib.eu/digitrubber#DIGITRUBBER_000055> rdf:type owl:Class ;
                                                     <http://purl.obolibrary.org/obo/IAO_0000114> "uncurated" ;
                                                     <http://purl.obolibrary.org/obo/IAO_0000115> "Microcontrollers are compact integrated circuits designed to govern a specific operation in an embedded system. Typically a microcontroller includes a processor, memory and input/output peripherals on a single chip."@en ;
+                                                    <http://purl.org/dc/elements/1.1/contributor> "Sebastian Leineweber"^^xsd:string ;
                                                     <http://purl.org/dc/elements/1.1/language> "English" ;
+                                                    <http://purl.org/pav/lastUpdateOn> "2024-02-19T00:00:00"^^xsd:dateTime ;
+                                                    <http://www.geneontology.org/formats/oboInOwl#creation_date> "2023-04-02T00:00:00"^^xsd:dateTime ;
                                                     rdfs:label "Mikrocontroller"@de ,
                                                                "microcontroller [ita]"@en ;
                                                     <https://www.tib.eu/digitrubber#coarseClassification> "material entity" .
@@ -4989,7 +5049,10 @@ members of a group differ from the mean
 <https://www.tib.eu/digitrubber#DIGITRUBBER_000056> rdf:type owl:Class ;
                                                     <http://purl.obolibrary.org/obo/IAO_0000114> "uncurated" ;
                                                     <http://purl.obolibrary.org/obo/IAO_0000115> "Mixing is the first of the three areas of an extrusion line, where the input material is homogenized and mixed. This occurs within a screw element through shearing and mixing of the input material."@en ;
+                                                    <http://purl.org/dc/elements/1.1/contributor> "Sebastian Leineweber"^^xsd:string ;
                                                     <http://purl.org/dc/elements/1.1/language> "English" ;
+                                                    <http://purl.org/pav/lastUpdateOn> "2024-02-19T00:00:00"^^xsd:dateTime ;
+                                                    <http://www.geneontology.org/formats/oboInOwl#creation_date> "2023-04-02T00:00:00"^^xsd:dateTime ;
                                                     rdfs:label "Mischen"@de ,
                                                                "mixing [ita]"@en ;
                                                     <https://www.tib.eu/digitrubber#coarseClassification> "process" .
@@ -5014,7 +5077,10 @@ members of a group differ from the mean
 <https://www.tib.eu/digitrubber#DIGITRUBBER_000059> rdf:type owl:Class ;
                                                     <http://purl.obolibrary.org/obo/IAO_0000114> "uncurated" ;
                                                     <http://purl.obolibrary.org/obo/IAO_0000115> "Pattern recognition is the automated recognition of patterns and regularities in data. Pattern recognition has its origins in statistics and engineering; some modern approches include the use of machine learning, due to the increased availability of big data and a new abundance of processing power."@en ;
+                                                    <http://purl.org/dc/elements/1.1/contributor> "Sebastian Leineweber"^^xsd:string ;
                                                     <http://purl.org/dc/elements/1.1/language> "English" ;
+                                                    <http://purl.org/pav/lastUpdateOn> "2024-02-19T00:00:00"^^xsd:dateTime ;
+                                                    <http://www.geneontology.org/formats/oboInOwl#creation_date> "2023-04-02T00:00:00"^^xsd:dateTime ;
                                                     rdfs:label "Mustererkennung"@de ,
                                                                "pattern recognition [ita]"@en ;
                                                     <https://www.tib.eu/digitrubber#coarseClassification> "plan specification" .
@@ -5038,10 +5104,13 @@ members of a group differ from the mean
 ###  https://www.tib.eu/digitrubber#DIGITRUBBER_000061
 <https://www.tib.eu/digitrubber#DIGITRUBBER_000061> rdf:type owl:Class ;
                                                     <http://purl.obolibrary.org/obo/IAO_0000114> "uncurated" ;
-                                                    <http://purl.obolibrary.org/obo/IAO_0000115> "Artificial neural networks (ANNs) are based on a reduced set of concepts from biological neural systems. It is composed of different Layeres, an input layer, one or more hidden layers and an output layer. Each layer consists of several artificial neurons. The connections of the biological neuron are modeled in artificial neural networks as weights between the artificial neurons. A positive weight reflects an excitatory connection, while negative values mean inhibitory connections. An activation function controls the amplitude of the output. They can be used to model complex relationships between inputs and outputs or to find patterns in data. Thereby ANNs can be trained by machine learning techniques to approximate a function, when the complexity of the data or task makes the design of such function by hand impractical. Other tasks in which ANNs can be trained are classification, including pattern recognition, clustering and Data processing, including clustering."@en ;
+                                                    <http://purl.obolibrary.org/obo/IAO_0000115> "An Artificial neural network ANN) is based on a reduced set of concepts from biological neural systems. It is composed of different Layeres, an input layer, one or more hidden layers and an output layer. Each layer consists of several artificial neurons. The connections of the biological neuron are modeled in artificial neural networks as weights between the artificial neurons. A positive weight reflects an excitatory connection, while negative values mean inhibitory connections. An activation function controls the amplitude of the output. They can be used to model complex relationships between inputs and outputs or to find patterns in data. Thereby ANNs can be trained by machine learning techniques to approximate a function, when the complexity of the data or task makes the design of such function by hand impractical. Other tasks in which ANNs can be trained are classification, including pattern recognition, clustering and Data processing, including clustering."@en ;
+                                                    <http://purl.org/dc/elements/1.1/contributor> "Sebastian Leineweber"^^xsd:string ;
                                                     <http://purl.org/dc/elements/1.1/language> "English" ;
-                                                    rdfs:label "neural network [ita]"@en ,
-                                                               "neuronales Netz"@de ;
+                                                    <http://purl.org/pav/lastUpdateOn> "2024-02-19T00:00:00"^^xsd:dateTime ;
+                                                    <http://www.geneontology.org/formats/oboInOwl#creation_date> "2023-04-02T00:00:00"^^xsd:dateTime ;
+                                                    rdfs:label "Artificial neural network [ita]"@en ,
+                                                               "künstliche neuronales Netz"@de ;
                                                     <https://www.tib.eu/digitrubber#coarseClassification> "plan specification" .
 
 
@@ -5064,7 +5133,10 @@ members of a group differ from the mean
 <https://www.tib.eu/digitrubber#DIGITRUBBER_000063> rdf:type owl:Class ;
                                                     <http://purl.obolibrary.org/obo/IAO_0000114> "uncurated" ;
                                                     <http://purl.obolibrary.org/obo/IAO_0000115> "Online characterisation is the characterization of the material properties during the process and on the real process line in order to be able to react to fluctuations during production."@en ;
+                                                    <http://purl.org/dc/elements/1.1/contributor> "Sebastian Leineweber"^^xsd:string ;
                                                     <http://purl.org/dc/elements/1.1/language> "English" ;
+                                                    <http://purl.org/pav/lastUpdateOn> "2024-02-19T00:00:00"^^xsd:dateTime ;
+                                                    <http://www.geneontology.org/formats/oboInOwl#creation_date> "2023-04-02T00:00:00"^^xsd:dateTime ;
                                                     rdfs:label "Online-Charakterisierung"@de ,
                                                                "online characterisation [ita]"@en ;
                                                     <https://www.tib.eu/digitrubber#coarseClassification> "process" .
@@ -5073,8 +5145,11 @@ members of a group differ from the mean
 ###  https://www.tib.eu/digitrubber#DIGITRUBBER_000064
 <https://www.tib.eu/digitrubber#DIGITRUBBER_000064> rdf:type owl:Class ;
                                                     <http://purl.obolibrary.org/obo/IAO_0000114> "uncurated" ;
-                                                    <http://purl.obolibrary.org/obo/IAO_0000115> "In online optimization, decisions are made directly in the real process section and without knowledge of future results. Also, often the data of the problem instance is not complete."@en ;
+                                                    <http://purl.obolibrary.org/obo/IAO_0000115> "Online optimization is the adjustment of process parameters in the running process for process optimization."@en ;
+                                                    <http://purl.org/dc/elements/1.1/contributor> "Sebastian Leineweber"^^xsd:string ;
                                                     <http://purl.org/dc/elements/1.1/language> "English" ;
+                                                    <http://purl.org/pav/lastUpdateOn> "2024-02-19T00:00:00"^^xsd:dateTime ;
+                                                    <http://www.geneontology.org/formats/oboInOwl#creation_date> "2023-04-02T00:00:00"^^xsd:dateTime ;
                                                     rdfs:label "Online-Optimierung"@de ,
                                                                "online optimization [ita]"@en ;
                                                     <https://www.tib.eu/digitrubber#coarseClassification> "process" .
@@ -5084,7 +5159,10 @@ members of a group differ from the mean
 <https://www.tib.eu/digitrubber#DIGITRUBBER_000065> rdf:type owl:Class ;
                                                     <http://purl.obolibrary.org/obo/IAO_0000114> "uncurated" ;
                                                     <http://purl.obolibrary.org/obo/IAO_0000115> "Optimizers are algorithms or methods used to solve optimization problems by minimize an error function (loss function) or to maximize the efficiency of production. Optimizers are mathematical functions which are dependent on model's learnable parameters i.e Weights & Biases."@en ;
+                                                    <http://purl.org/dc/elements/1.1/contributor> "Sebastian Leineweber"^^xsd:string ;
                                                     <http://purl.org/dc/elements/1.1/language> "English" ;
+                                                    <http://purl.org/pav/lastUpdateOn> "2024-02-19T00:00:00"^^xsd:dateTime ;
+                                                    <http://www.geneontology.org/formats/oboInOwl#creation_date> "2023-04-02T00:00:00"^^xsd:dateTime ;
                                                     rdfs:label "Optimierungsmethoden"@de ,
                                                                "optimization [ita]"@en ;
                                                     <https://www.tib.eu/digitrubber#coarseClassification> "process" .
@@ -5109,7 +5187,10 @@ members of a group differ from the mean
 <https://www.tib.eu/digitrubber#DIGITRUBBER_000067> rdf:type owl:Class ;
                                                     <http://purl.obolibrary.org/obo/IAO_0000114> "uncurated" ;
                                                     <http://purl.obolibrary.org/obo/IAO_0000115> "Production-in-the-loop describes a method, in which information from the production process is continuously recorded and the process is adapted to the changing framework conditions on the basis of this information."@en ;
+                                                    <http://purl.org/dc/elements/1.1/contributor> "Sebastian Leineweber"^^xsd:string ;
                                                     <http://purl.org/dc/elements/1.1/language> "English" ;
+                                                    <http://purl.org/pav/lastUpdateOn> "2024-02-19T00:00:00"^^xsd:dateTime ;
+                                                    <http://www.geneontology.org/formats/oboInOwl#creation_date> "2023-04-02T00:00:00"^^xsd:dateTime ;
                                                     rdfs:label "Production-in-the-loop"@de ,
                                                                "production-in-the-loop [ita]"@en ;
                                                     <https://www.tib.eu/digitrubber#coarseClassification> "plan specification" .
@@ -5119,7 +5200,10 @@ members of a group differ from the mean
 <https://www.tib.eu/digitrubber#DIGITRUBBER_000068> rdf:type owl:Class ;
                                                     <http://purl.obolibrary.org/obo/IAO_0000114> "uncurated" ;
                                                     <http://purl.obolibrary.org/obo/IAO_0000115> "Regression analysis consists of a set of machine learning methods that allow us to predict a continuous outcome variable (y) based on the value of one or multiple predictor variables (x). Regression is a supervised learning technique, in which Algorithems build a mathematical Modell or equation that defines y as a funktion of x."@en ;
+                                                    <http://purl.org/dc/elements/1.1/contributor> "Sebastian Leineweber"^^xsd:string ;
                                                     <http://purl.org/dc/elements/1.1/language> "English" ;
+                                                    <http://purl.org/pav/lastUpdateOn> "2024-02-19T00:00:00"^^xsd:dateTime ;
+                                                    <http://www.geneontology.org/formats/oboInOwl#creation_date> "2023-04-02T00:00:00"^^xsd:dateTime ;
                                                     rdfs:label "Regressionsanalyse"@de ,
                                                                "regression analysis [ita]"@en ;
                                                     <https://www.tib.eu/digitrubber#coarseClassification> "plan specification" .
@@ -5129,7 +5213,10 @@ members of a group differ from the mean
 <https://www.tib.eu/digitrubber#DIGITRUBBER_000069> rdf:type owl:Class ;
                                                     <http://purl.obolibrary.org/obo/IAO_0000114> "uncurated" ;
                                                     <http://purl.obolibrary.org/obo/IAO_0000115> "A simulation environment is a virtual environment that maps/models the real process. A simulation model thus makes it possible to train control tasks using learning algorithms offline, i.e. not on the real system but on the computer. Neural networks can be used to create such model."@en ;
+                                                    <http://purl.org/dc/elements/1.1/contributor> "Sebastian Leineweber"^^xsd:string ;
                                                     <http://purl.org/dc/elements/1.1/language> "English" ;
+                                                    <http://purl.org/pav/lastUpdateOn> "2024-02-19T00:00:00"^^xsd:dateTime ;
+                                                    <http://www.geneontology.org/formats/oboInOwl#creation_date> "2023-04-02T00:00:00"^^xsd:dateTime ;
                                                     rdfs:label "Simulationsumgebung"@de ,
                                                                "simulation environment [ita]"@en ;
                                                     <https://www.tib.eu/digitrubber#coarseClassification> "material entity" .
@@ -5139,7 +5226,10 @@ members of a group differ from the mean
 <https://www.tib.eu/digitrubber#DIGITRUBBER_000070> rdf:type owl:Class ;
                                                     <http://purl.obolibrary.org/obo/IAO_0000114> "uncurated" ;
                                                     <http://purl.obolibrary.org/obo/IAO_0000115> "The test dataset is a subset of the dataset that is held back from training the model and given to the learning algorithm to test the trained model. Typically it consists of 20% to 30% of the original dataset. It is the sample of data used to provide an unbiased evaluation of a final model fit on the training dataset."@en ;
+                                                    <http://purl.org/dc/elements/1.1/contributor> "Sebastian Leineweber"^^xsd:string ;
                                                     <http://purl.org/dc/elements/1.1/language> "English" ;
+                                                    <http://purl.org/pav/lastUpdateOn> "2024-02-19T00:00:00"^^xsd:dateTime ;
+                                                    <http://www.geneontology.org/formats/oboInOwl#creation_date> "2023-04-02T00:00:00"^^xsd:dateTime ;
                                                     rdfs:label "Test-Dataset"@de ,
                                                                "test dataset [ita]"@en ;
                                                     <https://www.tib.eu/digitrubber#coarseClassification> "information content entity" .
@@ -5148,10 +5238,13 @@ members of a group differ from the mean
 ###  https://www.tib.eu/digitrubber#DIGITRUBBER_000071
 <https://www.tib.eu/digitrubber#DIGITRUBBER_000071> rdf:type owl:Class ;
                                                     <http://purl.obolibrary.org/obo/IAO_0000114> "uncurated" ;
-                                                    <http://purl.obolibrary.org/obo/IAO_0000115> "The train dataset is a subset of the dataset that is given to the learning algorithm to train a model. Typically it consists of 70% to 80% of the original dataset. It is the sample of data used to fit the model."@en ;
+                                                    <http://purl.obolibrary.org/obo/IAO_0000115> "The training dataset is a subset of the dataset that is given to the learning algorithm to train a model. Typically it consists of 70% to 80% of the original dataset. It is the sample of data used to fit the model."@en ;
+                                                    <http://purl.org/dc/elements/1.1/contributor> "Sebastian Leineweber"^^xsd:string ;
                                                     <http://purl.org/dc/elements/1.1/language> "English" ;
+                                                    <http://purl.org/pav/lastUpdateOn> "2024-02-19T00:00:00"^^xsd:dateTime ;
+                                                    <http://www.geneontology.org/formats/oboInOwl#creation_date> "2023-04-02T00:00:00"^^xsd:dateTime ;
                                                     rdfs:label "Train-Dataset"@de ,
-                                                               "train dataset [ita]"@en ;
+                                                               "training dataset [ita]"@en ;
                                                     <https://www.tib.eu/digitrubber#coarseClassification> "information content entity" .
 
 
@@ -5159,7 +5252,10 @@ members of a group differ from the mean
 <https://www.tib.eu/digitrubber#DIGITRUBBER_000072> rdf:type owl:Class ;
                                                     <http://purl.obolibrary.org/obo/IAO_0000114> "uncurated" ;
                                                     <http://purl.obolibrary.org/obo/IAO_0000115> "Supervised learning is the machine learning task of learning a function that maps an input to an output based on example input-output pairs. It infers a function from labeled training data consisting of a set of training examples. In supervised learning, each example is a pair consisting of an input object (typically a vector) and a desired output value (target)."@en ;
+                                                    <http://purl.org/dc/elements/1.1/contributor> "Sebastian Leineweberv"^^xsd:string ;
                                                     <http://purl.org/dc/elements/1.1/language> "English" ;
+                                                    <http://purl.org/pav/lastUpdateOn> "2024-02-19T00:00:00"^^xsd:dateTime ;
+                                                    <http://www.geneontology.org/formats/oboInOwl#creation_date> "2023-04-02T00:00:00"^^xsd:dateTime ;
                                                     rdfs:label "supervised learning [ita]"@en ,
                                                                "überwachtes Lernen"@de ;
                                                     <https://www.tib.eu/digitrubber#coarseClassification> "plan specification" .
@@ -5184,7 +5280,11 @@ members of a group differ from the mean
 <https://www.tib.eu/digitrubber#DIGITRUBBER_000074> rdf:type owl:Class ;
                                                     <http://purl.obolibrary.org/obo/IAO_0000114> "uncurated" ;
                                                     <http://purl.obolibrary.org/obo/IAO_0000115> "Unsupervised learning is a type of algorithm that learns patterns from untagged data. The hope is that through mimicry, which is an important mode of learning in people, the machine is forced to build a compact internal representation of its world and then generate imaginative content from it. Unsupervised methods exhibit self-organization that captures patterns as probability densities or a combination of neural feature preferences."@en ;
+                                                    <http://purl.org/dc/elements/1.1/contributor> "Sebastian Leineweber"^^xsd:string ;
                                                     <http://purl.org/dc/elements/1.1/language> "English" ;
+                                                    <http://purl.org/pav/lastUpdateOn> "2024-02-19T00:00:00"^^xsd:dateTime ;
+                                                    <http://www.geneontology.org/formats/oboInOwl#creation_date> "2023-04-02T00:00:00"^^xsd:dateTime ;
+                                                    <http://www.geneontology.org/formats/oboInOwl#date> "2023-04-02T00:00:00"^^xsd:dateTime ;
                                                     rdfs:label "unsupervised learning [ita]"@en ,
                                                                "unüberwachtes Lernen"@de ;
                                                     <https://www.tib.eu/digitrubber#coarseClassification> "plan specification" .
@@ -5210,7 +5310,10 @@ members of a group differ from the mean
 <https://www.tib.eu/digitrubber#DIGITRUBBER_000076> rdf:type owl:Class ;
                                                     <http://purl.obolibrary.org/obo/IAO_0000114> "uncurated" ;
                                                     <http://purl.obolibrary.org/obo/IAO_0000115> "The validation dataset is the sample of data used to provide an unbiased evaluation of a model fit on the training dataset while tuning model hyperparameters. The evaluation becomes more biased as skill on the validation dataset is incorporated into the model configuration."@en ;
+                                                    <http://purl.org/dc/elements/1.1/contributor> "Sebastian Leineweber"^^xsd:string ;
                                                     <http://purl.org/dc/elements/1.1/language> "English" ;
+                                                    <http://purl.org/pav/lastUpdateOn> "2024-02-19T00:00:00"^^xsd:dateTime ;
+                                                    <http://www.geneontology.org/formats/oboInOwl#creation_date> "2023-04-02T00:00:00"^^xsd:dateTime ;
                                                     rdfs:label "Validation-Dataset"@de ,
                                                                "validation dataset [ita]"@en ;
                                                     <https://www.tib.eu/digitrubber#coarseClassification> "information content entity" .
@@ -5220,9 +5323,12 @@ members of a group differ from the mean
 <https://www.tib.eu/digitrubber#DIGITRUBBER_000077> rdf:type owl:Class ;
                                                     <http://purl.obolibrary.org/obo/IAO_0000114> "uncurated" ;
                                                     <http://purl.obolibrary.org/obo/IAO_0000115> "Validation data is to \"validate\" that your neural network hasn't rather memorized your training data and has thus actually learned some meaningful aspects of the data so that the model can be later used (generalized) to unseen, held-out \"test dataset\"."@en ;
+                                                    <http://purl.org/dc/elements/1.1/contributor> "Sebastian Leineweber"^^xsd:string ;
                                                     <http://purl.org/dc/elements/1.1/language> "English" ;
+                                                    <http://purl.org/pav/lastUpdateOn> "2024-02-16T00:00:00"^^xsd:dateTime ;
+                                                    <http://www.geneontology.org/formats/oboInOwl#creation_date> "2023-04-02T00:00:00"^^xsd:dateTime ;
                                                     rdfs:label "Validierung"@de ,
-                                                               "validation [ita]"@en ;
+                                                               "validation data [ita]"@en ;
                                                     <https://www.tib.eu/digitrubber#coarseClassification> "process" .
 
 
@@ -5274,7 +5380,10 @@ members of a group differ from the mean
 <https://www.tib.eu/digitrubber#DIGITRUBBER_000081> rdf:type owl:Class ;
                                                     <http://purl.obolibrary.org/obo/IAO_0000114> "uncurated" ;
                                                     <http://purl.obolibrary.org/obo/IAO_0000115> "Rolling is the second of the three areas of the extrusion line. Where the material is homogenised."@en ;
+                                                    <http://purl.org/dc/elements/1.1/contributor> "Sebastian Leineweber"^^xsd:string ;
                                                     <http://purl.org/dc/elements/1.1/language> "English" ;
+                                                    <http://purl.org/pav/lastUpdateOn> "2024-02-16T00:00:00"^^xsd:dateTime ;
+                                                    <http://www.geneontology.org/formats/oboInOwl#creation_date> "2023-04-02T00:00:00"^^xsd:dateTime ;
                                                     rdfs:label "Walzen"@de ,
                                                                "rolling [ita]"@en ;
                                                     <https://www.tib.eu/digitrubber#coarseClassification> "process" .
@@ -5284,7 +5393,10 @@ members of a group differ from the mean
 <https://www.tib.eu/digitrubber#DIGITRUBBER_000082> rdf:type owl:Class ;
                                                     <http://purl.obolibrary.org/obo/IAO_0000114> "uncurated" ;
                                                     <http://purl.obolibrary.org/obo/IAO_0000115> "Twin screw extruders have two screws, which have more shear and mixing capability than the single screw in a singel screw extruder. Depending on the direction of rotation of the screws, a distinction is made between counter-rotating and co-rotating twin-screw extruders."@en ;
+                                                    <http://purl.org/dc/elements/1.1/contributor> "Sebastian Leineweber"^^xsd:string ;
                                                     <http://purl.org/dc/elements/1.1/language> "English" ;
+                                                    <http://purl.org/pav/lastUpdateOn> "2024-02-19T00:00:00"^^xsd:dateTime ;
+                                                    <http://www.geneontology.org/formats/oboInOwl#creation_date> "2023-04-02T00:00:00"^^xsd:dateTime ;
                                                     rdfs:label "Zweischneckenextruder"@de ,
                                                                "twin screw extruder [ita]"@en ;
                                                     <https://www.tib.eu/digitrubber#coarseClassification> "material entity" .
@@ -5294,7 +5406,10 @@ members of a group differ from the mean
 <https://www.tib.eu/digitrubber#DIGITRUBBER_000083> rdf:type owl:Class ;
                                                     <http://purl.obolibrary.org/obo/IAO_0000114> "uncurated" ;
                                                     <http://purl.obolibrary.org/obo/IAO_0000115> "Control variable that specifies at which temperature mixing takes place."@en ;
+                                                    <http://purl.org/dc/elements/1.1/contributor> "Sebastian Leineweber"^^xsd:string ;
                                                     <http://purl.org/dc/elements/1.1/language> "English" ;
+                                                    <http://purl.org/pav/lastUpdateOn> "2024-02-19T00:00:00"^^xsd:dateTime ;
+                                                    <http://www.geneontology.org/formats/oboInOwl#creation_date> "2023-04-02T00:00:00"^^xsd:dateTime ;
                                                     rdfs:label "Mischungstemperatur"@de ,
                                                                "mixing temperature [ita]"@en ;
                                                     <https://www.tib.eu/digitrubber#coarseClassification> "quality" .
@@ -5304,7 +5419,10 @@ members of a group differ from the mean
 <https://www.tib.eu/digitrubber#DIGITRUBBER_000084> rdf:type owl:Class ;
                                                     <http://purl.obolibrary.org/obo/IAO_0000114> "uncurated" ;
                                                     <http://purl.obolibrary.org/obo/IAO_0000115> "Rücksprache DIK"@en ;
+                                                    <http://purl.org/dc/elements/1.1/contributor> "Sebastian Leineweber"^^xsd:string ;
                                                     <http://purl.org/dc/elements/1.1/language> "English" ;
+                                                    <http://purl.org/pav/lastUpdateOn> "2024-02-19T00:00:00"^^xsd:dateTime ;
+                                                    <http://www.geneontology.org/formats/oboInOwl#creation_date> "2023-04-02T00:00:00"^^xsd:dateTime ;
                                                     rdfs:label "Stemepeldruck"@de ,
                                                                "stamp pressure [ita]"@en ;
                                                     <https://www.tib.eu/digitrubber#coarseClassification> "quality" .
@@ -5314,9 +5432,12 @@ members of a group differ from the mean
 <https://www.tib.eu/digitrubber#DIGITRUBBER_000085> rdf:type owl:Class ;
                                                     <http://purl.obolibrary.org/obo/IAO_0000114> "uncurated" ;
                                                     <http://purl.obolibrary.org/obo/IAO_0000115> "Control value that specifies at which speed mixing takes place"@en ;
+                                                    <http://purl.org/dc/elements/1.1/contributor> "Sebastian Leineweber"^^xsd:string ;
                                                     <http://purl.org/dc/elements/1.1/language> "English" ;
-                                                    rdfs:label "Drehzahl (Mischer)"@de ,
-                                                               "rotation speed (mixer) [ita]"@en ;
+                                                    <http://purl.org/pav/lastUpdateOn> "2024-02-19T00:00:00"^^xsd:dateTime ;
+                                                    <http://www.geneontology.org/formats/oboInOwl#creation_date> "2023-04-02T00:00:00"^^xsd:dateTime ;
+                                                    rdfs:label "Drehzahlsteuerung (Mischer)"@de ,
+                                                               "rotation speed control value (mixer) [ita]"@en ;
                                                     <https://www.tib.eu/digitrubber#coarseClassification> "quality" .
 
 
@@ -5324,7 +5445,10 @@ members of a group differ from the mean
 <https://www.tib.eu/digitrubber#DIGITRUBBER_000086> rdf:type owl:Class ;
                                                     <http://purl.obolibrary.org/obo/IAO_0000114> "uncurated" ;
                                                     <http://purl.obolibrary.org/obo/IAO_0000115> "Control value that specifies how long mixing takes place"@en ;
+                                                    <http://purl.org/dc/elements/1.1/contributor> "Sebastian Leineweber"^^xsd:string ;
                                                     <http://purl.org/dc/elements/1.1/language> "English" ;
+                                                    <http://purl.org/pav/lastUpdateOn> "2024-02-19T00:00:00"^^xsd:dateTime ;
+                                                    <http://www.geneontology.org/formats/oboInOwl#creation_date> "2023-04-02T00:00:00"^^xsd:dateTime ;
                                                     rdfs:label "Mischzeit"@de ,
                                                                "mixing time [ita]"@en ;
                                                     <https://www.tib.eu/digitrubber#coarseClassification> "quality" .
@@ -5334,7 +5458,10 @@ members of a group differ from the mean
 <https://www.tib.eu/digitrubber#DIGITRUBBER_000087> rdf:type owl:Class ;
                                                     <http://purl.obolibrary.org/obo/IAO_0000114> "uncurated" ;
                                                     <http://purl.obolibrary.org/obo/IAO_0000115> "Measured variable that indicates how high the torque is during mixing."@en ;
+                                                    <http://purl.org/dc/elements/1.1/contributor> "Sebastian Leineweber"^^xsd:string ;
                                                     <http://purl.org/dc/elements/1.1/language> "English" ;
+                                                    <http://purl.org/pav/lastUpdateOn> "2024-02-19T00:00:00"^^xsd:dateTime ;
+                                                    <http://www.geneontology.org/formats/oboInOwl#creation_date> "2023-04-02T00:00:00"^^xsd:dateTime ;
                                                     rdfs:label "Drehmoment (Mischer)"@de ,
                                                                "torque (mixer) [ita]"@en ;
                                                     <https://www.tib.eu/digitrubber#coarseClassification> "quality" .
@@ -5344,7 +5471,10 @@ members of a group differ from the mean
 <https://www.tib.eu/digitrubber#DIGITRUBBER_000089> rdf:type owl:Class ;
                                                     <http://purl.obolibrary.org/obo/IAO_0000114> "uncurated" ;
                                                     <http://purl.obolibrary.org/obo/IAO_0000115> "Control variable that indicates how high the speed of the screw is during extrusion."@en ;
+                                                    <http://purl.org/dc/elements/1.1/contributor> "Sebastian Leineweber"^^xsd:string ;
                                                     <http://purl.org/dc/elements/1.1/language> "English" ;
+                                                    <http://purl.org/pav/lastUpdateOn> "2024-02-19T00:00:00"^^xsd:dateTime ;
+                                                    <http://www.geneontology.org/formats/oboInOwl#creation_date> "2023-04-02T00:00:00"^^xsd:dateTime ;
                                                     rdfs:label "Schneckendrezahl"@de ,
                                                                "screw speed [ita]"@en ;
                                                     <https://www.tib.eu/digitrubber#coarseClassification> "quality" .
@@ -5353,8 +5483,11 @@ members of a group differ from the mean
 ###  https://www.tib.eu/digitrubber#DIGITRUBBER_000090
 <https://www.tib.eu/digitrubber#DIGITRUBBER_000090> rdf:type owl:Class ;
                                                     <http://purl.obolibrary.org/obo/IAO_0000114> "uncurated" ;
-                                                    <http://purl.obolibrary.org/obo/IAO_0000115> "Measured variable that indicates how high the torque of the screw is during extrusion."@en ;
+                                                    <http://purl.obolibrary.org/obo/IAO_0000115> "Screw torque is a measured variable that indicates how high the torque of the screw is during extrusion."@en ;
+                                                    <http://purl.org/dc/elements/1.1/contributor> "Sebastian Leineweber"^^xsd:string ;
                                                     <http://purl.org/dc/elements/1.1/language> "English" ;
+                                                    <http://purl.org/pav/lastUpdateOn> "2024-02-19T00:00:00"^^xsd:dateTime ;
+                                                    <http://www.geneontology.org/formats/oboInOwl#creation_date> "2023-04-02T00:00:00"^^xsd:dateTime ;
                                                     rdfs:label "Schneckendrehmoment"@de ,
                                                                "screw torque [ita]"@en ;
                                                     <https://www.tib.eu/digitrubber#coarseClassification> "quality" .
@@ -5363,8 +5496,11 @@ members of a group differ from the mean
 ###  https://www.tib.eu/digitrubber#DIGITRUBBER_000091
 <https://www.tib.eu/digitrubber#DIGITRUBBER_000091> rdf:type owl:Class ;
                                                     <http://purl.obolibrary.org/obo/IAO_0000114> "uncurated" ;
-                                                    <http://purl.obolibrary.org/obo/IAO_0000115> "Control variable that indicates how high the temperature of the screw is during extrusion."@en ;
+                                                    <http://purl.obolibrary.org/obo/IAO_0000115> "Control variable for setting the temperature of the screw."@en ;
+                                                    <http://purl.org/dc/elements/1.1/contributor> "Sebastian Leineweber"^^xsd:string ;
                                                     <http://purl.org/dc/elements/1.1/language> "English" ;
+                                                    <http://purl.org/pav/lastUpdateOn> "2024-02-19T00:00:00"^^xsd:dateTime ;
+                                                    <http://www.geneontology.org/formats/oboInOwl#creation_date> "2023-04-02T00:00:00"^^xsd:dateTime ;
                                                     rdfs:label "Temperierung Schnecke"@de ,
                                                                "tempering screw [ita]"@en ;
                                                     <https://www.tib.eu/digitrubber#coarseClassification> "quality" .
@@ -5373,8 +5509,11 @@ members of a group differ from the mean
 ###  https://www.tib.eu/digitrubber#DIGITRUBBER_000092
 <https://www.tib.eu/digitrubber#DIGITRUBBER_000092> rdf:type owl:Class ;
                                                     <http://purl.obolibrary.org/obo/IAO_0000114> "uncurated" ;
-                                                    <http://purl.obolibrary.org/obo/IAO_0000115> "Control variable that indicates how high the temperature of the feed roller is during extrusion."@en ;
+                                                    <http://purl.obolibrary.org/obo/IAO_0000115> "Control variable for setting the temperature of the feed roller."@en ;
+                                                    <http://purl.org/dc/elements/1.1/contributor> "Sebastian Leineweber"^^xsd:string ;
                                                     <http://purl.org/dc/elements/1.1/language> "English" ;
+                                                    <http://purl.org/pav/lastUpdateOn> "2024-02-19T00:00:00"^^xsd:dateTime ;
+                                                    <http://www.geneontology.org/formats/oboInOwl#creation_date> "2023-04-02T00:00:00"^^xsd:dateTime ;
                                                     rdfs:label "Temperierung Speisewalze"@de ,
                                                                "tempering feed roller [ita]"@en ;
                                                     <https://www.tib.eu/digitrubber#coarseClassification> "quality" .
@@ -5383,8 +5522,11 @@ members of a group differ from the mean
 ###  https://www.tib.eu/digitrubber#DIGITRUBBER_000093
 <https://www.tib.eu/digitrubber#DIGITRUBBER_000093> rdf:type owl:Class ;
                                                     <http://purl.obolibrary.org/obo/IAO_0000114> "uncurated" ;
-                                                    <http://purl.obolibrary.org/obo/IAO_0000115> "Control variable that indicates how high the temperature of the cylinder is during extrusion."@en ;
+                                                    <http://purl.obolibrary.org/obo/IAO_0000115> "Control variable for setting the temperature of the cylinder."@en ;
+                                                    <http://purl.org/dc/elements/1.1/contributor> "Sebastian Leineweber"^^xsd:string ;
                                                     <http://purl.org/dc/elements/1.1/language> "English" ;
+                                                    <http://purl.org/pav/lastUpdateOn> "2024-02-19T00:00:00"^^xsd:dateTime ;
+                                                    <http://www.geneontology.org/formats/oboInOwl#creation_date> "2023-04-02T00:00:00"^^xsd:dateTime ;
                                                     rdfs:label "Temperierung Zylinder"@de ,
                                                                "tempering cylinder [ita]"@en ;
                                                     <https://www.tib.eu/digitrubber#coarseClassification> "quality" .
@@ -5394,7 +5536,10 @@ members of a group differ from the mean
 <https://www.tib.eu/digitrubber#DIGITRUBBER_000094> rdf:type owl:Class ;
                                                     <http://purl.obolibrary.org/obo/IAO_0000114> "uncurated" ;
                                                     <http://purl.obolibrary.org/obo/IAO_0000115> "Measured variable that indicates how high the pressure in the cylinder is during extrusion."@en ;
+                                                    <http://purl.org/dc/elements/1.1/contributor> "Sebastian Leineweber"^^xsd:string ;
                                                     <http://purl.org/dc/elements/1.1/language> "English" ;
+                                                    <http://purl.org/pav/lastUpdateOn> "2024-02-19T00:00:00"^^xsd:dateTime ;
+                                                    <http://www.geneontology.org/formats/oboInOwl#creation_date> "2023-04-02T00:00:00"^^xsd:dateTime ;
                                                     rdfs:label "Zylinderdruck"@de ,
                                                                "cylinder pressure [ita]"@en ;
                                                     <https://www.tib.eu/digitrubber#coarseClassification> "quality" .
@@ -5403,8 +5548,11 @@ members of a group differ from the mean
 ###  https://www.tib.eu/digitrubber#DIGITRUBBER_000095
 <https://www.tib.eu/digitrubber#DIGITRUBBER_000095> rdf:type owl:Class ;
                                                     <http://purl.obolibrary.org/obo/IAO_0000114> "uncurated" ;
-                                                    <http://purl.obolibrary.org/obo/IAO_0000115> "Control variable that indicates how high the temperature of the tool is during extrusion."@en ;
+                                                    <http://purl.obolibrary.org/obo/IAO_0000115> "Control variable for setting the temperature of the tool."@en ;
+                                                    <http://purl.org/dc/elements/1.1/contributor> "Sebastian Leineweber"^^xsd:string ;
                                                     <http://purl.org/dc/elements/1.1/language> "English" ;
+                                                    <http://purl.org/pav/lastUpdateOn> "2024-02-19T00:00:00"^^xsd:dateTime ;
+                                                    <http://www.geneontology.org/formats/oboInOwl#creation_date> "2023-04-02T00:00:00"^^xsd:dateTime ;
                                                     rdfs:label "Temperiung Werkzeug"@de ,
                                                                "tempering tool [ita]"@en ;
                                                     <https://www.tib.eu/digitrubber#coarseClassification> "quality" .
@@ -5413,10 +5561,13 @@ members of a group differ from the mean
 ###  https://www.tib.eu/digitrubber#DIGITRUBBER_000096
 <https://www.tib.eu/digitrubber#DIGITRUBBER_000096> rdf:type owl:Class ;
                                                     <http://purl.obolibrary.org/obo/IAO_0000114> "uncurated" ;
-                                                    <http://purl.obolibrary.org/obo/IAO_0000115> "Measured variable that indicates how high the pressure in the tool is during extrusion."@en ;
+                                                    <http://purl.obolibrary.org/obo/IAO_0000115> "Measured variable that indicates how high is the pressure during extrusion."@en ;
+                                                    <http://purl.org/dc/elements/1.1/contributor> "Sebastian Leineweber"^^xsd:string ;
                                                     <http://purl.org/dc/elements/1.1/language> "English" ;
+                                                    <http://purl.org/pav/lastUpdateOn> "2024-02-19T00:00:00"^^xsd:dateTime ;
+                                                    <http://www.geneontology.org/formats/oboInOwl#creation_date> "2023-04-02T00:00:00"^^xsd:dateTime ;
                                                     rdfs:label "Werkzeugdruck"@de ,
-                                                               "tool pressure [ita]"@en ;
+                                                               "extrusion pressure [ita]"@en ;
                                                     <https://www.tib.eu/digitrubber#coarseClassification> "quality" .
 
 
@@ -5424,7 +5575,10 @@ members of a group differ from the mean
 <https://www.tib.eu/digitrubber#DIGITRUBBER_000097> rdf:type owl:Class ;
                                                     <http://purl.obolibrary.org/obo/IAO_0000114> "uncurated" ;
                                                     <http://purl.obolibrary.org/obo/IAO_0000115> "Measured variable that indicates what the temperature is at the surface of the material."@en ;
+                                                    <http://purl.org/dc/elements/1.1/contributor> "Sebastian Leineweber"^^xsd:string ;
                                                     <http://purl.org/dc/elements/1.1/language> "English" ;
+                                                    <http://purl.org/pav/lastUpdateOn> "2024-02-19T00:00:00"^^xsd:dateTime ;
+                                                    <http://www.geneontology.org/formats/oboInOwl#creation_date> "2023-04-02T00:00:00"^^xsd:dateTime ;
                                                     rdfs:label "Oberflächennahe Massentemperatur im Werkzeug"@de ,
                                                                "near-surface mass temperature in the tool [ita]"@en ;
                                                     <https://www.tib.eu/digitrubber#coarseClassification> "quality" .
@@ -5434,7 +5588,10 @@ members of a group differ from the mean
 <https://www.tib.eu/digitrubber#DIGITRUBBER_000098> rdf:type owl:Class ;
                                                     <http://purl.obolibrary.org/obo/IAO_0000114> "uncurated" ;
                                                     <http://purl.obolibrary.org/obo/IAO_0000115> "Measured variable that indicates how the temperature is distributed radially over the screw channel."@en ;
+                                                    <http://purl.org/dc/elements/1.1/contributor> "Sebastian Leineweber"^^xsd:string ;
                                                     <http://purl.org/dc/elements/1.1/language> "English" ;
+                                                    <http://purl.org/pav/lastUpdateOn> "2024-02-19T00:00:00"^^xsd:dateTime ;
+                                                    <http://www.geneontology.org/formats/oboInOwl#creation_date> "2023-04-02T00:00:00"^^xsd:dateTime ;
                                                     rdfs:label "Radiales Temperaturprofil der Mischung im Schneckenkanal"@de ,
                                                                "radial temperature profile of the mixture in the screw channel [ita]"@en ;
                                                     <https://www.tib.eu/digitrubber#coarseClassification> "quality" .
@@ -5443,8 +5600,11 @@ members of a group differ from the mean
 ###  https://www.tib.eu/digitrubber#DIGITRUBBER_000099
 <https://www.tib.eu/digitrubber#DIGITRUBBER_000099> rdf:type owl:Class ;
                                                     <http://purl.obolibrary.org/obo/IAO_0000114> "uncurated" ;
-                                                    <http://purl.obolibrary.org/obo/IAO_0000115> "System parameter that indicates how large the outlet surface of the rubber is."@en ;
+                                                    <http://purl.obolibrary.org/obo/IAO_0000115> "The outlet sourface of the extruder gives the extrudate its characteristic geometry."@en ;
+                                                    <http://purl.org/dc/elements/1.1/contributor> "Sebastian Leineweber"^^xsd:string ;
                                                     <http://purl.org/dc/elements/1.1/language> "English" ;
+                                                    <http://purl.org/pav/lastUpdateOn> "2024-02-19T00:00:00"^^xsd:dateTime ;
+                                                    <http://www.geneontology.org/formats/oboInOwl#creation_date> "2023-04-02T00:00:00"^^xsd:dateTime ;
                                                     rdfs:label "Austrittsfläche"@de ,
                                                                "outlet surface [ita]"@en ;
                                                     <https://www.tib.eu/digitrubber#coarseClassification> "quality" .
@@ -5453,10 +5613,13 @@ members of a group differ from the mean
 ###  https://www.tib.eu/digitrubber#DIGITRUBBER_000100
 <https://www.tib.eu/digitrubber#DIGITRUBBER_000100> rdf:type owl:Class ;
                                                     <http://purl.obolibrary.org/obo/IAO_0000114> "uncurated" ;
-                                                    <http://purl.obolibrary.org/obo/IAO_0000115> "The throughput indicates how many kilograms of rubber are extruded in a given unit of time."@en ;
+                                                    <http://purl.obolibrary.org/obo/IAO_0000115> "The extrusion throughput indicates how many kilograms of material are extruded in a given unit of time."@en ;
+                                                    <http://purl.org/dc/elements/1.1/contributor> "Sebastian Leineweber"^^xsd:string ;
                                                     <http://purl.org/dc/elements/1.1/language> "English" ;
-                                                    rdfs:label "Durchsatz"@de ,
-                                                               "throughput [ita]"@en ;
+                                                    <http://purl.org/pav/lastUpdateOn> "2024-02-19T00:00:00"^^xsd:dateTime ;
+                                                    <http://www.geneontology.org/formats/oboInOwl#creation_date> "2023-04-02T00:00:00"^^xsd:dateTime ;
+                                                    rdfs:label "Extrusion throughput [ita]"@en ,
+                                                               "Extrusionsdurchsatz"@de ;
                                                     <https://www.tib.eu/digitrubber#coarseClassification> "quality" .
 
 
