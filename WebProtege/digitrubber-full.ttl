@@ -43,13 +43,6 @@
 #    Annotation properties
 #################################################################
 
-###  0000001
-<0000001> rdf:type owl:AnnotationProperty ;
-          <http://www.geneontology.org/formats/oboInOwl#created_by> "Sebastian Leineweber"^^xsd:string ;
-          <http://www.geneontology.org/formats/oboInOwl#creation_date> "2024-02-19T12:26:28.523038Z"^^xsd:string ;
-          rdfs:label "update" .
-
-
 ###  http://omv.ontoware.org/2005/05/ontology#hasOntologySyntax
 <http://omv.ontoware.org/2005/05/ontology#hasOntologySyntax> rdf:type owl:AnnotationProperty .
 
