@@ -18,7 +18,7 @@
                                                                    <http://purl.org/dc/terms/description> "DigitRubber Ontology"@en ;
                                                                    <http://purl.org/dc/terms/format> <https://www.iana.org/assignments/media-types/application/rdf+xml> ;
                                                                    <http://purl.org/dc/terms/license> <https://creativecommons.org/licenses/unspecified> ;
-                                                                   <http://purl.org/dc/terms/modified> "2025-01-14T00:00:00"^^xsd:dateTime ;
+                                                                   <http://purl.org/dc/terms/modified> "2024-02-22T00:00:00"^^xsd:dateTime ;
                                                                    <http://purl.org/dc/terms/references> <https://zenodo.org/record/0000000> ;
                                                                    <http://purl.org/dc/terms/subject> <https://purl.org/linsearch/fer> ;
                                                                    <http://purl.org/dc/terms/title> "DigitRubber Ontology"@en ;
@@ -31,7 +31,7 @@
                                                                    <http://usefulinc.com/ns/doap#bug-database> <https://github.com/TIBHannover/DIGIT-RUBBER/issues> ;
                                                                    <http://usefulinc.com/ns/doap#repository> <https://github.com/TIBHannover/DIGIT-RUBBER> ;
                                                                    <http://www.loc.gov/premis/rdf/v3/documentation> <https://tibhannover.github.io/DIGIT-RUBBER/> ;
-                                                                   owl:versionInfo "v2025-Jan-14"^^xsd:string ;
+                                                                   owl:versionInfo "v2024-Feb-22"^^xsd:string ;
                                                                    <http://www.w3.org/ns/adms#versionNotes> "A description of changes between last version and current version of the ontology."@en ;
                                                                    <http://www.w3.org/ns/dcat#distribution> <http://www.purl.org/OntoMeta/DigitRubber.owl> ;
                                                                    <https://vocab.org/vann/example> <http://www.purl.org/OntoMeta/DigitRubber/docs/descriptionOfUse> ;
