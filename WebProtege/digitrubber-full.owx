@@ -54,7 +54,7 @@
     </Annotation>
     <Annotation>
         <AnnotationProperty IRI="http://purl.org/dc/terms/modified"/>
-        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#dateTime">2024-02-22T00:00:00</Literal>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#dateTime">2025-01-14T00:00:00</Literal>
     </Annotation>
     <Annotation>
         <AnnotationProperty IRI="http://purl.org/dc/terms/references"/>
@@ -106,7 +106,7 @@
     </Annotation>
     <Annotation>
         <AnnotationProperty abbreviatedIRI="owl:versionInfo"/>
-        <Literal>v2024-Feb-22</Literal>
+        <Literal>v2025-Jan-14</Literal>
     </Annotation>
     <Annotation>
         <AnnotationProperty IRI="http://www.w3.org/ns/adms#versionNotes"/>
