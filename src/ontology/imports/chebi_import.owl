@@ -7,8 +7,8 @@ Prefix(rdfs:=<http://www.w3.org/2000/01/rdf-schema#>)
 
 
 Ontology(<http://purl.obolibrary.org/obo/digitrubber/imports/chebi_import.owl>
-<http://purl.obolibrary.org/obo/digitrubber/releases/2023-04-25/imports/chebi_import.owl>
-Annotation(owl:versionInfo "2023-04-25")
+<http://purl.obolibrary.org/obo/digitrubber/releases/2025-04-02/imports/chebi_import.owl>
+Annotation(owl:versionInfo "2025-04-02")
 
 Declaration(Class(<http://purl.obolibrary.org/obo/CHEBI_133602>))
 Declaration(Class(<http://purl.obolibrary.org/obo/CHEBI_17514>))
@@ -190,7 +190,6 @@ AnnotationAssertion(<http://purl.obolibrary.org/obo/chebi/smiles> <http://purl.o
 AnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#hasAlternativeId> <http://purl.obolibrary.org/obo/CHEBI_17514> "CHEBI:14038")
 AnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#hasAlternativeId> <http://purl.obolibrary.org/obo/CHEBI_17514> "CHEBI:3969")
 AnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#hasAlternativeId> <http://purl.obolibrary.org/obo/CHEBI_17514> "CHEBI:41780")
-AnnotationAssertion(Annotation(<http://www.geneontology.org/formats/oboInOwl#source> "Beilstein") <http://www.geneontology.org/formats/oboInOwl#hasDbXref> <http://purl.obolibrary.org/obo/CHEBI_17514> "Beilstein:1900509")
 AnnotationAssertion(Annotation(<http://www.geneontology.org/formats/oboInOwl#source> "ChemIDplus") <http://www.geneontology.org/formats/oboInOwl#hasDbXref> <http://purl.obolibrary.org/obo/CHEBI_17514> "CAS:57-12-5")
 AnnotationAssertion(Annotation(<http://www.geneontology.org/formats/oboInOwl#source> "KEGG COMPOUND") <http://www.geneontology.org/formats/oboInOwl#hasDbXref> <http://purl.obolibrary.org/obo/CHEBI_17514> "CAS:57-12-5")
 AnnotationAssertion(Annotation(<http://www.geneontology.org/formats/oboInOwl#source> "NIST Chemistry WebBook") <http://www.geneontology.org/formats/oboInOwl#hasDbXref> <http://purl.obolibrary.org/obo/CHEBI_17514> "CAS:57-12-5")

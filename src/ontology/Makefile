@@ -100,8 +100,8 @@ $(TMPDIR) $(REPORTDIR) $(MIRRORDIR) $(IMPORTDIR) $(COMPONENTSDIR) $(SUBSETDIR):
 MAIN_PRODUCTS = $(sort $(foreach r,$(RELEASE_ARTEFACTS), $(r)) $(ONT))
 MAIN_GZIPPED  = 
 MAIN_FILES    = $(foreach n,$(MAIN_PRODUCTS), $(foreach f,$(FORMATS), $(n).$(f))) $(MAIN_GZIPPED)
-SRCMERGED     = $(TMPDIR)/merged-$(SRC)
-
+#SRCMERGED     = $(TMPDIR)/merged-$(SRC)
+SRCMERGED     = $(TMPDIR)/merged-$(ONT)-edit.ofn
 .PHONY: all_main
 all_main: $(MAIN_FILES)
 
