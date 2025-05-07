@@ -1,5 +1,7 @@
-name: DOCS
+# Basic ODK workflow
+name: Docs
 
+# Controls when the action will run. 
 on:
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
@@ -7,25 +9,19 @@ on:
     branches:
       - main
 
+# A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:
   build:
-    name: Deploy DOCS
+    name: Deploy docs
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/checkout@v3
-      with:
-        ref: main
-        path: main
+      - name: Checkout main
+        uses: actions/checkout@v3
 
-    - name: Build DOC for main
-      run: | 
-            mkdir public
-    - name: Deploy Docs to GitHub Pages
-      if: success()
-      uses: crazy-max/ghaction-github-pages@v3
-      with:
-        target_branch: gh-pages-docs
-        build_dir: public
-      env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        CONFIG_FILE: mkdocs.yaml
+      - name: Deploy docs
+        uses: mhausenblas/mkdocs-deploy-gh-pages@master
+        # Or use mhausenblas/mkdocs-deploy-gh-pages@nomaterial to build without the mkdocs-material theme
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          CONFIG_FILE: mkdocs.yaml
+

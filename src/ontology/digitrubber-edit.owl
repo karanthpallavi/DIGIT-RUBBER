@@ -8,6 +8,7 @@ Prefix(rdfs:=<http://www.w3.org/2000/01/rdf-schema#>)
 
 Ontology(<http://purl.obolibrary.org/obo/digitrubber/digitrubber-full.owl>
 <http://purl.obolibrary.org/obo/digitrubber/releases/2023-06-01/digitrubber-full.owl>
+Import(<https://w3id.org/pmd/co/3.0.0-dev>)
 Annotation(<http://omv.ontoware.org/2005/05/ontology#hasOntologySyntax> <http://www.w3.org/ns/formats/RDF_XML>)
 Annotation(<http://purl.obolibrary.org/obo/IAO_0000700> <http://www.purl.org/OntoMeta/DigitRubber#1>)
 Annotation(<http://purl.org/dc/elements/1.1/creator> <https://orcid.org/0000-0000-0000-0000>)
@@ -31,7 +32,7 @@ Annotation(<http://usefulinc.com/ns/doap#audience> "DigitRubber ontology has bee
 Annotation(<http://usefulinc.com/ns/doap#bug-database> <https://github.com/TIBHannover/DIGIT-RUBBER/issues>)
 Annotation(<http://usefulinc.com/ns/doap#repository> <https://github.com/TIBHannover/DIGIT-RUBBER>)
 Annotation(<http://www.loc.gov/premis/rdf/v3/documentation> <https://tibhannover.github.io/DIGIT-RUBBER/>)
-Annotation(owl:versionInfo "v2024-Feb-22")
+Annotation(owl:versionInfo "v2025-May-7")
 Annotation(<http://www.w3.org/ns/adms#versionNotes> "A description of changes between last version and current version of the ontology."@en)
 Annotation(<http://www.w3.org/ns/dcat#distribution> <http://www.purl.org/OntoMeta/DigitRubber.owl>)
 Annotation(<https://vocab.org/vann/example> <http://www.purl.org/OntoMeta/DigitRubber/docs/descriptionOfUse>)
@@ -178,8 +179,6 @@ Declaration(Class(<http://purl.obolibrary.org/obo/OBI_0200190>))
 Declaration(Class(<http://purl.obolibrary.org/obo/PATO_0000033>))
 Declaration(Class(<http://purl.obolibrary.org/obo/PATO_0000051>))
 Declaration(Class(<http://purl.obolibrary.org/obo/PATO_0000122>))
-Declaration(Class(<http://purl.obolibrary.org/obo/PATO_0000146>))
-Declaration(Class(<http://purl.obolibrary.org/obo/PATO_0001018>))
 Declaration(Class(<http://purl.obolibrary.org/obo/PATO_0001025>))
 Declaration(Class(<http://purl.obolibrary.org/obo/PATO_0001241>))
 Declaration(Class(<http://purl.obolibrary.org/obo/PATO_0001291>))
@@ -198,7 +197,12 @@ Declaration(Class(<http://purl.obolibrary.org/obo/UO_0000051>))
 Declaration(Class(<http://purl.obolibrary.org/obo/UO_0000095>))
 Declaration(Class(<http://purl.obolibrary.org/obo/UO_0000270>))
 Declaration(Class(<http://purl.obolibrary.org/obo/UO_0000280>))
-Declaration(Class(<http://purl.obolibrary.org/obo/digitrubber/0000002>))
+Declaration(Class(<https://www.tib.eu/digitrubber#DIGITRUBBER_0000001>))
+Declaration(Class(<https://www.tib.eu/digitrubber#DIGITRUBBER_0000003>))
+Declaration(Class(<https://www.tib.eu/digitrubber#DIGITRUBBER_0000004>))
+Declaration(Class(<https://www.tib.eu/digitrubber#DIGITRUBBER_0000005>))
+Declaration(Class(<https://www.tib.eu/digitrubber#DIGITRUBBER_0000006>))
+Declaration(Class(<https://www.tib.eu/digitrubber#DIGITRUBBER_0000007>))
 Declaration(Class(<https://www.tib.eu/digitrubber#DIGITRUBBER_000001>))
 Declaration(Class(<https://www.tib.eu/digitrubber#DIGITRUBBER_000002>))
 Declaration(Class(<https://www.tib.eu/digitrubber#DIGITRUBBER_000003>))
@@ -439,7 +443,6 @@ Declaration(Class(<https://www.tib.eu/digitrubber#DIGITRUBBER_000257>))
 Declaration(Class(<https://www.tib.eu/digitrubber#DIGITRUBBER_000258>))
 Declaration(Class(<https://www.tib.eu/digitrubber#DIGITRUBBER_000260>))
 Declaration(Class(<https://www.tib.eu/digitrubber#DIGITRUBBER_000261>))
-Declaration(Class(<https://www.tib.eu/digitrubber#DIGITRUBBER_000262>))
 Declaration(Class(<https://www.tib.eu/digitrubber#DIGITRUBBER_000263>))
 Declaration(Class(<https://www.tib.eu/digitrubber#DIGITRUBBER_000264>))
 Declaration(Class(<https://www.tib.eu/digitrubber#DIGITRUBBER_000265>))
@@ -491,7 +494,6 @@ Declaration(Class(<https://www.tib.eu/digitrubber#DIGITRUBBER_000315>))
 Declaration(Class(<https://www.tib.eu/digitrubber#DIGITRUBBER_000316>))
 Declaration(Class(<https://www.tib.eu/digitrubber#DIGITRUBBER_000317>))
 Declaration(Class(<https://www.tib.eu/digitrubber#DIGITRUBBER_000318>))
-Declaration(Class(<https://www.tib.eu/digitrubber#DIGITRUBBER_000319>))
 Declaration(Class(<https://www.tib.eu/digitrubber#DIGITRUBBER_000320>))
 Declaration(Class(<https://www.tib.eu/digitrubber#DIGITRUBBER_000321>))
 Declaration(Class(<https://www.tib.eu/digitrubber#DIGITRUBBER_000322>))
@@ -661,7 +663,6 @@ Declaration(Class(<https://www.tib.eu/digitrubber#DIGITRUBBER_000491>))
 Declaration(Class(<https://www.tib.eu/digitrubber#DIGITRUBBER_000492>))
 Declaration(Class(<https://www.tib.eu/digitrubber#DIGITRUBBER_000493>))
 Declaration(Class(<https://www.tib.eu/digitrubber#DIGITRUBBER_000494>))
-Declaration(Class(<https://www.tib.eu/digitrubber#DIGITRUBBER_000495>))
 Declaration(Class(<https://www.tib.eu/digitrubber#DIGITRUBBER_000497>))
 Declaration(Class(<https://www.tib.eu/digitrubber#DIGITRUBBER_000499>))
 Declaration(Class(<https://www.tib.eu/digitrubber#DIGITRUBBER_000501>))
@@ -796,12 +797,6 @@ Declaration(Class(<https://www.tib.eu/digitrubber#DIGITRUBBER_000649>))
 Declaration(Class(<https://www.tib.eu/digitrubber#DIGITRUBBER_000650>))
 Declaration(Class(<https://www.tib.eu/digitrubber#DIGITRUBBER_000651>))
 Declaration(Class(<https://www.tib.eu/digitrubber#ROi3BNAY7lNum6bqHYNnKv>))
-Declaration(Class(<https://www.tib.eu/digitrubber#DIGITRUBBER_0000001>))
-Declaration(Class(<https://www.tib.eu/digitrubber#DIGITRUBBER_0000003>))
-Declaration(Class(<https://www.tib.eu/digitrubber#DIGITRUBBER_0000004>))
-Declaration(Class(<https://www.tib.eu/digitrubber#DIGITRUBBER_0000005>))
-Declaration(Class(<https://www.tib.eu/digitrubber#DIGITRUBBER_0000006>))
-Declaration(Class(<https://www.tib.eu/digitrubber#DIGITRUBBER_0000007>))
 Declaration(ObjectProperty(<http://purl.obolibrary.org/obo/BFO_0000050>))
 Declaration(ObjectProperty(<http://purl.obolibrary.org/obo/BFO_0000051>))
 Declaration(ObjectProperty(<http://purl.obolibrary.org/obo/BFO_0000054>))
@@ -3661,23 +3656,6 @@ AnnotationAssertion(rdfs:label <http://purl.obolibrary.org/obo/CHEBI_84292> "dit
 AnnotationAssertion(<https://www.tib.eu/digitrubber/preliminary_broad_class_assigned> <http://purl.obolibrary.org/obo/CHEBI_84292> "false"^^xsd:boolean)
 SubClassOf(<http://purl.obolibrary.org/obo/CHEBI_84292> <http://purl.obolibrary.org/obo/CHEBI_84291>)
 
-# Class: <http://purl.obolibrary.org/obo/IAO_0000003> (measurement unit label [iao])
-
-AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000111> <http://purl.obolibrary.org/obo/IAO_0000003> "measurement unit label"@en)
-AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000112> <http://purl.obolibrary.org/obo/IAO_0000003> "Examples of measurement unit labels are liters, inches, weight per volume."@en)
-AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000114> <http://purl.obolibrary.org/obo/IAO_0000003> <http://purl.obolibrary.org/obo/IAO_0000125>)
-AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <http://purl.obolibrary.org/obo/IAO_0000003> "A measurement unit label is as a label that is part of a scalar measurement datum and denotes a unit of measure."@en)
-AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000116> <http://purl.obolibrary.org/obo/IAO_0000003> "2009-03-16: provenance: a term measurement unit was
-proposed for OBI (OBI_0000176) , edited by Chris Stoeckert and
-Cristian Cocos, and subsequently moved to IAO where the objective for
-which the original term was defined was satisfied with the definition
-of this, different, term."@en)
-AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000116> <http://purl.obolibrary.org/obo/IAO_0000003> "2009-03-16: review of this term done during during the OBI workshop winter 2009 and the current definition was considered acceptable for use in OBI. If there is a need to modify this definition please notify OBI."@en)
-AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000117> <http://purl.obolibrary.org/obo/IAO_0000003> "PERSON: Alan Ruttenberg"@en)
-AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000117> <http://purl.obolibrary.org/obo/IAO_0000003> "PERSON: Melanie Courtot"@en)
-AnnotationAssertion(rdfs:label <http://purl.obolibrary.org/obo/IAO_0000003> "measurement unit label [iao]"@en)
-SubClassOf(<http://purl.obolibrary.org/obo/IAO_0000003> <http://purl.obolibrary.org/obo/IAO_0000009>)
-
 # Class: <http://purl.obolibrary.org/obo/IAO_0000009> (datum label [iao])
 
 AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000111> <http://purl.obolibrary.org/obo/IAO_0000009> "datum label"@en)
@@ -4551,20 +4529,6 @@ EquivalentClasses(<http://purl.obolibrary.org/obo/OBI_0001034> ObjectIntersectio
 SubClassOf(<http://purl.obolibrary.org/obo/OBI_0001034> <http://purl.obolibrary.org/obo/OBI_0000968>)
 SubClassOf(<http://purl.obolibrary.org/obo/OBI_0001034> ObjectSomeValuesFrom(<http://purl.obolibrary.org/obo/RO_0000085> ObjectUnionOf(<http://purl.obolibrary.org/obo/OBI_0000371> <http://purl.obolibrary.org/obo/OBI_0000387> <http://purl.obolibrary.org/obo/OBI_0000401>)))
 
-# Class: <http://purl.obolibrary.org/obo/OBI_0001112> (autoclave)
-
-AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000111> <http://purl.obolibrary.org/obo/OBI_0001112> "autoclave")
-AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000114> <http://purl.obolibrary.org/obo/OBI_0001112> <http://purl.obolibrary.org/obo/IAO_0000120>)
-AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <http://purl.obolibrary.org/obo/OBI_0001112> "A device that is used to sterilize equipment and supplies by subjecting them to high pressure steam at 121 C or more, typically for 15 to 20 minutes depending on the size of the load and the contents."@en)
-AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000117> <http://purl.obolibrary.org/obo/OBI_0001112> "PERSON: Erik Segerdell")
-AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000119> <http://purl.obolibrary.org/obo/OBI_0001112> "J. Black, Microbiology, Prentice Hall (1993) pg. 334; http://en.wikipedia.org/wiki/Autoclave")
-AnnotationAssertion(rdfs:label <http://purl.obolibrary.org/obo/OBI_0001112> "autoclave"@en)
-AnnotationAssertion(<https://www.tib.eu/digitrubber/preliminary_broad_class_assigned> <http://purl.obolibrary.org/obo/OBI_0001112> "false"^^xsd:boolean)
-SubClassOf(<http://purl.obolibrary.org/obo/OBI_0001112> <http://purl.obolibrary.org/obo/OBI_0001034>)
-SubClassOf(<http://purl.obolibrary.org/obo/OBI_0001112> ObjectSomeValuesFrom(<http://purl.obolibrary.org/obo/RO_0000085> <http://purl.obolibrary.org/obo/OBI_0000371>))
-SubClassOf(<http://purl.obolibrary.org/obo/OBI_0001112> ObjectSomeValuesFrom(<http://purl.obolibrary.org/obo/RO_0000085> <http://purl.obolibrary.org/obo/OBI_0000379>))
-SubClassOf(<http://purl.obolibrary.org/obo/OBI_0001112> ObjectSomeValuesFrom(<http://purl.obolibrary.org/obo/RO_0000085> <http://purl.obolibrary.org/obo/OBI_0000946>))
-
 # Class: <http://purl.obolibrary.org/obo/OBI_0001930> (categorical value specification)
 
 AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000111> <http://purl.obolibrary.org/obo/OBI_0001930> "categorical value specification")
@@ -4787,15 +4751,6 @@ SubClassOf(<http://purl.obolibrary.org/obo/OBI_0200190> <http://purl.obolibrary.
 SubClassOf(<http://purl.obolibrary.org/obo/OBI_0200190> ObjectSomeValuesFrom(<http://purl.obolibrary.org/obo/OBI_0000299> ObjectUnionOf(<http://purl.obolibrary.org/obo/IAO_0000037> <http://purl.obolibrary.org/obo/IAO_0000179> <http://purl.obolibrary.org/obo/IAO_0000180> <http://purl.obolibrary.org/obo/IAO_0000183> <http://purl.obolibrary.org/obo/IAO_0000184>)))
 SubClassOf(<http://purl.obolibrary.org/obo/OBI_0200190> ObjectAllValuesFrom(<http://purl.obolibrary.org/obo/OBI_0000293> <http://purl.obolibrary.org/obo/OBI_0000648>))
 
-# Class: <http://purl.obolibrary.org/obo/PATO_0000033> (concentration of [pato])
-
-AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000111> <http://purl.obolibrary.org/obo/PATO_0000033> "concentration of")
-AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <http://purl.obolibrary.org/obo/PATO_0000033> "A quality inhering in a substance by virtue of the amount of the bearer's there is mixed with another substance."@en)
-AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000412> <http://purl.obolibrary.org/obo/PATO_0000033> <http://purl.obolibrary.org/obo/pato.owl>)
-AnnotationAssertion(rdfs:label <http://purl.obolibrary.org/obo/PATO_0000033> "concentration of [pato]"@en)
-AnnotationAssertion(<https://www.tib.eu/digitrubber/preliminary_broad_class_assigned> <http://purl.obolibrary.org/obo/PATO_0000033> "false"^^xsd:boolean)
-SubClassOf(<http://purl.obolibrary.org/obo/PATO_0000033> <http://purl.obolibrary.org/obo/PATO_0002182>)
-
 # Class: <http://purl.obolibrary.org/obo/PATO_0000051> (morphology)
 
 AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000111> <http://purl.obolibrary.org/obo/PATO_0000051> "morphology")
@@ -4814,24 +4769,6 @@ AnnotationAssertion(rdfs:label <http://purl.obolibrary.org/obo/PATO_0000122> "le
 AnnotationAssertion(<https://www.tib.eu/digitrubber/preliminary_broad_class_assigned> <http://purl.obolibrary.org/obo/PATO_0000122> "false"^^xsd:boolean)
 SubClassOf(<http://purl.obolibrary.org/obo/PATO_0000122> <http://purl.obolibrary.org/obo/PATO_0000051>)
 
-# Class: <http://purl.obolibrary.org/obo/PATO_0000146> (temperature [pato])
-
-AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000111> <http://purl.obolibrary.org/obo/PATO_0000146> "temperature")
-AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <http://purl.obolibrary.org/obo/PATO_0000146> "A physical quality of the thermal energy of a system."@en)
-AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000412> <http://purl.obolibrary.org/obo/PATO_0000146> <http://purl.obolibrary.org/obo/pato.owl>)
-AnnotationAssertion(rdfs:label <http://purl.obolibrary.org/obo/PATO_0000146> "temperature [pato]"@en)
-AnnotationAssertion(<https://www.tib.eu/digitrubber/preliminary_broad_class_assigned> <http://purl.obolibrary.org/obo/PATO_0000146> "false"^^xsd:boolean)
-SubClassOf(<http://purl.obolibrary.org/obo/PATO_0000146> <http://purl.obolibrary.org/obo/PATO_0001018>)
-
-# Class: <http://purl.obolibrary.org/obo/PATO_0001018> (physical quality [pato])
-
-AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000111> <http://purl.obolibrary.org/obo/PATO_0001018> "physical quality")
-AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <http://purl.obolibrary.org/obo/PATO_0001018> "A quality of a physical entity that exists through action of continuants at the physical level of organisation in relation to other entities."@en)
-AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000412> <http://purl.obolibrary.org/obo/PATO_0001018> <http://purl.obolibrary.org/obo/pato.owl>)
-AnnotationAssertion(rdfs:label <http://purl.obolibrary.org/obo/PATO_0001018> "physical quality [pato]"@en)
-AnnotationAssertion(<https://www.tib.eu/digitrubber/preliminary_broad_class_assigned> <http://purl.obolibrary.org/obo/PATO_0001018> "false"^^xsd:boolean)
-SubClassOf(<http://purl.obolibrary.org/obo/PATO_0001018> <http://purl.obolibrary.org/obo/PATO_0001241>)
-
 # Class: <http://purl.obolibrary.org/obo/PATO_0001025> (pressure [pato])
 
 AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000111> <http://purl.obolibrary.org/obo/PATO_0001025> "pressure")
@@ -4839,7 +4776,6 @@ AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <http://purl.ob
 AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000412> <http://purl.obolibrary.org/obo/PATO_0001025> <http://purl.obolibrary.org/obo/pato.owl>)
 AnnotationAssertion(rdfs:label <http://purl.obolibrary.org/obo/PATO_0001025> "pressure [pato]"@en)
 AnnotationAssertion(<https://www.tib.eu/digitrubber/preliminary_broad_class_assigned> <http://purl.obolibrary.org/obo/PATO_0001025> "false"^^xsd:boolean)
-SubClassOf(<http://purl.obolibrary.org/obo/PATO_0001025> <http://purl.obolibrary.org/obo/PATO_0001018>)
 
 # Class: <http://purl.obolibrary.org/obo/PATO_0001241> (physical object quality [pato])
 
@@ -4893,7 +4829,6 @@ AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <http://purl.ob
 AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000412> <http://purl.obolibrary.org/obo/PATO_0001739> <http://purl.obolibrary.org/obo/pato.owl>)
 AnnotationAssertion(rdfs:label <http://purl.obolibrary.org/obo/PATO_0001739> "radiation quality"@en)
 AnnotationAssertion(<https://www.tib.eu/digitrubber/preliminary_broad_class_assigned> <http://purl.obolibrary.org/obo/PATO_0001739> "false"^^xsd:boolean)
-SubClassOf(<http://purl.obolibrary.org/obo/PATO_0001739> <http://purl.obolibrary.org/obo/PATO_0001018>)
 
 # Class: <http://purl.obolibrary.org/obo/PATO_0002182> (molecular quality)
 
@@ -4911,7 +4846,6 @@ AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <http://purl.ob
 AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000412> <http://purl.obolibrary.org/obo/PATO_0002198> <http://purl.obolibrary.org/obo/pato.owl>)
 AnnotationAssertion(rdfs:label <http://purl.obolibrary.org/obo/PATO_0002198> "quality of a substance [pato]"@en)
 AnnotationAssertion(<https://www.tib.eu/digitrubber/preliminary_broad_class_assigned> <http://purl.obolibrary.org/obo/PATO_0002198> "false"^^xsd:boolean)
-SubClassOf(<http://purl.obolibrary.org/obo/PATO_0002198> <http://purl.obolibrary.org/obo/PATO_0001018>)
 
 # Class: <http://purl.obolibrary.org/obo/UO_0000001> (length unit)
 
@@ -4979,15 +4913,54 @@ AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000412> <http://purl.ob
 AnnotationAssertion(rdfs:label <http://purl.obolibrary.org/obo/UO_0000280> "rate unit"@en)
 SubClassOf(<http://purl.obolibrary.org/obo/UO_0000280> <http://purl.obolibrary.org/obo/IAO_0000003>)
 
-# Class: <http://purl.obolibrary.org/obo/digitrubber/0000002> (<http://purl.obolibrary.org/obo/digitrubber/0000002>)
-
-SubClassOf(<http://purl.obolibrary.org/obo/digitrubber/0000002> <https://www.tib.eu/digitrubber#DIGITRUBBER_000149>)
-
 # Class: owl:Thing (Thing)
 
 AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> owl:Thing "The class of OWL individuals."@en)
 AnnotationAssertion(<http://purl.org/dc/terms/contributor> owl:Thing "Akhilesh Vyas"@en)
 AnnotationAssertion(rdfs:label owl:Thing "Thing"@en)
+
+# Class: <https://www.tib.eu/digitrubber#DIGITRUBBER_0000001> (PMDcore candidates container)
+
+AnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#created_by> <https://www.tib.eu/digitrubber#DIGITRUBBER_0000001> "Lars M Vogt")
+AnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#creation_date> <https://www.tib.eu/digitrubber#DIGITRUBBER_0000001> "2024-10-23T12:42:29.382197Z")
+AnnotationAssertion(rdfs:label <https://www.tib.eu/digitrubber#DIGITRUBBER_0000001> "PMDcore candidates container"@en)
+SubClassOf(<https://www.tib.eu/digitrubber#DIGITRUBBER_0000001> owl:Thing)
+
+# Class: <https://www.tib.eu/digitrubber#DIGITRUBBER_0000003> (method)
+
+AnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#created_by> <https://www.tib.eu/digitrubber#DIGITRUBBER_0000003> "Lars M Vogt")
+AnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#creation_date> <https://www.tib.eu/digitrubber#DIGITRUBBER_0000003> "2024-10-23T14:12:43.055299Z")
+AnnotationAssertion(rdfs:comment <https://www.tib.eu/digitrubber#DIGITRUBBER_0000003> "will be replaced by PMDcore class")
+AnnotationAssertion(rdfs:label <https://www.tib.eu/digitrubber#DIGITRUBBER_0000003> "method"@en)
+
+# Class: <https://www.tib.eu/digitrubber#DIGITRUBBER_0000004> (device)
+
+AnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#created_by> <https://www.tib.eu/digitrubber#DIGITRUBBER_0000004> "Lars M Vogt")
+AnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#creation_date> <https://www.tib.eu/digitrubber#DIGITRUBBER_0000004> "2024-10-23T14:13:15.258786Z")
+AnnotationAssertion(rdfs:comment <https://www.tib.eu/digitrubber#DIGITRUBBER_0000004> "Will be replaced by PMDcore class")
+AnnotationAssertion(rdfs:label <https://www.tib.eu/digitrubber#DIGITRUBBER_0000004> "device"@en)
+SubClassOf(<https://www.tib.eu/digitrubber#DIGITRUBBER_0000004> <https://www.tib.eu/digitrubber#DIGITRUBBER_000149>)
+
+# Class: <https://www.tib.eu/digitrubber#DIGITRUBBER_0000005> (process)
+
+AnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#created_by> <https://www.tib.eu/digitrubber#DIGITRUBBER_0000005> "Lars M Vogt")
+AnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#creation_date> <https://www.tib.eu/digitrubber#DIGITRUBBER_0000005> "2024-10-23T14:13:54.331986Z")
+AnnotationAssertion(rdfs:comment <https://www.tib.eu/digitrubber#DIGITRUBBER_0000005> "Will be replaced by PMDcore class")
+AnnotationAssertion(rdfs:label <https://www.tib.eu/digitrubber#DIGITRUBBER_0000005> "process"@en)
+
+# Class: <https://www.tib.eu/digitrubber#DIGITRUBBER_0000006> (information content entity)
+
+AnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#created_by> <https://www.tib.eu/digitrubber#DIGITRUBBER_0000006> "Lars M Vogt")
+AnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#creation_date> <https://www.tib.eu/digitrubber#DIGITRUBBER_0000006> "2024-10-23T14:14:28.385064Z")
+AnnotationAssertion(rdfs:comment <https://www.tib.eu/digitrubber#DIGITRUBBER_0000006> "Will be replaced by PMDcore class")
+AnnotationAssertion(rdfs:label <https://www.tib.eu/digitrubber#DIGITRUBBER_0000006> "information content entity"@en)
+
+# Class: <https://www.tib.eu/digitrubber#DIGITRUBBER_0000007> (quality)
+
+AnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#created_by> <https://www.tib.eu/digitrubber#DIGITRUBBER_0000007> "Lars M Vogt")
+AnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#creation_date> <https://www.tib.eu/digitrubber#DIGITRUBBER_0000007> "2024-10-23T14:14:53.918909Z")
+AnnotationAssertion(rdfs:comment <https://www.tib.eu/digitrubber#DIGITRUBBER_0000007> "Will be replaced by PMDcore class")
+AnnotationAssertion(rdfs:label <https://www.tib.eu/digitrubber#DIGITRUBBER_0000007> "quality"@en)
 
 # Class: <https://www.tib.eu/digitrubber#DIGITRUBBER_000001> (measurement quality [imr])
 
@@ -5479,7 +5452,7 @@ AnnotationAssertion(<https://www.tib.eu/digitrubber#coarseClassification> <https
 AnnotationAssertion(<https://www.tib.eu/digitrubber/preliminary_broad_class_assigned> <https://www.tib.eu/digitrubber#DIGITRUBBER_000041> "true"^^xsd:boolean)
 SubClassOf(<https://www.tib.eu/digitrubber#DIGITRUBBER_000041> <https://www.tib.eu/digitrubber#DIGITRUBBER_000392>)
 
-# Class: <https://www.tib.eu/digitrubber#DIGITRUBBER_000042> (output layer [ita])
+# Class: <https://www.tib.eu/digitrubber#DIGITRUBBER_000042> (Ergebnisvektor)
 
 AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000114> <https://www.tib.eu/digitrubber#DIGITRUBBER_000042> "uncurated")
 AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <https://www.tib.eu/digitrubber#DIGITRUBBER_000042> "The output layer in an artificial neural network is the last layer of neurons that produces given outputs for the program."@en)
@@ -5671,7 +5644,7 @@ SubClassOf(<https://www.tib.eu/digitrubber#DIGITRUBBER_000056> <https://www.tib.
 # Class: <https://www.tib.eu/digitrubber#DIGITRUBBER_000058> (mixing [ncit])
 
 AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000114> <https://www.tib.eu/digitrubber#DIGITRUBBER_000058> "uncurated")
-AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <https://www.tib.eu/digitrubber#DIGITRUBBER_000058> "To bring or combine together or with something else; add as an additional element or part. (ncti defined)"@en)
+AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <https://www.tib.eu/digitrubber#DIGITRUBBER_000058> "To bring or combine together or with something else; add as an additional element or part."@en)
 AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000119> <https://www.tib.eu/digitrubber#DIGITRUBBER_000058> "http://purl.obolibrary.org/obo/NCIT_C64925")
 AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000412> <https://www.tib.eu/digitrubber#DIGITRUBBER_000058> <http://purl.obolibrary.org/obo/ncit.owl>)
 AnnotationAssertion(<http://purl.org/dc/elements/1.1/language> <https://www.tib.eu/digitrubber#DIGITRUBBER_000058> "English")
@@ -5683,7 +5656,7 @@ AnnotationAssertion(rdfs:label <https://www.tib.eu/digitrubber#DIGITRUBBER_00005
 AnnotationAssertion(<https://www.tib.eu/digitrubber#coarseClassification> <https://www.tib.eu/digitrubber#DIGITRUBBER_000058> "process")
 AnnotationAssertion(<https://www.tib.eu/digitrubber/preliminary_broad_class_assigned> <https://www.tib.eu/digitrubber#DIGITRUBBER_000058> "true"^^xsd:boolean)
 
-# Class: <https://www.tib.eu/digitrubber#DIGITRUBBER_000059> (pattern recognition [ita])
+# Class: <https://www.tib.eu/digitrubber#DIGITRUBBER_000059> (Mustererkennung)
 
 AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000114> <https://www.tib.eu/digitrubber#DIGITRUBBER_000059> "uncurated")
 AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <https://www.tib.eu/digitrubber#DIGITRUBBER_000059> "Pattern recognition is the automated recognition of patterns and regularities in data. Pattern recognition has its origins in statistics and engineering; some modern approches include the use of machine learning, due to the increased availability of big data and a new abundance of processing power."@en)
@@ -5743,7 +5716,7 @@ AnnotationAssertion(<https://www.tib.eu/digitrubber#coarseClassification> <https
 AnnotationAssertion(<https://www.tib.eu/digitrubber/preliminary_broad_class_assigned> <https://www.tib.eu/digitrubber#DIGITRUBBER_000062> "true"^^xsd:boolean)
 SubClassOf(<https://www.tib.eu/digitrubber#DIGITRUBBER_000062> <https://www.tib.eu/digitrubber#DIGITRUBBER_000149>)
 
-# Class: <https://www.tib.eu/digitrubber#DIGITRUBBER_000063> (Online-Charakterisierung)
+# Class: <https://www.tib.eu/digitrubber#DIGITRUBBER_000063> (online characterisation [ita])
 
 AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000114> <https://www.tib.eu/digitrubber#DIGITRUBBER_000063> "uncurated")
 AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <https://www.tib.eu/digitrubber#DIGITRUBBER_000063> "Online characterisation is the characterization of the material properties during the process and on the real process line in order to be able to react to fluctuations during production."@en)
@@ -5886,7 +5859,7 @@ SubClassOf(<https://www.tib.eu/digitrubber#DIGITRUBBER_000072> <https://www.tib.
 # Class: <https://www.tib.eu/digitrubber#DIGITRUBBER_000073> (supervised machine learning [obi])
 
 AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000114> <https://www.tib.eu/digitrubber#DIGITRUBBER_000073> "uncurated")
-AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <https://www.tib.eu/digitrubber#DIGITRUBBER_000073> "A machine learning process using a function that maps an input to an output based on example input-output pairs. It infers a function from labeled training data consisting of a set of training examples. (obi defined)"@en)
+AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <https://www.tib.eu/digitrubber#DIGITRUBBER_000073> "A machine learning process using a function that maps an input to an output based on example input-output pairs. It infers a function from labeled training data consisting of a set of training examples."@en)
 AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000119> <https://www.tib.eu/digitrubber#DIGITRUBBER_000073> "http://purl.obolibrary.org/obo/OBI_0002588")
 AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000412> <https://www.tib.eu/digitrubber#DIGITRUBBER_000073> <http://purl.obolibrary.org/obo/obi.owl>)
 AnnotationAssertion(<http://purl.org/dc/elements/1.1/language> <https://www.tib.eu/digitrubber#DIGITRUBBER_000073> "English")
@@ -6267,7 +6240,7 @@ AnnotationAssertion(<https://www.tib.eu/digitrubber#coarseClassification> <https
 AnnotationAssertion(<https://www.tib.eu/digitrubber/preliminary_broad_class_assigned> <https://www.tib.eu/digitrubber#DIGITRUBBER_000101> "true"^^xsd:boolean)
 SubClassOf(<https://www.tib.eu/digitrubber#DIGITRUBBER_000101> <https://www.tib.eu/digitrubber#DIGITRUBBER_000149>)
 
-# Class: <https://www.tib.eu/digitrubber#DIGITRUBBER_000102> (factor [hsh])
+# Class: <https://www.tib.eu/digitrubber#DIGITRUBBER_000102> (faktor [hsh])
 
 AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <https://www.tib.eu/digitrubber#DIGITRUBBER_000102> "A circumstance, fact, or influence that contributes to the costs associated with an entity (e.g., wages, number)"@en)
 AnnotationAssertion(rdfs:label <https://www.tib.eu/digitrubber#DIGITRUBBER_000102> "factor [hsh]"@en)
@@ -6676,7 +6649,7 @@ AnnotationAssertion(<https://www.tib.eu/digitrubber#coarseClassification> <https
 AnnotationAssertion(<https://www.tib.eu/digitrubber/preliminary_broad_class_assigned> <https://www.tib.eu/digitrubber#DIGITRUBBER_000143> "true"^^xsd:boolean)
 SubClassOf(<https://www.tib.eu/digitrubber#DIGITRUBBER_000143> <https://www.tib.eu/digitrubber#DIGITRUBBER_0000001>)
 
-# Class: <https://www.tib.eu/digitrubber#DIGITRUBBER_000144> (unit cost [hsh])
+# Class: <https://www.tib.eu/digitrubber#DIGITRUBBER_000144> (stückkosten [hsh])
 
 AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <https://www.tib.eu/digitrubber#DIGITRUBBER_000144> "The expenditure that incurs for acquiring a single unit of an entity sub-group in the system under investigation. Constitutes a factor of the maintenance cost, material cost, and storage cost group."@en)
 AnnotationAssertion(<http://purl.org/dc/elements/1.1/contributor> <https://www.tib.eu/digitrubber#DIGITRUBBER_000144> "Marvin Auf der Landwehr")
@@ -6837,7 +6810,7 @@ AnnotationAssertion(rdfs:label <https://www.tib.eu/digitrubber#DIGITRUBBER_00016
 AnnotationAssertion(<https://www.tib.eu/digitrubber#coarseClassification> <https://www.tib.eu/digitrubber#DIGITRUBBER_000162> "material entity")
 AnnotationAssertion(<https://www.tib.eu/digitrubber/preliminary_broad_class_assigned> <https://www.tib.eu/digitrubber#DIGITRUBBER_000162> "true"^^xsd:boolean)
 
-# Class: <https://www.tib.eu/digitrubber#DIGITRUBBER_000163> (schneidemaschine [hsh])
+# Class: <https://www.tib.eu/digitrubber#DIGITRUBBER_000163> (cutter [hsh])
 
 AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <https://www.tib.eu/digitrubber#DIGITRUBBER_000163> "A pneumtaic machine that cuts rubber materials. Constitutes an entity sub-group of the machine entity."@en)
 AnnotationAssertion(<http://purl.org/dc/elements/1.1/contributor> <https://www.tib.eu/digitrubber#DIGITRUBBER_000163> "Marvin Auf der Landwehr")
@@ -7030,7 +7003,7 @@ AnnotationAssertion(rdfs:label <https://www.tib.eu/digitrubber#DIGITRUBBER_00018
 AnnotationAssertion(<https://www.tib.eu/digitrubber#coarseClassification> <https://www.tib.eu/digitrubber#DIGITRUBBER_000181> "material entity")
 AnnotationAssertion(<https://www.tib.eu/digitrubber/preliminary_broad_class_assigned> <https://www.tib.eu/digitrubber#DIGITRUBBER_000181> "true"^^xsd:boolean)
 
-# Class: <https://www.tib.eu/digitrubber#DIGITRUBBER_000182> (weichmacher [hsh])
+# Class: <https://www.tib.eu/digitrubber#DIGITRUBBER_000182> (plasticizer [hsh])
 
 AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <https://www.tib.eu/digitrubber#DIGITRUBBER_000182> "A substance added to a synthetic resin to produce or promote plasticity and flexibility and to reduce brittleness. Constitutes an entity sub-group of the raw material entity."@en)
 AnnotationAssertion(<http://purl.org/dc/elements/1.1/contributor> <https://www.tib.eu/digitrubber#DIGITRUBBER_000182> "Marvin Auf der Landwehr")
@@ -7040,7 +7013,7 @@ AnnotationAssertion(<https://www.tib.eu/digitrubber#coarseClassification> <https
 AnnotationAssertion(<https://www.tib.eu/digitrubber/preliminary_broad_class_assigned> <https://www.tib.eu/digitrubber#DIGITRUBBER_000182> "true"^^xsd:boolean)
 SubClassOf(<https://www.tib.eu/digitrubber#DIGITRUBBER_000182> <https://www.tib.eu/digitrubber#DIGITRUBBER_000149>)
 
-# Class: <https://www.tib.eu/digitrubber#DIGITRUBBER_000183> (plasticizer [ncit])
+# Class: <https://www.tib.eu/digitrubber#DIGITRUBBER_000183> (weichmacher [ncit])
 
 AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000114> <https://www.tib.eu/digitrubber#DIGITRUBBER_000183> "uncurated")
 AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <https://www.tib.eu/digitrubber#DIGITRUBBER_000183> "A substance added to plastics or other materials to make or keep them soft or pliable."@en)
@@ -7378,7 +7351,7 @@ SubClassOf(<https://www.tib.eu/digitrubber#DIGITRUBBER_000209> <https://www.tib.
 
 # Class: <https://www.tib.eu/digitrubber#DIGITRUBBER_000210> (extrusion [ifnano])
 
-AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <https://www.tib.eu/digitrubber#DIGITRUBBER_000210> "Extrusion is a process used to create objects of a fixed cross-sectional profile by pushing material through a die of the desired cross-section. (ifnano defined)"@en)
+AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <https://www.tib.eu/digitrubber#DIGITRUBBER_000210> "Extrusion is a process used to create objects of a fixed cross-sectional profile by pushing material through a die of the desired cross-section."@en)
 AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000118> <https://www.tib.eu/digitrubber#DIGITRUBBER_000210> "Extrusion"@en)
 AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000119> <https://www.tib.eu/digitrubber#DIGITRUBBER_000210> "https://en.wikipedia.org/wiki/Extrusion")
 AnnotationAssertion(<http://purl.org/dc/elements/1.1/contributor> <https://www.tib.eu/digitrubber#DIGITRUBBER_000210> "Sven Schwabe (IFNANO)")
@@ -7910,7 +7883,7 @@ SubClassOf(<https://www.tib.eu/digitrubber#DIGITRUBBER_000260> <https://www.tib.
 
 # Class: <https://www.tib.eu/digitrubber#DIGITRUBBER_000261> (zinc [ifnano])
 
-AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <https://www.tib.eu/digitrubber#DIGITRUBBER_000261> "The chemical element zinc (ifnano defined)"@en)
+AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <https://www.tib.eu/digitrubber#DIGITRUBBER_000261> "The chemical element zinc"@en)
 AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000118> <https://www.tib.eu/digitrubber#DIGITRUBBER_000261> "Zink"@en)
 AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000119> <https://www.tib.eu/digitrubber#DIGITRUBBER_000261> "https://en.wikipedia.org/wiki/Zinc")
 AnnotationAssertion(<http://purl.org/dc/elements/1.1/contributor> <https://www.tib.eu/digitrubber#DIGITRUBBER_000261> "Sven Schwabe (IFNANO)")
@@ -7920,20 +7893,6 @@ AnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#hasExactSynony
 AnnotationAssertion(rdfs:label <https://www.tib.eu/digitrubber#DIGITRUBBER_000261> "zinc [ifnano]"@en)
 AnnotationAssertion(<https://www.tib.eu/digitrubber#coarseClassification> <https://www.tib.eu/digitrubber#DIGITRUBBER_000261> "material entity")
 AnnotationAssertion(<https://www.tib.eu/digitrubber/preliminary_broad_class_assigned> <https://www.tib.eu/digitrubber#DIGITRUBBER_000261> "true"^^xsd:boolean)
-
-# Class: <https://www.tib.eu/digitrubber#DIGITRUBBER_000262> (zinc [bwmd])
-
-AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000114> <https://www.tib.eu/digitrubber#DIGITRUBBER_000262> "uncurated")
-AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <https://www.tib.eu/digitrubber#DIGITRUBBER_000262> "The chemical element zinc"@en)
-AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000119> <https://www.tib.eu/digitrubber#DIGITRUBBER_000262> "https://www.materials.fraunhofer.de/ontologies/BWMD_ontology/mid#BWMD_00096")
-AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000412> <https://www.tib.eu/digitrubber#DIGITRUBBER_000262> <https://www.materials.fraunhofer.de/ontologies/BWMD_ontology>)
-AnnotationAssertion(<http://purl.org/dc/elements/1.1/language> <https://www.tib.eu/digitrubber#DIGITRUBBER_000262> "English")
-AnnotationAssertion(<http://purl.org/pav/lastUpdateOn> <https://www.tib.eu/digitrubber#DIGITRUBBER_000262> "17.08.2022")
-AnnotationAssertion(rdfs:comment <https://www.tib.eu/digitrubber#DIGITRUBBER_000262> "https://www.materials.fraunhofer.de/ontologies/BWMD_ontology"@en)
-AnnotationAssertion(rdfs:isDefinedBy <https://www.tib.eu/digitrubber#DIGITRUBBER_000262> <https://www.materials.fraunhofer.de/ontologies/BWMD_ontology>)
-AnnotationAssertion(rdfs:label <https://www.tib.eu/digitrubber#DIGITRUBBER_000262> "zinc [bwmd]"@en)
-AnnotationAssertion(<https://www.tib.eu/digitrubber#coarseClassification> <https://www.tib.eu/digitrubber#DIGITRUBBER_000262> "material entity")
-AnnotationAssertion(<https://www.tib.eu/digitrubber/preliminary_broad_class_assigned> <https://www.tib.eu/digitrubber#DIGITRUBBER_000262> "true"^^xsd:boolean)
 
 # Class: <https://www.tib.eu/digitrubber#DIGITRUBBER_000263> (zinc [ncit])
 
@@ -7979,7 +7938,7 @@ SubClassOf(<https://www.tib.eu/digitrubber#DIGITRUBBER_000265> <https://www.tib.
 # Class: <https://www.tib.eu/digitrubber#DIGITRUBBER_000266> (standard deviation [allotrope])
 
 AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000114> <https://www.tib.eu/digitrubber#DIGITRUBBER_000266> "uncurated")
-AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <https://www.tib.eu/digitrubber#DIGITRUBBER_000266> "The standard deviation is a measure of the amount of variation or dispersion of a set of values. (allotrope defined)"@en)
+AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <https://www.tib.eu/digitrubber#DIGITRUBBER_000266> "The standard deviation is a measure of the amount of variation or dispersion of a set of values."@en)
 AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000119> <https://www.tib.eu/digitrubber#DIGITRUBBER_000266> "http://purl.allotrope.org/ontologies/result#AFR_0002192")
 AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000412> <https://www.tib.eu/digitrubber#DIGITRUBBER_000266> "allotrope.org")
 AnnotationAssertion(<http://purl.org/dc/elements/1.1/language> <https://www.tib.eu/digitrubber#DIGITRUBBER_000266> "English")
@@ -8511,7 +8470,7 @@ AnnotationAssertion(rdfs:label <https://www.tib.eu/digitrubber#DIGITRUBBER_00030
 AnnotationAssertion(rdfs:label <https://www.tib.eu/digitrubber#DIGITRUBBER_000309> "activator [dik]"@en)
 SubClassOf(<https://www.tib.eu/digitrubber#DIGITRUBBER_000309> <https://www.tib.eu/digitrubber#DIGITRUBBER_000149>)
 
-# Class: <https://www.tib.eu/digitrubber#DIGITRUBBER_000310> (Aktivator [ncit])
+# Class: <https://www.tib.eu/digitrubber#DIGITRUBBER_000310> (activator [ncit])
 
 AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000114> <https://www.tib.eu/digitrubber#DIGITRUBBER_000310> "uncurated")
 AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <https://www.tib.eu/digitrubber#DIGITRUBBER_000310> "A class of substances that binds to, activates and increases the activity of a target."@en)
@@ -8628,20 +8587,6 @@ AnnotationAssertion(rdfs:label <https://www.tib.eu/digitrubber#DIGITRUBBER_00031
 AnnotationAssertion(rdfs:label <https://www.tib.eu/digitrubber#DIGITRUBBER_000318> "secondary vulcanisation accelerator [dik]"@en)
 AnnotationAssertion(<https://www.tib.eu/digitrubber/preliminary_broad_class_assigned> <https://www.tib.eu/digitrubber#DIGITRUBBER_000318> "false"^^xsd:boolean)
 SubClassOf(<https://www.tib.eu/digitrubber#DIGITRUBBER_000318> <https://www.tib.eu/digitrubber#DIGITRUBBER_000316>)
-
-# Class: <https://www.tib.eu/digitrubber#DIGITRUBBER_000319> (thiazole [dik])
-
-AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000114> <https://www.tib.eu/digitrubber#DIGITRUBBER_000319> "uncurated")
-AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <https://www.tib.eu/digitrubber#DIGITRUBBER_000319> "An azole in which the five-membered heterocyclic aromatic skeleton contains a N atom and one S atom."@en)
-AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000119> <https://www.tib.eu/digitrubber#DIGITRUBBER_000319> "http://purl.obolibrary.org/obo/chebi.owl")
-AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000412> <https://www.tib.eu/digitrubber#DIGITRUBBER_000319> <http://purl.obolibrary.org/obo/CHEBI_43732>)
-AnnotationAssertion(<http://purl.org/dc/elements/1.1/contributor> <https://www.tib.eu/digitrubber#DIGITRUBBER_000319> "Alexander Aschemann")
-AnnotationAssertion(<http://purl.org/dc/elements/1.1/language> <https://www.tib.eu/digitrubber#DIGITRUBBER_000319> "English")
-AnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#creation_date> <https://www.tib.eu/digitrubber#DIGITRUBBER_000319> "05.05.2022"^^xsd:Date)
-AnnotationAssertion(rdfs:label <https://www.tib.eu/digitrubber#DIGITRUBBER_000319> "Thiazol [dik]"@de)
-AnnotationAssertion(rdfs:label <https://www.tib.eu/digitrubber#DIGITRUBBER_000319> "thiazole [dik]"@en)
-AnnotationAssertion(<https://www.tib.eu/digitrubber/preliminary_broad_class_assigned> <https://www.tib.eu/digitrubber#DIGITRUBBER_000319> "false"^^xsd:boolean)
-SubClassOf(<https://www.tib.eu/digitrubber#DIGITRUBBER_000319> <http://purl.obolibrary.org/obo/CHEBI_68452>)
 
 # Class: <https://www.tib.eu/digitrubber#DIGITRUBBER_000320> (di(benzothiazol-2-yl)disulfide [dik])
 
@@ -9097,7 +9042,7 @@ AnnotationAssertion(rdfs:label <https://www.tib.eu/digitrubber#DIGITRUBBER_00035
 AnnotationAssertion(<https://www.tib.eu/digitrubber/preliminary_broad_class_assigned> <https://www.tib.eu/digitrubber#DIGITRUBBER_000354> "false"^^xsd:boolean)
 SubClassOf(<https://www.tib.eu/digitrubber#DIGITRUBBER_000354> <https://www.tib.eu/digitrubber#DIGITRUBBER_000149>)
 
-# Class: <https://www.tib.eu/digitrubber#DIGITRUBBER_000355> (Festwalzen-Drehzahl [dik])
+# Class: <https://www.tib.eu/digitrubber#DIGITRUBBER_000355> (fixed roll speed [dik])
 
 AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000114> <https://www.tib.eu/digitrubber#DIGITRUBBER_000355> "uncurated")
 AnnotationAssertion(<http://purl.org/dc/elements/1.1/contributor> <https://www.tib.eu/digitrubber#DIGITRUBBER_000355> "Alexander Aschemann")
@@ -9147,7 +9092,6 @@ SubClassOf(<https://www.tib.eu/digitrubber#DIGITRUBBER_000358> <https://www.tib.
 
 AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000114> <https://www.tib.eu/digitrubber#DIGITRUBBER_000359> "uncurated")
 AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <https://www.tib.eu/digitrubber#DIGITRUBBER_000359> "A physical quality of the thermal energy of a system."@en)
-AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000119> <https://www.tib.eu/digitrubber#DIGITRUBBER_000359> <http://purl.obolibrary.org/obo/PATO_0000146>)
 AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000412> <https://www.tib.eu/digitrubber#DIGITRUBBER_000359> <http://purl.obolibrary.org/obo/pato.owl>)
 AnnotationAssertion(<http://purl.org/dc/elements/1.1/language> <https://www.tib.eu/digitrubber#DIGITRUBBER_000359> "English")
 AnnotationAssertion(<http://purl.org/pav/lastUpdateOn> <https://www.tib.eu/digitrubber#DIGITRUBBER_000359> "24.08.2022")
@@ -9271,7 +9215,7 @@ AnnotationAssertion(rdfs:label <https://www.tib.eu/digitrubber#DIGITRUBBER_00036
 AnnotationAssertion(<https://www.tib.eu/digitrubber#coarseClassification> <https://www.tib.eu/digitrubber#DIGITRUBBER_000368> "quality")
 AnnotationAssertion(<https://www.tib.eu/digitrubber/preliminary_broad_class_assigned> <https://www.tib.eu/digitrubber#DIGITRUBBER_000368> "true"^^xsd:boolean)
 
-# Class: <https://www.tib.eu/digitrubber#DIGITRUBBER_000369> (setting roll temperature [dik])
+# Class: <https://www.tib.eu/digitrubber#DIGITRUBBER_000369> (Stellwalzen-Temperatur [dik])
 
 AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000114> <https://www.tib.eu/digitrubber#DIGITRUBBER_000369> "uncurated")
 AnnotationAssertion(<http://purl.org/dc/elements/1.1/contributor> <https://www.tib.eu/digitrubber#DIGITRUBBER_000369> "Alexander Aschemann")
@@ -9489,7 +9433,7 @@ AnnotationAssertion(rdfs:label <https://www.tib.eu/digitrubber#DIGITRUBBER_00038
 AnnotationAssertion(rdfs:label <https://www.tib.eu/digitrubber#DIGITRUBBER_000388> "rotor temperature [dik]"@en)
 AnnotationAssertion(<https://www.tib.eu/digitrubber/preliminary_broad_class_assigned> <https://www.tib.eu/digitrubber#DIGITRUBBER_000388> "false"^^xsd:boolean)
 
-# Class: <https://www.tib.eu/digitrubber#DIGITRUBBER_000389> (mixing chamber temperature control unit [dik])
+# Class: <https://www.tib.eu/digitrubber#DIGITRUBBER_000389> (Mischkammer-Temperatursteuergerät [dik])
 
 AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000114> <https://www.tib.eu/digitrubber#DIGITRUBBER_000389> "uncurated")
 AnnotationAssertion(<http://purl.org/dc/elements/1.1/contributor> <https://www.tib.eu/digitrubber#DIGITRUBBER_000389> "Alexander Aschemann")
@@ -9993,7 +9937,7 @@ SubClassOf(<https://www.tib.eu/digitrubber#DIGITRUBBER_000432> <https://www.tib.
 # Class: <https://www.tib.eu/digitrubber#DIGITRUBBER_000433> (Extrudieren [rex])
 
 AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000114> <https://www.tib.eu/digitrubber#DIGITRUBBER_000433> "uncurated")
-AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <https://www.tib.eu/digitrubber#DIGITRUBBER_000433> "A transformation in which an atom or group Y connected to two other atoms or groups X and Z is lost from a molecule, leading to a product in which X is bonded to Z, e.g. X-Y-Z --> X-Z + Y. (rex defined)"@en)
+AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <https://www.tib.eu/digitrubber#DIGITRUBBER_000433> "A transformation in which an atom or group Y connected to two other atoms or groups X and Z is lost from a molecule, leading to a product in which X is bonded to Z, e.g. X-Y-Z --> X-Z + Y."@en)
 AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000119> <https://www.tib.eu/digitrubber#DIGITRUBBER_000433> <http://purl.obolibrary.org/obo/REX_0000100>)
 AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000412> <https://www.tib.eu/digitrubber#DIGITRUBBER_000433> <http://purl.obolibrary.org/obo/rex.owl>)
 AnnotationAssertion(<http://purl.org/dc/elements/1.1/language> <https://www.tib.eu/digitrubber#DIGITRUBBER_000433> "English")
@@ -10109,7 +10053,7 @@ AnnotationAssertion(rdfs:label <https://www.tib.eu/digitrubber#DIGITRUBBER_00044
 AnnotationAssertion(<https://www.tib.eu/digitrubber/preliminary_broad_class_assigned> <https://www.tib.eu/digitrubber#DIGITRUBBER_000442> "false"^^xsd:boolean)
 SubClassOf(<https://www.tib.eu/digitrubber#DIGITRUBBER_000442> <https://www.tib.eu/digitrubber#DIGITRUBBER_000149>)
 
-# Class: <https://www.tib.eu/digitrubber#DIGITRUBBER_000443> (surface defect [dik])
+# Class: <https://www.tib.eu/digitrubber#DIGITRUBBER_000443> (Oberflächenfehler [dik])
 
 AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000114> <https://www.tib.eu/digitrubber#DIGITRUBBER_000443> "uncurated")
 AnnotationAssertion(<http://purl.org/dc/elements/1.1/contributor> <https://www.tib.eu/digitrubber#DIGITRUBBER_000443> "Alexander Aschemann")
@@ -10398,7 +10342,7 @@ AnnotationAssertion(rdfs:label <https://www.tib.eu/digitrubber#DIGITRUBBER_00046
 AnnotationAssertion(rdfs:label <https://www.tib.eu/digitrubber#DIGITRUBBER_000469> "feeding zone temperature [dik]"@en)
 AnnotationAssertion(<https://www.tib.eu/digitrubber/preliminary_broad_class_assigned> <https://www.tib.eu/digitrubber#DIGITRUBBER_000469> "false"^^xsd:boolean)
 
-# Class: <https://www.tib.eu/digitrubber#DIGITRUBBER_000470> (Stiftzonen-Temperatursteuergerät [dik])
+# Class: <https://www.tib.eu/digitrubber#DIGITRUBBER_000470> (pin zone temperature control unit [dik])
 
 AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000114> <https://www.tib.eu/digitrubber#DIGITRUBBER_000470> "uncurated")
 AnnotationAssertion(<http://purl.org/dc/elements/1.1/contributor> <https://www.tib.eu/digitrubber#DIGITRUBBER_000470> "Alexander Aschemann")
@@ -10568,20 +10512,6 @@ AnnotationAssertion(rdfs:label <https://www.tib.eu/digitrubber#DIGITRUBBER_00048
 AnnotationAssertion(<https://www.tib.eu/digitrubber/preliminary_broad_class_assigned> <https://www.tib.eu/digitrubber#DIGITRUBBER_000482> "false"^^xsd:boolean)
 SubClassOf(<https://www.tib.eu/digitrubber#DIGITRUBBER_000482> <https://www.tib.eu/digitrubber#DIGITRUBBER_0000001>)
 
-# Class: <https://www.tib.eu/digitrubber#DIGITRUBBER_000483> (Autoklav [obi])
-
-AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000114> <https://www.tib.eu/digitrubber#DIGITRUBBER_000483> "uncurated")
-AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <https://www.tib.eu/digitrubber#DIGITRUBBER_000483> "A device that is used to sterilize equipment and supplies by subjecting them to high pressure steam at 121 C or more, typically for 15 to 20 minutes depending on the size of the load and the contents."@en)
-AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000119> <https://www.tib.eu/digitrubber#DIGITRUBBER_000483> <http://purl.obolibrary.org/obo/OBI_0001112>)
-AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000412> <https://www.tib.eu/digitrubber#DIGITRUBBER_000483> <http://purl.obolibrary.org/obo/obi.owl>)
-AnnotationAssertion(<http://purl.org/dc/elements/1.1/language> <https://www.tib.eu/digitrubber#DIGITRUBBER_000483> "English")
-AnnotationAssertion(<http://purl.org/pav/lastUpdateOn> <https://www.tib.eu/digitrubber#DIGITRUBBER_000483> "25.08.2022")
-AnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#creation_date> <https://www.tib.eu/digitrubber#DIGITRUBBER_000483> "25.08.2022"^^xsd:Date)
-AnnotationAssertion(rdfs:isDefinedBy <https://www.tib.eu/digitrubber#DIGITRUBBER_000483> <http://purl.obolibrary.org/obo/obi.owl>)
-AnnotationAssertion(rdfs:label <https://www.tib.eu/digitrubber#DIGITRUBBER_000483> "Autoklav [obi]"@de)
-AnnotationAssertion(rdfs:label <https://www.tib.eu/digitrubber#DIGITRUBBER_000483> "autoclave [obi]"@en)
-SubClassOf(<https://www.tib.eu/digitrubber#DIGITRUBBER_000483> <https://www.tib.eu/digitrubber#DIGITRUBBER_000149>)
-
 # Class: <https://www.tib.eu/digitrubber#DIGITRUBBER_000484> (autoclave [chmo])
 
 AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000114> <https://www.tib.eu/digitrubber#DIGITRUBBER_000484> "uncurated")
@@ -10746,23 +10676,9 @@ AnnotationAssertion(rdfs:label <https://www.tib.eu/digitrubber#DIGITRUBBER_00049
 AnnotationAssertion(rdfs:label <https://www.tib.eu/digitrubber#DIGITRUBBER_000494> "factory scrap [dik]"@en)
 AnnotationAssertion(<https://www.tib.eu/digitrubber/preliminary_broad_class_assigned> <https://www.tib.eu/digitrubber#DIGITRUBBER_000494> "false"^^xsd:boolean)
 
-# Class: <https://www.tib.eu/digitrubber#DIGITRUBBER_000495> (physical object quality [dik])
-
-AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000114> <https://www.tib.eu/digitrubber#DIGITRUBBER_000495> "uncurated")
-AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <https://www.tib.eu/digitrubber#DIGITRUBBER_000495> "A quality of a physical entity that exists through action of continuants at the physical level of organisation in relation to other entities."@en)
-AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000119> <https://www.tib.eu/digitrubber#DIGITRUBBER_000495> <http://purl.obolibrary.org/obo/PATO_0001241>)
-AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000412> <https://www.tib.eu/digitrubber#DIGITRUBBER_000495> <http://purl.obolibrary.org/obo/pato.owl>)
-AnnotationAssertion(<http://purl.org/dc/elements/1.1/language> <https://www.tib.eu/digitrubber#DIGITRUBBER_000495> "English")
-AnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#creation_date> <https://www.tib.eu/digitrubber#DIGITRUBBER_000495> "10.05.2022"^^xsd:Date)
-AnnotationAssertion(rdfs:isDefinedBy <https://www.tib.eu/digitrubber#DIGITRUBBER_000495> <http://purl.obolibrary.org/obo/pato.owl>)
-AnnotationAssertion(rdfs:label <https://www.tib.eu/digitrubber#DIGITRUBBER_000495> "Qualität des physischen Objekts [dik]"@de)
-AnnotationAssertion(rdfs:label <https://www.tib.eu/digitrubber#DIGITRUBBER_000495> "physical object quality [dik]"@en)
-AnnotationAssertion(<https://www.tib.eu/digitrubber/preliminary_broad_class_assigned> <https://www.tib.eu/digitrubber#DIGITRUBBER_000495> "false"^^xsd:boolean)
-
 # Class: <https://www.tib.eu/digitrubber#DIGITRUBBER_000497> (physikalische Qualität [dik])
 
 AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000114> <https://www.tib.eu/digitrubber#DIGITRUBBER_000497> "uncurated")
-AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000119> <https://www.tib.eu/digitrubber#DIGITRUBBER_000497> <http://purl.obolibrary.org/obo/PATO_0001018>)
 AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000412> <https://www.tib.eu/digitrubber#DIGITRUBBER_000497> <http://purl.obolibrary.org/obo/pato.owl>)
 AnnotationAssertion(<http://purl.org/dc/elements/1.1/language> <https://www.tib.eu/digitrubber#DIGITRUBBER_000497> "English")
 AnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#creation_date> <https://www.tib.eu/digitrubber#DIGITRUBBER_000497> "10.05.2022"^^xsd:Date)
@@ -10770,19 +10686,6 @@ AnnotationAssertion(rdfs:isDefinedBy <https://www.tib.eu/digitrubber#DIGITRUBBER
 AnnotationAssertion(rdfs:label <https://www.tib.eu/digitrubber#DIGITRUBBER_000497> "physical quality [dik]"@en)
 AnnotationAssertion(rdfs:label <https://www.tib.eu/digitrubber#DIGITRUBBER_000497> "physikalische Qualität [dik]"@de)
 AnnotationAssertion(<https://www.tib.eu/digitrubber/preliminary_broad_class_assigned> <https://www.tib.eu/digitrubber#DIGITRUBBER_000497> "false"^^xsd:boolean)
-
-# Class: <https://www.tib.eu/digitrubber#DIGITRUBBER_000499> (Label der Messeinheit [dik])
-
-AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000114> <https://www.tib.eu/digitrubber#DIGITRUBBER_000499> "uncurated")
-AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <https://www.tib.eu/digitrubber#DIGITRUBBER_000499> "A measurement unit label is as a label that is part of a scalar measurement datum and denotes a unit of measure."@en)
-AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000119> <https://www.tib.eu/digitrubber#DIGITRUBBER_000499> <http://purl.obolibrary.org/obo/IAO_0000003>)
-AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000412> <https://www.tib.eu/digitrubber#DIGITRUBBER_000499> <http://purl.obolibrary.org/obo/iao.owl>)
-AnnotationAssertion(<http://purl.org/dc/elements/1.1/language> <https://www.tib.eu/digitrubber#DIGITRUBBER_000499> "English")
-AnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#creation_date> <https://www.tib.eu/digitrubber#DIGITRUBBER_000499> "10.05.2022"^^xsd:Date)
-AnnotationAssertion(rdfs:isDefinedBy <https://www.tib.eu/digitrubber#DIGITRUBBER_000499> <http://purl.obolibrary.org/obo/iao.owl>)
-AnnotationAssertion(rdfs:label <https://www.tib.eu/digitrubber#DIGITRUBBER_000499> "Label der Messeinheit [dik]"@de)
-AnnotationAssertion(rdfs:label <https://www.tib.eu/digitrubber#DIGITRUBBER_000499> "measurement unit label [dik]"@en)
-SubClassOf(<https://www.tib.eu/digitrubber#DIGITRUBBER_000499> <http://purl.obolibrary.org/obo/IAO_0000009>)
 
 # Class: <https://www.tib.eu/digitrubber#DIGITRUBBER_000501> (datum label [dik])
 
@@ -10947,7 +10850,7 @@ AnnotationAssertion(rdfs:label <https://www.tib.eu/digitrubber#DIGITRUBBER_00051
 AnnotationAssertion(rdfs:label <https://www.tib.eu/digitrubber#DIGITRUBBER_000514> "gram per cubic centimeter [uo]"@en)
 SubClassOf(<https://www.tib.eu/digitrubber#DIGITRUBBER_000514> <http://purl.obolibrary.org/obo/IAO_0000003>)
 
-# Class: <https://www.tib.eu/digitrubber#DIGITRUBBER_000515> (Prüfung zur Viskositätsmessung [dik])
+# Class: <https://www.tib.eu/digitrubber#DIGITRUBBER_000515> (viscosity measurement assay [dik])
 
 AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000114> <https://www.tib.eu/digitrubber#DIGITRUBBER_000515> "uncurated")
 AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <https://www.tib.eu/digitrubber#DIGITRUBBER_000515> "An assay with the objective to produce information about the viscosity of the material entity that is the evaluant, by physically examining it or its proxies."@en)
@@ -11132,7 +11035,7 @@ AnnotationAssertion(rdfs:label <https://www.tib.eu/digitrubber#DIGITRUBBER_00053
 AnnotationAssertion(<https://www.tib.eu/digitrubber/preliminary_broad_class_assigned> <https://www.tib.eu/digitrubber#DIGITRUBBER_000532> "false"^^xsd:boolean)
 SubClassOf(<https://www.tib.eu/digitrubber#DIGITRUBBER_000532> <https://www.tib.eu/digitrubber#DIGITRUBBER_0000001>)
 
-# Class: <https://www.tib.eu/digitrubber#DIGITRUBBER_000533> (Messprotokoll [dik])
+# Class: <https://www.tib.eu/digitrubber#DIGITRUBBER_000533> (measurement protocol [dik])
 
 AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000114> <https://www.tib.eu/digitrubber#DIGITRUBBER_000533> "uncurated")
 AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <https://www.tib.eu/digitrubber#DIGITRUBBER_000533> "A protocol which specifies the conditions, procedures, and instruments used for conducting a measurement assay in a sufficient level of detail to communicate it between investigation agents, so that different investigation agents will reliably be able to independently reproduce the measurement assay."@en)
@@ -11190,7 +11093,7 @@ AnnotationAssertion(rdfs:label <https://www.tib.eu/digitrubber#DIGITRUBBER_00053
 AnnotationAssertion(rdfs:label <https://www.tib.eu/digitrubber#DIGITRUBBER_000537> "viscosity measurement protocol [dik]"@en)
 AnnotationAssertion(<https://www.tib.eu/digitrubber/preliminary_broad_class_assigned> <https://www.tib.eu/digitrubber#DIGITRUBBER_000537> "false"^^xsd:boolean)
 
-# Class: <https://www.tib.eu/digitrubber#DIGITRUBBER_000538> (Mooney viscosity measurement protocol [dik])
+# Class: <https://www.tib.eu/digitrubber#DIGITRUBBER_000538> (Protokoll zur Mooney-Viskositätsmessung [dik])
 
 AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000114> <https://www.tib.eu/digitrubber#DIGITRUBBER_000538> "uncurated")
 AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <https://www.tib.eu/digitrubber#DIGITRUBBER_000538> "A viscosity measurement protocol for reliably reproducing the Mooney viscosity measurement assay."@en)
@@ -11265,7 +11168,7 @@ AnnotationAssertion(rdfs:label <https://www.tib.eu/digitrubber#DIGITRUBBER_00054
 AnnotationAssertion(rdfs:label <https://www.tib.eu/digitrubber#DIGITRUBBER_000543> "material processing [dik]"@en)
 AnnotationAssertion(<https://www.tib.eu/digitrubber/preliminary_broad_class_assigned> <https://www.tib.eu/digitrubber#DIGITRUBBER_000543> "false"^^xsd:boolean)
 
-# Class: <https://www.tib.eu/digitrubber#DIGITRUBBER_000545> (Funktion [dik])
+# Class: <https://www.tib.eu/digitrubber#DIGITRUBBER_000545> (function [dik])
 
 AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000114> <https://www.tib.eu/digitrubber#DIGITRUBBER_000545> "uncurated")
 AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000119> <https://www.tib.eu/digitrubber#DIGITRUBBER_000545> "http://purl.obolibrary.org/obo/BFO_0000034")
@@ -11415,7 +11318,7 @@ AnnotationAssertion(rdfs:label <https://www.tib.eu/digitrubber#DIGITRUBBER_00056
 AnnotationAssertion(<https://www.tib.eu/digitrubber/preliminary_broad_class_assigned> <https://www.tib.eu/digitrubber#DIGITRUBBER_000561> "false"^^xsd:boolean)
 SubClassOf(<https://www.tib.eu/digitrubber#DIGITRUBBER_000561> owl:Thing)
 
-# Class: <https://www.tib.eu/digitrubber#DIGITRUBBER_000562> (Volumenbezogene spezifische Oberfläche [dik])
+# Class: <https://www.tib.eu/digitrubber#DIGITRUBBER_000562> (volume-specific surface [dik])
 
 AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000114> <https://www.tib.eu/digitrubber#DIGITRUBBER_000562> "uncurated")
 AnnotationAssertion(<http://purl.org/dc/elements/1.1/contributor> <https://www.tib.eu/digitrubber#DIGITRUBBER_000562> "Alexander Aschemann")
@@ -11783,7 +11686,7 @@ AnnotationAssertion(rdfs:label <https://www.tib.eu/digitrubber#DIGITRUBBER_00058
 AnnotationAssertion(rdfs:label <https://www.tib.eu/digitrubber#DIGITRUBBER_000588> "ethylidene norbornene [dik]"@en)
 AnnotationAssertion(<https://www.tib.eu/digitrubber/preliminary_broad_class_assigned> <https://www.tib.eu/digitrubber#DIGITRUBBER_000588> "false"^^xsd:boolean)
 
-# Class: <https://www.tib.eu/digitrubber#DIGITRUBBER_000589> (concentration measurement assay [dik])
+# Class: <https://www.tib.eu/digitrubber#DIGITRUBBER_000589> (Prüfung zur Konzentrationsmessung [dik])
 
 AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000114> <https://www.tib.eu/digitrubber#DIGITRUBBER_000589> "uncurated")
 AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <https://www.tib.eu/digitrubber#DIGITRUBBER_000589> "An assay with the objective to produce information about the concentration of a specific substance in the material entity that is the evaluant, by physically examining it or its proxies."@en)
@@ -12140,7 +12043,7 @@ AnnotationAssertion(rdfs:label <https://www.tib.eu/digitrubber#DIGITRUBBER_00061
 AnnotationAssertion(rdfs:label <https://www.tib.eu/digitrubber#DIGITRUBBER_000618> "dimensionslose Einheit [ms]"@de)
 SubClassOf(<https://www.tib.eu/digitrubber#DIGITRUBBER_000618> <http://purl.obolibrary.org/obo/IAO_0000003>)
 
-# Class: <https://www.tib.eu/digitrubber#DIGITRUBBER_000619> (Massenanteil [dik])
+# Class: <https://www.tib.eu/digitrubber#DIGITRUBBER_000619> (mass percentage [dik])
 
 AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000114> <https://www.tib.eu/digitrubber#DIGITRUBBER_000619> "uncurated")
 AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000118> <https://www.tib.eu/digitrubber#DIGITRUBBER_000619> "weight percent"@en)
@@ -12214,20 +12117,6 @@ AnnotationAssertion(rdfs:label <https://www.tib.eu/digitrubber#DIGITRUBBER_00062
 AnnotationAssertion(rdfs:label <https://www.tib.eu/digitrubber#DIGITRUBBER_000629> "molekulare Qualität [dik]"@de)
 AnnotationAssertion(<https://www.tib.eu/digitrubber/preliminary_broad_class_assigned> <https://www.tib.eu/digitrubber#DIGITRUBBER_000629> "false"^^xsd:boolean)
 SubClassOf(<https://www.tib.eu/digitrubber#DIGITRUBBER_000629> <https://www.tib.eu/digitrubber#DIGITRUBBER_000149>)
-
-# Class: <https://www.tib.eu/digitrubber#DIGITRUBBER_000630> (molecular quality [pato])
-
-AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000114> <https://www.tib.eu/digitrubber#DIGITRUBBER_000630> "uncurated")
-AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <https://www.tib.eu/digitrubber#DIGITRUBBER_000630> "A quality which inheres in a molecular entity, a single molecule, atom, ion, radical etc."@en)
-AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000119> <https://www.tib.eu/digitrubber#DIGITRUBBER_000630> <http://purl.obolibrary.org/obo/PATO_0002182>)
-AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000412> <https://www.tib.eu/digitrubber#DIGITRUBBER_000630> <http://purl.obolibrary.org/obo/pato.owl>)
-AnnotationAssertion(<http://purl.org/dc/elements/1.1/language> <https://www.tib.eu/digitrubber#DIGITRUBBER_000630> "English")
-AnnotationAssertion(<http://purl.org/pav/lastUpdateOn> <https://www.tib.eu/digitrubber#DIGITRUBBER_000630> "26.08.2022")
-AnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#creation_date> <https://www.tib.eu/digitrubber#DIGITRUBBER_000630> "26.08.2022"^^xsd:Date)
-AnnotationAssertion(rdfs:isDefinedBy <https://www.tib.eu/digitrubber#DIGITRUBBER_000630> <http://purl.obolibrary.org/obo/pato.owl>)
-AnnotationAssertion(rdfs:label <https://www.tib.eu/digitrubber#DIGITRUBBER_000630> "molecular quality [pato]"@en)
-AnnotationAssertion(rdfs:label <https://www.tib.eu/digitrubber#DIGITRUBBER_000630> "molekulare Qualität [pato]"@de)
-AnnotationAssertion(<https://www.tib.eu/digitrubber/preliminary_broad_class_assigned> <https://www.tib.eu/digitrubber#DIGITRUBBER_000630> "false"^^xsd:boolean)
 
 # Class: <https://www.tib.eu/digitrubber#DIGITRUBBER_000631> (Ethylen-Konzentration [dik])
 
@@ -12453,49 +12342,6 @@ AnnotationAssertion(<http://purl.org/dc/elements/1.1/contributor> <https://www.t
 AnnotationAssertion(<http://purl.org/dc/elements/1.1/contributor> <https://www.tib.eu/digitrubber#ROi3BNAY7lNum6bqHYNnKv> "PERSON: Lars Vogt")
 AnnotationAssertion(rdfs:label <https://www.tib.eu/digitrubber#ROi3BNAY7lNum6bqHYNnKv> "template class"@en)
 AnnotationAssertion(<https://www.tib.eu/digitrubber/preliminary_broad_class_assigned> <https://www.tib.eu/digitrubber#ROi3BNAY7lNum6bqHYNnKv> "false"^^xsd:boolean)
-
-# Class: <https://www.tib.eu/digitrubber#DIGITRUBBER_0000001> (PMDcore candidates container)
-
-AnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#created_by> <https://www.tib.eu/digitrubber#DIGITRUBBER_0000001> "Lars M Vogt")
-AnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#creation_date> <https://www.tib.eu/digitrubber#DIGITRUBBER_0000001> "2024-10-23T12:42:29.382197Z")
-AnnotationAssertion(rdfs:label <https://www.tib.eu/digitrubber#DIGITRUBBER_0000001> "PMDcore candidates container"@en)
-SubClassOf(<https://www.tib.eu/digitrubber#DIGITRUBBER_0000001> owl:Thing)
-
-# Class: <https://www.tib.eu/digitrubber#DIGITRUBBER_0000003> (method)
-
-AnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#created_by> <https://www.tib.eu/digitrubber#DIGITRUBBER_0000003> "Lars M Vogt")
-AnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#creation_date> <https://www.tib.eu/digitrubber#DIGITRUBBER_0000003> "2024-10-23T14:12:43.055299Z")
-AnnotationAssertion(rdfs:comment <https://www.tib.eu/digitrubber#DIGITRUBBER_0000003> "will be replaced by PMDcore class")
-AnnotationAssertion(rdfs:label <https://www.tib.eu/digitrubber#DIGITRUBBER_0000003> "method"@en)
-
-# Class: <https://www.tib.eu/digitrubber#DIGITRUBBER_0000004> (device)
-
-AnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#created_by> <https://www.tib.eu/digitrubber#DIGITRUBBER_0000004> "Lars M Vogt")
-AnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#creation_date> <https://www.tib.eu/digitrubber#DIGITRUBBER_0000004> "2024-10-23T14:13:15.258786Z")
-AnnotationAssertion(rdfs:comment <https://www.tib.eu/digitrubber#DIGITRUBBER_0000004> "Will be replaced by PMDcore class")
-AnnotationAssertion(rdfs:label <https://www.tib.eu/digitrubber#DIGITRUBBER_0000004> "device"@en)
-SubClassOf(<https://www.tib.eu/digitrubber#DIGITRUBBER_0000004> <https://www.tib.eu/digitrubber#DIGITRUBBER_000149>)
-
-# Class: <https://www.tib.eu/digitrubber#DIGITRUBBER_0000005> (process)
-
-AnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#created_by> <https://www.tib.eu/digitrubber#DIGITRUBBER_0000005> "Lars M Vogt")
-AnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#creation_date> <https://www.tib.eu/digitrubber#DIGITRUBBER_0000005> "2024-10-23T14:13:54.331986Z")
-AnnotationAssertion(rdfs:comment <https://www.tib.eu/digitrubber#DIGITRUBBER_0000005> "Will be replaced by PMDcore class")
-AnnotationAssertion(rdfs:label <https://www.tib.eu/digitrubber#DIGITRUBBER_0000005> "process"@en)
-
-# Class: <https://www.tib.eu/digitrubber#DIGITRUBBER_0000006> (information content entity)
-
-AnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#created_by> <https://www.tib.eu/digitrubber#DIGITRUBBER_0000006> "Lars M Vogt")
-AnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#creation_date> <https://www.tib.eu/digitrubber#DIGITRUBBER_0000006> "2024-10-23T14:14:28.385064Z")
-AnnotationAssertion(rdfs:comment <https://www.tib.eu/digitrubber#DIGITRUBBER_0000006> "Will be replaced by PMDcore class")
-AnnotationAssertion(rdfs:label <https://www.tib.eu/digitrubber#DIGITRUBBER_0000006> "information content entity"@en)
-
-# Class: <https://www.tib.eu/digitrubber#DIGITRUBBER_0000007> (quality)
-
-AnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#created_by> <https://www.tib.eu/digitrubber#DIGITRUBBER_0000007> "Lars M Vogt")
-AnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#creation_date> <https://www.tib.eu/digitrubber#DIGITRUBBER_0000007> "2024-10-23T14:14:53.918909Z")
-AnnotationAssertion(rdfs:comment <https://www.tib.eu/digitrubber#DIGITRUBBER_0000007> "Will be replaced by PMDcore class")
-AnnotationAssertion(rdfs:label <https://www.tib.eu/digitrubber#DIGITRUBBER_0000007> "quality"@en)
 
 
 ############################
@@ -15279,21 +15125,21 @@ SubObjectPropertyOf(ObjectPropertyChain(<http://purl.obolibrary.org/obo/RO_00026
 SubObjectPropertyOf(ObjectPropertyChain(<http://purl.obolibrary.org/obo/RO_0002629> <http://purl.obolibrary.org/obo/RO_0002629>) <http://purl.obolibrary.org/obo/RO_0002407>)
 SubObjectPropertyOf(ObjectPropertyChain(<http://purl.obolibrary.org/obo/RO_0002630> <http://purl.obolibrary.org/obo/RO_0002409>) <http://purl.obolibrary.org/obo/RO_0002409>)
 SubObjectPropertyOf(ObjectPropertyChain(<http://purl.obolibrary.org/obo/RO_0002630> <http://purl.obolibrary.org/obo/RO_0002630>) <http://purl.obolibrary.org/obo/RO_0002409>)
-DLSafeRule(Body(ClassAtom(<http://purl.obolibrary.org/obo/BFO_0000016> Variable(<urn:swrl#d>)) ObjectPropertyAtom(<http://purl.obolibrary.org/obo/RO_0000053> Variable(<urn:swrl#e>) Variable(<urn:swrl#d>)))Head(ObjectPropertyAtom(<http://purl.obolibrary.org/obo/RO_0000091> Variable(<urn:swrl#e>) Variable(<urn:swrl#d>))))
-DLSafeRule(Body(ClassAtom(<http://purl.obolibrary.org/obo/BFO_0000023> Variable(<urn:swrl#d>)) ObjectPropertyAtom(<http://purl.obolibrary.org/obo/RO_0000053> Variable(<urn:swrl#e>) Variable(<urn:swrl#d>)))Head(ObjectPropertyAtom(<http://purl.obolibrary.org/obo/RO_0000087> Variable(<urn:swrl#e>) Variable(<urn:swrl#d>))))
-DLSafeRule(Body(ClassAtom(<http://purl.obolibrary.org/obo/BFO_0000034> Variable(<urn:swrl#d>)) ObjectPropertyAtom(<http://purl.obolibrary.org/obo/RO_0000053> Variable(<urn:swrl#e>) Variable(<urn:swrl#d>)))Head(ObjectPropertyAtom(<http://purl.obolibrary.org/obo/RO_0000085> Variable(<urn:swrl#e>) Variable(<urn:swrl#d>))))
+DLSafeRule(Body(ObjectPropertyAtom(<http://purl.obolibrary.org/obo/RO_0000053> Variable(<urn:swrl#e>) Variable(<urn:swrl#d>)) ClassAtom(<http://purl.obolibrary.org/obo/BFO_0000016> Variable(<urn:swrl#d>)))Head(ObjectPropertyAtom(<http://purl.obolibrary.org/obo/RO_0000091> Variable(<urn:swrl#e>) Variable(<urn:swrl#d>))))
+DLSafeRule(Body(ObjectPropertyAtom(<http://purl.obolibrary.org/obo/RO_0000053> Variable(<urn:swrl#e>) Variable(<urn:swrl#d>)) ClassAtom(<http://purl.obolibrary.org/obo/BFO_0000023> Variable(<urn:swrl#d>)))Head(ObjectPropertyAtom(<http://purl.obolibrary.org/obo/RO_0000087> Variable(<urn:swrl#e>) Variable(<urn:swrl#d>))))
+DLSafeRule(Body(ObjectPropertyAtom(<http://purl.obolibrary.org/obo/RO_0000053> Variable(<urn:swrl#e>) Variable(<urn:swrl#d>)) ClassAtom(<http://purl.obolibrary.org/obo/BFO_0000034> Variable(<urn:swrl#d>)))Head(ObjectPropertyAtom(<http://purl.obolibrary.org/obo/RO_0000085> Variable(<urn:swrl#e>) Variable(<urn:swrl#d>))))
 DLSafeRule(Annotation(rdfs:comment "If a molecular function (X) has a regulatory subfunction, then any gene product which is an input to that subfunction has an activity that directly_regulates X.  Note:  this is intended for cases where the regaultory subfunction is protein binding, so it could be tightened with an additional clause to specify this.") Annotation(rdfs:label "inferring direct reg edge from input to regulatory subfunction") Body(ObjectPropertyAtom(<http://purl.obolibrary.org/obo/RO_0002352> Variable(<urn:swrl#B>) Variable(<urn:swrl#C>)) ObjectPropertyAtom(<http://purl.obolibrary.org/obo/RO_0002333> Variable(<urn:swrl#A>) Variable(<urn:swrl#B>)) ObjectPropertyAtom(<http://purl.obolibrary.org/obo/RO_0002013> Variable(<urn:swrl#D>) Variable(<urn:swrl#C>)))Head(ObjectPropertyAtom(<http://purl.obolibrary.org/obo/RO_0002578> Variable(<urn:swrl#A>) Variable(<urn:swrl#D>))))
 DLSafeRule(Annotation(rdfs:label "inferring direct neg reg edge from input to regulatory subfunction") Body(ObjectPropertyAtom(<http://purl.obolibrary.org/obo/RO_0002352> Variable(<urn:swrl#B>) Variable(<urn:swrl#C>)) ObjectPropertyAtom(<http://purl.obolibrary.org/obo/RO_0002333> Variable(<urn:swrl#A>) Variable(<urn:swrl#B>)) ObjectPropertyAtom(<http://purl.obolibrary.org/obo/RO_0002014> Variable(<urn:swrl#D>) Variable(<urn:swrl#C>)))Head(ObjectPropertyAtom(<http://purl.obolibrary.org/obo/RO_0002630> Variable(<urn:swrl#A>) Variable(<urn:swrl#D>))))
 DLSafeRule(Annotation(rdfs:label "inferring direct positive reg edge from input to regulatory subfunction") Body(ObjectPropertyAtom(<http://purl.obolibrary.org/obo/RO_0002352> Variable(<urn:swrl#B>) Variable(<urn:swrl#C>)) ObjectPropertyAtom(<http://purl.obolibrary.org/obo/RO_0002333> Variable(<urn:swrl#A>) Variable(<urn:swrl#B>)) ObjectPropertyAtom(<http://purl.obolibrary.org/obo/RO_0002015> Variable(<urn:swrl#D>) Variable(<urn:swrl#C>)))Head(ObjectPropertyAtom(<http://purl.obolibrary.org/obo/RO_0002629> Variable(<urn:swrl#A>) Variable(<urn:swrl#D>))))
-DLSafeRule(Annotation(rdfs:label "effector input is compound function input") Body(ObjectPropertyAtom(<http://purl.obolibrary.org/obo/RO_0002025> Variable(<urn:swrl#mf>) Variable(<urn:swrl#eff>)) ObjectPropertyAtom(<http://purl.obolibrary.org/obo/RO_0002233> Variable(<urn:swrl#eff>) Variable(<urn:swrl#in>)))Head(ObjectPropertyAtom(<http://purl.obolibrary.org/obo/RO_0002233> Variable(<urn:swrl#mf>) Variable(<urn:swrl#in>))))
-DLSafeRule(Annotation(rdfs:label "Input of effector is input of its parent MF") Body(ObjectPropertyAtom(<http://purl.obolibrary.org/obo/RO_0002025> Variable(<urn:swrl#mf>) Variable(<urn:swrl#eff>)) ObjectPropertyAtom(<http://purl.obolibrary.org/obo/RO_0002233> Variable(<urn:swrl#mf>) Variable(<urn:swrl#in>)))Head(ObjectPropertyAtom(<http://purl.obolibrary.org/obo/RO_0002233> Variable(<urn:swrl#eff>) Variable(<urn:swrl#in>))))
-DLSafeRule(Annotation(rdfs:comment "if effector directly regulates X,  its parent MF directly regulates X") Body(ObjectPropertyAtom(<http://purl.obolibrary.org/obo/RO_0002578> Variable(<urn:swrl#mf>) Variable(<urn:swrl#mf2>)) ObjectPropertyAtom(<http://purl.obolibrary.org/obo/RO_0002025> Variable(<urn:swrl#mf>) Variable(<urn:swrl#eff>)))Head(ObjectPropertyAtom(<http://purl.obolibrary.org/obo/RO_0002578> Variable(<urn:swrl#eff>) Variable(<urn:swrl#mf2>))))
-DLSafeRule(Annotation(rdfs:comment "if effector directly positively regulates X,  its parent MF directly positively regulates X") Body(ObjectPropertyAtom(<http://purl.obolibrary.org/obo/RO_0002025> Variable(<urn:swrl#mf>) Variable(<urn:swrl#eff>)) ObjectPropertyAtom(<http://purl.obolibrary.org/obo/RO_0002629> Variable(<urn:swrl#mf>) Variable(<urn:swrl#mf2>)))Head(ObjectPropertyAtom(<http://purl.obolibrary.org/obo/RO_0002629> Variable(<urn:swrl#eff>) Variable(<urn:swrl#mf2>))))
-DLSafeRule(Annotation(rdfs:label "if effector directly negatively regulates X,  its parent MF directly negatively regulates X") Body(ObjectPropertyAtom(<http://purl.obolibrary.org/obo/RO_0002630> Variable(<urn:swrl#mf>) Variable(<urn:swrl#mf2>)) ObjectPropertyAtom(<http://purl.obolibrary.org/obo/RO_0002025> Variable(<urn:swrl#mf>) Variable(<urn:swrl#eff>)))Head(ObjectPropertyAtom(<http://purl.obolibrary.org/obo/RO_0002630> Variable(<urn:swrl#eff>) Variable(<urn:swrl#mf2>))))
-DLSafeRule(Body(ObjectPropertyAtom(<http://purl.obolibrary.org/obo/RO_0002211> Variable(<urn:swrl:var#p>) Variable(<urn:swrl:var#q>)) ObjectPropertyAtom(<http://purl.obolibrary.org/obo/RO_0012011> Variable(<urn:swrl:var#p>) Variable(<urn:swrl:var#q>)))Head(ObjectPropertyAtom(<http://purl.obolibrary.org/obo/RO_0012012> Variable(<urn:swrl:var#p>) Variable(<urn:swrl:var#q>))))
-DLSafeRule(Body(ObjectPropertyAtom(<http://purl.obolibrary.org/obo/RO_0002212> Variable(<urn:swrl#x>) Variable(<urn:swrl#y>)) ObjectPropertyAtom(<http://purl.obolibrary.org/obo/RO_0002213> Variable(<urn:swrl#y>) Variable(<urn:swrl#z>)))Head(ObjectPropertyAtom(<http://purl.obolibrary.org/obo/RO_0002212> Variable(<urn:swrl#x>) Variable(<urn:swrl#z>))))
-DLSafeRule(Body(ObjectPropertyAtom(<http://purl.obolibrary.org/obo/RO_0002212> Variable(<urn:swrl#y>) Variable(<urn:swrl#z>)) ObjectPropertyAtom(<http://purl.obolibrary.org/obo/RO_0002213> Variable(<urn:swrl#x>) Variable(<urn:swrl#y>)))Head(ObjectPropertyAtom(<http://purl.obolibrary.org/obo/RO_0002212> Variable(<urn:swrl#x>) Variable(<urn:swrl#z>))))
-DLSafeRule(Body(ObjectPropertyAtom(<http://purl.obolibrary.org/obo/RO_0002212> Variable(<urn:swrl:var#x>) Variable(<urn:swrl:var#y>)) ObjectPropertyAtom(<http://purl.obolibrary.org/obo/RO_0019002> Variable(<urn:swrl:var#y>) Variable(<urn:swrl:var#z>)))Head(ObjectPropertyAtom(<http://purl.obolibrary.org/obo/RO_0019001> Variable(<urn:swrl:var#x>) Variable(<urn:swrl:var#z>))))
-DLSafeRule(Body(ObjectPropertyAtom(<http://purl.obolibrary.org/obo/RO_0002411> Variable(<urn:swrl:var#y>) Variable(<urn:swrl:var#z>)) ObjectPropertyAtom(<http://purl.obolibrary.org/obo/RO_0002264> Variable(<urn:swrl:var#x>) Variable(<urn:swrl:var#y>)))Head(ObjectPropertyAtom(<http://purl.obolibrary.org/obo/RO_0002263> Variable(<urn:swrl:var#x>) Variable(<urn:swrl:var#z>))))
-DLSafeRule(Body(ObjectPropertyAtom(<http://purl.obolibrary.org/obo/RO_0002411> Variable(<urn:swrl:var#p>) Variable(<urn:swrl:var#q>)) ObjectPropertyAtom(<http://purl.obolibrary.org/obo/RO_0002411> Variable(<urn:swrl:var#q>) Variable(<urn:swrl:var#u>)))Head(ObjectPropertyAtom(<http://purl.obolibrary.org/obo/RO_0012011> Variable(<urn:swrl:var#p>) Variable(<urn:swrl:var#u>))))
+DLSafeRule(Annotation(rdfs:label "effector input is compound function input") Body(ObjectPropertyAtom(<http://purl.obolibrary.org/obo/RO_0002233> Variable(<urn:swrl#eff>) Variable(<urn:swrl#in>)) ObjectPropertyAtom(<http://purl.obolibrary.org/obo/RO_0002025> Variable(<urn:swrl#mf>) Variable(<urn:swrl#eff>)))Head(ObjectPropertyAtom(<http://purl.obolibrary.org/obo/RO_0002233> Variable(<urn:swrl#mf>) Variable(<urn:swrl#in>))))
+DLSafeRule(Annotation(rdfs:label "Input of effector is input of its parent MF") Body(ObjectPropertyAtom(<http://purl.obolibrary.org/obo/RO_0002233> Variable(<urn:swrl#mf>) Variable(<urn:swrl#in>)) ObjectPropertyAtom(<http://purl.obolibrary.org/obo/RO_0002025> Variable(<urn:swrl#mf>) Variable(<urn:swrl#eff>)))Head(ObjectPropertyAtom(<http://purl.obolibrary.org/obo/RO_0002233> Variable(<urn:swrl#eff>) Variable(<urn:swrl#in>))))
+DLSafeRule(Annotation(rdfs:comment "if effector directly regulates X,  its parent MF directly regulates X") Body(ObjectPropertyAtom(<http://purl.obolibrary.org/obo/RO_0002025> Variable(<urn:swrl#mf>) Variable(<urn:swrl#eff>)) ObjectPropertyAtom(<http://purl.obolibrary.org/obo/RO_0002578> Variable(<urn:swrl#mf>) Variable(<urn:swrl#mf2>)))Head(ObjectPropertyAtom(<http://purl.obolibrary.org/obo/RO_0002578> Variable(<urn:swrl#eff>) Variable(<urn:swrl#mf2>))))
+DLSafeRule(Annotation(rdfs:comment "if effector directly positively regulates X,  its parent MF directly positively regulates X") Body(ObjectPropertyAtom(<http://purl.obolibrary.org/obo/RO_0002629> Variable(<urn:swrl#mf>) Variable(<urn:swrl#mf2>)) ObjectPropertyAtom(<http://purl.obolibrary.org/obo/RO_0002025> Variable(<urn:swrl#mf>) Variable(<urn:swrl#eff>)))Head(ObjectPropertyAtom(<http://purl.obolibrary.org/obo/RO_0002629> Variable(<urn:swrl#eff>) Variable(<urn:swrl#mf2>))))
+DLSafeRule(Annotation(rdfs:label "if effector directly negatively regulates X,  its parent MF directly negatively regulates X") Body(ObjectPropertyAtom(<http://purl.obolibrary.org/obo/RO_0002025> Variable(<urn:swrl#mf>) Variable(<urn:swrl#eff>)) ObjectPropertyAtom(<http://purl.obolibrary.org/obo/RO_0002630> Variable(<urn:swrl#mf>) Variable(<urn:swrl#mf2>)))Head(ObjectPropertyAtom(<http://purl.obolibrary.org/obo/RO_0002630> Variable(<urn:swrl#eff>) Variable(<urn:swrl#mf2>))))
+DLSafeRule(Body(ObjectPropertyAtom(<http://purl.obolibrary.org/obo/RO_0012011> Variable(<urn:swrl:var#p>) Variable(<urn:swrl:var#q>)) ObjectPropertyAtom(<http://purl.obolibrary.org/obo/RO_0002211> Variable(<urn:swrl:var#p>) Variable(<urn:swrl:var#q>)))Head(ObjectPropertyAtom(<http://purl.obolibrary.org/obo/RO_0012012> Variable(<urn:swrl:var#p>) Variable(<urn:swrl:var#q>))))
+DLSafeRule(Body(ObjectPropertyAtom(<http://purl.obolibrary.org/obo/RO_0002213> Variable(<urn:swrl#y>) Variable(<urn:swrl#z>)) ObjectPropertyAtom(<http://purl.obolibrary.org/obo/RO_0002212> Variable(<urn:swrl#x>) Variable(<urn:swrl#y>)))Head(ObjectPropertyAtom(<http://purl.obolibrary.org/obo/RO_0002212> Variable(<urn:swrl#x>) Variable(<urn:swrl#z>))))
+DLSafeRule(Body(ObjectPropertyAtom(<http://purl.obolibrary.org/obo/RO_0002213> Variable(<urn:swrl#x>) Variable(<urn:swrl#y>)) ObjectPropertyAtom(<http://purl.obolibrary.org/obo/RO_0002212> Variable(<urn:swrl#y>) Variable(<urn:swrl#z>)))Head(ObjectPropertyAtom(<http://purl.obolibrary.org/obo/RO_0002212> Variable(<urn:swrl#x>) Variable(<urn:swrl#z>))))
+DLSafeRule(Body(ObjectPropertyAtom(<http://purl.obolibrary.org/obo/RO_0019002> Variable(<urn:swrl:var#y>) Variable(<urn:swrl:var#z>)) ObjectPropertyAtom(<http://purl.obolibrary.org/obo/RO_0002212> Variable(<urn:swrl:var#x>) Variable(<urn:swrl:var#y>)))Head(ObjectPropertyAtom(<http://purl.obolibrary.org/obo/RO_0019001> Variable(<urn:swrl:var#x>) Variable(<urn:swrl:var#z>))))
+DLSafeRule(Body(ObjectPropertyAtom(<http://purl.obolibrary.org/obo/RO_0002264> Variable(<urn:swrl:var#x>) Variable(<urn:swrl:var#y>)) ObjectPropertyAtom(<http://purl.obolibrary.org/obo/RO_0002411> Variable(<urn:swrl:var#y>) Variable(<urn:swrl:var#z>)))Head(ObjectPropertyAtom(<http://purl.obolibrary.org/obo/RO_0002263> Variable(<urn:swrl:var#x>) Variable(<urn:swrl:var#z>))))
+DLSafeRule(Body(ObjectPropertyAtom(<http://purl.obolibrary.org/obo/RO_0002411> Variable(<urn:swrl:var#q>) Variable(<urn:swrl:var#u>)) ObjectPropertyAtom(<http://purl.obolibrary.org/obo/RO_0002411> Variable(<urn:swrl:var#p>) Variable(<urn:swrl:var#q>)))Head(ObjectPropertyAtom(<http://purl.obolibrary.org/obo/RO_0012011> Variable(<urn:swrl:var#p>) Variable(<urn:swrl:var#u>))))
 )

@@ -7,8 +7,8 @@ Prefix(rdfs:=<http://www.w3.org/2000/01/rdf-schema#>)
 
 
 Ontology(<http://purl.obolibrary.org/obo/digitrubber/imports/obi_import.owl>
-<http://purl.obolibrary.org/obo/digitrubber/releases/2025-04-02/imports/obi_import.owl>
-Annotation(owl:versionInfo "2025-04-02")
+<http://purl.obolibrary.org/obo/digitrubber/releases/2025-05-07/imports/obi_import.owl>
+Annotation(owl:versionInfo "2025-05-07")
 
 Declaration(Class(<http://purl.obolibrary.org/obo/BFO_0000002>))
 Declaration(Class(<http://purl.obolibrary.org/obo/BFO_0000003>))
@@ -161,7 +161,6 @@ Declaration(Class(<http://purl.obolibrary.org/obo/PATO_0000051>))
 Declaration(Class(<http://purl.obolibrary.org/obo/PATO_0000070>))
 Declaration(Class(<http://purl.obolibrary.org/obo/PATO_0000117>))
 Declaration(Class(<http://purl.obolibrary.org/obo/PATO_0000122>))
-Declaration(Class(<http://purl.obolibrary.org/obo/PATO_0000146>))
 Declaration(Class(<http://purl.obolibrary.org/obo/PATO_0001018>))
 Declaration(Class(<http://purl.obolibrary.org/obo/PATO_0001025>))
 Declaration(Class(<http://purl.obolibrary.org/obo/PATO_0001241>))
@@ -3227,14 +3226,6 @@ AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <http://purl.ob
 AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000412> <http://purl.obolibrary.org/obo/PATO_0000122> <http://purl.obolibrary.org/obo/pato.owl>)
 AnnotationAssertion(rdfs:label <http://purl.obolibrary.org/obo/PATO_0000122> "length")
 SubClassOf(<http://purl.obolibrary.org/obo/PATO_0000122> <http://purl.obolibrary.org/obo/PATO_0001708>)
-
-# Class: <http://purl.obolibrary.org/obo/PATO_0000146> (temperature)
-
-AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000111> <http://purl.obolibrary.org/obo/PATO_0000146> "temperature")
-AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <http://purl.obolibrary.org/obo/PATO_0000146> "A physical quality of the thermal energy of a system.")
-AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000412> <http://purl.obolibrary.org/obo/PATO_0000146> <http://purl.obolibrary.org/obo/pato.owl>)
-AnnotationAssertion(rdfs:label <http://purl.obolibrary.org/obo/PATO_0000146> "temperature")
-SubClassOf(<http://purl.obolibrary.org/obo/PATO_0000146> <http://purl.obolibrary.org/obo/PATO_0001018>)
 
 # Class: <http://purl.obolibrary.org/obo/PATO_0001018> (physical quality)
 

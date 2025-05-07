@@ -34,7 +34,7 @@
      xmlns:digitrubber="https://www.tib.eu/digitrubber#"
      xmlns:digitrubber3="https://www.tib.eu/digitrubber/">
     <owl:Ontology rdf:about="http://purl.obolibrary.org/obo/digitrubber/digitrubber-simple.owl">
-        <owl:versionIRI rdf:resource="http://purl.obolibrary.org/obo/digitrubber/releases/2025-04-02/digitrubber-simple.owl"/>
+        <owl:versionIRI rdf:resource="http://purl.obolibrary.org/obo/digitrubber/releases/2025-05-07/digitrubber-simple.owl"/>
         <ontology:hasOntologySyntax rdf:resource="http://www.w3.org/ns/formats/RDF_XML"/>
         <obo:IAO_0000700 rdf:resource="http://www.purl.org/OntoMeta/DigitRubber#1"/>
         <dc:creator rdf:resource="https://orcid.org/0000-0000-0000-0000"/>
@@ -57,10 +57,10 @@
         <doap:audience xml:lang="en">DigitRubber ontology has been developed for rubber extrusion</doap:audience>
         <doap:bug-database rdf:resource="https://github.com/TIBHannover/DIGIT-RUBBER/issues"/>
         <doap:repository rdf:resource="https://github.com/TIBHannover/DIGIT-RUBBER"/>
-        <oboInOwl:date>02:04:2025 15:04</oboInOwl:date>
+        <oboInOwl:date>07:05:2025 14:18</oboInOwl:date>
         <v3:documentation rdf:resource="https://tibhannover.github.io/DIGIT-RUBBER/"/>
-        <owl:versionInfo>2025-04-02</owl:versionInfo>
-        <owl:versionInfo>v2024-Feb-22</owl:versionInfo>
+        <owl:versionInfo>2025-05-07</owl:versionInfo>
+        <owl:versionInfo>v2025-May-7</owl:versionInfo>
         <adms:versionNotes xml:lang="en">A description of changes between last version and current version of the ontology.</adms:versionNotes>
         <dcat:distribution rdf:resource="http://www.purl.org/OntoMeta/DigitRubber.owl"/>
         <vann2:example rdf:resource="http://www.purl.org/OntoMeta/DigitRubber/docs/descriptionOfUse"/>
@@ -91,6 +91,9 @@
     <!-- http://purl.obolibrary.org/obo/BFO_0000179 -->
 
     <owl:AnnotationProperty rdf:about="http://purl.obolibrary.org/obo/BFO_0000179">
+        <obo:IAO_0000115 xml:lang="en">Relates an entity in the ontology to the name of the variable that is used to represent it in the code that generates the BFO OWL file from the lispy specification.</obo:IAO_0000115>
+        <obo:IAO_0000232 xml:lang="en">Really of interest to developers only</obo:IAO_0000232>
+        <rdfs:isDefinedBy rdf:resource="https://w3id.org/pmd/co/"/>
         <rdfs:label xml:lang="en">BFO OWL specification label</rdfs:label>
     </owl:AnnotationProperty>
     
@@ -99,6 +102,10 @@
     <!-- http://purl.obolibrary.org/obo/BFO_0000180 -->
 
     <owl:AnnotationProperty rdf:about="http://purl.obolibrary.org/obo/BFO_0000180">
+        <obo:IAO_0000115 xml:lang="en">Relates an entity in the ontology to the term that is used to represent it in the the CLIF specification of BFO2</obo:IAO_0000115>
+        <obo:IAO_0000119>Person:Alan Ruttenberg</obo:IAO_0000119>
+        <obo:IAO_0000232 xml:lang="en">Really of interest to developers only</obo:IAO_0000232>
+        <rdfs:isDefinedBy rdf:resource="https://w3id.org/pmd/co/"/>
         <rdfs:label xml:lang="en">BFO CLIF specification label</rdfs:label>
     </owl:AnnotationProperty>
     
@@ -107,6 +114,7 @@
     <!-- http://purl.obolibrary.org/obo/IAO_0000111 -->
 
     <owl:AnnotationProperty rdf:about="http://purl.obolibrary.org/obo/IAO_0000111">
+        <rdfs:isDefinedBy rdf:resource="https://w3id.org/pmd/co/"/>
         <rdfs:label xml:lang="en">editor preferred term</rdfs:label>
     </owl:AnnotationProperty>
     
@@ -121,6 +129,7 @@
         <obo:IAO_0000117 xml:lang="en">PERSON:Daniel Schober</obo:IAO_0000117>
         <obo:IAO_0000119 xml:lang="en">GROUP:OBI:&lt;http://purl.obolibrary.org/obo/obi&gt;</obo:IAO_0000119>
         <rdfs:isDefinedBy rdf:resource="http://purl.obolibrary.org/obo/iao.owl"/>
+        <rdfs:isDefinedBy rdf:resource="https://w3id.org/pmd/co/"/>
         <rdfs:label xml:lang="en">example of usage</rdfs:label>
     </owl:AnnotationProperty>
     
@@ -130,9 +139,13 @@
 
     <owl:AnnotationProperty rdf:about="http://purl.obolibrary.org/obo/IAO_0000114">
         <obo:IAO_0000111 xml:lang="en">has curation status</obo:IAO_0000111>
+        <obo:IAO_0000114 rdf:resource="http://purl.obolibrary.org/obo/IAO_0000428"/>
         <obo:IAO_0000117 xml:lang="en">PERSON:Alan Ruttenberg</obo:IAO_0000117>
         <obo:IAO_0000117 xml:lang="en">PERSON:Bill Bug</obo:IAO_0000117>
         <obo:IAO_0000117 xml:lang="en">PERSON:Melanie Courtot</obo:IAO_0000117>
+        <rdfs:isDefinedBy rdf:resource="https://w3id.org/pmd/co/"/>
+        <rdfs:label xml:lang="en">Has Curation Status</rdfs:label>
+        <rdfs:label xml:lang="de">Hat Kurationsstatus</rdfs:label>
         <rdfs:label xml:lang="en">has curation status</rdfs:label>
     </owl:AnnotationProperty>
     
@@ -170,6 +183,7 @@ We also have the outstanding issue of how to aim different definitions to differ
         <obo:IAO_0000117 xml:lang="en">PERSON:Daniel Schober</obo:IAO_0000117>
         <obo:IAO_0000119 xml:lang="en">GROUP:OBI:&lt;http://purl.obolibrary.org/obo/obi&gt;</obo:IAO_0000119>
         <rdfs:isDefinedBy rdf:resource="http://purl.obolibrary.org/obo/iao.owl"/>
+        <rdfs:isDefinedBy rdf:resource="https://w3id.org/pmd/co/"/>
         <rdfs:label xml:lang="en">definition</rdfs:label>
         <rdfs:label>definition</rdfs:label>
         <rdfs:label>textual definition</rdfs:label>
@@ -180,6 +194,7 @@ We also have the outstanding issue of how to aim different definitions to differ
     <!-- http://purl.obolibrary.org/obo/IAO_0000116 -->
 
     <owl:AnnotationProperty rdf:about="http://purl.obolibrary.org/obo/IAO_0000116">
+        <rdfs:isDefinedBy rdf:resource="https://w3id.org/pmd/co/"/>
         <rdfs:label xml:lang="en">editor note</rdfs:label>
     </owl:AnnotationProperty>
     
@@ -188,6 +203,10 @@ We also have the outstanding issue of how to aim different definitions to differ
     <!-- http://purl.obolibrary.org/obo/IAO_0000117 -->
 
     <owl:AnnotationProperty rdf:about="http://purl.obolibrary.org/obo/IAO_0000117">
+        <obo:IAO_0000114 rdf:resource="http://purl.obolibrary.org/obo/IAO_0000428"/>
+        <rdfs:isDefinedBy rdf:resource="https://w3id.org/pmd/co/"/>
+        <rdfs:label xml:lang="de">Begriffseditor</rdfs:label>
+        <rdfs:label xml:lang="en">Term Editor</rdfs:label>
         <rdfs:label xml:lang="en">term editor</rdfs:label>
     </owl:AnnotationProperty>
     
@@ -202,6 +221,7 @@ We also have the outstanding issue of how to aim different definitions to differ
         <obo:IAO_0000117 xml:lang="en">PERSON:Daniel Schober</obo:IAO_0000117>
         <obo:IAO_0000119 xml:lang="en">GROUP:OBI:&lt;http://purl.obolibrary.org/obo/obi&gt;</obo:IAO_0000119>
         <rdfs:isDefinedBy rdf:resource="http://purl.obolibrary.org/obo/iao.owl"/>
+        <rdfs:isDefinedBy rdf:resource="https://w3id.org/pmd/co/"/>
         <rdfs:label xml:lang="en">alternative term</rdfs:label>
     </owl:AnnotationProperty>
     
@@ -212,11 +232,15 @@ We also have the outstanding issue of how to aim different definitions to differ
     <owl:AnnotationProperty rdf:about="http://purl.obolibrary.org/obo/IAO_0000119">
         <obo:IAO_0000111 xml:lang="en">definition source</obo:IAO_0000111>
         <obo:IAO_0000114 rdf:resource="http://purl.obolibrary.org/obo/IAO_0000122"/>
+        <obo:IAO_0000114 rdf:resource="http://purl.obolibrary.org/obo/IAO_0000428"/>
         <obo:IAO_0000115 xml:lang="en">Formal citation, e.g. identifier in external database to indicate / attribute source(s) for the definition. Free text indicate / attribute source(s) for the definition. EXAMPLE: Author Name, URI, MeSH Term C04, PUBMED ID, Wiki uri on 31.01.2007</obo:IAO_0000115>
         <obo:IAO_0000117 xml:lang="en">PERSON:Daniel Schober</obo:IAO_0000117>
         <obo:IAO_0000119 xml:lang="en">Discussion on obo-discuss mailing-list, see http://bit.ly/hgm99w</obo:IAO_0000119>
         <obo:IAO_0000119 xml:lang="en">GROUP:OBI:&lt;http://purl.obolibrary.org/obo/obi&gt;</obo:IAO_0000119>
         <rdfs:isDefinedBy rdf:resource="http://purl.obolibrary.org/obo/iao.owl"/>
+        <rdfs:isDefinedBy rdf:resource="https://w3id.org/pmd/co/"/>
+        <rdfs:label xml:lang="en">Definition Source</rdfs:label>
+        <rdfs:label xml:lang="de">Definitionsquelle</rdfs:label>
         <rdfs:label xml:lang="en">definition source</rdfs:label>
     </owl:AnnotationProperty>
     
@@ -225,6 +249,7 @@ We also have the outstanding issue of how to aim different definitions to differ
     <!-- http://purl.obolibrary.org/obo/IAO_0000232 -->
 
     <owl:AnnotationProperty rdf:about="http://purl.obolibrary.org/obo/IAO_0000232">
+        <rdfs:isDefinedBy rdf:resource="https://w3id.org/pmd/co/"/>
         <rdfs:label xml:lang="en">curator note</rdfs:label>
     </owl:AnnotationProperty>
     
@@ -233,6 +258,7 @@ We also have the outstanding issue of how to aim different definitions to differ
     <!-- http://purl.obolibrary.org/obo/IAO_0000233 -->
 
     <owl:AnnotationProperty rdf:about="http://purl.obolibrary.org/obo/IAO_0000233">
+        <rdfs:isDefinedBy rdf:resource="https://w3id.org/pmd/co/"/>
         <rdfs:label xml:lang="en">term tracker item</rdfs:label>
     </owl:AnnotationProperty>
     
@@ -241,6 +267,7 @@ We also have the outstanding issue of how to aim different definitions to differ
     <!-- http://purl.obolibrary.org/obo/IAO_0000234 -->
 
     <owl:AnnotationProperty rdf:about="http://purl.obolibrary.org/obo/IAO_0000234">
+        <rdfs:isDefinedBy rdf:resource="https://w3id.org/pmd/co/"/>
         <rdfs:label xml:lang="en">ontology term requester</rdfs:label>
     </owl:AnnotationProperty>
     
@@ -251,11 +278,15 @@ We also have the outstanding issue of how to aim different definitions to differ
     <owl:AnnotationProperty rdf:about="http://purl.obolibrary.org/obo/IAO_0000412">
         <obo:IAO_0000111 xml:lang="en">imported from</obo:IAO_0000111>
         <obo:IAO_0000114 rdf:resource="http://purl.obolibrary.org/obo/IAO_0000125"/>
+        <obo:IAO_0000114 rdf:resource="http://purl.obolibrary.org/obo/IAO_0000428"/>
         <obo:IAO_0000115 xml:lang="en">For external terms/classes, the ontology from which the term was imported</obo:IAO_0000115>
         <obo:IAO_0000117 xml:lang="en">PERSON:Alan Ruttenberg</obo:IAO_0000117>
         <obo:IAO_0000117 xml:lang="en">PERSON:Melanie Courtot</obo:IAO_0000117>
         <obo:IAO_0000119 xml:lang="en">GROUP:OBI:&lt;http://purl.obolibrary.org/obo/obi&gt;</obo:IAO_0000119>
         <rdfs:isDefinedBy rdf:resource="http://purl.obolibrary.org/obo/iao.owl"/>
+        <rdfs:isDefinedBy rdf:resource="https://w3id.org/pmd/co/"/>
+        <rdfs:label xml:lang="en">Imported From</rdfs:label>
+        <rdfs:label xml:lang="de">Importiert Aus</rdfs:label>
         <rdfs:label xml:lang="en">imported from</rdfs:label>
     </owl:AnnotationProperty>
     
@@ -272,6 +303,7 @@ We also have the outstanding issue of how to aim different definitions to differ
     <!-- http://purl.obolibrary.org/obo/IAO_0000589 -->
 
     <owl:AnnotationProperty rdf:about="http://purl.obolibrary.org/obo/IAO_0000589">
+        <rdfs:isDefinedBy rdf:resource="https://w3id.org/pmd/co/"/>
         <rdfs:label xml:lang="en">OBO foundry unique label</rdfs:label>
     </owl:AnnotationProperty>
     
@@ -280,6 +312,7 @@ We also have the outstanding issue of how to aim different definitions to differ
     <!-- http://purl.obolibrary.org/obo/IAO_0000600 -->
 
     <owl:AnnotationProperty rdf:about="http://purl.obolibrary.org/obo/IAO_0000600">
+        <rdfs:isDefinedBy rdf:resource="https://w3id.org/pmd/co/"/>
         <rdfs:label xml:lang="en">elucidation</rdfs:label>
     </owl:AnnotationProperty>
     
@@ -288,6 +321,7 @@ We also have the outstanding issue of how to aim different definitions to differ
     <!-- http://purl.obolibrary.org/obo/IAO_0000601 -->
 
     <owl:AnnotationProperty rdf:about="http://purl.obolibrary.org/obo/IAO_0000601">
+        <rdfs:isDefinedBy rdf:resource="https://w3id.org/pmd/co/"/>
         <rdfs:label xml:lang="en">has associated axiom(nl)</rdfs:label>
     </owl:AnnotationProperty>
     
@@ -296,6 +330,7 @@ We also have the outstanding issue of how to aim different definitions to differ
     <!-- http://purl.obolibrary.org/obo/IAO_0000602 -->
 
     <owl:AnnotationProperty rdf:about="http://purl.obolibrary.org/obo/IAO_0000602">
+        <rdfs:isDefinedBy rdf:resource="https://w3id.org/pmd/co/"/>
         <rdfs:label xml:lang="en">has associated axiom(fol)</rdfs:label>
     </owl:AnnotationProperty>
     
@@ -312,6 +347,7 @@ We also have the outstanding issue of how to aim different definitions to differ
     <!-- http://purl.obolibrary.org/obo/IAO_0010000 -->
 
     <owl:AnnotationProperty rdf:about="http://purl.obolibrary.org/obo/IAO_0010000">
+        <rdfs:isDefinedBy rdf:resource="https://w3id.org/pmd/co/"/>
         <rdfs:label xml:lang="en">has axiom label</rdfs:label>
     </owl:AnnotationProperty>
     
@@ -350,6 +386,7 @@ https://sourceforge.net/tracker/?func=detail&amp;aid=3603413&amp;group_id=177891
 
     <owl:AnnotationProperty rdf:about="http://purl.obolibrary.org/obo/RO_0001900">
         <obo:IAO_0000115>An assertion that holds between an OWL Object Property and a temporal interpretation that elucidates how OWL Class Axioms that use this property are to be interpreted in a temporal context.</obo:IAO_0000115>
+        <rdfs:isDefinedBy rdf:resource="https://w3id.org/pmd/co/"/>
         <rdfs:label>temporal interpretation</rdfs:label>
         <rdfs:seeAlso rdf:resource="http://purl.obolibrary.org/obo/ro/docs/temporal-semantics/"/>
     </owl:AnnotationProperty>
@@ -495,6 +532,7 @@ Where we have an annotation assertion
 
     <owl:AnnotationProperty rdf:about="http://purl.obolibrary.org/obo/chebi#3_STAR">
         <rdfs:comment xml:lang="en">Manually annotated by ChEBI Team</rdfs:comment>
+        <rdfs:isDefinedBy rdf:resource="https://w3id.org/pmd/co/"/>
         <rdfs:subPropertyOf rdf:resource="http://www.geneontology.org/formats/oboInOwl#SubsetProperty"/>
     </owl:AnnotationProperty>
     
@@ -561,6 +599,7 @@ Where we have an annotation assertion
         <rdfs:comment xml:lang="en-us">An entity responsible for making contributions to the
          content of the resource.</rdfs:comment>
         <rdfs:isDefinedBy rdf:resource="http://purl.org/dc/elements/1.1/"/>
+        <rdfs:isDefinedBy rdf:resource="https://w3id.org/pmd/co/"/>
         <rdfs:label xml:lang="en">Contributor</rdfs:label>
     </owl:AnnotationProperty>
     
@@ -569,6 +608,7 @@ Where we have an annotation assertion
     <!-- http://purl.org/dc/elements/1.1/creator -->
 
     <owl:AnnotationProperty rdf:about="http://purl.org/dc/elements/1.1/creator">
+        <rdfs:isDefinedBy rdf:resource="https://w3id.org/pmd/co/"/>
         <rdfs:label xml:lang="en">creator</rdfs:label>
     </owl:AnnotationProperty>
     
@@ -577,6 +617,7 @@ Where we have an annotation assertion
     <!-- http://purl.org/dc/elements/1.1/date -->
 
     <owl:AnnotationProperty rdf:about="http://purl.org/dc/elements/1.1/date">
+        <rdfs:isDefinedBy rdf:resource="https://w3id.org/pmd/co/"/>
         <rdfs:label xml:lang="en">date</rdfs:label>
     </owl:AnnotationProperty>
     
@@ -585,8 +626,15 @@ Where we have an annotation assertion
     <!-- http://purl.org/dc/elements/1.1/description -->
 
     <owl:AnnotationProperty rdf:about="http://purl.org/dc/elements/1.1/description">
+        <rdfs:isDefinedBy rdf:resource="https://w3id.org/pmd/co/"/>
         <rdfs:label xml:lang="en">description</rdfs:label>
     </owl:AnnotationProperty>
+    
+
+
+    <!-- http://purl.org/dc/elements/1.1/identifier -->
+
+    <owl:AnnotationProperty rdf:about="http://purl.org/dc/elements/1.1/identifier"/>
     
 
 
@@ -609,13 +657,17 @@ Where we have an annotation assertion
 
     <!-- http://purl.org/dc/elements/1.1/source -->
 
-    <owl:AnnotationProperty rdf:about="http://purl.org/dc/elements/1.1/source"/>
+    <owl:AnnotationProperty rdf:about="http://purl.org/dc/elements/1.1/source">
+        <rdfs:isDefinedBy rdf:resource="https://w3id.org/pmd/co/"/>
+    </owl:AnnotationProperty>
     
 
 
     <!-- http://purl.org/dc/terms/bibliographicCitation -->
 
-    <owl:AnnotationProperty rdf:about="http://purl.org/dc/terms/bibliographicCitation"/>
+    <owl:AnnotationProperty rdf:about="http://purl.org/dc/terms/bibliographicCitation">
+        <rdfs:isDefinedBy rdf:resource="https://w3id.org/pmd/co/"/>
+    </owl:AnnotationProperty>
     
 
 
@@ -627,19 +679,24 @@ Where we have an annotation assertion
 
     <!-- http://purl.org/dc/terms/created -->
 
-    <owl:AnnotationProperty rdf:about="http://purl.org/dc/terms/created"/>
+    <owl:AnnotationProperty rdf:about="http://purl.org/dc/terms/created">
+        <rdfs:isDefinedBy rdf:resource="https://w3id.org/pmd/co/"/>
+    </owl:AnnotationProperty>
     
 
 
     <!-- http://purl.org/dc/terms/creator -->
 
-    <owl:AnnotationProperty rdf:about="http://purl.org/dc/terms/creator"/>
+    <owl:AnnotationProperty rdf:about="http://purl.org/dc/terms/creator">
+        <rdfs:isDefinedBy rdf:resource="https://w3id.org/pmd/co/"/>
+    </owl:AnnotationProperty>
     
 
 
     <!-- http://purl.org/dc/terms/description -->
 
     <owl:AnnotationProperty rdf:about="http://purl.org/dc/terms/description">
+        <rdfs:isDefinedBy rdf:resource="https://w3id.org/pmd/co/"/>
         <rdfs:label>description</rdfs:label>
     </owl:AnnotationProperty>
     
@@ -668,6 +725,7 @@ Where we have an annotation assertion
     <owl:AnnotationProperty rdf:about="http://purl.org/dc/terms/license">
         <obo:IAO_0000117>Mark Miller</obo:IAO_0000117>
         <dc:date rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-05-11T13:47:29Z</dc:date>
+        <rdfs:isDefinedBy rdf:resource="https://w3id.org/pmd/co/"/>
         <rdfs:label>license</rdfs:label>
     </owl:AnnotationProperty>
     
@@ -687,7 +745,9 @@ Where we have an annotation assertion
 
     <!-- http://purl.org/dc/terms/source -->
 
-    <owl:AnnotationProperty rdf:about="http://purl.org/dc/terms/source"/>
+    <owl:AnnotationProperty rdf:about="http://purl.org/dc/terms/source">
+        <rdfs:isDefinedBy rdf:resource="https://w3id.org/pmd/co/"/>
+    </owl:AnnotationProperty>
     
 
 
@@ -700,6 +760,7 @@ Where we have an annotation assertion
     <!-- http://purl.org/dc/terms/title -->
 
     <owl:AnnotationProperty rdf:about="http://purl.org/dc/terms/title">
+        <rdfs:isDefinedBy rdf:resource="https://w3id.org/pmd/co/"/>
         <rdfs:label>title</rdfs:label>
     </owl:AnnotationProperty>
     
@@ -767,7 +828,9 @@ Where we have an annotation assertion
 
     <!-- http://www.geneontology.org/formats/oboInOwl#SubsetProperty -->
 
-    <owl:AnnotationProperty rdf:about="http://www.geneontology.org/formats/oboInOwl#SubsetProperty"/>
+    <owl:AnnotationProperty rdf:about="http://www.geneontology.org/formats/oboInOwl#SubsetProperty">
+        <rdfs:isDefinedBy rdf:resource="https://w3id.org/pmd/co/"/>
+    </owl:AnnotationProperty>
     
 
 
@@ -792,6 +855,7 @@ Where we have an annotation assertion
     <!-- http://www.geneontology.org/formats/oboInOwl#date -->
 
     <owl:AnnotationProperty rdf:about="http://www.geneontology.org/formats/oboInOwl#date">
+        <rdfs:isDefinedBy rdf:resource="https://w3id.org/pmd/co/"/>
         <rdfs:label xml:lang="en">date</rdfs:label>
     </owl:AnnotationProperty>
     
@@ -800,6 +864,7 @@ Where we have an annotation assertion
     <!-- http://www.geneontology.org/formats/oboInOwl#hasAlternativeId -->
 
     <owl:AnnotationProperty rdf:about="http://www.geneontology.org/formats/oboInOwl#hasAlternativeId">
+        <rdfs:isDefinedBy rdf:resource="https://w3id.org/pmd/co/"/>
         <rdfs:label>has_alternative_id</rdfs:label>
     </owl:AnnotationProperty>
     
@@ -824,6 +889,7 @@ Where we have an annotation assertion
     <!-- http://www.geneontology.org/formats/oboInOwl#hasOBONamespace -->
 
     <owl:AnnotationProperty rdf:about="http://www.geneontology.org/formats/oboInOwl#hasOBONamespace">
+        <rdfs:isDefinedBy rdf:resource="https://w3id.org/pmd/co/"/>
         <rdfs:label>has_obo_namespace</rdfs:label>
     </owl:AnnotationProperty>
     
@@ -847,7 +913,9 @@ Where we have an annotation assertion
 
     <owl:AnnotationProperty rdf:about="http://www.geneontology.org/formats/oboInOwl#id">
         <obo:IAO_0000115>An identifier for an individual entity</obo:IAO_0000115>
+        <rdfs:isDefinedBy rdf:resource="https://w3id.org/pmd/co/"/>
         <rdfs:label xml:lang="en">id</rdfs:label>
+        <rdfs:label>id</rdfs:label>
     </owl:AnnotationProperty>
     
 
@@ -855,6 +923,7 @@ Where we have an annotation assertion
     <!-- http://www.geneontology.org/formats/oboInOwl#inSubset -->
 
     <owl:AnnotationProperty rdf:about="http://www.geneontology.org/formats/oboInOwl#inSubset">
+        <rdfs:isDefinedBy rdf:resource="https://w3id.org/pmd/co/"/>
         <rdfs:label>in_subset</rdfs:label>
     </owl:AnnotationProperty>
     
@@ -890,11 +959,35 @@ Where we have an annotation assertion
     
 
 
+    <!-- http://www.w3.org/2004/02/skos/core#altLabel -->
+
+    <owl:AnnotationProperty rdf:about="http://www.w3.org/2004/02/skos/core#altLabel"/>
+    
+
+
     <!-- http://www.w3.org/2004/02/skos/core#closeMatch -->
 
     <owl:AnnotationProperty rdf:about="http://www.w3.org/2004/02/skos/core#closeMatch">
         <rdfs:label xml:lang="en">has close match</rdfs:label>
     </owl:AnnotationProperty>
+    
+
+
+    <!-- http://www.w3.org/2004/02/skos/core#definition -->
+
+    <owl:AnnotationProperty rdf:about="http://www.w3.org/2004/02/skos/core#definition"/>
+    
+
+
+    <!-- http://www.w3.org/2004/02/skos/core#example -->
+
+    <owl:AnnotationProperty rdf:about="http://www.w3.org/2004/02/skos/core#example"/>
+    
+
+
+    <!-- http://www.w3.org/2004/02/skos/core#scopeNote -->
+
+    <owl:AnnotationProperty rdf:about="http://www.w3.org/2004/02/skos/core#scopeNote"/>
     
 
 
@@ -984,16 +1077,21 @@ Where we have an annotation assertion
         <obo:IAO_0000116 xml:lang="en">Parthood requires the part and the whole to have compatible classes: only an occurrent can be part of an occurrent; only a process can be part of a process; only a continuant can be part of a continuant; only an independent continuant can be part of an independent continuant; only an immaterial entity can be part of an immaterial entity; only a specifically dependent continuant can be part of a specifically dependent continuant; only a generically dependent continuant can be part of a generically dependent continuant. (This list is not exhaustive.)
 
 A continuant cannot be part of an occurrent: use &apos;participates in&apos;. An occurrent cannot be part of a continuant: use &apos;has participant&apos;. A material entity cannot be part of an immaterial entity: use &apos;has location&apos;. A specifically dependent continuant cannot be part of an independent continuant: use &apos;inheres in&apos;. An independent continuant cannot be part of a specifically dependent continuant: use &apos;bearer of&apos;.</obo:IAO_0000116>
+        <obo:IAO_0000116 xml:lang="en">Parthood requires the part and the whole to have compatible classes: only an occurrent can be part of an occurrent; only a process can be part of a process; only a continuant can be part of a continuant; only an independent continuant can be part of an independent continuant; only an immaterial entity can be part of an immaterial entity; only a specifically dependent continuant can be part of a specifically dependent continuant; only a generically dependent continuant can be part of a generically dependent continuant. (This list is not exhaustive.)
+
+A continuant cannot be part of an occurrent: use &apos;participates in&apos;. An occurrent cannot be part of a continuant: use &apos;has participant&apos;. A material entity cannot be part of an immaterial entity: use &apos;has location&apos;. A specifically dependent continuant cannot be part of an independent continuant: use &apos;inheres in&apos;. An independent continuant cannot be part of a specifically dependent continuant: use &apos;bearer of&apos;.</obo:IAO_0000116>
         <obo:IAO_0000118 xml:lang="en">part_of</obo:IAO_0000118>
         <obo:RO_0001900 rdf:resource="http://purl.obolibrary.org/obo/RO_0001901"/>
         <oboInOwl:inSubset rdf:resource="http://purl.obolibrary.org/obo/valid_for_go_annotation_extension"/>
         <oboInOwl:inSubset rdf:resource="http://purl.obolibrary.org/obo/valid_for_go_gp2term"/>
         <oboInOwl:inSubset rdf:resource="http://purl.obolibrary.org/obo/valid_for_go_ontology"/>
         <oboInOwl:inSubset rdf:resource="http://purl.obolibrary.org/obo/valid_for_gocam"/>
+        <rdfs:isDefinedBy rdf:resource="https://w3id.org/pmd/co/"/>
         <rdfs:label xml:lang="en">part of</rdfs:label>
         <rdfs:seeAlso rdf:resource="http://ontologydesignpatterns.org/wiki/Community:Parts_and_Collections"/>
         <rdfs:seeAlso rdf:resource="http://ontologydesignpatterns.org/wiki/Submissions:PartOf"/>
         <rdfs:seeAlso>http://www.obofoundry.org/ro/#OBO_REL:part_of</rdfs:seeAlso>
+        <owl:deprecated>use the BFO2020 relations &apos;has continuant part&apos; or &apos;has occurent part&apos;</owl:deprecated>
     </owl:ObjectProperty>
     
 
@@ -1014,12 +1112,18 @@ A continuant cannot be part of an occurrent: use &apos;participates in&apos;. An
         <obo:IAO_0000116 xml:lang="en">Parthood requires the part and the whole to have compatible classes: only an occurrent have an occurrent as part; only a process can have a process as part; only a continuant can have a continuant as part; only an independent continuant can have an independent continuant as part; only a specifically dependent continuant can have a specifically dependent continuant as part; only a generically dependent continuant can have a generically dependent continuant as part. (This list is not exhaustive.)
 
 A continuant cannot have an occurrent as part: use &apos;participates in&apos;. An occurrent cannot have a continuant as part: use &apos;has participant&apos;. An immaterial entity cannot have a material entity as part: use &apos;location of&apos;. An independent continuant cannot have a specifically dependent continuant as part: use &apos;bearer of&apos;. A specifically dependent continuant cannot have an independent continuant as part: use &apos;inheres in&apos;.</obo:IAO_0000116>
+        <obo:IAO_0000116 xml:lang="en">Parthood requires the part and the whole to have compatible classes: only an occurrent have an occurrent as part; only a process can have a process as part; only a continuant can have a continuant as part; only an independent continuant can have an independent continuant as part; only a specifically dependent continuant can have a specifically dependent continuant as part; only a generically dependent continuant can have a generically dependent continuant as part. (This list is not exhaustive.)
+
+A continuant cannot have an occurrent as part: use &apos;participates in&apos;. An occurrent cannot have a continuant as part: use &apos;has participant&apos;. An immaterial entity cannot have a material entity as part: use &apos;location of&apos;. An independent continuant cannot have a specifically dependent continuant as part: use &apos;bearer of&apos;. A specifically dependent continuant cannot have an independent continuant as part: use &apos;inheres in&apos;.</obo:IAO_0000116>
         <obo:IAO_0000118 xml:lang="en">has_part</obo:IAO_0000118>
+        <obo:IAO_0000412 rdf:resource="http://purl.obolibrary.org/obo/iao.owl"/>
         <obo:RO_0001900 rdf:resource="http://purl.obolibrary.org/obo/RO_0001901"/>
         <oboInOwl:inSubset rdf:resource="http://purl.obolibrary.org/obo/valid_for_go_annotation_extension"/>
         <oboInOwl:inSubset rdf:resource="http://purl.obolibrary.org/obo/valid_for_go_ontology"/>
         <oboInOwl:inSubset rdf:resource="http://purl.obolibrary.org/obo/valid_for_gocam"/>
+        <rdfs:isDefinedBy rdf:resource="https://w3id.org/pmd/co/"/>
         <rdfs:label xml:lang="en">has part</rdfs:label>
+        <owl:deprecated>use the BFO2020 relations &apos;has continuant part&apos; or &apos;has occurent part&apos;</owl:deprecated>
     </owl:ObjectProperty>
     
 
@@ -1035,9 +1139,15 @@ A continuant cannot have an occurrent as part: use &apos;participates in&apos;. 
         <obo:IAO_0000118 xml:lang="en">is realized by</obo:IAO_0000118>
         <obo:IAO_0000118 xml:lang="en">realized_in</obo:IAO_0000118>
         <obo:IAO_0000600 xml:lang="en">[copied from inverse property &apos;realizes&apos;] to say that b realizes c at t is to assert that there is some material entity d &amp; b is a process which has participant d at t &amp; c is a disposition or role of which d is bearer_of at t&amp; the type instantiated by b is correlated with the type instantiated by c. (axiom label in BFO2 Reference: [059-003])</obo:IAO_0000600>
+        <dc:identifier>206-BFO</dc:identifier>
         <rdfs:comment>Paraphrase of elucidation: a relation between a realizable entity and a process, where there is some material entity that is bearer of the realizable entity and participates in the process, and the realizable entity comes to be realized in the course of the process</rdfs:comment>
         <rdfs:isDefinedBy rdf:resource="http://purl.obolibrary.org/obo/bfo.owl"/>
+        <rdfs:isDefinedBy rdf:resource="https://w3id.org/pmd/co/"/>
+        <rdfs:label xml:lang="en">has realization</rdfs:label>
         <rdfs:label xml:lang="en">realized in</rdfs:label>
+        <skos:altLabel xml:lang="en">realized in</skos:altLabel>
+        <skos:definition xml:lang="en">b has realization c =Def c realizes b</skos:definition>
+        <skos:example xml:lang="en">As for realizes</skos:example>
     </owl:ObjectProperty>
     
 
@@ -1050,9 +1160,14 @@ A continuant cannot have an occurrent as part: use &apos;participates in&apos;. 
         <obo:IAO_0000112 xml:lang="en">this investigation realizes this investigator role</obo:IAO_0000112>
         <obo:IAO_0000112 xml:lang="en">this shattering realizes this fragility</obo:IAO_0000112>
         <obo:IAO_0000600 xml:lang="en">to say that b realizes c at t is to assert that there is some material entity d &amp; b is a process which has participant d at t &amp; c is a disposition or role of which d is bearer_of at t&amp; the type instantiated by b is correlated with the type instantiated by c. (axiom label in BFO2 Reference: [059-003])</obo:IAO_0000600>
+        <dc:identifier>059-BFO</dc:identifier>
         <rdfs:comment>Paraphrase of elucidation: a relation between a process and a realizable entity, where there is some material entity that is bearer of the realizable entity and participates in the process, and the realizable entity comes to be realized in the course of the process</rdfs:comment>
         <rdfs:isDefinedBy rdf:resource="http://purl.obolibrary.org/obo/iao.owl"/>
+        <rdfs:isDefinedBy rdf:resource="https://w3id.org/pmd/co/"/>
         <rdfs:label xml:lang="en">realizes</rdfs:label>
+        <skos:definition xml:lang="en">(Elucidation) realizes is a relation between a process b and realizable entity c such that c inheres in some d &amp; for all t, if b has participant d then c exists &amp; the type instantiated by b is correlated with the type instantiated by c</skos:definition>
+        <skos:example xml:lang="en">A balding process realizes a disposition to go bald; a studying process realizes a student role; a process of pumping blood realizes the pumping function of a heart</skos:example>
+        <skos:scopeNote xml:lang="en">Users that require more sophisticated representations of time are encouraged to import a temporal extension of BFO-Core provided by the BFO development team. See documentation for guidance: &lt;Link&gt;</skos:scopeNote>
     </owl:ObjectProperty>
     
 
@@ -1072,9 +1187,13 @@ A continuant cannot have an occurrent as part: use &apos;participates in&apos;. 
         <obo:IAO_0000116 xml:lang="en">An example is: translation preceded_by transcription; aging preceded_by development (not however death preceded_by aging). Where derives_from links classes of continuants, preceded_by links classes of processes. Clearly, however, these two relations are not independent of each other. Thus if cells of type C1 derive_from cells of type C, then any cell division involving an instance of C1 in a given lineage is preceded_by cellular processes involving an instance of C.    The assertion P preceded_by P1 tells us something about Ps in general: that is, it tells us something about what happened earlier, given what we know about what happened later. Thus it does not provide information pointing in the opposite direction, concerning instances of P1 in general; that is, that each is such as to be succeeded by some instance of P. Note that an assertion to the effect that P preceded_by P1 is rather weak; it tells us little about the relations between the underlying instances in virtue of which the preceded_by relation obtains. Typically we will be interested in stronger relations, for example in the relation immediately_preceded_by, or in relations which combine preceded_by with a condition to the effect that the corresponding instances of P and P1 share participants, or that their participants are connected by relations of derivation, or (as a first step along the road to a treatment of causality) that the one process in some way affects (for example, initiates or regulates) the other.</obo:IAO_0000116>
         <obo:IAO_0000118 xml:lang="en">is preceded by</obo:IAO_0000118>
         <obo:IAO_0000118 xml:lang="en">preceded_by</obo:IAO_0000118>
+        <dc:identifier>213-BFO</dc:identifier>
         <dc:source>http://www.obofoundry.org/ro/#OBO_REL:preceded_by</dc:source>
         <oboInOwl:inSubset rdf:resource="http://purl.obolibrary.org/obo/ro/subsets#ro-eco"/>
+        <rdfs:isDefinedBy rdf:resource="https://w3id.org/pmd/co/"/>
         <rdfs:label xml:lang="en">preceded by</rdfs:label>
+        <skos:definition xml:lang="en">b preceded by c =Def b precedes c</skos:definition>
+        <skos:example xml:lang="en">The temporal region occupied by the second half of the match is preceded by the temporal region occupied by the first half of the match</skos:example>
     </owl:ObjectProperty>
     
 
@@ -1090,8 +1209,14 @@ A continuant cannot have an occurrent as part: use &apos;participates in&apos;. 
         </owl:propertyChainAxiom>
         <obo:IAO_0000111 xml:lang="en">precedes</obo:IAO_0000111>
         <obo:IAO_0000115 xml:lang="en">x precedes y if and only if the time point at which x ends is before or equivalent to the time point at which y starts. Formally: x precedes y iff ω(x) &lt;= α(y), where α is a function that maps a process to a start point, and ω is a function that maps a process to an end point.</obo:IAO_0000115>
+        <dc:identifier>270-BFO</dc:identifier>
         <oboInOwl:inSubset rdf:resource="http://purl.obolibrary.org/obo/ro/subsets#ro-eco"/>
+        <rdfs:isDefinedBy rdf:resource="https://w3id.org/pmd/co/"/>
         <rdfs:label xml:lang="en">precedes</rdfs:label>
+        <skos:definition xml:lang="en">(Elucidation) precedes is a relation between occurrents o, o&apos; such that if t is the temporal extent of o &amp; t&apos; is the temporal extent of o&apos; then either the last instant of o is before the first instant of o&apos; or the last instant of o is the first instant of o&apos; &amp; neither o nor o&apos; are temporal instants</skos:definition>
+        <skos:example xml:lang="en">The temporal region occupied by Mary&apos;s birth precedes the temporal region occupied by Mary&apos;s death.</skos:example>
+        <skos:scopeNote>Each temporal region is its own temporal extent. The temporal extent of a spatiotemporal region is the temporal region it temporally projects onto. The temporal extent of a process or process boundary that occupies temporal region t is t.</skos:scopeNote>
+        <skos:scopeNote>Precedes defines a strict partial order on occurrents.</skos:scopeNote>
     </owl:ObjectProperty>
     
 
@@ -1107,8 +1232,14 @@ A continuant cannot have an occurrent as part: use &apos;participates in&apos;. 
 We will try to build it back up by elaborating the various subproperties that are more precisely defined.
 
 Some currently missing phenomena that should be considered &quot;about&quot; are predications - &quot;The only person who knows the answer is sitting beside me&quot; , Allegory, Satire, and other literary forms that can be topical without explicitly mentioning the topic.</obo:IAO_0000116>
+        <obo:IAO_0000116 xml:lang="en">7/6/2009 Alan Ruttenberg. Following discussion with Jonathan Rees, and introduction of &quot;mentions&quot; relation. Weaken the is_about relationship to be primitive. 
+
+We will try to build it back up by elaborating the various subproperties that are more precisely defined.
+
+Some currently missing phenomena that should be considered &quot;about&quot; are predications - &quot;The only person who knows the answer is sitting beside me&quot; , Allegory, Satire, and other literary forms that can be topical without explicitly mentioning the topic.</obo:IAO_0000116>
         <obo:IAO_0000117 xml:lang="en">person:Alan Ruttenberg</obo:IAO_0000117>
         <obo:IAO_0000119 xml:lang="en">Smith, Ceusters, Ruttenberg, 2000 years of philosophy</obo:IAO_0000119>
+        <rdfs:isDefinedBy rdf:resource="https://w3id.org/pmd/co/"/>
         <rdfs:label xml:lang="en">is about</rdfs:label>
     </owl:ObjectProperty>
     
@@ -1244,6 +1375,7 @@ Some currently missing phenomena that should be considered &quot;about&quot; are
         <obo:IAO_0000118 xml:lang="en">inheres_in</obo:IAO_0000118>
         <obo:RO_0001900 rdf:resource="http://purl.obolibrary.org/obo/RO_0001901"/>
         <rdfs:comment>Note that this relation was previously called &quot;inheres in&quot;, but was changed to be called &quot;characteristic of&quot; because BFO2 uses &quot;inheres in&quot; in a more restricted fashion. This relation differs from BFO2:inheres_in in two respects: (1) it does not impose a range constraint, and thus it allows qualities of processes, as well as of information entities, whereas BFO2 restricts inheres_in to only apply to independent continuants (2) it is declared functional, i.e. something can only be a characteristic of one thing.</rdfs:comment>
+        <rdfs:isDefinedBy rdf:resource="https://w3id.org/pmd/co/"/>
         <rdfs:label xml:lang="en">characteristic of</rdfs:label>
         <rdfs:label xml:lang="en">inheres in</rdfs:label>
     </owl:ObjectProperty>
@@ -1263,6 +1395,7 @@ Some currently missing phenomena that should be considered &quot;about&quot; are
         <obo:IAO_0000118 xml:lang="en">bearer_of</obo:IAO_0000118>
         <obo:IAO_0000118 xml:lang="en">is bearer of</obo:IAO_0000118>
         <obo:RO_0001900 rdf:resource="http://purl.obolibrary.org/obo/RO_0001901"/>
+        <rdfs:isDefinedBy rdf:resource="https://w3id.org/pmd/co/"/>
         <rdfs:label xml:lang="en">bearer of</rdfs:label>
         <rdfs:label xml:lang="en">has characteristic</rdfs:label>
     </owl:ObjectProperty>
@@ -1338,6 +1471,7 @@ Some currently missing phenomena that should be considered &quot;about&quot; are
         <obo:IAO_0000118 xml:lang="en">function_of</obo:IAO_0000118>
         <obo:IAO_0000118 xml:lang="en">is function of</obo:IAO_0000118>
         <rdfs:comment>This relation is modeled after the BFO relation of the same name which was in BFO2, but is used in a more restricted sense - specifically, we model this relation as functional (inherited from characteristic-of). Note that this relation is now removed from BFO2020.</rdfs:comment>
+        <rdfs:isDefinedBy rdf:resource="https://w3id.org/pmd/co/"/>
         <rdfs:label xml:lang="en">function of</rdfs:label>
     </owl:ObjectProperty>
     
@@ -1354,6 +1488,7 @@ Some currently missing phenomena that should be considered &quot;about&quot; are
         <obo:IAO_0000118 xml:lang="en">is quality of</obo:IAO_0000118>
         <obo:IAO_0000118 xml:lang="en">quality_of</obo:IAO_0000118>
         <rdfs:comment>This relation is modeled after the BFO relation of the same name which was in BFO2, but is used in a more restricted sense - specifically, we model this relation as functional (inherited from characteristic-of). Note that this relation is now removed from BFO2020.</rdfs:comment>
+        <rdfs:isDefinedBy rdf:resource="https://w3id.org/pmd/co/"/>
         <rdfs:label xml:lang="en">quality of</rdfs:label>
     </owl:ObjectProperty>
     
@@ -1370,6 +1505,7 @@ Some currently missing phenomena that should be considered &quot;about&quot; are
         <obo:IAO_0000118 xml:lang="en">is role of</obo:IAO_0000118>
         <obo:IAO_0000118 xml:lang="en">role_of</obo:IAO_0000118>
         <rdfs:comment>This relation is modeled after the BFO relation of the same name which was in BFO2, but is used in a more restricted sense - specifically, we model this relation as functional (inherited from characteristic-of). Note that this relation is now removed from BFO2020.</rdfs:comment>
+        <rdfs:isDefinedBy rdf:resource="https://w3id.org/pmd/co/"/>
         <rdfs:label xml:lang="en">role of</rdfs:label>
     </owl:ObjectProperty>
     
@@ -1383,6 +1519,7 @@ Some currently missing phenomena that should be considered &quot;about&quot; are
         <obo:IAO_0000115 xml:lang="en">a relation between an independent continuant (the bearer) and a function, in which the function specifically depends on the bearer for its existence</obo:IAO_0000115>
         <obo:IAO_0000116 xml:lang="en">A bearer can have many functions, and its functions can exist for different periods of time, but none of its functions can exist when the bearer does not exist. A function need not be realized at all the times that the function exists.</obo:IAO_0000116>
         <obo:IAO_0000118 xml:lang="en">has_function</obo:IAO_0000118>
+        <rdfs:isDefinedBy rdf:resource="https://w3id.org/pmd/co/"/>
         <rdfs:label xml:lang="en">has function</rdfs:label>
     </owl:ObjectProperty>
     
@@ -1396,6 +1533,7 @@ Some currently missing phenomena that should be considered &quot;about&quot; are
         <obo:IAO_0000115 xml:lang="en">a relation between an independent continuant (the bearer) and a quality, in which the quality specifically depends on the bearer for its existence</obo:IAO_0000115>
         <obo:IAO_0000116 xml:lang="en">A bearer can have many qualities, and its qualities can exist for different periods of time, but none of its qualities can exist when the bearer does not exist.</obo:IAO_0000116>
         <obo:IAO_0000118 xml:lang="en">has_quality</obo:IAO_0000118>
+        <rdfs:isDefinedBy rdf:resource="https://w3id.org/pmd/co/"/>
         <rdfs:label xml:lang="en">has quality</rdfs:label>
     </owl:ObjectProperty>
     
@@ -1409,6 +1547,7 @@ Some currently missing phenomena that should be considered &quot;about&quot; are
         <obo:IAO_0000115 xml:lang="en">a relation between an independent continuant (the bearer) and a role, in which the role specifically depends on the bearer for its existence</obo:IAO_0000115>
         <obo:IAO_0000116 xml:lang="en">A bearer can have many roles, and its roles can exist for different periods of time, but none of its roles can exist when the bearer does not exist. A role need not be realized at all the times that the role exists.</obo:IAO_0000116>
         <obo:IAO_0000118 xml:lang="en">has_role</obo:IAO_0000118>
+        <rdfs:isDefinedBy rdf:resource="https://w3id.org/pmd/co/"/>
         <rdfs:label xml:lang="en">has role</rdfs:label>
     </owl:ObjectProperty>
     
@@ -1420,6 +1559,7 @@ Some currently missing phenomena that should be considered &quot;about&quot; are
         <rdfs:subPropertyOf rdf:resource="http://purl.obolibrary.org/obo/RO_0000053"/>
         <owl:inverseOf rdf:resource="http://purl.obolibrary.org/obo/RO_0000092"/>
         <obo:IAO_0000115 xml:lang="en">a relation between an independent continuant (the bearer) and a disposition, in which the disposition specifically depends on the bearer for its existence</obo:IAO_0000115>
+        <rdfs:isDefinedBy rdf:resource="https://w3id.org/pmd/co/"/>
         <rdfs:label xml:lang="en">has disposition</rdfs:label>
     </owl:ObjectProperty>
     
@@ -1432,6 +1572,7 @@ Some currently missing phenomena that should be considered &quot;about&quot; are
         <obo:IAO_0000115>inverse of has disposition</obo:IAO_0000115>
         <oboInOwl:inSubset rdf:resource="http://purl.obolibrary.org/obo/RO_0002259"/>
         <rdfs:comment>This relation is modeled after the BFO relation of the same name which was in BFO2, but is used in a more restricted sense - specifically, we model this relation as functional (inherited from characteristic-of). Note that this relation is now removed from BFO2020.</rdfs:comment>
+        <rdfs:isDefinedBy rdf:resource="https://w3id.org/pmd/co/"/>
         <rdfs:label xml:lang="en">disposition of</rdfs:label>
     </owl:ObjectProperty>
     
@@ -2733,13 +2874,13 @@ For example, A and B may be gene products and binding of B by A positively regul
     <rdf:Description rdf:about="urn:swrl#D">
         <rdf:type rdf:resource="http://www.w3.org/2003/11/swrl#Variable"/>
     </rdf:Description>
+    <rdf:Description rdf:about="urn:swrl#mf">
+        <rdf:type rdf:resource="http://www.w3.org/2003/11/swrl#Variable"/>
+    </rdf:Description>
     <rdf:Description rdf:about="urn:swrl#eff">
         <rdf:type rdf:resource="http://www.w3.org/2003/11/swrl#Variable"/>
     </rdf:Description>
     <rdf:Description rdf:about="urn:swrl#in">
-        <rdf:type rdf:resource="http://www.w3.org/2003/11/swrl#Variable"/>
-    </rdf:Description>
-    <rdf:Description rdf:about="urn:swrl#mf">
         <rdf:type rdf:resource="http://www.w3.org/2003/11/swrl#Variable"/>
     </rdf:Description>
     <rdf:Description rdf:about="urn:swrl#mf2">
@@ -2751,22 +2892,22 @@ For example, A and B may be gene products and binding of B by A positively regul
     <rdf:Description rdf:about="urn:swrl:var#q">
         <rdf:type rdf:resource="http://www.w3.org/2003/11/swrl#Variable"/>
     </rdf:Description>
+    <rdf:Description rdf:about="urn:swrl#x">
+        <rdf:type rdf:resource="http://www.w3.org/2003/11/swrl#Variable"/>
+    </rdf:Description>
     <rdf:Description rdf:about="urn:swrl#y">
         <rdf:type rdf:resource="http://www.w3.org/2003/11/swrl#Variable"/>
     </rdf:Description>
     <rdf:Description rdf:about="urn:swrl#z">
         <rdf:type rdf:resource="http://www.w3.org/2003/11/swrl#Variable"/>
     </rdf:Description>
-    <rdf:Description rdf:about="urn:swrl#x">
+    <rdf:Description rdf:about="urn:swrl:var#x">
         <rdf:type rdf:resource="http://www.w3.org/2003/11/swrl#Variable"/>
     </rdf:Description>
     <rdf:Description rdf:about="urn:swrl:var#y">
         <rdf:type rdf:resource="http://www.w3.org/2003/11/swrl#Variable"/>
     </rdf:Description>
     <rdf:Description rdf:about="urn:swrl:var#z">
-        <rdf:type rdf:resource="http://www.w3.org/2003/11/swrl#Variable"/>
-    </rdf:Description>
-    <rdf:Description rdf:about="urn:swrl:var#x">
         <rdf:type rdf:resource="http://www.w3.org/2003/11/swrl#Variable"/>
     </rdf:Description>
     <rdf:Description rdf:about="urn:swrl:var#u">
@@ -2956,9 +3097,9 @@ For example, A and B may be gene products and binding of B by A positively regul
                 <rdf:first>
                     <rdf:Description>
                         <rdf:type rdf:resource="http://www.w3.org/2003/11/swrl#IndividualPropertyAtom"/>
-                        <swrl:propertyPredicate rdf:resource="http://purl.obolibrary.org/obo/RO_0002233"/>
-                        <swrl:argument1 rdf:resource="urn:swrl#eff"/>
-                        <swrl:argument2 rdf:resource="urn:swrl#in"/>
+                        <swrl:propertyPredicate rdf:resource="http://purl.obolibrary.org/obo/RO_0002025"/>
+                        <swrl:argument1 rdf:resource="urn:swrl#mf"/>
+                        <swrl:argument2 rdf:resource="urn:swrl#eff"/>
                     </rdf:Description>
                 </rdf:first>
                 <rdf:rest>
@@ -2967,9 +3108,9 @@ For example, A and B may be gene products and binding of B by A positively regul
                         <rdf:first>
                             <rdf:Description>
                                 <rdf:type rdf:resource="http://www.w3.org/2003/11/swrl#IndividualPropertyAtom"/>
-                                <swrl:propertyPredicate rdf:resource="http://purl.obolibrary.org/obo/RO_0002025"/>
-                                <swrl:argument1 rdf:resource="urn:swrl#mf"/>
-                                <swrl:argument2 rdf:resource="urn:swrl#eff"/>
+                                <swrl:propertyPredicate rdf:resource="http://purl.obolibrary.org/obo/RO_0002233"/>
+                                <swrl:argument1 rdf:resource="urn:swrl#eff"/>
+                                <swrl:argument2 rdf:resource="urn:swrl#in"/>
                             </rdf:Description>
                         </rdf:first>
                         <rdf:rest rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#nil"/>
@@ -3001,9 +3142,9 @@ For example, A and B may be gene products and binding of B by A positively regul
                 <rdf:first>
                     <rdf:Description>
                         <rdf:type rdf:resource="http://www.w3.org/2003/11/swrl#IndividualPropertyAtom"/>
-                        <swrl:propertyPredicate rdf:resource="http://purl.obolibrary.org/obo/RO_0002233"/>
+                        <swrl:propertyPredicate rdf:resource="http://purl.obolibrary.org/obo/RO_0002025"/>
                         <swrl:argument1 rdf:resource="urn:swrl#mf"/>
-                        <swrl:argument2 rdf:resource="urn:swrl#in"/>
+                        <swrl:argument2 rdf:resource="urn:swrl#eff"/>
                     </rdf:Description>
                 </rdf:first>
                 <rdf:rest>
@@ -3012,9 +3153,9 @@ For example, A and B may be gene products and binding of B by A positively regul
                         <rdf:first>
                             <rdf:Description>
                                 <rdf:type rdf:resource="http://www.w3.org/2003/11/swrl#IndividualPropertyAtom"/>
-                                <swrl:propertyPredicate rdf:resource="http://purl.obolibrary.org/obo/RO_0002025"/>
+                                <swrl:propertyPredicate rdf:resource="http://purl.obolibrary.org/obo/RO_0002233"/>
                                 <swrl:argument1 rdf:resource="urn:swrl#mf"/>
-                                <swrl:argument2 rdf:resource="urn:swrl#eff"/>
+                                <swrl:argument2 rdf:resource="urn:swrl#in"/>
                             </rdf:Description>
                         </rdf:first>
                         <rdf:rest rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#nil"/>
@@ -3046,9 +3187,9 @@ For example, A and B may be gene products and binding of B by A positively regul
                 <rdf:first>
                     <rdf:Description>
                         <rdf:type rdf:resource="http://www.w3.org/2003/11/swrl#IndividualPropertyAtom"/>
-                        <swrl:propertyPredicate rdf:resource="http://purl.obolibrary.org/obo/RO_0002025"/>
+                        <swrl:propertyPredicate rdf:resource="http://purl.obolibrary.org/obo/RO_0002578"/>
                         <swrl:argument1 rdf:resource="urn:swrl#mf"/>
-                        <swrl:argument2 rdf:resource="urn:swrl#eff"/>
+                        <swrl:argument2 rdf:resource="urn:swrl#mf2"/>
                     </rdf:Description>
                 </rdf:first>
                 <rdf:rest>
@@ -3057,9 +3198,9 @@ For example, A and B may be gene products and binding of B by A positively regul
                         <rdf:first>
                             <rdf:Description>
                                 <rdf:type rdf:resource="http://www.w3.org/2003/11/swrl#IndividualPropertyAtom"/>
-                                <swrl:propertyPredicate rdf:resource="http://purl.obolibrary.org/obo/RO_0002578"/>
+                                <swrl:propertyPredicate rdf:resource="http://purl.obolibrary.org/obo/RO_0002025"/>
                                 <swrl:argument1 rdf:resource="urn:swrl#mf"/>
-                                <swrl:argument2 rdf:resource="urn:swrl#mf2"/>
+                                <swrl:argument2 rdf:resource="urn:swrl#eff"/>
                             </rdf:Description>
                         </rdf:first>
                         <rdf:rest rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#nil"/>
@@ -3091,9 +3232,9 @@ For example, A and B may be gene products and binding of B by A positively regul
                 <rdf:first>
                     <rdf:Description>
                         <rdf:type rdf:resource="http://www.w3.org/2003/11/swrl#IndividualPropertyAtom"/>
-                        <swrl:propertyPredicate rdf:resource="http://purl.obolibrary.org/obo/RO_0002629"/>
+                        <swrl:propertyPredicate rdf:resource="http://purl.obolibrary.org/obo/RO_0002025"/>
                         <swrl:argument1 rdf:resource="urn:swrl#mf"/>
-                        <swrl:argument2 rdf:resource="urn:swrl#mf2"/>
+                        <swrl:argument2 rdf:resource="urn:swrl#eff"/>
                     </rdf:Description>
                 </rdf:first>
                 <rdf:rest>
@@ -3102,9 +3243,9 @@ For example, A and B may be gene products and binding of B by A positively regul
                         <rdf:first>
                             <rdf:Description>
                                 <rdf:type rdf:resource="http://www.w3.org/2003/11/swrl#IndividualPropertyAtom"/>
-                                <swrl:propertyPredicate rdf:resource="http://purl.obolibrary.org/obo/RO_0002025"/>
+                                <swrl:propertyPredicate rdf:resource="http://purl.obolibrary.org/obo/RO_0002629"/>
                                 <swrl:argument1 rdf:resource="urn:swrl#mf"/>
-                                <swrl:argument2 rdf:resource="urn:swrl#eff"/>
+                                <swrl:argument2 rdf:resource="urn:swrl#mf2"/>
                             </rdf:Description>
                         </rdf:first>
                         <rdf:rest rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#nil"/>
@@ -3136,9 +3277,9 @@ For example, A and B may be gene products and binding of B by A positively regul
                 <rdf:first>
                     <rdf:Description>
                         <rdf:type rdf:resource="http://www.w3.org/2003/11/swrl#IndividualPropertyAtom"/>
-                        <swrl:propertyPredicate rdf:resource="http://purl.obolibrary.org/obo/RO_0002025"/>
+                        <swrl:propertyPredicate rdf:resource="http://purl.obolibrary.org/obo/RO_0002630"/>
                         <swrl:argument1 rdf:resource="urn:swrl#mf"/>
-                        <swrl:argument2 rdf:resource="urn:swrl#eff"/>
+                        <swrl:argument2 rdf:resource="urn:swrl#mf2"/>
                     </rdf:Description>
                 </rdf:first>
                 <rdf:rest>
@@ -3147,9 +3288,9 @@ For example, A and B may be gene products and binding of B by A positively regul
                         <rdf:first>
                             <rdf:Description>
                                 <rdf:type rdf:resource="http://www.w3.org/2003/11/swrl#IndividualPropertyAtom"/>
-                                <swrl:propertyPredicate rdf:resource="http://purl.obolibrary.org/obo/RO_0002630"/>
+                                <swrl:propertyPredicate rdf:resource="http://purl.obolibrary.org/obo/RO_0002025"/>
                                 <swrl:argument1 rdf:resource="urn:swrl#mf"/>
-                                <swrl:argument2 rdf:resource="urn:swrl#mf2"/>
+                                <swrl:argument2 rdf:resource="urn:swrl#eff"/>
                             </rdf:Description>
                         </rdf:first>
                         <rdf:rest rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#nil"/>
@@ -3180,7 +3321,7 @@ For example, A and B may be gene products and binding of B by A positively regul
                 <rdf:first>
                     <rdf:Description>
                         <rdf:type rdf:resource="http://www.w3.org/2003/11/swrl#IndividualPropertyAtom"/>
-                        <swrl:propertyPredicate rdf:resource="http://purl.obolibrary.org/obo/RO_0012011"/>
+                        <swrl:propertyPredicate rdf:resource="http://purl.obolibrary.org/obo/RO_0002211"/>
                         <swrl:argument1 rdf:resource="urn:swrl:var#p"/>
                         <swrl:argument2 rdf:resource="urn:swrl:var#q"/>
                     </rdf:Description>
@@ -3191,7 +3332,7 @@ For example, A and B may be gene products and binding of B by A positively regul
                         <rdf:first>
                             <rdf:Description>
                                 <rdf:type rdf:resource="http://www.w3.org/2003/11/swrl#IndividualPropertyAtom"/>
-                                <swrl:propertyPredicate rdf:resource="http://purl.obolibrary.org/obo/RO_0002211"/>
+                                <swrl:propertyPredicate rdf:resource="http://purl.obolibrary.org/obo/RO_0012011"/>
                                 <swrl:argument1 rdf:resource="urn:swrl:var#p"/>
                                 <swrl:argument2 rdf:resource="urn:swrl:var#q"/>
                             </rdf:Description>
@@ -3224,51 +3365,7 @@ For example, A and B may be gene products and binding of B by A positively regul
                 <rdf:first>
                     <rdf:Description>
                         <rdf:type rdf:resource="http://www.w3.org/2003/11/swrl#IndividualPropertyAtom"/>
-                        <swrl:propertyPredicate rdf:resource="http://purl.obolibrary.org/obo/RO_0002213"/>
-                        <swrl:argument1 rdf:resource="urn:swrl#y"/>
-                        <swrl:argument2 rdf:resource="urn:swrl#z"/>
-                    </rdf:Description>
-                </rdf:first>
-                <rdf:rest>
-                    <rdf:Description>
-                        <rdf:type rdf:resource="http://www.w3.org/2003/11/swrl#AtomList"/>
-                        <rdf:first>
-                            <rdf:Description>
-                                <rdf:type rdf:resource="http://www.w3.org/2003/11/swrl#IndividualPropertyAtom"/>
-                                <swrl:propertyPredicate rdf:resource="http://purl.obolibrary.org/obo/RO_0002212"/>
-                                <swrl:argument1 rdf:resource="urn:swrl#x"/>
-                                <swrl:argument2 rdf:resource="urn:swrl#y"/>
-                            </rdf:Description>
-                        </rdf:first>
-                        <rdf:rest rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#nil"/>
-                    </rdf:Description>
-                </rdf:rest>
-            </rdf:Description>
-        </swrl:body>
-        <swrl:head>
-            <rdf:Description>
-                <rdf:type rdf:resource="http://www.w3.org/2003/11/swrl#AtomList"/>
-                <rdf:first>
-                    <rdf:Description>
-                        <rdf:type rdf:resource="http://www.w3.org/2003/11/swrl#IndividualPropertyAtom"/>
                         <swrl:propertyPredicate rdf:resource="http://purl.obolibrary.org/obo/RO_0002212"/>
-                        <swrl:argument1 rdf:resource="urn:swrl#x"/>
-                        <swrl:argument2 rdf:resource="urn:swrl#z"/>
-                    </rdf:Description>
-                </rdf:first>
-                <rdf:rest rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#nil"/>
-            </rdf:Description>
-        </swrl:head>
-    </rdf:Description>
-    <rdf:Description>
-        <rdf:type rdf:resource="http://www.w3.org/2003/11/swrl#Imp"/>
-        <swrl:body>
-            <rdf:Description>
-                <rdf:type rdf:resource="http://www.w3.org/2003/11/swrl#AtomList"/>
-                <rdf:first>
-                    <rdf:Description>
-                        <rdf:type rdf:resource="http://www.w3.org/2003/11/swrl#IndividualPropertyAtom"/>
-                        <swrl:propertyPredicate rdf:resource="http://purl.obolibrary.org/obo/RO_0002213"/>
                         <swrl:argument1 rdf:resource="urn:swrl#x"/>
                         <swrl:argument2 rdf:resource="urn:swrl#y"/>
                     </rdf:Description>
@@ -3279,7 +3376,7 @@ For example, A and B may be gene products and binding of B by A positively regul
                         <rdf:first>
                             <rdf:Description>
                                 <rdf:type rdf:resource="http://www.w3.org/2003/11/swrl#IndividualPropertyAtom"/>
-                                <swrl:propertyPredicate rdf:resource="http://purl.obolibrary.org/obo/RO_0002212"/>
+                                <swrl:propertyPredicate rdf:resource="http://purl.obolibrary.org/obo/RO_0002213"/>
                                 <swrl:argument1 rdf:resource="urn:swrl#y"/>
                                 <swrl:argument2 rdf:resource="urn:swrl#z"/>
                             </rdf:Description>
@@ -3312,9 +3409,9 @@ For example, A and B may be gene products and binding of B by A positively regul
                 <rdf:first>
                     <rdf:Description>
                         <rdf:type rdf:resource="http://www.w3.org/2003/11/swrl#IndividualPropertyAtom"/>
-                        <swrl:propertyPredicate rdf:resource="http://purl.obolibrary.org/obo/RO_0019002"/>
-                        <swrl:argument1 rdf:resource="urn:swrl:var#y"/>
-                        <swrl:argument2 rdf:resource="urn:swrl:var#z"/>
+                        <swrl:propertyPredicate rdf:resource="http://purl.obolibrary.org/obo/RO_0002212"/>
+                        <swrl:argument1 rdf:resource="urn:swrl#y"/>
+                        <swrl:argument2 rdf:resource="urn:swrl#z"/>
                     </rdf:Description>
                 </rdf:first>
                 <rdf:rest>
@@ -3323,9 +3420,53 @@ For example, A and B may be gene products and binding of B by A positively regul
                         <rdf:first>
                             <rdf:Description>
                                 <rdf:type rdf:resource="http://www.w3.org/2003/11/swrl#IndividualPropertyAtom"/>
-                                <swrl:propertyPredicate rdf:resource="http://purl.obolibrary.org/obo/RO_0002212"/>
-                                <swrl:argument1 rdf:resource="urn:swrl:var#x"/>
-                                <swrl:argument2 rdf:resource="urn:swrl:var#y"/>
+                                <swrl:propertyPredicate rdf:resource="http://purl.obolibrary.org/obo/RO_0002213"/>
+                                <swrl:argument1 rdf:resource="urn:swrl#x"/>
+                                <swrl:argument2 rdf:resource="urn:swrl#y"/>
+                            </rdf:Description>
+                        </rdf:first>
+                        <rdf:rest rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#nil"/>
+                    </rdf:Description>
+                </rdf:rest>
+            </rdf:Description>
+        </swrl:body>
+        <swrl:head>
+            <rdf:Description>
+                <rdf:type rdf:resource="http://www.w3.org/2003/11/swrl#AtomList"/>
+                <rdf:first>
+                    <rdf:Description>
+                        <rdf:type rdf:resource="http://www.w3.org/2003/11/swrl#IndividualPropertyAtom"/>
+                        <swrl:propertyPredicate rdf:resource="http://purl.obolibrary.org/obo/RO_0002212"/>
+                        <swrl:argument1 rdf:resource="urn:swrl#x"/>
+                        <swrl:argument2 rdf:resource="urn:swrl#z"/>
+                    </rdf:Description>
+                </rdf:first>
+                <rdf:rest rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#nil"/>
+            </rdf:Description>
+        </swrl:head>
+    </rdf:Description>
+    <rdf:Description>
+        <rdf:type rdf:resource="http://www.w3.org/2003/11/swrl#Imp"/>
+        <swrl:body>
+            <rdf:Description>
+                <rdf:type rdf:resource="http://www.w3.org/2003/11/swrl#AtomList"/>
+                <rdf:first>
+                    <rdf:Description>
+                        <rdf:type rdf:resource="http://www.w3.org/2003/11/swrl#IndividualPropertyAtom"/>
+                        <swrl:propertyPredicate rdf:resource="http://purl.obolibrary.org/obo/RO_0002212"/>
+                        <swrl:argument1 rdf:resource="urn:swrl:var#x"/>
+                        <swrl:argument2 rdf:resource="urn:swrl:var#y"/>
+                    </rdf:Description>
+                </rdf:first>
+                <rdf:rest>
+                    <rdf:Description>
+                        <rdf:type rdf:resource="http://www.w3.org/2003/11/swrl#AtomList"/>
+                        <rdf:first>
+                            <rdf:Description>
+                                <rdf:type rdf:resource="http://www.w3.org/2003/11/swrl#IndividualPropertyAtom"/>
+                                <swrl:propertyPredicate rdf:resource="http://purl.obolibrary.org/obo/RO_0019002"/>
+                                <swrl:argument1 rdf:resource="urn:swrl:var#y"/>
+                                <swrl:argument2 rdf:resource="urn:swrl:var#z"/>
                             </rdf:Description>
                         </rdf:first>
                         <rdf:rest rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#nil"/>
@@ -3356,9 +3497,9 @@ For example, A and B may be gene products and binding of B by A positively regul
                 <rdf:first>
                     <rdf:Description>
                         <rdf:type rdf:resource="http://www.w3.org/2003/11/swrl#IndividualPropertyAtom"/>
-                        <swrl:propertyPredicate rdf:resource="http://purl.obolibrary.org/obo/RO_0002264"/>
-                        <swrl:argument1 rdf:resource="urn:swrl:var#x"/>
-                        <swrl:argument2 rdf:resource="urn:swrl:var#y"/>
+                        <swrl:propertyPredicate rdf:resource="http://purl.obolibrary.org/obo/RO_0002411"/>
+                        <swrl:argument1 rdf:resource="urn:swrl:var#y"/>
+                        <swrl:argument2 rdf:resource="urn:swrl:var#z"/>
                     </rdf:Description>
                 </rdf:first>
                 <rdf:rest>
@@ -3367,9 +3508,9 @@ For example, A and B may be gene products and binding of B by A positively regul
                         <rdf:first>
                             <rdf:Description>
                                 <rdf:type rdf:resource="http://www.w3.org/2003/11/swrl#IndividualPropertyAtom"/>
-                                <swrl:propertyPredicate rdf:resource="http://purl.obolibrary.org/obo/RO_0002411"/>
-                                <swrl:argument1 rdf:resource="urn:swrl:var#y"/>
-                                <swrl:argument2 rdf:resource="urn:swrl:var#z"/>
+                                <swrl:propertyPredicate rdf:resource="http://purl.obolibrary.org/obo/RO_0002264"/>
+                                <swrl:argument1 rdf:resource="urn:swrl:var#x"/>
+                                <swrl:argument2 rdf:resource="urn:swrl:var#y"/>
                             </rdf:Description>
                         </rdf:first>
                         <rdf:rest rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#nil"/>
@@ -3401,8 +3542,8 @@ For example, A and B may be gene products and binding of B by A positively regul
                     <rdf:Description>
                         <rdf:type rdf:resource="http://www.w3.org/2003/11/swrl#IndividualPropertyAtom"/>
                         <swrl:propertyPredicate rdf:resource="http://purl.obolibrary.org/obo/RO_0002411"/>
-                        <swrl:argument1 rdf:resource="urn:swrl:var#q"/>
-                        <swrl:argument2 rdf:resource="urn:swrl:var#u"/>
+                        <swrl:argument1 rdf:resource="urn:swrl:var#p"/>
+                        <swrl:argument2 rdf:resource="urn:swrl:var#q"/>
                     </rdf:Description>
                 </rdf:first>
                 <rdf:rest>
@@ -3412,8 +3553,8 @@ For example, A and B may be gene products and binding of B by A positively regul
                             <rdf:Description>
                                 <rdf:type rdf:resource="http://www.w3.org/2003/11/swrl#IndividualPropertyAtom"/>
                                 <swrl:propertyPredicate rdf:resource="http://purl.obolibrary.org/obo/RO_0002411"/>
-                                <swrl:argument1 rdf:resource="urn:swrl:var#p"/>
-                                <swrl:argument2 rdf:resource="urn:swrl:var#q"/>
+                                <swrl:argument1 rdf:resource="urn:swrl:var#q"/>
+                                <swrl:argument2 rdf:resource="urn:swrl:var#u"/>
                             </rdf:Description>
                         </rdf:first>
                         <rdf:rest rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#nil"/>

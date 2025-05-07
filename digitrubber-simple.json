@@ -70,16 +70,16 @@
         "val" : "https://github.com/TIBHannover/DIGIT-RUBBER"
       }, {
         "pred" : "http://www.geneontology.org/formats/oboInOwl#date",
-        "val" : "02:04:2025 15:04"
+        "val" : "07:05:2025 14:18"
       }, {
         "pred" : "http://www.loc.gov/premis/rdf/v3/documentation",
         "val" : "https://tibhannover.github.io/DIGIT-RUBBER/"
       }, {
         "pred" : "http://www.w3.org/2002/07/owl#versionInfo",
-        "val" : "2025-04-02"
+        "val" : "2025-05-07"
       }, {
         "pred" : "http://www.w3.org/2002/07/owl#versionInfo",
-        "val" : "v2024-Feb-22"
+        "val" : "v2025-May-7"
       }, {
         "pred" : "http://www.w3.org/ns/adms#versionNotes",
         "val" : "A description of changes between last version and current version of the ontology."
@@ -99,7 +99,7 @@
         "pred" : "https://w3id.org/mod#hasFormalityLevel",
         "val" : "The DigitRubber ontology aplies OWL2 EL (cf. https://www.w3.org/TR/2012/REC-owl2-profiles-20121211/#OWL_2_EL)"
       } ],
-      "version" : "http://purl.obolibrary.org/obo/digitrubber/releases/2025-04-02/digitrubber-simple.json"
+      "version" : "http://purl.obolibrary.org/obo/digitrubber/releases/2025-05-07/digitrubber-simple.json"
     },
     "nodes" : [ {
       "id" : "http://purl.obolibrary.org/obo/BFO_0000050",
@@ -142,6 +142,9 @@
           "pred" : "http://purl.obolibrary.org/obo/RO_0001900",
           "val" : "http://purl.obolibrary.org/obo/RO_0001901"
         }, {
+          "pred" : "http://www.w3.org/2000/01/rdf-schema#isDefinedBy",
+          "val" : "https://w3id.org/pmd/co/"
+        }, {
           "pred" : "http://www.w3.org/2000/01/rdf-schema#seeAlso",
           "val" : "http://ontologydesignpatterns.org/wiki/Community:Parts_and_Collections"
         }, {
@@ -150,6 +153,9 @@
         }, {
           "pred" : "http://www.w3.org/2000/01/rdf-schema#seeAlso",
           "val" : "http://www.obofoundry.org/ro/#OBO_REL:part_of"
+        }, {
+          "pred" : "http://www.w3.org/2002/07/owl#deprecated",
+          "val" : "use the BFO2020 relations 'has continuant part' or 'has occurent part'"
         } ]
       }
     }, {
@@ -190,8 +196,17 @@
           "pred" : "http://purl.obolibrary.org/obo/IAO_0000118",
           "val" : "has_part"
         }, {
+          "pred" : "http://purl.obolibrary.org/obo/IAO_0000412",
+          "val" : "http://purl.obolibrary.org/obo/iao.owl"
+        }, {
           "pred" : "http://purl.obolibrary.org/obo/RO_0001900",
           "val" : "http://purl.obolibrary.org/obo/RO_0001901"
+        }, {
+          "pred" : "http://www.w3.org/2000/01/rdf-schema#isDefinedBy",
+          "val" : "https://w3id.org/pmd/co/"
+        }, {
+          "pred" : "http://www.w3.org/2002/07/owl#deprecated",
+          "val" : "use the BFO2020 relations 'has continuant part' or 'has occurent part'"
         } ]
       }
     }, {
@@ -223,8 +238,23 @@
           "pred" : "http://purl.obolibrary.org/obo/IAO_0000600",
           "val" : "[copied from inverse property 'realizes'] to say that b realizes c at t is to assert that there is some material entity d & b is a process which has participant d at t & c is a disposition or role of which d is bearer_of at t& the type instantiated by b is correlated with the type instantiated by c. (axiom label in BFO2 Reference: [059-003])"
         }, {
+          "pred" : "http://purl.org/dc/elements/1.1/identifier",
+          "val" : "206-BFO"
+        }, {
           "pred" : "http://www.w3.org/2000/01/rdf-schema#isDefinedBy",
           "val" : "http://purl.obolibrary.org/obo/bfo.owl"
+        }, {
+          "pred" : "http://www.w3.org/2000/01/rdf-schema#isDefinedBy",
+          "val" : "https://w3id.org/pmd/co/"
+        }, {
+          "pred" : "http://www.w3.org/2004/02/skos/core#altLabel",
+          "val" : "realized in"
+        }, {
+          "pred" : "http://www.w3.org/2004/02/skos/core#definition",
+          "val" : "b has realization c =Def c realizes b"
+        }, {
+          "pred" : "http://www.w3.org/2004/02/skos/core#example",
+          "val" : "As for realizes"
         } ]
       }
     }, {
@@ -250,8 +280,23 @@
           "pred" : "http://purl.obolibrary.org/obo/IAO_0000600",
           "val" : "to say that b realizes c at t is to assert that there is some material entity d & b is a process which has participant d at t & c is a disposition or role of which d is bearer_of at t& the type instantiated by b is correlated with the type instantiated by c. (axiom label in BFO2 Reference: [059-003])"
         }, {
+          "pred" : "http://purl.org/dc/elements/1.1/identifier",
+          "val" : "059-BFO"
+        }, {
           "pred" : "http://www.w3.org/2000/01/rdf-schema#isDefinedBy",
           "val" : "http://purl.obolibrary.org/obo/iao.owl"
+        }, {
+          "pred" : "http://www.w3.org/2000/01/rdf-schema#isDefinedBy",
+          "val" : "https://w3id.org/pmd/co/"
+        }, {
+          "pred" : "http://www.w3.org/2004/02/skos/core#definition",
+          "val" : "(Elucidation) realizes is a relation between a process b and realizable entity c such that c inheres in some d & for all t, if b has participant d then c exists & the type instantiated by b is correlated with the type instantiated by c"
+        }, {
+          "pred" : "http://www.w3.org/2004/02/skos/core#example",
+          "val" : "A balding process realizes a disposition to go bald; a studying process realizes a student role; a process of pumping blood realizes the pumping function of a heart"
+        }, {
+          "pred" : "http://www.w3.org/2004/02/skos/core#scopeNote",
+          "val" : "Users that require more sophisticated representations of time are encouraged to import a temporal extension of BFO-Core provided by the BFO development team. See documentation for guidance: <Link>"
         } ]
       }
     }, {
@@ -277,8 +322,20 @@
           "pred" : "http://purl.obolibrary.org/obo/IAO_0000118",
           "val" : "preceded_by"
         }, {
+          "pred" : "http://purl.org/dc/elements/1.1/identifier",
+          "val" : "213-BFO"
+        }, {
           "pred" : "http://purl.org/dc/elements/1.1/source",
           "val" : "http://www.obofoundry.org/ro/#OBO_REL:preceded_by"
+        }, {
+          "pred" : "http://www.w3.org/2000/01/rdf-schema#isDefinedBy",
+          "val" : "https://w3id.org/pmd/co/"
+        }, {
+          "pred" : "http://www.w3.org/2004/02/skos/core#definition",
+          "val" : "b preceded by c =Def b precedes c"
+        }, {
+          "pred" : "http://www.w3.org/2004/02/skos/core#example",
+          "val" : "The temporal region occupied by the second half of the match is preceded by the temporal region occupied by the first half of the match"
         } ]
       }
     }, {
@@ -294,6 +351,24 @@
         "basicPropertyValues" : [ {
           "pred" : "http://purl.obolibrary.org/obo/IAO_0000111",
           "val" : "precedes"
+        }, {
+          "pred" : "http://purl.org/dc/elements/1.1/identifier",
+          "val" : "270-BFO"
+        }, {
+          "pred" : "http://www.w3.org/2000/01/rdf-schema#isDefinedBy",
+          "val" : "https://w3id.org/pmd/co/"
+        }, {
+          "pred" : "http://www.w3.org/2004/02/skos/core#definition",
+          "val" : "(Elucidation) precedes is a relation between occurrents o, o' such that if t is the temporal extent of o & t' is the temporal extent of o' then either the last instant of o is before the first instant of o' or the last instant of o is the first instant of o' & neither o nor o' are temporal instants"
+        }, {
+          "pred" : "http://www.w3.org/2004/02/skos/core#example",
+          "val" : "The temporal region occupied by Mary's birth precedes the temporal region occupied by Mary's death."
+        }, {
+          "pred" : "http://www.w3.org/2004/02/skos/core#scopeNote",
+          "val" : "Each temporal region is its own temporal extent. The temporal extent of a spatiotemporal region is the temporal region it temporally projects onto. The temporal extent of a process or process boundary that occupies temporal region t is t."
+        }, {
+          "pred" : "http://www.w3.org/2004/02/skos/core#scopeNote",
+          "val" : "Precedes defines a strict partial order on occurrents."
         } ]
       }
     }, {
@@ -320,6 +395,9 @@
         }, {
           "pred" : "http://purl.obolibrary.org/obo/IAO_0000119",
           "val" : "Smith, Ceusters, Ruttenberg, 2000 years of philosophy"
+        }, {
+          "pred" : "http://www.w3.org/2000/01/rdf-schema#isDefinedBy",
+          "val" : "https://w3id.org/pmd/co/"
         } ]
       }
     }, {
@@ -562,6 +640,9 @@
         }, {
           "pred" : "http://purl.obolibrary.org/obo/RO_0001900",
           "val" : "http://purl.obolibrary.org/obo/RO_0001901"
+        }, {
+          "pred" : "http://www.w3.org/2000/01/rdf-schema#isDefinedBy",
+          "val" : "https://w3id.org/pmd/co/"
         } ]
       }
     }, {
@@ -594,6 +675,9 @@
         }, {
           "pred" : "http://purl.obolibrary.org/obo/RO_0001900",
           "val" : "http://purl.obolibrary.org/obo/RO_0001901"
+        }, {
+          "pred" : "http://www.w3.org/2000/01/rdf-schema#isDefinedBy",
+          "val" : "https://w3id.org/pmd/co/"
         } ]
       }
     }, {
@@ -710,6 +794,9 @@
         }, {
           "pred" : "http://purl.obolibrary.org/obo/IAO_0000118",
           "val" : "is function of"
+        }, {
+          "pred" : "http://www.w3.org/2000/01/rdf-schema#isDefinedBy",
+          "val" : "https://w3id.org/pmd/co/"
         } ]
       }
     }, {
@@ -734,6 +821,9 @@
         }, {
           "pred" : "http://purl.obolibrary.org/obo/IAO_0000118",
           "val" : "quality_of"
+        }, {
+          "pred" : "http://www.w3.org/2000/01/rdf-schema#isDefinedBy",
+          "val" : "https://w3id.org/pmd/co/"
         } ]
       }
     }, {
@@ -758,6 +848,9 @@
         }, {
           "pred" : "http://purl.obolibrary.org/obo/IAO_0000118",
           "val" : "role_of"
+        }, {
+          "pred" : "http://www.w3.org/2000/01/rdf-schema#isDefinedBy",
+          "val" : "https://w3id.org/pmd/co/"
         } ]
       }
     }, {
@@ -778,6 +871,9 @@
         }, {
           "pred" : "http://purl.obolibrary.org/obo/IAO_0000118",
           "val" : "has_function"
+        }, {
+          "pred" : "http://www.w3.org/2000/01/rdf-schema#isDefinedBy",
+          "val" : "https://w3id.org/pmd/co/"
         } ]
       }
     }, {
@@ -798,6 +894,9 @@
         }, {
           "pred" : "http://purl.obolibrary.org/obo/IAO_0000118",
           "val" : "has_quality"
+        }, {
+          "pred" : "http://www.w3.org/2000/01/rdf-schema#isDefinedBy",
+          "val" : "https://w3id.org/pmd/co/"
         } ]
       }
     }, {
@@ -818,6 +917,9 @@
         }, {
           "pred" : "http://purl.obolibrary.org/obo/IAO_0000118",
           "val" : "has_role"
+        }, {
+          "pred" : "http://www.w3.org/2000/01/rdf-schema#isDefinedBy",
+          "val" : "https://w3id.org/pmd/co/"
         } ]
       }
     }, {
@@ -828,7 +930,11 @@
       "meta" : {
         "definition" : {
           "val" : "a relation between an independent continuant (the bearer) and a disposition, in which the disposition specifically depends on the bearer for its existence"
-        }
+        },
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.w3.org/2000/01/rdf-schema#isDefinedBy",
+          "val" : "https://w3id.org/pmd/co/"
+        } ]
       }
     }, {
       "id" : "http://purl.obolibrary.org/obo/RO_0000092",
@@ -840,7 +946,11 @@
           "val" : "inverse of has disposition"
         },
         "comments" : [ "This relation is modeled after the BFO relation of the same name which was in BFO2, but is used in a more restricted sense - specifically, we model this relation as functional (inherited from characteristic-of). Note that this relation is now removed from BFO2020." ],
-        "subsets" : [ "http://purl.obolibrary.org/obo/RO_0002259" ]
+        "subsets" : [ "http://purl.obolibrary.org/obo/RO_0002259" ],
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.w3.org/2000/01/rdf-schema#isDefinedBy",
+          "val" : "https://w3id.org/pmd/co/"
+        } ]
       }
     }, {
       "id" : "http://purl.obolibrary.org/obo/RO_0002013",
@@ -2372,17 +2482,50 @@
       "id" : "http://purl.obolibrary.org/obo/BFO_0000179",
       "lbl" : "BFO OWL specification label",
       "type" : "PROPERTY",
-      "propertyType" : "ANNOTATION"
+      "propertyType" : "ANNOTATION",
+      "meta" : {
+        "definition" : {
+          "val" : "Relates an entity in the ontology to the name of the variable that is used to represent it in the code that generates the BFO OWL file from the lispy specification."
+        },
+        "basicPropertyValues" : [ {
+          "pred" : "http://purl.obolibrary.org/obo/IAO_0000232",
+          "val" : "Really of interest to developers only"
+        }, {
+          "pred" : "http://www.w3.org/2000/01/rdf-schema#isDefinedBy",
+          "val" : "https://w3id.org/pmd/co/"
+        } ]
+      }
     }, {
       "id" : "http://purl.obolibrary.org/obo/BFO_0000180",
       "lbl" : "BFO CLIF specification label",
       "type" : "PROPERTY",
-      "propertyType" : "ANNOTATION"
+      "propertyType" : "ANNOTATION",
+      "meta" : {
+        "definition" : {
+          "val" : "Relates an entity in the ontology to the term that is used to represent it in the the CLIF specification of BFO2"
+        },
+        "basicPropertyValues" : [ {
+          "pred" : "http://purl.obolibrary.org/obo/IAO_0000119",
+          "val" : "Person:Alan Ruttenberg"
+        }, {
+          "pred" : "http://purl.obolibrary.org/obo/IAO_0000232",
+          "val" : "Really of interest to developers only"
+        }, {
+          "pred" : "http://www.w3.org/2000/01/rdf-schema#isDefinedBy",
+          "val" : "https://w3id.org/pmd/co/"
+        } ]
+      }
     }, {
       "id" : "http://purl.obolibrary.org/obo/IAO_0000111",
       "lbl" : "editor preferred term",
       "type" : "PROPERTY",
-      "propertyType" : "ANNOTATION"
+      "propertyType" : "ANNOTATION",
+      "meta" : {
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.w3.org/2000/01/rdf-schema#isDefinedBy",
+          "val" : "https://w3id.org/pmd/co/"
+        } ]
+      }
     }, {
       "id" : "http://purl.obolibrary.org/obo/IAO_0000112",
       "lbl" : "example of usage",
@@ -2407,6 +2550,9 @@
         }, {
           "pred" : "http://www.w3.org/2000/01/rdf-schema#isDefinedBy",
           "val" : "http://purl.obolibrary.org/obo/iao.owl"
+        }, {
+          "pred" : "http://www.w3.org/2000/01/rdf-schema#isDefinedBy",
+          "val" : "https://w3id.org/pmd/co/"
         } ]
       }
     }, {
@@ -2419,6 +2565,9 @@
           "pred" : "http://purl.obolibrary.org/obo/IAO_0000111",
           "val" : "has curation status"
         }, {
+          "pred" : "http://purl.obolibrary.org/obo/IAO_0000114",
+          "val" : "http://purl.obolibrary.org/obo/IAO_0000428"
+        }, {
           "pred" : "http://purl.obolibrary.org/obo/IAO_0000117",
           "val" : "PERSON:Alan Ruttenberg"
         }, {
@@ -2427,6 +2576,9 @@
         }, {
           "pred" : "http://purl.obolibrary.org/obo/IAO_0000117",
           "val" : "PERSON:Melanie Courtot"
+        }, {
+          "pred" : "http://www.w3.org/2000/01/rdf-schema#isDefinedBy",
+          "val" : "https://w3id.org/pmd/co/"
         } ]
       }
     }, {
@@ -2462,18 +2614,36 @@
         }, {
           "pred" : "http://www.w3.org/2000/01/rdf-schema#isDefinedBy",
           "val" : "http://purl.obolibrary.org/obo/iao.owl"
+        }, {
+          "pred" : "http://www.w3.org/2000/01/rdf-schema#isDefinedBy",
+          "val" : "https://w3id.org/pmd/co/"
         } ]
       }
     }, {
       "id" : "http://purl.obolibrary.org/obo/IAO_0000116",
       "lbl" : "editor note",
       "type" : "PROPERTY",
-      "propertyType" : "ANNOTATION"
+      "propertyType" : "ANNOTATION",
+      "meta" : {
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.w3.org/2000/01/rdf-schema#isDefinedBy",
+          "val" : "https://w3id.org/pmd/co/"
+        } ]
+      }
     }, {
       "id" : "http://purl.obolibrary.org/obo/IAO_0000117",
       "lbl" : "term editor",
       "type" : "PROPERTY",
-      "propertyType" : "ANNOTATION"
+      "propertyType" : "ANNOTATION",
+      "meta" : {
+        "basicPropertyValues" : [ {
+          "pred" : "http://purl.obolibrary.org/obo/IAO_0000114",
+          "val" : "http://purl.obolibrary.org/obo/IAO_0000428"
+        }, {
+          "pred" : "http://www.w3.org/2000/01/rdf-schema#isDefinedBy",
+          "val" : "https://w3id.org/pmd/co/"
+        } ]
+      }
     }, {
       "id" : "http://purl.obolibrary.org/obo/IAO_0000118",
       "lbl" : "alternative term",
@@ -2498,6 +2668,9 @@
         }, {
           "pred" : "http://www.w3.org/2000/01/rdf-schema#isDefinedBy",
           "val" : "http://purl.obolibrary.org/obo/iao.owl"
+        }, {
+          "pred" : "http://www.w3.org/2000/01/rdf-schema#isDefinedBy",
+          "val" : "https://w3id.org/pmd/co/"
         } ]
       }
     }, {
@@ -2516,6 +2689,9 @@
           "pred" : "http://purl.obolibrary.org/obo/IAO_0000114",
           "val" : "http://purl.obolibrary.org/obo/IAO_0000122"
         }, {
+          "pred" : "http://purl.obolibrary.org/obo/IAO_0000114",
+          "val" : "http://purl.obolibrary.org/obo/IAO_0000428"
+        }, {
           "pred" : "http://purl.obolibrary.org/obo/IAO_0000117",
           "val" : "PERSON:Daniel Schober"
         }, {
@@ -2527,23 +2703,44 @@
         }, {
           "pred" : "http://www.w3.org/2000/01/rdf-schema#isDefinedBy",
           "val" : "http://purl.obolibrary.org/obo/iao.owl"
+        }, {
+          "pred" : "http://www.w3.org/2000/01/rdf-schema#isDefinedBy",
+          "val" : "https://w3id.org/pmd/co/"
         } ]
       }
     }, {
       "id" : "http://purl.obolibrary.org/obo/IAO_0000232",
       "lbl" : "curator note",
       "type" : "PROPERTY",
-      "propertyType" : "ANNOTATION"
+      "propertyType" : "ANNOTATION",
+      "meta" : {
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.w3.org/2000/01/rdf-schema#isDefinedBy",
+          "val" : "https://w3id.org/pmd/co/"
+        } ]
+      }
     }, {
       "id" : "http://purl.obolibrary.org/obo/IAO_0000233",
       "lbl" : "term tracker item",
       "type" : "PROPERTY",
-      "propertyType" : "ANNOTATION"
+      "propertyType" : "ANNOTATION",
+      "meta" : {
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.w3.org/2000/01/rdf-schema#isDefinedBy",
+          "val" : "https://w3id.org/pmd/co/"
+        } ]
+      }
     }, {
       "id" : "http://purl.obolibrary.org/obo/IAO_0000234",
       "lbl" : "ontology term requester",
       "type" : "PROPERTY",
-      "propertyType" : "ANNOTATION"
+      "propertyType" : "ANNOTATION",
+      "meta" : {
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.w3.org/2000/01/rdf-schema#isDefinedBy",
+          "val" : "https://w3id.org/pmd/co/"
+        } ]
+      }
     }, {
       "id" : "http://purl.obolibrary.org/obo/IAO_0000412",
       "lbl" : "imported from",
@@ -2560,6 +2757,9 @@
           "pred" : "http://purl.obolibrary.org/obo/IAO_0000114",
           "val" : "http://purl.obolibrary.org/obo/IAO_0000125"
         }, {
+          "pred" : "http://purl.obolibrary.org/obo/IAO_0000114",
+          "val" : "http://purl.obolibrary.org/obo/IAO_0000428"
+        }, {
           "pred" : "http://purl.obolibrary.org/obo/IAO_0000117",
           "val" : "PERSON:Alan Ruttenberg"
         }, {
@@ -2571,6 +2771,9 @@
         }, {
           "pred" : "http://www.w3.org/2000/01/rdf-schema#isDefinedBy",
           "val" : "http://purl.obolibrary.org/obo/iao.owl"
+        }, {
+          "pred" : "http://www.w3.org/2000/01/rdf-schema#isDefinedBy",
+          "val" : "https://w3id.org/pmd/co/"
         } ]
       }
     }, {
@@ -2582,22 +2785,46 @@
       "id" : "http://purl.obolibrary.org/obo/IAO_0000589",
       "lbl" : "OBO foundry unique label",
       "type" : "PROPERTY",
-      "propertyType" : "ANNOTATION"
+      "propertyType" : "ANNOTATION",
+      "meta" : {
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.w3.org/2000/01/rdf-schema#isDefinedBy",
+          "val" : "https://w3id.org/pmd/co/"
+        } ]
+      }
     }, {
       "id" : "http://purl.obolibrary.org/obo/IAO_0000600",
       "lbl" : "elucidation",
       "type" : "PROPERTY",
-      "propertyType" : "ANNOTATION"
+      "propertyType" : "ANNOTATION",
+      "meta" : {
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.w3.org/2000/01/rdf-schema#isDefinedBy",
+          "val" : "https://w3id.org/pmd/co/"
+        } ]
+      }
     }, {
       "id" : "http://purl.obolibrary.org/obo/IAO_0000601",
       "lbl" : "has associated axiom(nl)",
       "type" : "PROPERTY",
-      "propertyType" : "ANNOTATION"
+      "propertyType" : "ANNOTATION",
+      "meta" : {
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.w3.org/2000/01/rdf-schema#isDefinedBy",
+          "val" : "https://w3id.org/pmd/co/"
+        } ]
+      }
     }, {
       "id" : "http://purl.obolibrary.org/obo/IAO_0000602",
       "lbl" : "has associated axiom(fol)",
       "type" : "PROPERTY",
-      "propertyType" : "ANNOTATION"
+      "propertyType" : "ANNOTATION",
+      "meta" : {
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.w3.org/2000/01/rdf-schema#isDefinedBy",
+          "val" : "https://w3id.org/pmd/co/"
+        } ]
+      }
     }, {
       "id" : "http://purl.obolibrary.org/obo/IAO_0000700",
       "lbl" : "has ontology root term",
@@ -2607,7 +2834,13 @@
       "id" : "http://purl.obolibrary.org/obo/IAO_0010000",
       "lbl" : "has axiom label",
       "type" : "PROPERTY",
-      "propertyType" : "ANNOTATION"
+      "propertyType" : "ANNOTATION",
+      "meta" : {
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.w3.org/2000/01/rdf-schema#isDefinedBy",
+          "val" : "https://w3id.org/pmd/co/"
+        } ]
+      }
     }, {
       "id" : "http://purl.obolibrary.org/obo/OBI_0001847",
       "lbl" : "ISA alternative term",
@@ -2670,6 +2903,9 @@
           "val" : "An assertion that holds between an OWL Object Property and a temporal interpretation that elucidates how OWL Class Axioms that use this property are to be interpreted in a temporal context."
         },
         "basicPropertyValues" : [ {
+          "pred" : "http://www.w3.org/2000/01/rdf-schema#isDefinedBy",
+          "val" : "https://w3id.org/pmd/co/"
+        }, {
           "pred" : "http://www.w3.org/2000/01/rdf-schema#seeAlso",
           "val" : "http://purl.obolibrary.org/obo/ro/docs/temporal-semantics/"
         } ]
@@ -2792,7 +3028,11 @@
       "type" : "PROPERTY",
       "propertyType" : "ANNOTATION",
       "meta" : {
-        "comments" : [ "Manually annotated by ChEBI Team" ]
+        "comments" : [ "Manually annotated by ChEBI Team" ],
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.w3.org/2000/01/rdf-schema#isDefinedBy",
+          "val" : "https://w3id.org/pmd/co/"
+        } ]
       }
     }, {
       "id" : "http://purl.obolibrary.org/obo/chebi/charge",
@@ -2840,21 +3080,46 @@
         }, {
           "pred" : "http://www.w3.org/2000/01/rdf-schema#isDefinedBy",
           "val" : "http://purl.org/dc/elements/1.1/"
+        }, {
+          "pred" : "http://www.w3.org/2000/01/rdf-schema#isDefinedBy",
+          "val" : "https://w3id.org/pmd/co/"
         } ]
       }
     }, {
       "id" : "http://purl.org/dc/elements/1.1/creator",
       "lbl" : "creator",
       "type" : "PROPERTY",
-      "propertyType" : "ANNOTATION"
+      "propertyType" : "ANNOTATION",
+      "meta" : {
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.w3.org/2000/01/rdf-schema#isDefinedBy",
+          "val" : "https://w3id.org/pmd/co/"
+        } ]
+      }
     }, {
       "id" : "http://purl.org/dc/elements/1.1/date",
       "lbl" : "date",
       "type" : "PROPERTY",
-      "propertyType" : "ANNOTATION"
+      "propertyType" : "ANNOTATION",
+      "meta" : {
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.w3.org/2000/01/rdf-schema#isDefinedBy",
+          "val" : "https://w3id.org/pmd/co/"
+        } ]
+      }
     }, {
       "id" : "http://purl.org/dc/elements/1.1/description",
       "lbl" : "description",
+      "type" : "PROPERTY",
+      "propertyType" : "ANNOTATION",
+      "meta" : {
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.w3.org/2000/01/rdf-schema#isDefinedBy",
+          "val" : "https://w3id.org/pmd/co/"
+        } ]
+      }
+    }, {
+      "id" : "http://purl.org/dc/elements/1.1/identifier",
       "type" : "PROPERTY",
       "propertyType" : "ANNOTATION"
     }, {
@@ -2875,11 +3140,23 @@
     }, {
       "id" : "http://purl.org/dc/elements/1.1/source",
       "type" : "PROPERTY",
-      "propertyType" : "ANNOTATION"
+      "propertyType" : "ANNOTATION",
+      "meta" : {
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.w3.org/2000/01/rdf-schema#isDefinedBy",
+          "val" : "https://w3id.org/pmd/co/"
+        } ]
+      }
     }, {
       "id" : "http://purl.org/dc/terms/bibliographicCitation",
       "type" : "PROPERTY",
-      "propertyType" : "ANNOTATION"
+      "propertyType" : "ANNOTATION",
+      "meta" : {
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.w3.org/2000/01/rdf-schema#isDefinedBy",
+          "val" : "https://w3id.org/pmd/co/"
+        } ]
+      }
     }, {
       "id" : "http://purl.org/dc/terms/contributor",
       "type" : "PROPERTY",
@@ -2887,16 +3164,34 @@
     }, {
       "id" : "http://purl.org/dc/terms/created",
       "type" : "PROPERTY",
-      "propertyType" : "ANNOTATION"
+      "propertyType" : "ANNOTATION",
+      "meta" : {
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.w3.org/2000/01/rdf-schema#isDefinedBy",
+          "val" : "https://w3id.org/pmd/co/"
+        } ]
+      }
     }, {
       "id" : "http://purl.org/dc/terms/creator",
       "type" : "PROPERTY",
-      "propertyType" : "ANNOTATION"
+      "propertyType" : "ANNOTATION",
+      "meta" : {
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.w3.org/2000/01/rdf-schema#isDefinedBy",
+          "val" : "https://w3id.org/pmd/co/"
+        } ]
+      }
     }, {
       "id" : "http://purl.org/dc/terms/description",
       "lbl" : "description",
       "type" : "PROPERTY",
-      "propertyType" : "ANNOTATION"
+      "propertyType" : "ANNOTATION",
+      "meta" : {
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.w3.org/2000/01/rdf-schema#isDefinedBy",
+          "val" : "https://w3id.org/pmd/co/"
+        } ]
+      }
     }, {
       "id" : "http://purl.org/dc/terms/format",
       "type" : "PROPERTY",
@@ -2921,6 +3216,9 @@
         }, {
           "pred" : "http://purl.org/dc/elements/1.1/date",
           "val" : "2018-05-11T13:47:29Z"
+        }, {
+          "pred" : "http://www.w3.org/2000/01/rdf-schema#isDefinedBy",
+          "val" : "https://w3id.org/pmd/co/"
         } ]
       }
     }, {
@@ -2934,7 +3232,13 @@
     }, {
       "id" : "http://purl.org/dc/terms/source",
       "type" : "PROPERTY",
-      "propertyType" : "ANNOTATION"
+      "propertyType" : "ANNOTATION",
+      "meta" : {
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.w3.org/2000/01/rdf-schema#isDefinedBy",
+          "val" : "https://w3id.org/pmd/co/"
+        } ]
+      }
     }, {
       "id" : "http://purl.org/dc/terms/subject",
       "type" : "PROPERTY",
@@ -2943,7 +3247,13 @@
       "id" : "http://purl.org/dc/terms/title",
       "lbl" : "title",
       "type" : "PROPERTY",
-      "propertyType" : "ANNOTATION"
+      "propertyType" : "ANNOTATION",
+      "meta" : {
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.w3.org/2000/01/rdf-schema#isDefinedBy",
+          "val" : "https://w3id.org/pmd/co/"
+        } ]
+      }
     }, {
       "id" : "http://purl.org/ontology/bibo/status",
       "type" : "PROPERTY",
@@ -2987,7 +3297,13 @@
     }, {
       "id" : "http://www.geneontology.org/formats/oboInOwl#SubsetProperty",
       "type" : "PROPERTY",
-      "propertyType" : "ANNOTATION"
+      "propertyType" : "ANNOTATION",
+      "meta" : {
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.w3.org/2000/01/rdf-schema#isDefinedBy",
+          "val" : "https://w3id.org/pmd/co/"
+        } ]
+      }
     }, {
       "id" : "http://www.geneontology.org/formats/oboInOwl#SynonymTypeProperty",
       "type" : "PROPERTY",
@@ -3004,12 +3320,24 @@
       "id" : "http://www.geneontology.org/formats/oboInOwl#date",
       "lbl" : "date",
       "type" : "PROPERTY",
-      "propertyType" : "ANNOTATION"
+      "propertyType" : "ANNOTATION",
+      "meta" : {
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.w3.org/2000/01/rdf-schema#isDefinedBy",
+          "val" : "https://w3id.org/pmd/co/"
+        } ]
+      }
     }, {
       "id" : "http://www.geneontology.org/formats/oboInOwl#hasAlternativeId",
       "lbl" : "has_alternative_id",
       "type" : "PROPERTY",
-      "propertyType" : "ANNOTATION"
+      "propertyType" : "ANNOTATION",
+      "meta" : {
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.w3.org/2000/01/rdf-schema#isDefinedBy",
+          "val" : "https://w3id.org/pmd/co/"
+        } ]
+      }
     }, {
       "id" : "http://www.geneontology.org/formats/oboInOwl#hasDbXref",
       "lbl" : "database cross reference",
@@ -3024,7 +3352,13 @@
       "id" : "http://www.geneontology.org/formats/oboInOwl#hasOBONamespace",
       "lbl" : "has_obo_namespace",
       "type" : "PROPERTY",
-      "propertyType" : "ANNOTATION"
+      "propertyType" : "ANNOTATION",
+      "meta" : {
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.w3.org/2000/01/rdf-schema#isDefinedBy",
+          "val" : "https://w3id.org/pmd/co/"
+        } ]
+      }
     }, {
       "id" : "http://www.geneontology.org/formats/oboInOwl#hasRelatedSynonym",
       "lbl" : "has_related_synonym",
@@ -3042,13 +3376,23 @@
       "meta" : {
         "definition" : {
           "val" : "An identifier for an individual entity"
-        }
+        },
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.w3.org/2000/01/rdf-schema#isDefinedBy",
+          "val" : "https://w3id.org/pmd/co/"
+        } ]
       }
     }, {
       "id" : "http://www.geneontology.org/formats/oboInOwl#inSubset",
       "lbl" : "in_subset",
       "type" : "PROPERTY",
-      "propertyType" : "ANNOTATION"
+      "propertyType" : "ANNOTATION",
+      "meta" : {
+        "basicPropertyValues" : [ {
+          "pred" : "http://www.w3.org/2000/01/rdf-schema#isDefinedBy",
+          "val" : "https://w3id.org/pmd/co/"
+        } ]
+      }
     }, {
       "id" : "http://www.geneontology.org/formats/oboInOwl#source",
       "lbl" : "obo-source",
@@ -3069,8 +3413,24 @@
       "type" : "PROPERTY",
       "propertyType" : "ANNOTATION"
     }, {
+      "id" : "http://www.w3.org/2004/02/skos/core#altLabel",
+      "type" : "PROPERTY",
+      "propertyType" : "ANNOTATION"
+    }, {
       "id" : "http://www.w3.org/2004/02/skos/core#closeMatch",
       "lbl" : "has close match",
+      "type" : "PROPERTY",
+      "propertyType" : "ANNOTATION"
+    }, {
+      "id" : "http://www.w3.org/2004/02/skos/core#definition",
+      "type" : "PROPERTY",
+      "propertyType" : "ANNOTATION"
+    }, {
+      "id" : "http://www.w3.org/2004/02/skos/core#example",
+      "type" : "PROPERTY",
+      "propertyType" : "ANNOTATION"
+    }, {
+      "id" : "http://www.w3.org/2004/02/skos/core#scopeNote",
       "type" : "PROPERTY",
       "propertyType" : "ANNOTATION"
     }, {

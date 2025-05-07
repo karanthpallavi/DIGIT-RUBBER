@@ -1,6 +1,6 @@
 format-version: 1.2
-data-version: digitrubber/releases/2025-04-02/digitrubber-simple.owl
-date: 02:04:2025 15:04
+data-version: digitrubber/releases/2025-04-28/digitrubber-simple.owl
+date: 28:04:2025 10:48
 subsetdef: 1_STAR "Preliminary entries"
 subsetdef: 2_STAR "Annotated by 3rd party"
 subsetdef: 3_STAR "Manually annotated by ChEBI Team"
@@ -45,7 +45,7 @@ property_value: mod:acronym "DRO" xsd:string
 property_value: mod:competencyQuestion https://github.com/TIBHannover/DIGIT-RUBBER/tree/main/preliminary_data/Competeny%20Questions
 property_value: mod:hasFormalityLevel "The DigitRubber ontology aplies OWL2 EL (cf. https://www.w3.org/TR/2012/REC-owl2-profiles-20121211/#OWL_2_EL)" xsd:string
 property_value: ontology:hasOntologySyntax RDF:XML
-property_value: owl:versionInfo "2025-04-02" xsd:string
+property_value: owl:versionInfo "2025-04-28" xsd:string
 property_value: owl:versionInfo "v2024-Feb-22" xsd:string
 property_value: pav:derivedFrom http://www.purl.org/DigitRubberOntology/0.0.1
 property_value: schema:funder https://ror.org/
