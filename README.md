@@ -12,8 +12,7 @@ Document: [DigitRubber Documentation](https://tibhannover.github.io/DIGIT-RUBBER
 
 The latest version of the ontology can always be found at:
 
-* [DigitRubber](./WebProtege/digitrubber-full.owl)
-* Full Version: [DigitRubber-Full](./WebProtege/digitrubber-full.owl)
+* Full Version: [DigitRubber-Full](./digitrubber-full.owl)
 
 (note this will not show up until the request has been approved by obofoundry.org)
 
